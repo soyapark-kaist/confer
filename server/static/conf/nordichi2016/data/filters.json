@@ -35,34 +35,34 @@ s_filters=[
 					"label":"All"
 				},
 				{
-					"data":"Saturday", 
-					"class":"day filter", 
-					"type":"day", 
-					"label":"Sat (Aug 13)"
-				},
-				{
 					"data":"Sunday", 
 					"class":"day filter", 
 					"type":"day", 
-					"label":"Sun (Aug 14)"
+					"label":"Sun (Oct 23)"
 				},
 				{
 					"data":"Monday", 
 					"class":"day filter", 
 					"type":"day", 
-					"label":"Mon (Aug 15)"
+					"label":"Mon (Oct 24)"
 				},
 				{
 					"data":"Tuesday", 
 					"class":"day filter", 
 					"type":"day", 
-					"label":"Tues (Aug 16)"
+					"label":"Tues (Oct 25)"
 				},
 				{
 					"data":"Wednesday", 
 					"class":"day filter", 
 					"type":"day", 
-					"label":"Wed (Aug 17)"
+					"label":"Wed (Oct 26)"
+				},
+				{
+					"data":"Thursday", 
+					"class":"day filter", 
+					"type":"day", 
+					"label":"Thurs (Oct 27)"
 				}
 		]
 	},
