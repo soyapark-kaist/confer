@@ -1,0 +1,271 @@
+schedule=[
+  {
+    "date": "10/23/2016", 
+    "day": "Sunday", 
+    "slots": [
+      {
+        "sessions": [
+          {
+            "room": "Kuggen", 
+            "session": "Sunday_tutorials"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "10_23_201609_00_17_30", 
+        "time": "09:00-17:30"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Kuggen", 
+            "session": "Sunday_workshops"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "10_23_201609_00_17_00", 
+        "time": "09:00-17:00"
+      }
+    ]
+  }, 
+  {
+    "date": "10/24/2016", 
+    "day": "Monday", 
+    "slots": [
+      {
+        "sessions": [
+          {
+            "room": "Kuggen", 
+            "session": "Monday_workshops"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "10_24_201609_00_17_00", 
+        "time": "09:00-17:00"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Kuggen", 
+            "session": "Monday_tutorials"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "10_24_20169_00_13_00", 
+        "time": "9:00-13:00"
+      }
+    ]
+  }, 
+  {
+    "date": "10/25/2016", 
+    "day": "Tuesday", 
+    "slots": [
+      {
+        "sessions": [
+          {
+            "room": "Pascal", 
+            "session": "Inside_the_User_Experience_Chair_Olof_Torgersson"
+          }, 
+          {
+            "room": "Hall", 
+            "session": "Opening_keynote_Chair_Staffan_Bj_rk"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "10_25_20169_00_10_30", 
+        "time": "9:00-10:30"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Pascal", 
+            "session": "Beyond_Clicks_Touch_and_Gesture_Interaction_Chair_Karin_Slegers"
+          }, 
+          {
+            "room": "Hall", 
+            "session": "Culture_Participation_Chair_Janet_Read"
+          }, 
+          {
+            "room": "Tesla", 
+            "session": "Session_1_Reframing_business_Chair_Sara_Ljungblad_Marie_Berggren_Maria_Redstr_m_Alan_Said"
+          }
+        ], 
+        "slot_class": "morning2", 
+        "slot_id": "10_25_201611_00_12_30", 
+        "time": "11:00-12:30"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Candelafoajen", 
+            "session": "Tuesday_demos"
+          }, 
+          {
+            "room": "Candelafoajen", 
+            "session": "Tuesday_posters"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "10_25_201612_30_14_00", 
+        "time": "12:30-14:00"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Pascal", 
+            "session": "Visualization_Chair_Thomas_Olsson"
+          }, 
+          {
+            "room": "Hall", 
+            "session": "Design_in_Theory_and_Practice_Chair_Susanne_B_dker"
+          }, 
+          {
+            "room": "Tesla", 
+            "session": "Session_2_Design_processes_and_innovation_Chair_Sara_Ljungblad_Marie_Berggren_Maria_Redstr_m_Alan_Said"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "10_25_201614_00_15_30", 
+        "time": "14:00-15:30"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Hall", 
+            "session": "Into_Everyday_Life_Chair_Kari_Kuutti"
+          }, 
+          {
+            "room": "Pascal", 
+            "session": "Mobile_Interaction_Chair_Cecilia_Katzeff"
+          }
+        ], 
+        "slot_class": "afternoon2", 
+        "slot_id": "10_25_201616_00_17_30", 
+        "time": "16:00-17:30"
+      }
+    ]
+  }, 
+  {
+    "date": "10/26/2016", 
+    "day": "Wednesday", 
+    "slots": [
+      {
+        "sessions": [
+          {
+            "room": "Hall", 
+            "session": "Wednesday_keynote_Chair_Staffan_Bj_rk"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "10_26_20169_00_10_30", 
+        "time": "9:00-10:30"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Pascal", 
+            "session": "Session_The_Whys_Hows_and_Whats_of_Future_Scenarios_Chair_Sus_Lundgren"
+          }, 
+          {
+            "room": "Hall", 
+            "session": "Beyond_Touch_and_Gestures_Chair_Anne_Marie_Kanstrup"
+          }
+        ], 
+        "slot_class": "morning2", 
+        "slot_id": "10_26_201611_00_12_30", 
+        "time": "11:00-12:30"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Candelafoajen", 
+            "session": "Wednesday_demos"
+          }, 
+          {
+            "room": "Candelafoajen", 
+            "session": "Wednesday_posters"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "10_26_201612_30_14_00", 
+        "time": "12:30-14:00"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Hall", 
+            "session": "Staying_or_Going_Chair_Daniel_Sj_lie"
+          }, 
+          {
+            "room": "Pascal", 
+            "session": "Emotions_and_the_Digital_World_Chair_Morten_Fjeld"
+          }, 
+          {
+            "room": "Tesla", 
+            "session": "Design_Cases_Chair_Sarah_Kettley"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "10_26_201614_00_15_30", 
+        "time": "14:00-15:30"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Pascal", 
+            "session": "Exploring_New_Interface_Domains_Chair_Netta_Livari"
+          }, 
+          {
+            "room": "Hall", 
+            "session": "Into_the_Real_World_Chair_Thomas_Pederson"
+          }
+        ], 
+        "slot_class": "afternoon2", 
+        "slot_id": "10_26_201616_00_17_30", 
+        "time": "16:00-17:30"
+      }
+    ]
+  }, 
+  {
+    "date": "10/27/2016", 
+    "day": "Thursday", 
+    "slots": [
+      {
+        "sessions": [
+          {
+            "room": "Hall", 
+            "session": "Learning_and_Playing_Chair_Marta_Larusdottir"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "10_27_20169_00_10_30", 
+        "time": "9:00-10:30"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Pascal", 
+            "session": "Sustainability_Wellness_Chair_Jan_Gulliksen"
+          }, 
+          {
+            "room": "Hall", 
+            "session": "Making_it_All_Presentable_Chair_Virpi_Roto"
+          }
+        ], 
+        "slot_class": "morning2", 
+        "slot_id": "10_27_201611_00_12_30", 
+        "time": "11:00-12:30"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Hall", 
+            "session": "Closing_keynote_Chair_Staffan_Bj_rk"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "10_27_201614_00_15_30", 
+        "time": "14:00-15:30"
+      }
+    ]
+  }
+]

@@ -1,0 +1,395 @@
+sessions={
+  "Beyond_Clicks_Touch_and_Gesture_Interaction_Chair_Karin_Slegers": {
+    "date": "10/25/2016", 
+    "room": "Pascal", 
+    "s_title": "Beyond Clicks \u2013 Touch and Gesture Interaction - Chair: Karin Slegers", 
+    "submissions": [
+      "papers-185", 
+      "papers-188", 
+      "papers-233", 
+      "papers-259", 
+      "papers-394"
+    ], 
+    "time": "11:00-12:30"
+  }, 
+  "Beyond_Touch_and_Gestures_Chair_Anne_Marie_Kanstrup": {
+    "date": "10/26/2016", 
+    "room": "Hall", 
+    "s_title": "Beyond Touch and Gestures - Chair: Anne Marie Kanstrup", 
+    "submissions": [
+      "papers-141", 
+      "papers-263", 
+      "papers-294", 
+      "papers-343", 
+      "papers-387", 
+      "papers-427"
+    ], 
+    "time": "11:00-12:30"
+  }, 
+  "Closing_keynote_Chair_Staffan_Bj_rk": {
+    "date": "10/27/2016", 
+    "room": "Hall", 
+    "s_title": "Closing keynote - Chair: Staffan Bj\u00f6rk", 
+    "submissions": [
+      "Key-3"
+    ], 
+    "time": "14:00-15:30"
+  }, 
+  "Culture_Participation_Chair_Janet_Read": {
+    "date": "10/25/2016", 
+    "room": "Hall", 
+    "s_title": "Culture & Participation - Chair: Janet Read", 
+    "submissions": [
+      "papers-281", 
+      "papers-289", 
+      "papers-375", 
+      "papers-443", 
+      "papers-447"
+    ], 
+    "time": "11:00-12:30"
+  }, 
+  "Design_Cases_Chair_Sarah_Kettley": {
+    "date": "10/26/2016", 
+    "room": "Tesla", 
+    "s_title": "Design Cases - Chair: Sarah Kettley", 
+    "submissions": [
+      "design-105", 
+      "design-106", 
+      "design-107", 
+      "design-108"
+    ], 
+    "time": "14:00-15:30"
+  }, 
+  "Design_in_Theory_and_Practice_Chair_Susanne_B_dker": {
+    "date": "10/25/2016", 
+    "room": "Hall", 
+    "s_title": "Design in Theory and Practice - Chair: Susanne B\u00f8dker", 
+    "submissions": [
+      "papers-179", 
+      "papers-191", 
+      "papers-311", 
+      "papers-347", 
+      "papers-432"
+    ], 
+    "time": "14:00-15:30"
+  }, 
+  "Emotions_and_the_Digital_World_Chair_Morten_Fjeld": {
+    "date": "10/26/2016", 
+    "room": "Pascal", 
+    "s_title": "Emotions and the Digital World - Chair: Morten Fjeld", 
+    "submissions": [
+      "papers-256", 
+      "papers-323", 
+      "papers-351", 
+      "papers-426"
+    ], 
+    "time": "14:00-15:30"
+  }, 
+  "Exploring_New_Interface_Domains_Chair_Netta_Livari": {
+    "date": "10/26/2016", 
+    "room": "Pascal", 
+    "s_title": "Exploring New Interface Domains - Chair: Netta Livari", 
+    "submissions": [
+      "papers-118", 
+      "papers-190", 
+      "papers-212", 
+      "papers-400", 
+      "papers-407"
+    ], 
+    "time": "16:00-17:30"
+  }, 
+  "Inside_the_User_Experience_Chair_Olof_Torgersson": {
+    "date": "10/25/2016", 
+    "room": "Pascal", 
+    "s_title": "Inside the User Experience - Chair: Olof Torgersson", 
+    "submissions": [
+      "papers-156", 
+      "papers-181", 
+      "papers-360", 
+      "papers-434", 
+      "papers-460"
+    ], 
+    "time": "9:00-10:30"
+  }, 
+  "Into_Everyday_Life_Chair_Kari_Kuutti": {
+    "date": "10/25/2016", 
+    "room": "Hall", 
+    "s_title": "Into Everyday Life - Chair: Kari Kuutti", 
+    "submissions": [
+      "papers-139", 
+      "papers-154", 
+      "papers-244", 
+      "papers-286", 
+      "papers-304"
+    ], 
+    "time": "16:00-17:30"
+  }, 
+  "Into_the_Real_World_Chair_Thomas_Pederson": {
+    "date": "10/26/2016", 
+    "room": "Hall", 
+    "s_title": "Into the Real World - Chair: Thomas Pederson", 
+    "submissions": [
+      "papers-314", 
+      "papers-317", 
+      "papers-329", 
+      "papers-330", 
+      "papers-429"
+    ], 
+    "time": "16:00-17:30"
+  }, 
+  "Learning_and_Playing_Chair_Marta_Larusdottir": {
+    "date": "10/27/2016", 
+    "room": "Hall", 
+    "s_title": "Learning and Playing - Chair: Marta Larusdottir", 
+    "submissions": [
+      "papers-163", 
+      "papers-287", 
+      "papers-321", 
+      "papers-334", 
+      "papers-391"
+    ], 
+    "time": "9:00-10:30"
+  }, 
+  "Making_it_All_Presentable_Chair_Virpi_Roto": {
+    "date": "10/27/2016", 
+    "room": "Hall", 
+    "s_title": "Making it All Presentable - Chair: Virpi Roto", 
+    "submissions": [
+      "papers-122", 
+      "papers-137", 
+      "papers-162", 
+      "papers-250", 
+      "papers-308", 
+      "papers-383"
+    ], 
+    "time": "11:00-12:30"
+  }, 
+  "Mobile_Interaction_Chair_Cecilia_Katzeff": {
+    "date": "10/25/2016", 
+    "room": "Pascal", 
+    "s_title": "Mobile Interaction - Chair: Cecilia Katzeff", 
+    "submissions": [
+      "papers-206", 
+      "papers-270", 
+      "papers-328", 
+      "papers-435"
+    ], 
+    "time": "16:00-17:30"
+  }, 
+  "Monday_tutorials": {
+    "date": "10/24/2016", 
+    "room": "Kuggen", 
+    "s_title": "Monday tutorials", 
+    "submissions": [
+      "Tut-4", 
+      "Tut-5", 
+      "Tut-6", 
+      "Tut-7"
+    ], 
+    "time": "9:00-13:00"
+  }, 
+  "Monday_workshops": {
+    "date": "10/24/2016", 
+    "room": "Kuggen", 
+    "s_title": "Monday workshops", 
+    "submissions": [
+      "wksp-113", 
+      "wksp-114", 
+      "wksp-115", 
+      "wksp-116", 
+      "wksp-118", 
+      "wksp-119", 
+      "wksp-120", 
+      "wksp-121", 
+      "wksp-122"
+    ], 
+    "time": "09:00-17:00"
+  }, 
+  "Opening_keynote_Chair_Staffan_Bj_rk": {
+    "date": "10/25/2016", 
+    "room": "Hall", 
+    "s_title": "Opening keynote - Chair: Staffan Bj\u00f6rk", 
+    "submissions": [
+      "Key-1"
+    ], 
+    "time": "9:00-10:30"
+  }, 
+  "Session_1_Reframing_business_Chair_Sara_Ljungblad_Marie_Berggren_Maria_Redstr_m_Alan_Said": {
+    "date": "10/25/2016", 
+    "room": "Tesla", 
+    "s_title": "Session 1: Reframing business - Chair: Sara Ljungblad, Marie Berggren, Maria Redstr\u00f6m, Alan Said", 
+    "submissions": [
+      "ie-104", 
+      "ie-105", 
+      "ie-111"
+    ], 
+    "time": "11:00-12:30"
+  }, 
+  "Session_2_Design_processes_and_innovation_Chair_Sara_Ljungblad_Marie_Berggren_Maria_Redstr_m_Alan_Said": {
+    "date": "10/25/2016", 
+    "room": "Tesla", 
+    "s_title": "Session 2: Design processes and innovation - Chair: Sara Ljungblad, Marie Berggren, Maria Redstr\u00f6m, Alan Said", 
+    "submissions": [
+      "ie-106", 
+      "ie-112", 
+      "ie-114"
+    ], 
+    "time": "14:00-15:30"
+  }, 
+  "Session_The_Whys_Hows_and_Whats_of_Future_Scenarios_Chair_Sus_Lundgren": {
+    "date": "10/26/2016", 
+    "room": "Pascal", 
+    "s_title": "Session: The Whys, Hows and Whats of Future Scenarios - Chair: Sus Lundgren", 
+    "submissions": [
+      "fs-102", 
+      "fs-103", 
+      "fs-109", 
+      "fs-111", 
+      "fs-121", 
+      "fs-125"
+    ], 
+    "time": "11:00-12:30"
+  }, 
+  "Staying_or_Going_Chair_Daniel_Sj_lie": {
+    "date": "10/26/2016", 
+    "room": "Hall", 
+    "s_title": "Staying or Going - Chair: Daniel Sj\u00f6lie", 
+    "submissions": [
+      "papers-105", 
+      "papers-121", 
+      "papers-241", 
+      "papers-389", 
+      "papers-416"
+    ], 
+    "time": "14:00-15:30"
+  }, 
+  "Sunday_tutorials": {
+    "date": "10/23/2016", 
+    "room": "Kuggen", 
+    "s_title": "Sunday tutorials", 
+    "submissions": [
+      "Tut-1", 
+      "Tut-2"
+    ], 
+    "time": "09:00-17:30"
+  }, 
+  "Sunday_workshops": {
+    "date": "10/23/2016", 
+    "room": "Kuggen", 
+    "s_title": "Sunday workshops", 
+    "submissions": [
+      "wksp-103", 
+      "wksp-104", 
+      "wksp-106", 
+      "wksp-107", 
+      "wksp-109", 
+      "wksp-110", 
+      "wksp-111"
+    ], 
+    "time": "09:00-17:00"
+  }, 
+  "Sustainability_Wellness_Chair_Jan_Gulliksen": {
+    "date": "10/27/2016", 
+    "room": "Pascal", 
+    "s_title": "Sustainability & Wellness - Chair: Jan Gulliksen", 
+    "submissions": [
+      "papers-107", 
+      "papers-125", 
+      "papers-202", 
+      "papers-218", 
+      "papers-302"
+    ], 
+    "time": "11:00-12:30"
+  }, 
+  "Tuesday_demos": {
+    "date": "10/25/2016", 
+    "room": "Candelafoajen", 
+    "s_title": "Tuesday demos", 
+    "submissions": [
+      "demos-103", 
+      "demos-106"
+    ], 
+    "time": "12:30-14:00"
+  }, 
+  "Tuesday_posters": {
+    "date": "10/25/2016", 
+    "room": "Candelafoajen", 
+    "s_title": "Tuesday posters", 
+    "submissions": [
+      "mcgookdk@dcs.gla.ac.uk105", 
+      "mcgookdk@dcs.gla.ac.uk107", 
+      "mcgookdk@dcs.gla.ac.uk109", 
+      "mcgookdk@dcs.gla.ac.uk116", 
+      "mcgookdk@dcs.gla.ac.uk121", 
+      "mcgookdk@dcs.gla.ac.uk123", 
+      "mcgookdk@dcs.gla.ac.uk124", 
+      "mcgookdk@dcs.gla.ac.uk131", 
+      "mcgookdk@dcs.gla.ac.uk133", 
+      "mcgookdk@dcs.gla.ac.uk135", 
+      "mcgookdk@dcs.gla.ac.uk137", 
+      "mcgookdk@dcs.gla.ac.uk143", 
+      "mcgookdk@dcs.gla.ac.uk149", 
+      "mcgookdk@dcs.gla.ac.uk151", 
+      "mcgookdk@dcs.gla.ac.uk156", 
+      "mcgookdk@dcs.gla.ac.uk164"
+    ], 
+    "time": "12:30-14:00"
+  }, 
+  "Visualization_Chair_Thomas_Olsson": {
+    "date": "10/25/2016", 
+    "room": "Pascal", 
+    "s_title": "Visualization - Chair: Thomas Olsson", 
+    "submissions": [
+      "papers-101", 
+      "papers-235", 
+      "papers-384", 
+      "papers-385", 
+      "papers-463"
+    ], 
+    "time": "14:00-15:30"
+  }, 
+  "Wednesday_demos": {
+    "date": "10/26/2016", 
+    "room": "Candelafoajen", 
+    "s_title": "Wednesday demos", 
+    "submissions": [
+      "demos-101", 
+      "demos-107"
+    ], 
+    "time": "12:30-14:00"
+  }, 
+  "Wednesday_keynote_Chair_Staffan_Bj_rk": {
+    "date": "10/26/2016", 
+    "room": "Hall", 
+    "s_title": "Wednesday keynote - Chair: Staffan Bj\u00f6rk", 
+    "submissions": [
+      "Key-2"
+    ], 
+    "time": "9:00-10:30"
+  }, 
+  "Wednesday_posters": {
+    "date": "10/26/2016", 
+    "room": "Candelafoajen", 
+    "s_title": "Wednesday posters", 
+    "submissions": [
+      "mcgookdk@dcs.gla.ac.uk110", 
+      "mcgookdk@dcs.gla.ac.uk114", 
+      "mcgookdk@dcs.gla.ac.uk118", 
+      "mcgookdk@dcs.gla.ac.uk119", 
+      "mcgookdk@dcs.gla.ac.uk126", 
+      "mcgookdk@dcs.gla.ac.uk132", 
+      "mcgookdk@dcs.gla.ac.uk136", 
+      "mcgookdk@dcs.gla.ac.uk144", 
+      "mcgookdk@dcs.gla.ac.uk145", 
+      "mcgookdk@dcs.gla.ac.uk146", 
+      "mcgookdk@dcs.gla.ac.uk148", 
+      "mcgookdk@dcs.gla.ac.uk150", 
+      "mcgookdk@dcs.gla.ac.uk155", 
+      "mcgookdk@dcs.gla.ac.uk157", 
+      "mcgookdk@dcs.gla.ac.uk162", 
+      "mcgookdk@dcs.gla.ac.uk165", 
+      "mcgookdk@dcs.gla.ac.uk166"
+    ], 
+    "time": "12:30-14:00"
+  }
+}

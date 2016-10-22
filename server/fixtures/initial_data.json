@@ -326,6 +326,20 @@
 	      "end_date": "2016-09-19",
 	      "admins": "[\"anantb@csail.mit.edu\", \"axz@mit.edu\"]"
 	  	}
+	},
+	{"model": "server.Conference",
+	    "pk": 24,
+	    "fields": {
+	      "unique_name": "nordichi2016",
+	      "confer_name": "nordichi2016",
+	      "title": "NordiCHI 2016 -  9th ACM Nordic Conference on Human-Computer Interaction",
+	      "subtitle": "",
+	      "blurb": "NordiCHI is a biennial conference functioning as the main Nordic forum for Human-Computer Interaction (HCI) research. NordiCHI is the meeting place for researchers from academia and industry, designers, practitioners, educators and others from a broad range of traditions and communities. The NordiCHI conference takes HCI in the non-limited sense of research and practice addressing the design and use of interactive technology. The NordiCHI conference is a joint effort initiated by Nordic HCI organisations.",
+	      "location": "Gothenburg, Sweden",
+	      "start_date": "2016-10-23",
+	      "end_date": "2016-10-27",
+	      "admins": "[\"anantb@csail.mit.edu\", \"axz@mit.edu\"]"
+	  	}
 	}
 ]
   
