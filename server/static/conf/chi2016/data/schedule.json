@@ -1,0 +1,1100 @@
+schedule=[
+    {
+        "date": "May 9, 2016",
+        "day": "Monday",
+        "slots": [
+            {
+                "slot_id": "Monday_11_30_12_50",
+                "time": "11:30 - 12:50",
+                "slot_class": "morning2",
+                "sessions": [
+                    {
+                        "session": "s-course955",
+                        "room": "210 D"
+                    },
+                    {
+                        "session": "s-course953",
+                        "room": "210 H"
+                    },
+                    {
+                        "session": "s-course952",
+                        "room": "210 C"
+                    },
+                    {
+                        "session": "s-course903",
+                        "room": "210 G"
+                    },
+                    {
+                        "session": "s146",
+                        "room": "210 BF"
+                    },
+                    {
+                        "session": "s-tochi900",
+                        "room": "210 AE"
+                    },
+                    {
+                        "session": "s-sig1",
+                        "room": "112"
+                    },
+                    {
+                        "session": "s-case1",
+                        "room": "114"
+                    },
+                    {
+                        "session": "s186",
+                        "room": "LL21C"
+                    },
+                    {
+                        "session": "s916",
+                        "room": "LL21D"
+                    },
+                    {
+                        "session": "s919",
+                        "room": "LL21E"
+                    },
+                    {
+                        "session": "s179",
+                        "room": "LL21F"
+                    },
+                    {
+                        "session": "s101",
+                        "room": "LL20 A"
+                    },
+                    {
+                        "session": "s122",
+                        "room": "LL 20D"
+                    },
+                    {
+                        "session": "s156",
+                        "room": "LL 20B"
+                    },
+                    {
+                        "session": "s169",
+                        "room": "LL20 C"
+                    },
+                    {
+                        "session": "s200",
+                        "room": "LL21 B"
+                    }
+                ]
+            },
+            {
+                "slot_id": "Monday_14_30_15_50",
+                "time": "14:30 - 15:50",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "s-panel904",
+                        "room": "220 A"
+                    },
+                    {
+                        "session": "s-alt1",
+                        "room": "220 B"
+                    },
+                    {
+                        "session": "s-course954",
+                        "room": "210 D"
+                    },
+                    {
+                        "session": "s-course946",
+                        "room": "210 H"
+                    },
+                    {
+                        "session": "s-course945",
+                        "room": "210 C"
+                    },
+                    {
+                        "session": "s-course947",
+                        "room": "210 G"
+                    },
+                    {
+                        "session": "s139",
+                        "room": "210 BF"
+                    },
+                    {
+                        "session": "s-tochi901",
+                        "room": "210 AE"
+                    },
+                    {
+                        "session": "s-sig2",
+                        "room": "112"
+                    },
+                    {
+                        "session": "s-case2",
+                        "room": "114"
+                    },
+                    {
+                        "session": "s187",
+                        "room": "LL21C"
+                    },
+                    {
+                        "session": "s915",
+                        "room": "LL21D"
+                    },
+                    {
+                        "session": "s909",
+                        "room": "LL21E"
+                    },
+                    {
+                        "session": "s183",
+                        "room": "LL21F"
+                    },
+                    {
+                        "session": "s103",
+                        "room": "LL20 A"
+                    },
+                    {
+                        "session": "s120",
+                        "room": "LL 20D"
+                    },
+                    {
+                        "session": "s157",
+                        "room": "LL 20B"
+                    },
+                    {
+                        "session": "s168",
+                        "room": "LL20 C"
+                    },
+                    {
+                        "session": "s202",
+                        "room": "LL21 B"
+                    }
+                ]
+            },
+            {
+                "slot_id": "Monday_16_30_17_50",
+                "time": "16:30 - 17:50",
+                "slot_class": "afternoon2",
+                "sessions": [
+                    {
+                        "session": "s-alt2",
+                        "room": "220 A"
+                    },
+                    {
+                        "session": "s-alt4",
+                        "room": "230 C"
+                    },
+                    {
+                        "session": "s-panel902",
+                        "room": "220 B"
+                    },
+                    {
+                        "session": "s-course950",
+                        "room": "210 D"
+                    },
+                    {
+                        "session": "s-course900",
+                        "room": "210 H"
+                    },
+                    {
+                        "session": "s-course951",
+                        "room": "210 C"
+                    },
+                    {
+                        "session": "s-course904",
+                        "room": "210 G"
+                    },
+                    {
+                        "session": "s136",
+                        "room": "210 BF"
+                    },
+                    {
+                        "session": "s900",
+                        "room": "210 AE"
+                    },
+                    {
+                        "session": "s-sig3",
+                        "room": "112"
+                    },
+                    {
+                        "session": "s-course921",
+                        "room": "114"
+                    },
+                    {
+                        "session": "s188",
+                        "room": "LL21C"
+                    },
+                    {
+                        "session": "s920",
+                        "room": "LL21D"
+                    },
+                    {
+                        "session": "s902",
+                        "room": "LL21E"
+                    },
+                    {
+                        "session": "s174",
+                        "room": "LL21F"
+                    },
+                    {
+                        "session": "s102",
+                        "room": "LL20 A"
+                    },
+                    {
+                        "session": "s121",
+                        "room": "LL 20D"
+                    },
+                    {
+                        "session": "s158",
+                        "room": "LL 20B"
+                    },
+                    {
+                        "session": "s171",
+                        "room": "LL20 C"
+                    },
+                    {
+                        "session": "s912",
+                        "room": "LL21 B"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "May 10, 2016",
+        "day": "Tuesday",
+        "slots": [
+            {
+                "slot_id": "Tuesday_9_30_10_50",
+                "time": "9:30 - 10:50",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "s-award1",
+                        "room": "220 A"
+                    },
+                    {
+                        "session": "s-sig907",
+                        "room": "230 C"
+                    },
+                    {
+                        "session": "s-panel903",
+                        "room": "220 B"
+                    },
+                    {
+                        "session": "s-course907",
+                        "room": "210 D"
+                    },
+                    {
+                        "session": "s-course901",
+                        "room": "210 H"
+                    },
+                    {
+                        "session": "s-course905",
+                        "room": "210 C"
+                    },
+                    {
+                        "session": "s-course906",
+                        "room": "210 G"
+                    },
+                    {
+                        "session": "s137",
+                        "room": "210 BF"
+                    },
+                    {
+                        "session": "s-tochi903",
+                        "room": "210 AE"
+                    },
+                    {
+                        "session": "s-sig7",
+                        "room": "112"
+                    },
+                    {
+                        "session": "s-case4",
+                        "room": "114"
+                    },
+                    {
+                        "session": "s191",
+                        "room": "LL21C"
+                    },
+                    {
+                        "session": "s917",
+                        "room": "LL21D"
+                    },
+                    {
+                        "session": "s215",
+                        "room": "LL21E"
+                    },
+                    {
+                        "session": "s118",
+                        "room": "LL21F"
+                    },
+                    {
+                        "session": "s117",
+                        "room": "LL20 A"
+                    },
+                    {
+                        "session": "s125",
+                        "room": "LL 20D"
+                    },
+                    {
+                        "session": "s115",
+                        "room": "LL 20B"
+                    },
+                    {
+                        "session": "s170",
+                        "room": "LL20 C"
+                    },
+                    {
+                        "session": "s204",
+                        "room": "LL21 B"
+                    }
+                ]
+            },
+            {
+                "slot_id": "Tuesday_11_30_12_50",
+                "time": "11:30 - 12:50",
+                "slot_class": "morning2",
+                "sessions": [
+                    {
+                        "session": "s-sig908",
+                        "room": "230 C"
+                    },
+                    {
+                        "session": "s-course908",
+                        "room": "210 D"
+                    },
+                    {
+                        "session": "s-course902",
+                        "room": "210 H"
+                    },
+                    {
+                        "session": "s-course911",
+                        "room": "210 C"
+                    },
+                    {
+                        "session": "s-course910",
+                        "room": "210 G"
+                    },
+                    {
+                        "session": "s147",
+                        "room": "210 BF"
+                    },
+                    {
+                        "session": "s923",
+                        "room": "210 AE"
+                    },
+                    {
+                        "session": "s-sig5",
+                        "room": "112"
+                    },
+                    {
+                        "session": "s-case902",
+                        "room": "114"
+                    },
+                    {
+                        "session": "s190",
+                        "room": "LL21C"
+                    },
+                    {
+                        "session": "s918",
+                        "room": "LL21D"
+                    },
+                    {
+                        "session": "s-tochi902",
+                        "room": "LL21E"
+                    },
+                    {
+                        "session": "s176",
+                        "room": "LL21F"
+                    },
+                    {
+                        "session": "s127",
+                        "room": "LL20 A"
+                    },
+                    {
+                        "session": "s123",
+                        "room": "LL 20D"
+                    },
+                    {
+                        "session": "s148",
+                        "room": "LL 20B"
+                    },
+                    {
+                        "session": "s110",
+                        "room": "LL20 C"
+                    },
+                    {
+                        "session": "s205",
+                        "room": "LL21 B"
+                    }
+                ]
+            },
+            {
+                "slot_id": "Tuesday_14_30_15_50",
+                "time": "14:30 - 15:50",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "s-panel905",
+                        "room": "220 A"
+                    },
+                    {
+                        "session": "s-sig909",
+                        "room": "230 C"
+                    },
+                    {
+                        "session": "s-course909",
+                        "room": "210 D"
+                    },
+                    {
+                        "session": "s-course912",
+                        "room": "210 H"
+                    },
+                    {
+                        "session": "s-course913",
+                        "room": "210 C"
+                    },
+                    {
+                        "session": "s-course914",
+                        "room": "210 G"
+                    },
+                    {
+                        "session": "s145",
+                        "room": "210 BF"
+                    },
+                    {
+                        "session": "s-tochi905",
+                        "room": "210 AE"
+                    },
+                    {
+                        "session": "s-sig900",
+                        "room": "112"
+                    },
+                    {
+                        "session": "s-case900",
+                        "room": "114"
+                    },
+                    {
+                        "session": "s189",
+                        "room": "LL21C"
+                    },
+                    {
+                        "session": "s921",
+                        "room": "LL21D"
+                    },
+                    {
+                        "session": "s210",
+                        "room": "LL21E"
+                    },
+                    {
+                        "session": "s180",
+                        "room": "LL21F"
+                    },
+                    {
+                        "session": "s106",
+                        "room": "LL20 A"
+                    },
+                    {
+                        "session": "s138",
+                        "room": "LL 20D"
+                    },
+                    {
+                        "session": "s152",
+                        "room": "LL 20B"
+                    },
+                    {
+                        "session": "s149",
+                        "room": "LL20 C"
+                    },
+                    {
+                        "session": "s207",
+                        "room": "LL21 B"
+                    }
+                ]
+            },
+            {
+                "slot_id": "Tuesday_16_30_17_50",
+                "time": "16:30 - 17:50",
+                "slot_class": "afternoon2",
+                "sessions": [
+                    {
+                        "session": "s-sig910",
+                        "room": "230 C"
+                    },
+                    {
+                        "session": "s-course915",
+                        "room": "210 D"
+                    },
+                    {
+                        "session": "s-course916",
+                        "room": "210 H"
+                    },
+                    {
+                        "session": "s-course917",
+                        "room": "210 C"
+                    },
+                    {
+                        "session": "s-course918",
+                        "room": "210 G"
+                    },
+                    {
+                        "session": "s119",
+                        "room": "210 BF"
+                    },
+                    {
+                        "session": "s-tochi906",
+                        "room": "210 AE"
+                    },
+                    {
+                        "session": "s-sig4",
+                        "room": "112"
+                    },
+                    {
+                        "session": "s-case901",
+                        "room": "114"
+                    },
+                    {
+                        "session": "s192",
+                        "room": "LL21C"
+                    },
+                    {
+                        "session": "s166",
+                        "room": "LL21D"
+                    },
+                    {
+                        "session": "s212",
+                        "room": "LL21E"
+                    },
+                    {
+                        "session": "s178",
+                        "room": "LL21F"
+                    },
+                    {
+                        "session": "s105",
+                        "room": "LL20 A"
+                    },
+                    {
+                        "session": "s130",
+                        "room": "LL 20D"
+                    },
+                    {
+                        "session": "s150",
+                        "room": "LL 20B"
+                    },
+                    {
+                        "session": "s112",
+                        "room": "LL20 C"
+                    },
+                    {
+                        "session": "s206",
+                        "room": "LL21 B"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "May 11, 2016",
+        "day": "Wednesday",
+        "slots": [
+            {
+                "slot_id": "Wednesday_9_30_10_50",
+                "time": "9:30 - 10:50",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "s-award2",
+                        "room": "220 A"
+                    },
+                    {
+                        "session": "s-alt5",
+                        "room": "230 C"
+                    },
+                    {
+                        "session": "s-panel907",
+                        "room": "220 B"
+                    },
+                    {
+                        "session": "s-course919",
+                        "room": "210 D"
+                    },
+                    {
+                        "session": "s-course924",
+                        "room": "210 C"
+                    },
+                    {
+                        "session": "s-course925",
+                        "room": "210 G"
+                    },
+                    {
+                        "session": "s132",
+                        "room": "210 BF"
+                    },
+                    {
+                        "session": "s-tochi907",
+                        "room": "210 AE"
+                    },
+                    {
+                        "session": "s-sig8",
+                        "room": "112"
+                    },
+                    {
+                        "session": "s-case3",
+                        "room": "114"
+                    },
+                    {
+                        "session": "s160",
+                        "room": "LL21C"
+                    },
+                    {
+                        "session": "s922",
+                        "room": "LL21D"
+                    },
+                    {
+                        "session": "s211",
+                        "room": "LL21E"
+                    },
+                    {
+                        "session": "s175",
+                        "room": "LL21F"
+                    },
+                    {
+                        "session": "s100",
+                        "room": "LL20 A"
+                    },
+                    {
+                        "session": "s128",
+                        "room": "LL 20D"
+                    },
+                    {
+                        "session": "s113",
+                        "room": "LL20 C"
+                    },
+                    {
+                        "session": "s910",
+                        "room": "LL21 B"
+                    }
+                ]
+            },
+            {
+                "slot_id": "Wednesday_11_30_12_50",
+                "time": "11:30 - 12:50",
+                "slot_class": "morning2",
+                "sessions": [
+                    {
+                        "session": "s-special926",
+                        "room": "220 A"
+                    },
+                    {
+                        "session": "s-alt904",
+                        "room": "230 C"
+                    },
+                    {
+                        "session": "s-panel908",
+                        "room": "220 B"
+                    },
+                    {
+                        "session": "s-course920",
+                        "room": "210 D"
+                    },
+                    {
+                        "session": "s-course927",
+                        "room": "210 C"
+                    },
+                    {
+                        "session": "s-course928",
+                        "room": "210 G"
+                    },
+                    {
+                        "session": "s142",
+                        "room": "210 BF"
+                    },
+                    {
+                        "session": "s-tochi908",
+                        "room": "210 AE"
+                    },
+                    {
+                        "session": "s-sig6",
+                        "room": "112"
+                    },
+                    {
+                        "session": "s-case5",
+                        "room": "114"
+                    },
+                    {
+                        "session": "s194",
+                        "room": "LL21C"
+                    },
+                    {
+                        "session": "s914",
+                        "room": "LL21D"
+                    },
+                    {
+                        "session": "s209",
+                        "room": "LL21E"
+                    },
+                    {
+                        "session": "s173",
+                        "room": "LL21F"
+                    },
+                    {
+                        "session": "s108",
+                        "room": "LL20 A"
+                    },
+                    {
+                        "session": "s104",
+                        "room": "LL 20D"
+                    },
+                    {
+                        "session": "s151",
+                        "room": "LL 20B"
+                    },
+                    {
+                        "session": "s111",
+                        "room": "LL20 C"
+                    },
+                    {
+                        "session": "s903",
+                        "room": "LL21 B"
+                    }
+                ]
+            },
+            {
+                "slot_id": "Wednesday_14_30_15_50",
+                "time": "14:30 - 15:50",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "s-special925",
+                        "room": "220 A"
+                    },
+                    {
+                        "session": "s-alt3",
+                        "room": "230 C"
+                    },
+                    {
+                        "session": "s-panel909",
+                        "room": "220 B"
+                    },
+                    {
+                        "session": "s-course926",
+                        "room": "210 H"
+                    },
+                    {
+                        "session": "s-course932",
+                        "room": "210 C"
+                    },
+                    {
+                        "session": "s-course933",
+                        "room": "210 G"
+                    },
+                    {
+                        "session": "s134",
+                        "room": "210 BF"
+                    },
+                    {
+                        "session": "s153",
+                        "room": "210 AE"
+                    },
+                    {
+                        "session": "s-sig901",
+                        "room": "112"
+                    },
+                    {
+                        "session": "s-course930",
+                        "room": "114"
+                    },
+                    {
+                        "session": "s196",
+                        "room": "LL21C"
+                    },
+                    {
+                        "session": "s217",
+                        "room": "LL21D"
+                    },
+                    {
+                        "session": "s208",
+                        "room": "LL21E"
+                    },
+                    {
+                        "session": "s185",
+                        "room": "LL21F"
+                    },
+                    {
+                        "session": "s144",
+                        "room": "LL20 A"
+                    },
+                    {
+                        "session": "s911",
+                        "room": "LL 20D"
+                    },
+                    {
+                        "session": "s908",
+                        "room": "LL 20B"
+                    },
+                    {
+                        "session": "s116",
+                        "room": "LL20 C"
+                    },
+                    {
+                        "session": "s901",
+                        "room": "LL21 B"
+                    }
+                ]
+            },
+            {
+                "slot_id": "Wednesday_16_30_17_50",
+                "time": "16:30 - 17:50",
+                "slot_class": "afternoon2",
+                "sessions": [
+                    {
+                        "session": "s-special927",
+                        "room": "220 A"
+                    },
+                    {
+                        "session": "s924",
+                        "room": "220 B"
+                    },
+                    {
+                        "session": "s-course922",
+                        "room": "210 D"
+                    },
+                    {
+                        "session": "s-course934",
+                        "room": "210 C"
+                    },
+                    {
+                        "session": "s-course935",
+                        "room": "210 G"
+                    },
+                    {
+                        "session": "s140",
+                        "room": "210 BF"
+                    },
+                    {
+                        "session": "s904",
+                        "room": "210 AE"
+                    },
+                    {
+                        "session": "s-sig902",
+                        "room": "112"
+                    },
+                    {
+                        "session": "s-course931",
+                        "room": "114"
+                    },
+                    {
+                        "session": "s195",
+                        "room": "LL21C"
+                    },
+                    {
+                        "session": "s913",
+                        "room": "LL21D"
+                    },
+                    {
+                        "session": "s162",
+                        "room": "LL21E"
+                    },
+                    {
+                        "session": "s181",
+                        "room": "LL21F"
+                    },
+                    {
+                        "session": "s107",
+                        "room": "LL20 A"
+                    },
+                    {
+                        "session": "s126",
+                        "room": "LL 20D"
+                    },
+                    {
+                        "session": "s172",
+                        "room": "LL20 C"
+                    },
+                    {
+                        "session": "s203",
+                        "room": "LL21 B"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "May 12, 2016",
+        "day": "Thursday",
+        "slots": [
+            {
+                "slot_id": "Thursday_9_30_10_50",
+                "time": "9:30 - 10:50",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "s-award3",
+                        "room": "220 A"
+                    },
+                    {
+                        "session": "s-panel900",
+                        "room": "220 B"
+                    },
+                    {
+                        "session": "s-course929",
+                        "room": "210 D"
+                    },
+                    {
+                        "session": "s-course941",
+                        "room": "210 H"
+                    },
+                    {
+                        "session": "s-course943",
+                        "room": "210 C"
+                    },
+                    {
+                        "session": "s-course944",
+                        "room": "210 G"
+                    },
+                    {
+                        "session": "s143",
+                        "room": "210 BF"
+                    },
+                    {
+                        "session": "s177",
+                        "room": "210 AE"
+                    },
+                    {
+                        "session": "s-sig903",
+                        "room": "112"
+                    },
+                    {
+                        "session": "s161",
+                        "room": "LL21C"
+                    },
+                    {
+                        "session": "s907",
+                        "room": "LL21D"
+                    },
+                    {
+                        "session": "s182",
+                        "room": "LL21F"
+                    },
+                    {
+                        "session": "s159",
+                        "room": "LL20 A"
+                    },
+                    {
+                        "session": "s131",
+                        "room": "LL 20D"
+                    },
+                    {
+                        "session": "s197",
+                        "room": "LL20 C"
+                    },
+                    {
+                        "session": "s905",
+                        "room": "LL21 B"
+                    }
+                ]
+            },
+            {
+                "slot_id": "Thursday_11_30_12_50",
+                "time": "11:30 - 12:50",
+                "slot_class": "morning2",
+                "sessions": [
+                    {
+                        "session": "s-panel901",
+                        "room": "220 B"
+                    },
+                    {
+                        "session": "s-course940",
+                        "room": "210 D"
+                    },
+                    {
+                        "session": "s-course942",
+                        "room": "210 H"
+                    },
+                    {
+                        "session": "s-course948",
+                        "room": "210 C"
+                    },
+                    {
+                        "session": "s-course949",
+                        "room": "210 G"
+                    },
+                    {
+                        "session": "s109",
+                        "room": "210 BF"
+                    },
+                    {
+                        "session": "s154",
+                        "room": "210 AE"
+                    },
+                    {
+                        "session": "s-sig904",
+                        "room": "112"
+                    },
+                    {
+                        "session": "s213",
+                        "room": "LL21D"
+                    },
+                    {
+                        "session": "s193",
+                        "room": "LL21F"
+                    },
+                    {
+                        "session": "s141",
+                        "room": "LL20 A"
+                    },
+                    {
+                        "session": "s129",
+                        "room": "LL 20D"
+                    },
+                    {
+                        "session": "s114",
+                        "room": "LL20 C"
+                    },
+                    {
+                        "session": "s906",
+                        "room": "LL21 B"
+                    }
+                ]
+            },
+            {
+                "slot_id": "Thursday_14_30_15_50",
+                "time": "14:30 - 15:50",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "s-course937",
+                        "room": "210 D"
+                    },
+                    {
+                        "session": "s-course938",
+                        "room": "210 H"
+                    },
+                    {
+                        "session": "s-course939",
+                        "room": "210 C"
+                    },
+                    {
+                        "session": "s-course936",
+                        "room": "210 G"
+                    },
+                    {
+                        "session": "s155",
+                        "room": "210 AE"
+                    },
+                    {
+                        "session": "s-sig905",
+                        "room": "112"
+                    },
+                    {
+                        "session": "s199",
+                        "room": "LL21C"
+                    },
+                    {
+                        "session": "s214",
+                        "room": "LL21D"
+                    },
+                    {
+                        "session": "s198",
+                        "room": "LL20 C"
+                    },
+                    {
+                        "session": "s201",
+                        "room": "LL21 B"
+                    }
+                ]
+            }
+        ]
+    }
+]

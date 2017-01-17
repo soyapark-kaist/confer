@@ -1,0 +1,3292 @@
+entities={
+  "1010": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Shuai Wang"
+      }, 
+      {
+        "name": "Zhiyuan Chen"
+      }, 
+      {
+        "name": "Bing Liu"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Mining aspect-specific opinion using a holistic topic model", 
+    "type": "paper"
+  }, 
+  "1029": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Santosh Kc"
+      }, 
+      {
+        "name": "Arjun Mukherjee"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "On the Temporal Dynamics of Opinion Spamming - Case Studies on Yelp", 
+    "type": "paper"
+  }, 
+  "1041": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Jialu Liu"
+      }, 
+      {
+        "name": "Xiang Ren"
+      }, 
+      {
+        "name": "Jingbo Shang"
+      }, 
+      {
+        "name": "Taylor Cassidy"
+      }, 
+      {
+        "name": "Clare Voss"
+      }, 
+      {
+        "name": "Jiawei Han"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Representing Documents via Latent Keyphrase Inference", 
+    "type": "paper"
+  }, 
+  "1054": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Le Chen"
+      }, 
+      {
+        "name": "Alan Mislove"
+      }, 
+      {
+        "name": "Christo Wilson"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "An Empirical Analysis of Algorithmic Pricing on Amazon Marketplace", 
+    "type": "paper"
+  }, 
+  "1085": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Dawen Liang"
+      }, 
+      {
+        "name": "Laurent Charlin"
+      }, 
+      {
+        "name": "James McInerney"
+      }, 
+      {
+        "name": "David Blei"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Modeling User Exposure in Recommendation", 
+    "type": "paper"
+  }, 
+  "1107": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Gabriel Doyle"
+      }, 
+      {
+        "name": "Dan Yurovsky"
+      }, 
+      {
+        "name": "Michael C Frank"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "A robust framework for estimating linguistic alignment in social media conversations", 
+    "type": "paper"
+  }, 
+  "111": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Aston Zhang"
+      }, 
+      {
+        "name": "Amit Goyal"
+      }, 
+      {
+        "name": "Ricardo Baeza-Yates"
+      }, 
+      {
+        "name": "Yi Chang"
+      }, 
+      {
+        "name": "Jiawei Han"
+      }, 
+      {
+        "name": "Carl A Gunter"
+      }, 
+      {
+        "name": "Hongbo Deng"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Towards Mobile Query Auto-Completion: A Mobile Application-Aware Approach", 
+    "type": "paper"
+  }, 
+  "1110": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Nicola Barbieri"
+      }, 
+      {
+        "name": "Fabrizio Silvestri"
+      }, 
+      {
+        "name": "Mounia Lalmas"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Improving Post-Click User's Engagement on Native Ads via Survival Analysis", 
+    "type": "paper"
+  }, 
+  "112": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Jiezhong Qiu"
+      }, 
+      {
+        "name": "Yixuan Li"
+      }, 
+      {
+        "name": "Jie Tang"
+      }, 
+      {
+        "name": "Zheng Lu"
+      }, 
+      {
+        "name": "Hao Ye"
+      }, 
+      {
+        "name": "Bo Chen"
+      }, 
+      {
+        "name": "Qiang Yang"
+      }, 
+      {
+        "name": "John Hopcroft"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "The Lifecycle and Cascade of Social Messaging Groups", 
+    "type": "paper"
+  }, 
+  "126": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Miriam Marciel"
+      }, 
+      {
+        "name": "Ruben Cuevas"
+      }, 
+      {
+        "name": "Albert Banchs"
+      }, 
+      {
+        "name": "Roberto Gonzalez"
+      }, 
+      {
+        "name": "Stefano Traverso"
+      }, 
+      {
+        "name": "Mohamed Ahmed"
+      }, 
+      {
+        "name": "Arturo Azcorra"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Understanding the detection of view fraud in Video Content Portals", 
+    "type": "paper"
+  }, 
+  "139": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Noriaki Kawamae."
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "N-gram over Context", 
+    "type": "paper"
+  }, 
+  "146": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Bichen Shi"
+      }, 
+      {
+        "name": "Georgiana Ifrim"
+      }, 
+      {
+        "name": "Neil Hurley"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Learning-to-Rank for Real-Time High-Precision Hashtag Recommendation for Streaming News", 
+    "type": "paper"
+  }, 
+  "155": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Yoram Bachrach"
+      }, 
+      {
+        "name": "Sofia Ceppi"
+      }, 
+      {
+        "name": "Ian Kash"
+      }, 
+      {
+        "name": "Peter Key"
+      }, 
+      {
+        "name": "Mohammad Reza Khani"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Mechanism Design for Mixed Ads", 
+    "type": "paper"
+  }, 
+  "169": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Dominic Coey"
+      }, 
+      {
+        "name": "Michael Bailey"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "People and Cookies: Imperfect Treatment Assignment in Online Experiments", 
+    "type": "paper"
+  }, 
+  "178": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Bin Bi"
+      }, 
+      {
+        "name": "Junghoo Cho"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Modeling a Retweet Network via an Adaptive Bayesian Approach", 
+    "type": "paper"
+  }, 
+  "18": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Yixuan Li"
+      }, 
+      {
+        "name": "Oscar Martinez"
+      }, 
+      {
+        "name": "Xing Chen"
+      }, 
+      {
+        "name": "Yi Li"
+      }, 
+      {
+        "name": "John Hopcroft"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "In a World that Counts: Clustering and Detecting Fake Social Engagement at Scale", 
+    "type": "paper"
+  }, 
+  "188": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Alexey Borisov"
+      }, 
+      {
+        "name": "Pavel Serdyukov"
+      }, 
+      {
+        "name": "Maarten de Rijke"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Using Metafeatures to increase the Effectiveness of Latent Semantic Models in Web Search", 
+    "type": "paper"
+  }, 
+  "2": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Jiliang Tang"
+      }, 
+      {
+        "name": "Charu Aggarwal"
+      }, 
+      {
+        "name": "Huan Liu"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Recommendation with Signed Social Networks", 
+    "type": "paper"
+  }, 
+  "200": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Octavian-Eugen Ganea"
+      }, 
+      {
+        "name": "Marina Horlescu"
+      }, 
+      {
+        "name": "Aurelien Lucchi"
+      }, 
+      {
+        "name": "Carsten Eickhoff"
+      }, 
+      {
+        "name": "Thomas Hofmann"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Probabilistic Bag-of-Hyperlinks Model for Entity Linking", 
+    "type": "paper"
+  }, 
+  "2000": {
+    "abstract": "Due to the increasing availability of large-scale data on human behavior collected on the social web, as well as advances in analyzing larger and larger data sets, interest in applying computer science methods to address research questions in the social sciences continues to grow. \"Big Data\" researchers and \"Data Scientists\" entering the interdisciplinary field of Computational Social Science (CSS) often lack background in theories and methods in sociology, whereas sociologists are often not aware of cutting edge advances in computational methods. This tutorial helps to bridge this gap by providing an introduction to statistical and computational methods that are useful for addressing typical social science research questions with observational data (that can e.g. be found on the Web) and to social theories and models that help to understand the process that generated the data. The goal of this tutorial is to give participants a rich repertoire of methods that help to answer not only interesting \"how\" questions but also more fundamental \"why\" questions. The tutorial will run as a full-day event that is divided into two main parts: first we will focus on challenges for empirical computational social scientist and will present state of the art methods that help to address problems such as self-selection bias and non-representativeness. We will also discuss how construct validity can be ensured when working with low-level signals such as clickstreams or tweets. In the second part we will focus on social theories and models that can be used to complement and enrich data-driven research. The goal is to give participants an overview about different theories and models that are relevant in this field and show them how to incorporate theoretical assumptions about the data generation process into a model that can be validated against data.", 
+    "authors": [
+      {
+        "name": "Markus Strohmaier"
+      }, 
+      {
+        "name": "Claudia Wagner"
+      }, 
+      {
+        "name": "Luca Aiello"
+      }, 
+      {
+        "name": "Ingmar Weber"
+      }
+    ], 
+    "subtype": "tutorial", 
+    "title": "Computational Social Science For The World Wide Web", 
+    "type": "tutorial"
+  }, 
+  "2001": {
+    "abstract": "Centrality measures allow to measure the relative importance of a node or an edge in a graph w.r.t. other nodes or edges. In this tutorial, we survey the different definitions of centrality measures and the algorithms to compute them. We start from the most common measures (e.g., closeness centrality, betweenness centrality) and move to more complex ones, like spanning-edge centrality. In our presentation, we begin from exact algorithms and then move to approximation algorithms, including sampling-based ones, and to highly-scalable MapReduce algorithms for huge graphs, both for exact computation and for keeping the measures up-to-date on dynamic graphs where edges are inserted or deleted over time. Our goal is to show how advanced algorithmic techniques and scalable systems can be used to obtain efficient algorithms for important graph mining tasks, and to encourage research in the area by highlighting open problems and possible directions. A mini-website for the tutorial is available at http://matteo.rionda.to/centrtutorial/ .", 
+    "authors": [
+      {
+        "name": "Francesco Bonchi"
+      }, 
+      {
+        "name": "Gianmarco De Francisci Morales"
+      }, 
+      {
+        "name": "Matteo Riondato"
+      }
+    ], 
+    "subtype": "tutorial", 
+    "title": "Centrality Measures on Big Graphs:  Exact, Approximated And Ditributed Algorithms", 
+    "type": "tutorial"
+  }, 
+  "2002": {
+    "abstract": "Due to the increasing availability of large-scale data on human behavior collected on the social web, as well as advances in analyzing larger and larger data sets, interest in applying computer science methods to address research questions in the social sciences continues to grow. \"Big Data\" researchers and \"Data Scientists\" entering the interdisciplinary field of Computational Social Science (CSS) often lack background in theories and methods in sociology, whereas sociologists are often not aware of cutting edge advances in computational methods. This tutorial helps to bridge this gap by providing an introduction to statistical and computational methods that are useful for addressing typical social science research questions with observational data (that can e.g. be found on the Web) and to social theories and models that help to understand the process that generated the data. The goal of this tutorial is to give participants a rich repertoire of methods that help to answer not only interesting \"how\" questions but also more fundamental \"why\" questions. The tutorial will run as a full-day event that is divided into two main parts: first we will focus on challenges for empirical computational social scientist and will present state of the art methods that help to address problems such as self-selection bias and non-representativeness. We will also discuss how construct validity can be ensured when working with low-level signals such as clickstreams or tweets. In the second part we will focus on social theories and models that can be used to complement and enrich data-driven research. The goal is to give participants an overview about different theories and models that are relevant in this field and show them how to incorporate theoretical assumptions about the data generation process into a model that can be validated against data.", 
+    "authors": [
+      {
+        "name": "Markus Strohmaier"
+      }, 
+      {
+        "name": "Claudia Wagner"
+      }, 
+      {
+        "name": "Luca Aiello"
+      }, 
+      {
+        "name": "Ingmar Weber"
+      }
+    ], 
+    "subtype": "tutorial", 
+    "title": "Computational Social Science For The World Wide Web", 
+    "type": "tutorial"
+  }, 
+  "2003": {
+    "abstract": "This tutorial aims to further close the gap between IT security research and the area of cryptographic currencies and block chains. We will describe and refer to Bitcoin as an ex- ample throughout the tutorial, as it is the most prominent representative of a such a system. It also is a good reference to discuss the underlying block chain mechanics which are the foundation of various altcoins (e.g. Namecoin) and other derived systems. In this tutorial, the topic of cryptographic currencies is solely addressed from a technical IT security point-of-view. Therefore we do not cover any legal, sociological, financial and economical aspects. The tutorial is designed for participants with a solid IT security background but will not assume any prior knowledge on cryptographic currencies. Thus, we will quickly advance our discussion into core aspects of this field.", 
+    "authors": [
+      {
+        "name": "Aljisha Judmayer"
+      }, 
+      {
+        "name": "Edgar Weippl"
+      }
+    ], 
+    "subtype": "tutorial", 
+    "title": "Cryptographic Currencies Crash Course", 
+    "type": "tutorial"
+  }, 
+  "2004": {
+    "abstract": "Recent advancements in technologies and protocols mean that it is easier than ever to integrate social features into diverse web applications, and increased awareness of privacy concerns means that it is pertinent to consider empowerment of application users when doing so. Many developers are already familiar with the notion of personal data stores; this tutorial will demonstrate how to access or provide such stores for users, and build simple web applications which read and write to the storage whilst remaining completely decoupled from it. This advantages developers in two ways: by removing the burden of storing and maintaining a canonical copy of user data; and by enabling access to and ease of integration with data created through other applications, creating richer, seamless experiences. From the application users' perspective, they need no longer commit and become bound to particular services, but can mix, match and move between those that best meet their needs. We will introduce Solid, a set of protocols based on existing W3C recommendations, for reading, writing and access control of the contents of a personal data store, which can be layered up in order to integrate various social features into new or existing web applications. Attendees will leave with an understanding of Solid and how different parts of the protocols can work together, and having written some code to implement the parts that interest them most. They will also have hands on experience with existing libraries and tooling to facilitate working with the Solid protocols. Those who stay for the full day will have an opportunity to build a small but complete web application with decentralized social features, and to collaborate with others to see the advantages of sharing data between multiple applications.", 
+    "authors": [
+      {
+        "name": "Amy Guy"
+      }, 
+      {
+        "name": "Sarven Capadisli"
+      }, 
+      {
+        "name": "Nicola Greco"
+      }
+    ], 
+    "subtype": "tutorial", 
+    "title": "Building Decentralized Applications For The Social Web", 
+    "type": "tutorial"
+  }, 
+  "2005": {
+    "abstract": "Online news, blogs, SNS and many other Web-based services has been attracting considerable interest for business and marketing purposes. Given a large collection of time series, such as web-click logs, online search queries, blog and review entries, how can we efficiently and effectively find typical time-series patterns? What are the major tools for mining, forecasting and outlier detection? Time-series data analysis is becoming of increasingly high importance, thanks to the decreasing cost of hardware and the increasing on-line processing capability. The objective of this tutorial is to provide a concise and intuitive overview of the most important tools that can help us find meaningful patterns in large-scale time-series data. Specifically we review the state of the art in three related fields: (1) similarity search, pattern discovery and summarization, (2) non-linear modeling and forecasting, and (3) the extension of time-series mining and tensor analysis. We also introduce case studies that illustrate their practical use for social media and Web-based services.", 
+    "authors": [
+      {
+        "name": "Yasushi Sakurai"
+      }, 
+      {
+        "name": "Yasuko Matsubara"
+      }, 
+      {
+        "name": "Christos Faloutsos"
+      }
+    ], 
+    "subtype": "tutorial", 
+    "title": "Mining Big Time-Series Data On The Web", 
+    "type": "tutorial"
+  }, 
+  "2006": {
+    "abstract": "In today's computerized and information-based society, we are soaked with vast amounts of natural language text data, ranging from news articles, product reviews, advertisements, to a wide range of user-generated content from social media. To turn such massive unstructured text data into actionable knowledge, one of the grand challenges is to gain an understanding of entities and the relationships between them. In this tutorial, we introduce data-driven methods to recognize typed entities of interest in different kinds of text corpora (especially in massive, domain-specific text corpora). These methods can automatically identify token spans as entity mentions in text and label their types (e.g., people, product, organization) in a scalable way. We demonstrate on real datasets including news articles and yelp reviews how these typed entities aid in knowledge discovery and management.", 
+    "authors": [
+      {
+        "name": "Xiang Ren"
+      }, 
+      {
+        "name": "Ahmed El-Kishky"
+      }, 
+      {
+        "name": "Chi Wang"
+      }, 
+      {
+        "name": "Jiawei Han"
+      }
+    ], 
+    "subtype": "tutorial", 
+    "title": "Automatic Entity Recognition And Typing in Massive Text Corpora", 
+    "type": "tutorial"
+  }, 
+  "2007": {
+    "abstract": "Recent advancements in technologies and protocols mean that it is easier than ever to integrate social features into diverse web applications, and increased awareness of privacy concerns means that it is pertinent to consider empowerment of application users when doing so. Many developers are already familiar with the notion of personal data stores; this tutorial will demonstrate how to access or provide such stores for users, and build simple web applications which read and write to the storage whilst remaining completely decoupled from it. This advantages developers in two ways: by removing the burden of storing and maintaining a canonical copy of user data; and by enabling access to and ease of integration with data created through other applications, creating richer, seamless experiences. From the application users' perspective, they need no longer commit and become bound to particular services, but can mix, match and move between those that best meet their needs. We will introduce Solid, a set of protocols based on existing W3C recommendations, for reading, writing and access control of the contents of a personal data store, which can be layered up in order to integrate various social features into new or existing web applications. Attendees will leave with an understanding of Solid and how different parts of the protocols can work together, and having written some code to implement the parts that interest them most. They will also have hands on experience with existing libraries and tooling to facilitate working with the Solid protocols. Those who stay for the full day will have an opportunity to build a small but complete web application with decentralized social features, and to collaborate with others to see the advantages of sharing data between multiple applications.", 
+    "authors": [
+      {
+        "name": "Amy Guy"
+      }, 
+      {
+        "name": "Sarven Capadisli"
+      }, 
+      {
+        "name": "Nicola Greco"
+      }
+    ], 
+    "subtype": "tutorial", 
+    "title": "Building Decentralized Applications For The Social Web", 
+    "type": "tutorial"
+  }, 
+  "2008": {
+    "abstract": "The World Wide Web is an information environment that facilitates sequen- tial user behavior between states. A prime example for that is the navigation of users between websites enabled through the presence of hyperlinks. How- ever, today, we can think of many other kinds of transitional behavior that many of us perform on a daily base. For instance, if users listen to music on Spotify, they transition between songs, or when users check-in at locations on Foursquare they transition between geocoordinates, or when users write reviews on Amazon they transition between products. To that end, we consider all kinds of transitions between states as sequences on the Web. States can refer to any kind of categorical action per- formed, such as the ones listed. Our research community has been interested in studying such sequences in various contexts such as (i) modeling, (ii) the detection of regularities and patterns or (iii) the understanding of the production of underlying sequences (e.g., cognitive strategies). Recent research heavily focused on studying human navigation on the Web, but also other types of transition data have sparked the interest of researchers such as mobility sequences, search sequences or song listening sequences. In this tutorial we will give an outline of the fundamental methods of analyzing such categorical sequences on the Web and discuss some recent advancements in-depth.", 
+    "authors": [
+      {
+        "name": "Philipp Singer"
+      }, 
+      {
+        "name": "Florian Lemmerich"
+      }
+    ], 
+    "subtype": "tutorial", 
+    "title": "Analyzing SequentialUser Behavior On The Web", 
+    "type": "tutorial"
+  }, 
+  "2009": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Aba-Sah Dadzie"
+      }, 
+      {
+        "name": "Amparo E. Cano"
+      }, 
+      {
+        "name": "Daniel Preotiuc-Pietro"
+      }, 
+      {
+        "name": "Danica Radovanovic"
+      }
+    ], 
+    "subtype": "workshop", 
+    "title": "#MICROPOST2016 - The 6th 'Making Sense Of Microposts' Workshop", 
+    "type": "workshop"
+  }, 
+  "201": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Marcelo Arenas"
+      }, 
+      {
+        "name": "Gonzalo Diaz"
+      }, 
+      {
+        "name": "Egor V Kostylev"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Reverse Engineering SPARQL Queries", 
+    "type": "paper"
+  }, 
+  "2010": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Rajendra Akerkar"
+      }, 
+      {
+        "name": "Pierre Maret"
+      }, 
+      {
+        "name": "Laurent Vercouter"
+      }
+    ], 
+    "subtype": "workshop", 
+    "title": "8th Web Intelligence And Communities Workshop", 
+    "type": "workshop"
+  }, 
+  "2011": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Stefan Dietze"
+      }, 
+      {
+        "name": "Mathieu D'Aquin"
+      }, 
+      {
+        "name": "Eelco Herder"
+      }, 
+      {
+        "name": "Dragan Gasevic"
+      }
+    ], 
+    "subtype": "workshop", 
+    "title": "Linked Learning 2016: 6th International Workshop On Learning And Education With The Web Of Data (#LILE2016)", 
+    "type": "workshop"
+  }, 
+  "2012": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Francesco Osborne"
+      }, 
+      {
+        "name": "Silvio Peroni"
+      }
+    ], 
+    "subtype": "workshop", 
+    "title": "2016 Workshop On \"Semantics, Analytics And Visualisation: Enhancing Scholarity Data\"", 
+    "type": "workshop"
+  }, 
+  "2013": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Dirk Ahlers"
+      }, 
+      {
+        "name": "Erik Wilde"
+      }, 
+      {
+        "name": "Bruno Martins"
+      }
+    ], 
+    "subtype": "workshop", 
+    "title": "LOCWEB 2016 -- Sixth International Workshop On Location And The Web", 
+    "type": "workshop"
+  }, 
+  "2014": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Philipp Cimiano"
+      }, 
+      {
+        "name": "Jean-Michel Dalle"
+      }, 
+      {
+        "name": "Fabien Gandon"
+      }
+    ], 
+    "subtype": "workshop", 
+    "title": "Q4APS2016 - Question Answering And Activity Analysis In Participatory Sites", 
+    "type": "workshop"
+  }, 
+  "2015": {
+    "abstract": "", 
+    "authors": [], 
+    "subtype": "workshop", 
+    "title": "6th International Workshop On Usage Analysis And Web Of Data: The Diverse Ecosystem Of Data Access Mechanisms", 
+    "type": "workshop"
+  }, 
+  "2016": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Dominic Difranzo"
+      }, 
+      {
+        "name": "Ramine Tinati"
+      }, 
+      {
+        "name": "Kevin Page"
+      }, 
+      {
+        "name": "Thanassis Tiropanis"
+      }, 
+      {
+        "name": "Elena Simperl"
+      }, 
+      {
+        "name": "Nigel Shadbolt"
+      }
+    ], 
+    "subtype": "workshop", 
+    "title": "The 4rd International Workshop On Theory And Practice Of Social Machines", 
+    "type": "workshop"
+  }, 
+  "2017": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Edgar Weippl"
+      }, 
+      {
+        "name": "Michael Huth"
+      }, 
+      {
+        "name": "Martin Gilje Jaatun"
+      }, 
+      {
+        "name": "Lotfi Ben Othmane"
+      }
+    ], 
+    "subtype": "workshop", 
+    "title": "Workshop On Empirical Research Methods In Information Security", 
+    "type": "workshop"
+  }, 
+  "2018": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Aba-Sah Dadzie"
+      }, 
+      {
+        "name": "Amparo E. Cano"
+      }, 
+      {
+        "name": "Daniel Preotiuc-Pietro"
+      }, 
+      {
+        "name": "Danica Radovanovic"
+      }
+    ], 
+    "subtype": "workshop", 
+    "title": "#MICROPOST2016 - The 6th'Making Sense Of Microposts' Workshop", 
+    "type": "workshop"
+  }, 
+  "2019": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Rajendra Akerkar"
+      }, 
+      {
+        "name": "Pierre Maret"
+      }, 
+      {
+        "name": "Laurent Vercouter"
+      }
+    ], 
+    "subtype": "workshop", 
+    "title": "8th Web Intelligence And Communities Workshop", 
+    "type": "workshop"
+  }, 
+  "202": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Aaron Cahn"
+      }, 
+      {
+        "name": "Scott Alfeld"
+      }, 
+      {
+        "name": "Paul Barford"
+      }, 
+      {
+        "name": "S Muthukrishnan"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "An Empirical Study of Web Cookies", 
+    "type": "paper"
+  }, 
+  "2020": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Stefan Dietze"
+      }, 
+      {
+        "name": "Mathieu D'Aquin"
+      }, 
+      {
+        "name": "Eelco Herder"
+      }, 
+      {
+        "name": "Dragan Gasevic"
+      }
+    ], 
+    "subtype": "workshop", 
+    "title": "Linked Learning 2016: 6th International Workshop On Learning And Education With The Web Of Data (#LILE2016)", 
+    "type": "workshop"
+  }, 
+  "2021": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Francesco Osborne"
+      }, 
+      {
+        "name": "Silvio Peroni"
+      }
+    ], 
+    "subtype": "workshop", 
+    "title": "2016 Workshop On \"Semantics, Analytics And Visualisation: Enhancing Scholarity Data\"", 
+    "type": "workshop"
+  }, 
+  "2022": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Dirk Ahlers"
+      }, 
+      {
+        "name": "Erik Wilde"
+      }, 
+      {
+        "name": "Bruno Martins"
+      }
+    ], 
+    "subtype": "workshop", 
+    "title": "LOCWEB 2016 -- Sixth International Workshop On Location And The Web", 
+    "type": "workshop"
+  }, 
+  "2023": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Philipp Cimiano"
+      }, 
+      {
+        "name": "Jean-Michel Dalle"
+      }, 
+      {
+        "name": "Fabien Gandon"
+      }
+    ], 
+    "subtype": "workshop", 
+    "title": "Q4APS2016 - Question Answering And Activity Analysis In Participatory Sites", 
+    "type": "workshop"
+  }, 
+  "2024": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Dominic Difranzo"
+      }, 
+      {
+        "name": "Ramine Tinati"
+      }, 
+      {
+        "name": "Kevin Page"
+      }, 
+      {
+        "name": "Thanassis Tiropanis"
+      }, 
+      {
+        "name": "Elena Simperl"
+      }, 
+      {
+        "name": "Nigel Shadbolt"
+      }
+    ], 
+    "subtype": "workshop", 
+    "title": "The 4rd International Workshop On Theory And Practice Of Social Machines", 
+    "type": "workshop"
+  }, 
+  "2025": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Leonidas Anthopoulos"
+      }, 
+      {
+        "name": "Vishanth Weerakkody"
+      }, 
+      {
+        "name": "Marijn Janssen"
+      }
+    ], 
+    "subtype": "workshop", 
+    "title": "AW4CITY - Enhancing Urbain Sustainability With Web Applications", 
+    "type": "workshop"
+  }, 
+  "2026": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Marc Spaniol"
+      }, 
+      {
+        "name": "Ricardo Baeza-Yates"
+      }, 
+      {
+        "name": "Julien Masanes"
+      }
+    ], 
+    "subtype": "workshop", 
+    "title": "6th Temporal Web Analytics Workshop (TEMPWEB)", 
+    "type": "workshop"
+  }, 
+  "2027": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Christian Bizer"
+      }, 
+      {
+        "name": "Tim Berners-Lee"
+      }, 
+      {
+        "name": "Soren Auer"
+      }, 
+      {
+        "name": "Tom Heath"
+      }
+    ], 
+    "subtype": "workshop", 
+    "title": "9th International Workshop On Linked Data On The Web (LDOW2016)", 
+    "type": "workshop"
+  }, 
+  "2028": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Feng Xia"
+      }, 
+      {
+        "name": "Huan Liu"
+      }, 
+      {
+        "name": "Irwin King"
+      }, 
+      {
+        "name": "Kuansan Wang"
+      }
+    ], 
+    "subtype": "workshop", 
+    "title": "BIGSCHOLAR: The Third WWW Workshop On Big Scholarity Data: Towards The Web Of Scholars", 
+    "type": "workshop"
+  }, 
+  "2029": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Jacqueline Bourdeau"
+      }, 
+      {
+        "name": "Irwin King"
+      }, 
+      {
+        "name": "Bebo White"
+      }
+    ], 
+    "subtype": "workshop", 
+    "title": "Web Science And Technology For Education ", 
+    "type": "workshop"
+  }, 
+  "203": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Oleksii Starov"
+      }, 
+      {
+        "name": "Johannes Dahse"
+      }, 
+      {
+        "name": "Syed Sharique Ahmad"
+      }, 
+      {
+        "name": "Thorsten Holz"
+      }, 
+      {
+        "name": "Nick Nikiforakis"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "No Honor Among Thieves: A Large-Scale Analysis of Malicious Web Shells", 
+    "type": "paper"
+  }, 
+  "2030": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Gianmarco De Francisci Morales"
+      }, 
+      {
+        "name": "Luca Maria Aiello"
+      }, 
+      {
+        "name": "Symeon Papadopoulos"
+      }, 
+      {
+        "name": "Haewoon Kwak"
+      }
+    ], 
+    "subtype": "workshop", 
+    "title": "SNOW 2016: Third Workshop On Social News On The Web", 
+    "type": "workshop"
+  }, 
+  "2031": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Siddharth Suri"
+      }, 
+      {
+        "name": "Winter Mason"
+      }, 
+      {
+        "name": "Dan Goldstein"
+      }
+    ], 
+    "subtype": "workshop", 
+    "title": "The Fourth Annual Workshop On Crowdsourcing And Online Behavioral Experiments (COBE2016)", 
+    "type": "workshop"
+  }, 
+  "2032": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Martin Atzmueller"
+      }, 
+      {
+        "name": "Alvin Chin"
+      }, 
+      {
+        "name": "Christoph Trattner"
+      }
+    ], 
+    "subtype": "workshop", 
+    "title": "7th International Workshop On Modeling Social Media: Behavioral Analytics On The Web (MSM 2016)", 
+    "type": "workshop"
+  }, 
+  "2033": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Mena Habib"
+      }, 
+      {
+        "name": "Florian Kunneman"
+      }, 
+      {
+        "name": "Maurice Van Keulen"
+      }
+    ], 
+    "subtype": "workshop", 
+    "title": "The 2nd International Workshop On Natural Language Processing For Informal Text (NLPIT 2016)", 
+    "type": "workshop"
+  }, 
+  "2034": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Robert West"
+      }, 
+      {
+        "name": "Leila Zia"
+      }, 
+      {
+        "name": "Jure Leskovec"
+      }
+    ], 
+    "subtype": "workshop", 
+    "title": "WIKI Workshop @ WWW", 
+    "type": "workshop"
+  }, 
+  "2035": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Marc Spaniol"
+      }, 
+      {
+        "name": "Ricardo Baeza-Yates"
+      }, 
+      {
+        "name": "Julien Masanes"
+      }
+    ], 
+    "subtype": "workshop", 
+    "title": "6th Temporal Web Analytics Workshop (TEMPWEB)", 
+    "type": "workshop"
+  }, 
+  "2036": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Christian Bizer"
+      }, 
+      {
+        "name": "Tim Berners-Lee"
+      }, 
+      {
+        "name": "So\u00cc\u00a6ren Auer"
+      }, 
+      {
+        "name": "Tom Heath"
+      }
+    ], 
+    "subtype": "workshop", 
+    "title": "9th International Workshop On Linked Data On The Web (LDOW2016)", 
+    "type": "workshop"
+  }, 
+  "2037": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Feng Xia"
+      }, 
+      {
+        "name": "Huan Liu"
+      }, 
+      {
+        "name": "Irwin King"
+      }, 
+      {
+        "name": "Kuansan Wang"
+      }
+    ], 
+    "subtype": "workshop", 
+    "title": "BIGSCHOLAR: The Third WWW Workshop On Big Scholarity Data: Towards The Web Of Scholars", 
+    "type": "workshop"
+  }, 
+  "2038": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Jacqueline Bourdeau"
+      }, 
+      {
+        "name": "Irwin King"
+      }, 
+      {
+        "name": "Bebo White"
+      }
+    ], 
+    "subtype": "workshop", 
+    "title": "Web Science And Technology For Education ", 
+    "type": "workshop"
+  }, 
+  "2039": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Gianmarco De Francisci Morales"
+      }, 
+      {
+        "name": "Luca Maria Aiello"
+      }, 
+      {
+        "name": "Symeon Papadopoulos"
+      }, 
+      {
+        "name": "Haewoon Kwak"
+      }
+    ], 
+    "subtype": "workshop", 
+    "title": "SNOW 2016: Third Workshop On Social News On The Web", 
+    "type": "workshop"
+  }, 
+  "2040": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "St\u00cc\u00a9ephane B. Bazan"
+      }, 
+      {
+        "name": "Marie Joan Kristine Gloria"
+      }, 
+      {
+        "name": "Su White"
+      }
+    ], 
+    "subtype": "workshop", 
+    "title": "Teaching The Web: Sharing Experiences And Developing Community", 
+    "type": "workshop"
+  }, 
+  "2041": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Martin Atzmueller"
+      }, 
+      {
+        "name": "Alvin Chin"
+      }, 
+      {
+        "name": "Christoph Trattner"
+      }
+    ], 
+    "subtype": "workshop", 
+    "title": "7th International Workshop On Modeling Social Media: Behavioral Analytics On The Web (MSM 2016)", 
+    "type": "workshop"
+  }, 
+  "2042": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Eric Charton"
+      }, 
+      {
+        "name": "Marie-Jean Meurs"
+      }, 
+      {
+        "name": "Nizar Ghoula"
+      }
+    ], 
+    "subtype": "workshop", 
+    "title": "Open Data For Local Search", 
+    "type": "workshop"
+  }, 
+  "2043": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Robert West"
+      }, 
+      {
+        "name": "Leila Zia"
+      }, 
+      {
+        "name": "Jure Leskovec"
+      }
+    ], 
+    "subtype": "workshop", 
+    "title": "WIKI Workshop @ WWW", 
+    "type": "workshop"
+  }, 
+  "2044": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Huoran Li"
+      }, 
+      {
+        "name": "Wei Ai"
+      }, 
+      {
+        "name": "Xuanzhe Liu"
+      }, 
+      {
+        "name": "Jian Tang"
+      }, 
+      {
+        "name": "Gang Huang"
+      }, 
+      {
+        "name": "Feng Feng"
+      }, 
+      {
+        "name": "Qiaozhu Mei"
+      }
+    ], 
+    "subtype": "Industry Session", 
+    "title": "Voting With Their Feet: Inferring User Preferences From App Management Activities", 
+    "type": "Industry Session"
+  }, 
+  "2045": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Hao Ma"
+      }, 
+      {
+        "name": "Xueqing Liu"
+      }, 
+      {
+        "name": "Zhihong Shen"
+      }
+    ], 
+    "subtype": "Industry Session", 
+    "title": "User Fatigue In Online News Recommendation", 
+    "type": "Industry Session"
+  }, 
+  "2046": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Chenwei Zhang"
+      }, 
+      {
+        "name": "Wei Fan"
+      }, 
+      {
+        "name": "Nan Du"
+      }, 
+      {
+        "name": "Philip S Yu"
+      }
+    ], 
+    "subtype": "Industry Session", 
+    "title": "Mining User Intentions From Medical Queries: A Neural Network Based Heterogeneous Jointly Modeling Approach", 
+    "type": "Industry Session"
+  }, 
+  "2047": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Giovanni Quattrone"
+      }, 
+      {
+        "name": "Davide Proserpio"
+      }, 
+      {
+        "name": "Daniele Quercia"
+      }, 
+      {
+        "name": "Licia Capra"
+      }, 
+      {
+        "name": "Mirco Musolesi"
+      }
+    ], 
+    "subtype": "Industry Session", 
+    "title": "Who Benefits From The \"Sharing\" Economy Of AIRBNB ?", 
+    "type": "Industry Session"
+  }, 
+  "2048": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Rui Yan"
+      }, 
+      {
+        "name": "Cheng-Te Li"
+      }, 
+      {
+        "name": "Hsun-Ping Hsieh"
+      }, 
+      {
+        "name": "Po Hu"
+      }, 
+      {
+        "name": "Xiaohua Hu"
+      }, 
+      {
+        "name": "Tingting He"
+      }
+    ], 
+    "subtype": "Industry Session", 
+    "title": "Socialized Language Model Smoothing Via Bi-Directional Influence Propagation On Social Networks", 
+    "type": "Industry Session"
+  }, 
+  "2049": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Yu Sun"
+      }, 
+      {
+        "name": "Nicholas Jing Yuan"
+      }, 
+      {
+        "name": "Xing Xie"
+      }, 
+      {
+        "name": "Kieran McDonald"
+      }, 
+      {
+        "name": "Rui Zhang"
+      }
+    ], 
+    "subtype": "Industry Session", 
+    "title": "Collaborative Nowcasting For Contextual Recommendation", 
+    "type": "Industry Session"
+  }, 
+  "2050": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Thomas Pellissier Tanon"
+      }, 
+      {
+        "name": "Sebastian Schaffert"
+      }, 
+      {
+        "name": "Thomas Steiner"
+      }, 
+      {
+        "name": "Lydia Pintscher"
+      }
+    ], 
+    "subtype": "Industry Session", 
+    "title": "From Freebasr To Wikidata: The great Migration", 
+    "type": "Industry Session"
+  }, 
+  "2051": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Yeye He"
+      }, 
+      {
+        "name": "Kaushik Chakrabarti"
+      }, 
+      {
+        "name": "Tao Cheng"
+      }, 
+      {
+        "name": "Tomasz Tylenda"
+      }
+    ], 
+    "subtype": "Industry Session", 
+    "title": "Automatic Discovery Of Attribute Synonyms Using Query Logs And Table Corpora", 
+    "type": "Industry Session"
+  }, 
+  "2053": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Dr. Yih-Farn Robin Chen - AT&T Labs"
+      }, 
+      {
+        "name": "USA"
+      }
+    ], 
+    "subtype": "PhD Symposium", 
+    "title": "Keynote", 
+    "type": "PhD Symposium"
+  }, 
+  "2054": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Julio Vega"
+      }
+    ], 
+    "subtype": "PhD Symposium", 
+    "title": "Monitoring Parkinson's Disease Progression Using Behavioural Inferences, Mobile Devices and Web Technologies", 
+    "type": "PhD Symposium"
+  }, 
+  "2055": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Julien Plu"
+      }
+    ], 
+    "subtype": "PhD Symposium", 
+    "title": "Knowledge extraction in Web media: at the frontier of NLP, Machine Learning and Semantics", 
+    "type": "PhD Symposium"
+  }, 
+  "2056": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Hend Alrasheed"
+      }
+    ], 
+    "subtype": "PhD Symposium", 
+    "title": "Structural Properties in Delta-Hyperbolic Networks: Algorithmic Analysis and Implications", 
+    "type": "PhD Symposium"
+  }, 
+  "2057": {
+    "abstract": "", 
+    "authors": [], 
+    "subtype": "PhD Symposium", 
+    "title": "Linked Data Profiling: Identifying the Domain of Datasets Based on Data Content and Metadata", 
+    "type": "PhD Symposium"
+  }, 
+  "2058": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Anupama Aggarwal"
+      }
+    ], 
+    "subtype": "PhD Symposium", 
+    "title": "Detecting and Mitigating the Effect of Manipulated Reputation on Online Social Networks", 
+    "type": "PhD Symposium"
+  }, 
+  "2059": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Lu Jiang"
+      }
+    ], 
+    "subtype": "PhD Symposium", 
+    "title": "Web-scale Multimedia Search for Internet Video Content", 
+    "type": "PhD Symposium"
+  }, 
+  "2060": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Alvaro Garcia-Recuero"
+      }
+    ], 
+    "subtype": "PhD Symposium", 
+    "title": "Discouraging abusive behavior in privacy-preserving online social networking applications", 
+    "type": "PhD Symposium"
+  }, 
+  "2061": {
+    "abstract": "", 
+    "authors": [], 
+    "subtype": "PhD Symposium", 
+    "title": "Mentor-Student Interaction", 
+    "type": "PhD Symposium"
+  }, 
+  "212": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Justin Cheng"
+      }, 
+      {
+        "name": "Lada Adamic"
+      }, 
+      {
+        "name": "Jon Kleinberg"
+      }, 
+      {
+        "name": "Jure Leskovec"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Do Cascades Recur?", 
+    "type": "paper"
+  }, 
+  "215": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Milad Shokouhi"
+      }, 
+      {
+        "name": "Umut Ozertem"
+      }, 
+      {
+        "name": "Nick Craswell"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Did You Say U2 or Youtube? Inferring Implicit Transcripts from Voice Search Logs", 
+    "type": "paper"
+  }, 
+  "226": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Fuzheng Zhang"
+      }, 
+      {
+        "name": "Nicholas Jing Yuan"
+      }, 
+      {
+        "name": "Kai Zheng"
+      }, 
+      {
+        "name": "Defu Lian"
+      }, 
+      {
+        "name": "Xing Xie"
+      }, 
+      {
+        "name": "Yong Rui"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Exploiting Dining Preference for Restaurant Recommendation", 
+    "type": "paper"
+  }, 
+  "235": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Hong-Han Shuai"
+      }, 
+      {
+        "name": "Chih-Ya Shen"
+      }, 
+      {
+        "name": "De-Nian Yang"
+      }, 
+      {
+        "name": "Yi-Feng Lan"
+      }, 
+      {
+        "name": "Wang-Chien Lee"
+      }, 
+      {
+        "name": "Philip S Yu"
+      }, 
+      {
+        "name": "Ming-Syan Chen"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Mining Online Social Data for Detecting Social Network Mental Disorders", 
+    "type": "paper"
+  }, 
+  "244": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Roderick Fanou"
+      }, 
+      {
+        "name": "Gareth Tyson"
+      }, 
+      {
+        "name": "Pierre Francois"
+      }, 
+      {
+        "name": "Arjuna Sathiaseelan"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": " Pushing the Frontier: Exploring the African Web Ecosystem", 
+    "type": "paper"
+  }, 
+  "254": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Filip Radlinski"
+      }, 
+      {
+        "name": "Ryen White"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Where Can I Buy a Boulder? Searching for Offline Retail Locations", 
+    "type": "paper"
+  }, 
+  "261": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Avigdor Gal"
+      }, 
+      {
+        "name": "Haggai Roitman"
+      }, 
+      {
+        "name": "Tomer Sagi"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "From Diversity-based Prediction to Better Ontology & Schema Matching", 
+    "type": "paper"
+  }, 
+  "266": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Qingbo Hu"
+      }, 
+      {
+        "name": "Sihong Xie"
+      }, 
+      {
+        "name": "Jiawei Zhang"
+      }, 
+      {
+        "name": "Qiang Zhu"
+      }, 
+      {
+        "name": "Songtao Guo"
+      }, 
+      {
+        "name": "Philip Yu"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "HeteroSales: Utilizing Heterogeneous Social Networks to Identify the Next Enterprise Customer", 
+    "type": "paper"
+  }, 
+  "280": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Travis Martin"
+      }, 
+      {
+        "name": "Jake Hofman"
+      }, 
+      {
+        "name": "Amit Sharma"
+      }, 
+      {
+        "name": "Ashton Anderson"
+      }, 
+      {
+        "name": "Duncan Watts"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Exploring limits to prediction in complex social systems: Predicting cascade size on Twitter", 
+    "type": "paper"
+  }, 
+  "283": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Christopher Riederer"
+      }, 
+      {
+        "name": "Yunsung Kim"
+      }, 
+      {
+        "name": "Nitish Korula"
+      }, 
+      {
+        "name": "Silvio Lattanzi"
+      }, 
+      {
+        "name": "Augustin Chaintreau"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Linking Users Across Domains with Location Data: Theory and Validation", 
+    "type": "paper"
+  }, 
+  "295": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Mohammad Karami"
+      }, 
+      {
+        "name": "Youngsam Park"
+      }, 
+      {
+        "name": "Damon Mccoy"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Stress Testing the Booters: Understanding and Undermining the Business of DDoS Services", 
+    "type": "paper"
+  }, 
+  "296": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Nethanel Gelernter"
+      }, 
+      {
+        "name": "Amir Herzberg"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Tell Me About Yourself: The Malicious CAPTCHA Attack", 
+    "type": "paper"
+  }, 
+  "3000": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Yingjie Zhang"
+      }, 
+      {
+        "name": "Beibei Li"
+      }, 
+      {
+        "name": "Jason Hong"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Understanding User Economic Behavior in the City Using Large-scale Geotagged and Crowdsourced Data", 
+    "type": "paper"
+  }, 
+  "3001": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Dhanya R Krishnan"
+      }, 
+      {
+        "name": "Do Le Quoc"
+      }, 
+      {
+        "name": "Pramod Bhatotia"
+      }, 
+      {
+        "name": "Christof Fetzer"
+      }, 
+      {
+        "name": "Rodrigo Rodrigues"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "IncApprox: A Data Analytics System for Incremental Approximate Computing", 
+    "type": "paper"
+  }, 
+  "3002": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Mahanth Gowda"
+      }, 
+      {
+        "name": "Ashutosh Dhekne"
+      }, 
+      {
+        "name": "Romit Roy Choudhury"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "The Case for Robotic Wireless Networks", 
+    "type": "paper"
+  }, 
+  "3004": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Ronan Cummins"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "A Study of Retrieval Models for Long Documents and Queries in Information Retrieval", 
+    "type": "paper"
+  }, 
+  "3005": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Samuel Barbosa"
+      }, 
+      {
+        "name": "Dan Cosley"
+      }, 
+      {
+        "name": "Amit Sharma"
+      }, 
+      {
+        "name": "Roberto M. Cesar-Jr"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Averaging Gone Wrong: Using Time-Aware Analyses to Better Understand Behavior", 
+    "type": "paper"
+  }, 
+  "3006": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Chenhao Tan"
+      }, 
+      {
+        "name": "Vlad Niculae"
+      }, 
+      {
+        "name": "Cristian Danescu-Niculescu-Mizil"
+      }, 
+      {
+        "name": "Lillian Lee"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Winning arguments: Interaction dynamics and persuasion strategies in good-faith online discussions", 
+    "type": "paper"
+  }, 
+  "3007": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Eric Balkanski"
+      }, 
+      {
+        "name": "Jason Hartline"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Bayesian Budget Feasibility with Posted Pricing", 
+    "type": "paper"
+  }, 
+  "316": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Cheng-Kang Hsieh"
+      }, 
+      {
+        "name": "Longqi Yang"
+      }, 
+      {
+        "name": "Honghao Wei"
+      }, 
+      {
+        "name": "Mor Naaman"
+      }, 
+      {
+        "name": "Deborah Estrin"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Immersive Recommendation: News and Event Recommendations Using Personal Digital Traces", 
+    "type": "paper"
+  }, 
+  "322": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Jiongqian Liang"
+      }, 
+      {
+        "name": "Deepak Ajwani"
+      }, 
+      {
+        "name": "Patrick Nicholson"
+      }, 
+      {
+        "name": "Alessandra Sala"
+      }, 
+      {
+        "name": "Srinivasan Parthasarathy"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "What links Alice and Bob? Matching and Ranking Semantic Patterns in Heterogeneous Networks", 
+    "type": "paper"
+  }, 
+  "336": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Xiaojing Liao"
+      }, 
+      {
+        "name": "Chang Liu"
+      }, 
+      {
+        "name": "Damon Mccoy"
+      }, 
+      {
+        "name": "Elaine Shi"
+      }, 
+      {
+        "name": "Raheem Beyah"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Characterizing Long-tail SEO Spam on Cloud Web Hosting Services", 
+    "type": "paper"
+  }, 
+  "363": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Yasuko Matsubara"
+      }, 
+      {
+        "name": "Yasushi Sakurai"
+      }, 
+      {
+        "name": "Christos Faloutsos"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Non-Linear Mining of Competing Local Activities", 
+    "type": "paper"
+  }, 
+  "374": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Pu Yang"
+      }, 
+      {
+        "name": "Krishnamurthy Iyer"
+      }, 
+      {
+        "name": "Peter Frazier"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Mean Field Equilibria for Competitive Exploration in Resource Sharing Settings", 
+    "type": "paper"
+  }, 
+  "380": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Tobias Schnabel"
+      }, 
+      {
+        "name": "Paul Bennett"
+      }, 
+      {
+        "name": "Susan Dumais"
+      }, 
+      {
+        "name": "Thorsten Joachims"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Using Shortlists to Support Decision making and Improve Recommender System Performance", 
+    "type": "paper"
+  }, 
+  "392": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Yating Zhang"
+      }, 
+      {
+        "name": "Adam Jatowt"
+      }, 
+      {
+        "name": "Katsumi Tanaka"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Detecting Evolution of Concepts based on Cause-Effect Relationships in Online Reviews", 
+    "type": "paper"
+  }, 
+  "396": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Javad Nejati"
+      }, 
+      {
+        "name": "Aruna Balasubramanian"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "An In-depth study of Mobile Browser Performance", 
+    "type": "paper"
+  }, 
+  "401": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Giridhari Venkatadri"
+      }, 
+      {
+        "name": "Oana Goga"
+      }, 
+      {
+        "name": "Changtao Zhong"
+      }, 
+      {
+        "name": "Bimal Viswanath"
+      }, 
+      {
+        "name": "Krishna P Gummadi"
+      }, 
+      {
+        "name": "Nishanth Sastry"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Strengthening Weak Identities Through Inter-Domain Trust Transfer", 
+    "type": "paper"
+  }, 
+  "431": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Gary Soeller"
+      }, 
+      {
+        "name": "Karrie Karahalios"
+      }, 
+      {
+        "name": "Christian Sandvig"
+      }, 
+      {
+        "name": "Christo Wilson"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "MapWatch: Detecting and Monitoring International Border Personalization on Online Maps", 
+    "type": "paper"
+  }, 
+  "432": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Dominique Ritze"
+      }, 
+      {
+        "name": "Oliver Lehmberg"
+      }, 
+      {
+        "name": "Yaser Oulabi"
+      }, 
+      {
+        "name": "Christian Bizer"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Profiling the Potential of Web Tables for Augmenting Cross-domain Knowledge Bases", 
+    "type": "paper"
+  }, 
+  "439": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Amit Chopra"
+      }, 
+      {
+        "name": "Munindar P Singh"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "From Social Machines to Social Protocols: Software Engineering Foundations for Sociotechnical Systems", 
+    "type": "paper"
+  }, 
+  "444": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "David Garcia"
+      }, 
+      {
+        "name": "Markus Strohmaier"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "The QWERTY effect on the web: How typing shapes the meaning of words in online human-computer interaction", 
+    "type": "paper"
+  }, 
+  "447": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Yang Song"
+      }, 
+      {
+        "name": "Qi Guo"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Query-Less: Predicting Task Repetition for NextGen Proactive Search and Recommendation Engines", 
+    "type": "paper"
+  }, 
+  "448": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Roi Blanco"
+      }, 
+      {
+        "name": "Matteo Catena"
+      }, 
+      {
+        "name": "Nicola Tonellotto"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Exploiting Green Energy to Reduce Operational Costs of Multi-Center Web Search Engines", 
+    "type": "paper"
+  }, 
+  "450": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Alon Halevy"
+      }, 
+      {
+        "name": "Sunita Sarawagi"
+      }, 
+      {
+        "name": "Steven Whang"
+      }, 
+      {
+        "name": "Xiao Yu"
+      }, 
+      {
+        "name": "Natalya Noy"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Discovering Structure in the Universe of Attribute Names", 
+    "type": "paper"
+  }, 
+  "453": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Isabel Kloumann"
+      }, 
+      {
+        "name": "Chenhao Tan"
+      }, 
+      {
+        "name": "Lillian Lee"
+      }, 
+      {
+        "name": "Jon Kleinberg"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Internet Collaboration on Extremely Difficult Problems: Research versus Olympiad Questions on the Polymath Site", 
+    "type": "paper"
+  }, 
+  "466": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Austin Benson"
+      }, 
+      {
+        "name": "Ravi Kumar"
+      }, 
+      {
+        "name": "Andrew Tomkins"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Modeling User Consumption Sequences", 
+    "type": "paper"
+  }, 
+  "468": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Austin Benson"
+      }, 
+      {
+        "name": "Ravi Kumar"
+      }, 
+      {
+        "name": "Andrew Tomkins"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "On the Relevance of Irrelevant Alternatives", 
+    "type": "paper"
+  }, 
+  "488": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Kenneth Joseph"
+      }, 
+      {
+        "name": "Wei Wei"
+      }, 
+      {
+        "name": "Kathleen Carley"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Exploring patterns of identity usage in tweets: a new problem, solution and case study", 
+    "type": "paper"
+  }, 
+  "499": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Zhonghao Yu"
+      }, 
+      {
+        "name": "Sam Macbeth"
+      }, 
+      {
+        "name": "Konark Modi"
+      }, 
+      {
+        "name": "Josep M Pujol"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Tracking the Trackers", 
+    "type": "paper"
+  }, 
+  "501": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Felipe Pezoa"
+      }, 
+      {
+        "name": "Juan L. Reutter"
+      }, 
+      {
+        "name": "Martin Ugarte"
+      }, 
+      {
+        "name": "Domagoj Vrgoc"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Foundations of JSON Schema", 
+    "type": "paper"
+  }, 
+  "504": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Djellel Eddine Difallah"
+      }, 
+      {
+        "name": "Gianluca Demartini"
+      }, 
+      {
+        "name": "Philippe Cudre-Mauroux"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Scheduling Human Intelligence Tasks in Multi-Tenant Crowd-Powered Systems", 
+    "type": "paper"
+  }, 
+  "512": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Yoon-Sik Cho"
+      }, 
+      {
+        "name": "Greg Ver Steeg"
+      }, 
+      {
+        "name": "Emilio Ferrara"
+      }, 
+      {
+        "name": "Aram Galstyan"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Latent Space Model for Multi-Modal Social Data", 
+    "type": "paper"
+  }, 
+  "523": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Alexey Borisov"
+      }, 
+      {
+        "name": "Ilya Markov"
+      }, 
+      {
+        "name": "Maarten de Rijke"
+      }, 
+      {
+        "name": "Pavel Serdyukov"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "A Neural Click Model for Web Search", 
+    "type": "paper"
+  }, 
+  "526": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Wei Meng"
+      }, 
+      {
+        "name": "Byoungyoung Lee"
+      }, 
+      {
+        "name": "Xinyu Xing"
+      }, 
+      {
+        "name": "Wenke Lee"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "TrackMeOrNot: Enabling Flexible Control on Web Tracking", 
+    "type": "paper"
+  }, 
+  "531": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Shomir Wilson"
+      }, 
+      {
+        "name": "Florian Schaub"
+      }, 
+      {
+        "name": "Rohan Ramanath"
+      }, 
+      {
+        "name": "Norman Sadeh"
+      }, 
+      {
+        "name": "Fei Liu"
+      }, 
+      {
+        "name": "Noah Smith"
+      }, 
+      {
+        "name": "Frederick Liu"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Crowdsourcing Annotations of Websites' Privacy Policies: Can It Really Work?", 
+    "type": "paper"
+  }, 
+  "539": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Ming Yin"
+      }, 
+      {
+        "name": "Mary Gray"
+      }, 
+      {
+        "name": "Siddharth Suri"
+      }, 
+      {
+        "name": "Jennifer Wortman Vaughan"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "The Communication Network Within the Crowd", 
+    "type": "paper"
+  }, 
+  "562": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Ruining He"
+      }, 
+      {
+        "name": "Julian McAuley"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Ups and Downs: Modeling the Visual Evolution of Fashion Trends with One-Class Collaborative Filtering", 
+    "type": "paper"
+  }, 
+  "572": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Jiawei Zhang"
+      }, 
+      {
+        "name": "Philip S Yu"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "PCT: Partial Co-Alignment of Social Networks", 
+    "type": "paper"
+  }, 
+  "577": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Frank Li"
+      }, 
+      {
+        "name": "Grant Ho"
+      }, 
+      {
+        "name": "Eric Kuan"
+      }, 
+      {
+        "name": "Yuan Niu"
+      }, 
+      {
+        "name": "Lucas Ballard"
+      }, 
+      {
+        "name": "Kurt Thomas"
+      }, 
+      {
+        "name": "Elie Bursztein"
+      }, 
+      {
+        "name": "Vern Paxson"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Remedying Web Hijacking: Notification Effectiveness and Webmaster Comprehension", 
+    "type": "paper"
+  }, 
+  "581": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Jessica Su"
+      }, 
+      {
+        "name": "Aneesh Sharma"
+      }, 
+      {
+        "name": "Sharad Goel"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "The Effect of Recommendations on Network Structure", 
+    "type": "paper"
+  }, 
+  "589": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Jian Tang"
+      }, 
+      {
+        "name": "Jingzhou Liu"
+      }, 
+      {
+        "name": "Ming Zhang"
+      }, 
+      {
+        "name": "Qiaozhu Mei"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Visualizing Large-Scale and High-dimensional Data", 
+    "type": "paper"
+  }, 
+  "595": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Kewen Liao"
+      }, 
+      {
+        "name": "Matthias Petri"
+      }, 
+      {
+        "name": "Alistair Moffat"
+      }, 
+      {
+        "name": "Anthony Wirth"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Effective Construction of Relative Lempel-Ziv Dictionaries", 
+    "type": "paper"
+  }, 
+  "598": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Cinar Kilcioglu"
+      }, 
+      {
+        "name": "Justin Rao"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Competition on Price and Quality in Cloud Computing", 
+    "type": "paper"
+  }, 
+  "599": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Julian Mcauley"
+      }, 
+      {
+        "name": "Alex Yang"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Addressing Complex and Subjective Product-Related Queries with Customer Reviews", 
+    "type": "paper"
+  }, 
+  "608": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Flavio Chierichetti"
+      }, 
+      {
+        "name": "Anirban Dasgupta"
+      }, 
+      {
+        "name": "Ravi Kumar"
+      }, 
+      {
+        "name": "Silvio Lattanzi"
+      }, 
+      {
+        "name": "Tamas Sarlos"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "On Sampling Nodes in a Network", 
+    "type": "paper"
+  }, 
+  "626": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Arnab Bhadury"
+      }, 
+      {
+        "name": "Jianfei Chen"
+      }, 
+      {
+        "name": "Jun Zhu"
+      }, 
+      {
+        "name": "Shixia Liu"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Scaling up Dynamic Topic Models", 
+    "type": "paper"
+  }, 
+  "631": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Liangda Li"
+      }, 
+      {
+        "name": "Hongbo Deng"
+      }, 
+      {
+        "name": "Yunlong He"
+      }, 
+      {
+        "name": "Anlei Dong"
+      }, 
+      {
+        "name": "Yi Chang"
+      }, 
+      {
+        "name": "Hongyuan Zha"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Behavior Driven Topic Transition for Search Task Identification", 
+    "type": "paper"
+  }, 
+  "638": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Beidou Wang"
+      }, 
+      {
+        "name": "Martin Ester"
+      }, 
+      {
+        "name": "Jiajun Bu"
+      }, 
+      {
+        "name": "Deng Cai"
+      }, 
+      {
+        "name": "Yu Zhu"
+      }, 
+      {
+        "name": "Ziyu Guan"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Which to View: Personalized Prioritization for Broadcast Emails", 
+    "type": "paper"
+  }, 
+  "639": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Maja Rudolph"
+      }, 
+      {
+        "name": "Joseph Ellis"
+      }, 
+      {
+        "name": "David Blei"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Objective Variables for Probabilistic Revenue Maximization in Second-Price Auctions with Reserve", 
+    "type": "paper"
+  }, 
+  "658": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Lu Zhou"
+      }, 
+      {
+        "name": "Wenbo Wang"
+      }, 
+      {
+        "name": "Keke Chen"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Tweet Properly: Analyzing Deleted Tweets to Understand and Identify Regrettable Ones", 
+    "type": "paper"
+  }, 
+  "67": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Yongfeng Zhang"
+      }, 
+      {
+        "name": "Qi Zhao"
+      }, 
+      {
+        "name": "Yi Zhang"
+      }, 
+      {
+        "name": "Daniel Friedman"
+      }, 
+      {
+        "name": "Min Zhang"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Economic Recommendation based on Total Surplus Maximization", 
+    "type": "paper"
+  }, 
+  "708": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Ke Zhou"
+      }, 
+      {
+        "name": "Miriam Redi"
+      }, 
+      {
+        "name": "Andy Haines"
+      }, 
+      {
+        "name": "Mounia Lalmas"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Predicting Pre-click Quality for Native Advertisements", 
+    "type": "paper"
+  }, 
+  "715": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Erdal Kuzey"
+      }, 
+      {
+        "name": "Vinay Setty"
+      }, 
+      {
+        "name": "Gerhard Weikum"
+      }, 
+      {
+        "name": "Jannik Strotgen"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "As Time Goes By: Comprehensive Tagging of Textual Phrases with Temporal Scopes", 
+    "type": "paper"
+  }, 
+  "72": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Christophe Van Gysel"
+      }, 
+      {
+        "name": "Maarten de Rijke"
+      }, 
+      {
+        "name": "Marcel Worring"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Unsupervised, Efficient and Semantic Expertise Retriev", 
+    "type": "paper"
+  }, 
+  "722": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Onur Catakoglu"
+      }, 
+      {
+        "name": "Marco Balduzzi"
+      }, 
+      {
+        "name": "Davide Balzarotti"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Automatic Extraction of Indicators of Compromise for Web Applications", 
+    "type": "paper"
+  }, 
+  "723": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Noam Koenigstein"
+      }, 
+      {
+        "name": "Oren Sar Shalom"
+      }, 
+      {
+        "name": "Ulrich Paquet"
+      }, 
+      {
+        "name": "Hastagiri Vanchinathan"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Beyond Collaborative Filtering: Optimizing List Recommendation Click-Through Rate", 
+    "type": "paper"
+  }, 
+  "724": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "David Carmel"
+      }, 
+      {
+        "name": "Yuval Pinter"
+      }, 
+      {
+        "name": "Idan Szpektor"
+      }, 
+      {
+        "name": "Gilad Tsur"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Identifying Web Queries with Question Intent", 
+    "type": "paper"
+  }, 
+  "745": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Flavio Figueiredo"
+      }, 
+      {
+        "name": "Bruno Ribeiro"
+      }, 
+      {
+        "name": "Jussara Almeida"
+      }, 
+      {
+        "name": "Christos Faloutsos"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "TribeFlow: Mining & Predicting User Trajectories", 
+    "type": "paper"
+  }, 
+  "757": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Bin Liang"
+      }, 
+      {
+        "name": "Miaoqiang Su"
+      }, 
+      {
+        "name": "Wei You"
+      }, 
+      {
+        "name": "Wenchang Shi"
+      }, 
+      {
+        "name": "Gang Yang"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Cracking Classifiers for Evasion: A Case Study on the Google's Phishing Pages Filter", 
+    "type": "paper"
+  }, 
+  "759": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Marco Cornolti"
+      }, 
+      {
+        "name": "Paolo Ferragina"
+      }, 
+      {
+        "name": "Massimiliano Ciaramita"
+      }, 
+      {
+        "name": "Hinrich Shuetze"
+      }, 
+      {
+        "name": "Stefan Rued"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "A Piggyback System for Joint Entity Mention Detection and Linking in Web Queries", 
+    "type": "paper"
+  }, 
+  "769": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Chikashi Nobata"
+      }, 
+      {
+        "name": "Joel Tetreault"
+      }, 
+      {
+        "name": "Achint Thomas"
+      }, 
+      {
+        "name": "Yashar Mehdad"
+      }, 
+      {
+        "name": "Yi Chang"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Abusive Language Detection in User Content", 
+    "type": "paper"
+  }, 
+  "773": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Daniel Romero"
+      }, 
+      {
+        "name": "Brian Uzzi"
+      }, 
+      {
+        "name": "Jon Kleinberg"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Social Networks Under Stress", 
+    "type": "paper"
+  }, 
+  "776": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Yao Liu"
+      }, 
+      {
+        "name": "Mengbai Xiao"
+      }, 
+      {
+        "name": "Ming Zhang"
+      }, 
+      {
+        "name": "Xin Li"
+      }, 
+      {
+        "name": "Mian Dong"
+      }, 
+      {
+        "name": "Zhan Ma"
+      }, 
+      {
+        "name": "Zhenhua Li"
+      }, 
+      {
+        "name": "Songqing Chen"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "GoCAD: GPU-assisted Online Content Adaptive Display Power Saving for Mobile Devices in Internet Streaming", 
+    "type": "paper"
+  }, 
+  "788": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Desislava Hristova"
+      }, 
+      {
+        "name": "Matthew J. Williams"
+      }, 
+      {
+        "name": "Mirco Musolesi"
+      }, 
+      {
+        "name": "Pietro Panzarasa"
+      }, 
+      {
+        "name": "Cecilia Mascolo"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Measuring Urban Social Diversity Using Interconnected Geo-Social Networks", 
+    "type": "paper"
+  }, 
+  "827": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Zongcheng Ji"
+      }, 
+      {
+        "name": "Aixin Sun"
+      }, 
+      {
+        "name": "Gao Cong"
+      }, 
+      {
+        "name": "Jialong Han"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Joint Recognition and Linking Fine-Grained Locations from Tweets", 
+    "type": "paper"
+  }, 
+  "856": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Yang Li."
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Entity Disambiguation with Linkless Knowledge Bases", 
+    "type": "paper"
+  }, 
+  "859": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Yupeng Gu"
+      }, 
+      {
+        "name": "Bo Zhao"
+      }, 
+      {
+        "name": "David Hardtke"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Learning Global Term Weights for Content-based Recommender Systems", 
+    "type": "paper"
+  }, 
+  "863": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Panagiotis Mavridis"
+      }, 
+      {
+        "name": "David Gross-Amblard"
+      }, 
+      {
+        "name": "Zoltan Miklos"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Using Hierarchical Skills for Optimized Task Assignment in Knowledge-intensive Crowdsourcing", 
+    "type": "paper"
+  }, 
+  "889": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Renato Paes Leme"
+      }, 
+      {
+        "name": "Martin Pal"
+      }, 
+      {
+        "name": "Sergei Vassilvitskii"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "A Field Guide to Personalized Reserve Prices", 
+    "type": "paper"
+  }, 
+  "897": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Md Mustafizur Rahman"
+      }, 
+      {
+        "name": "Hongning Wang"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Hidden Topic Sentiment Model", 
+    "type": "paper"
+  }, 
+  "899": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Samuel Way"
+      }, 
+      {
+        "name": "Daniel Larremore"
+      }, 
+      {
+        "name": "Aaron Clauset"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Gender, Productivity, and Prestige in Computer Science Faculty Hiring Networks", 
+    "type": "paper"
+  }, 
+  "909": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Kyle Williams"
+      }, 
+      {
+        "name": "Julia Kiseleva"
+      }, 
+      {
+        "name": "Aidan Crook"
+      }, 
+      {
+        "name": "Imed Zitouni"
+      }, 
+      {
+        "name": "Ahmed Hassan Awadallah"
+      }, 
+      {
+        "name": "Madian Khabsa"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Detecting Good Abandonment in Mobile Search", 
+    "type": "paper"
+  }, 
+  "910": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Markus Rokicki"
+      }, 
+      {
+        "name": "Sergej Zerr"
+      }, 
+      {
+        "name": "Stefan Siersdorfer"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Just in Time: Controlling Temporal Performance in Crowdsourcing Competitions", 
+    "type": "paper"
+  }, 
+  "912": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Christopher Smith-Clarke"
+      }, 
+      {
+        "name": "Licia Capra"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Beyond the baseline: Establishing the value in mobile phone based poverty estimates", 
+    "type": "paper"
+  }, 
+  "914": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Ellery Wulczyn"
+      }, 
+      {
+        "name": "Robert West"
+      }, 
+      {
+        "name": "Leila Zia"
+      }, 
+      {
+        "name": "Jure Leskovec"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Growing Wikipedia Across Languages via Recommendation", 
+    "type": "paper"
+  }, 
+  "918": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Aditya Pal"
+      }, 
+      {
+        "name": "Amac Herdagdelen"
+      }, 
+      {
+        "name": "Sourav Chatterji"
+      }, 
+      {
+        "name": "Sumit Taank"
+      }, 
+      {
+        "name": "Deepayan Chakrabarti"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Discovery of Topical Authorities in Instagram", 
+    "type": "paper"
+  }, 
+  "92": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Dokyun Lee"
+      }, 
+      {
+        "name": "Kartik Hosanagar"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "When do Recommender Systems Work the Best? The Moderating Effects of Product Attributes and Consumer Reviews on Recommender Performance", 
+    "type": "paper"
+  }, 
+  "948": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Huan Sun"
+      }, 
+      {
+        "name": "Hao Ma"
+      }, 
+      {
+        "name": "Xiaodong He"
+      }, 
+      {
+        "name": "Wen-Tau Yih"
+      }, 
+      {
+        "name": "Yu Su"
+      }, 
+      {
+        "name": "Xifeng Yan"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Table Cell Search for Question Answering", 
+    "type": "paper"
+  }, 
+  "960": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Ethan R. Elenberg"
+      }, 
+      {
+        "name": "Karthikeyan Shanmugam"
+      }, 
+      {
+        "name": "Michael Borokhovich"
+      }, 
+      {
+        "name": "Alexandros G Dimakis"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Distributed Estimation of Graph 4-Profiles", 
+    "type": "paper"
+  }, 
+  "972": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Marco De Nadai"
+      }, 
+      {
+        "name": "Jacopo Staiano"
+      }, 
+      {
+        "name": "Roberto Larcher"
+      }, 
+      {
+        "name": "Nicu Sebe"
+      }, 
+      {
+        "name": "Daniele Quecia"
+      }, 
+      {
+        "name": "Bruno Lepri"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "The Death and Life of Great Italian Cities: A Mobile Phone Data Perspective", 
+    "type": "paper"
+  }, 
+  "991": {
+    "abstract": "", 
+    "authors": [
+      {
+        "name": "Srijan Kumar"
+      }, 
+      {
+        "name": "Robert West"
+      }, 
+      {
+        "name": "Jure Leskovec"
+      }
+    ], 
+    "subtype": "paper", 
+    "title": "Disinformation on the Web: Impact, Characteristics, and Detection of Wikipedia Hoaxes", 
+    "type": "paper"
+  }
+}

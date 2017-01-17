@@ -1,0 +1,298 @@
+sessions={
+  "Closing_Keynote_Chair_Werner_Geyer": {
+    "date": "09-19-16", 
+    "room": "Kresge", 
+    "s_title": "Closing Keynote - Chair: Werner Geyer", 
+    "submissions": [
+      "2"
+    ], 
+    "time": "15:00 - 16:00"
+  }, 
+  "Demo_Reception": {
+    "date": "09-17-16", 
+    "room": "Morss Hall", 
+    "s_title": "Demo Reception", 
+    "submissions": [
+      "102", 
+      "103", 
+      "104", 
+      "105", 
+      "106", 
+      "107"
+    ], 
+    "time": "18:30 - 22:00"
+  }, 
+  "Industry_Session_1_Chair_Karen_Church": {
+    "date": "09-17-16", 
+    "room": "Room 202", 
+    "s_title": "Industry Session 1 - Chair: Karen Church", 
+    "submissions": [
+      "63", 
+      "64", 
+      "65", 
+      "66", 
+      "67"
+    ], 
+    "time": "10:40 - 12:20"
+  }, 
+  "Industry_Session_2_Chair_Wei_Chai": {
+    "date": "09-18-16", 
+    "room": "Room 202", 
+    "s_title": "Industry Session 2 - Chair: Wei Chai", 
+    "submissions": [
+      "68", 
+      "69", 
+      "70", 
+      "71", 
+      "72"
+    ], 
+    "time": "14:00 - 15:40"
+  }, 
+  "Industry_Session_3_Chair_Paul_Lamere": {
+    "date": "09-19-16", 
+    "room": "Kresge", 
+    "s_title": "Industry Session 3 - Chair: Paul Lamere", 
+    "submissions": [
+      "73", 
+      "74", 
+      "75", 
+      "76", 
+      "77"
+    ], 
+    "time": "8:30: - 10:10"
+  }, 
+  "Opening_Keynote_Chair_Shilad_Sen": {
+    "date": "09-17-16", 
+    "room": "Kresge", 
+    "s_title": "Opening Keynote - Chair: Shilad Sen", 
+    "submissions": [
+      "0"
+    ], 
+    "time": "9:00: - 10:00"
+  }, 
+  "Paper_Session_10_Social_Perspective_Chair_Elizabeth_Daly": {
+    "date": "09-18-16", 
+    "room": "Kresge", 
+    "s_title": "Paper Session 10 - Social Perspective - Chair: Elizabeth Daly", 
+    "submissions": [
+      "52", 
+      "53", 
+      "54", 
+      "55", 
+      "56"
+    ], 
+    "time": "16:20 - 18:00"
+  }, 
+  "Paper_Session_11_Algorithms_II_Chair_Alexandros_Karatzoglou": {
+    "date": "09-19-16", 
+    "room": "Kresge", 
+    "s_title": "Paper Session 11 - Algorithms II - Chair: Alexandros Karatzoglou", 
+    "submissions": [
+      "57", 
+      "58", 
+      "59", 
+      "60", 
+      "61", 
+      "62"
+    ], 
+    "time": "10:40 - 12:20"
+  }, 
+  "Paper_Session_1_Beyond_Accuracy_Chair_Joe_Konstan": {
+    "date": "09-17-16", 
+    "room": "Kresge", 
+    "s_title": "Paper Session 1 - Beyond Accuracy - Chair: Joe Konstan", 
+    "submissions": [
+      "3", 
+      "4", 
+      "5", 
+      "6", 
+      "7", 
+      "8", 
+      "9", 
+      "10"
+    ], 
+    "time": "10:40 - 12:20"
+  }, 
+  "Paper_Session_2_Algorithms_I_Chair_Xavier_Amatriain": {
+    "date": "09-17-16", 
+    "room": "Kresge", 
+    "s_title": "Paper Session 2 - Algorithms I - Chair: Xavier Amatriain", 
+    "submissions": [
+      "11", 
+      "12", 
+      "13", 
+      "14", 
+      "15", 
+      "16"
+    ], 
+    "time": "14:00 - 15:40"
+  }, 
+  "Paper_Session_3_Cold_Start_and_Hybrid_Methods_Chair_Neil_Hurley": {
+    "date": "09-17-16", 
+    "room": "Kresge", 
+    "s_title": "Paper Session 3 - Cold Start and Hybrid Methods - Chair: Neil Hurley", 
+    "submissions": [
+      "17", 
+      "18", 
+      "19", 
+      "20", 
+      "21", 
+      "22"
+    ], 
+    "time": "16:20 - 18:00"
+  }, 
+  "Paper_Session_4_User_in_the_Loop_Chair_Ido_Guy": {
+    "date": "09-17-16", 
+    "room": "Room 202", 
+    "s_title": "Paper Session 4 - User in the Loop - Chair: Ido Guy", 
+    "submissions": [
+      "23", 
+      "24", 
+      "25", 
+      "26", 
+      "27", 
+      "28", 
+      "29", 
+      "30"
+    ], 
+    "time": "16:20 - 18:00"
+  }, 
+  "Paper_Session_5_Trust_and_Reliability_Chair_Dietmar_Jannach": {
+    "date": "09-18-16", 
+    "room": "Kresge", 
+    "s_title": "Paper Session 5 - Trust and Reliability - Chair: Dietmar Jannach", 
+    "submissions": [
+      "31", 
+      "32", 
+      "33"
+    ], 
+    "time": "9:40: - 10:40"
+  }, 
+  "Paper_Session_6_Applications_Chair_Robin_Burke": {
+    "date": "09-18-16", 
+    "room": "Room 202", 
+    "s_title": "Paper Session 6 - Applications - Chair: Robin Burke", 
+    "submissions": [
+      "34", 
+      "35", 
+      "36", 
+      "37"
+    ], 
+    "time": "9:40: - 10:40"
+  }, 
+  "Paper_Session_7_Past_Present_Future_Chair_Jill_Freyne": {
+    "date": "09-18-16", 
+    "room": "Kresge", 
+    "s_title": "Paper Session 7 - Past, Present, Future - Chair: Jill Freyne", 
+    "submissions": [
+      "38", 
+      "39", 
+      "40", 
+      "41"
+    ], 
+    "time": "11:20 - 12:20"
+  }, 
+  "Paper_Session_8_Deep_Learning_Chair_Paolo_Cremonesi": {
+    "date": "09-18-16", 
+    "room": "Room 202", 
+    "s_title": "Paper Session 8 - Deep Learning - Chair: Paolo Cremonesi", 
+    "submissions": [
+      "42", 
+      "43", 
+      "44"
+    ], 
+    "time": "11:20 - 12:20"
+  }, 
+  "Paper_Session_9_Contextual_Challenges_Chair_Gedas_Adomavicius": {
+    "date": "09-18-16", 
+    "room": "Kresge", 
+    "s_title": "Paper Session 9 - Contextual Challenges - Chair: Gedas Adomavicius", 
+    "submissions": [
+      "45", 
+      "46", 
+      "47", 
+      "48", 
+      "49", 
+      "50", 
+      "51"
+    ], 
+    "time": "14:00 - 15:40"
+  }, 
+  "Poster_Reception": {
+    "date": "09-17-16", 
+    "room": "Morss Hall", 
+    "s_title": "Poster Reception", 
+    "submissions": [
+      "78", 
+      "79", 
+      "80", 
+      "81", 
+      "82", 
+      "83", 
+      "84", 
+      "85", 
+      "86", 
+      "87", 
+      "88", 
+      "89", 
+      "90", 
+      "91", 
+      "92", 
+      "93", 
+      "94", 
+      "95", 
+      "96", 
+      "97", 
+      "98", 
+      "99", 
+      "100", 
+      "101"
+    ], 
+    "time": "18:30 - 22:00"
+  }, 
+  "Sunday_Keynote_Chair_Pablo_Castells": {
+    "date": "09-18-16", 
+    "room": "Kresge", 
+    "s_title": "Sunday Keynote - Chair: Pablo Castells", 
+    "submissions": [
+      "1"
+    ], 
+    "time": "8:30: - 9:30:"
+  }, 
+  "Tutorial_Group_Recommender_Systems": {
+    "date": "09-19-16", 
+    "room": "Student Center 307", 
+    "s_title": "Tutorial: Group Recommender Systems", 
+    "submissions": [
+      "111"
+    ], 
+    "time": "10:40 - 12:20"
+  }, 
+  "Tutorial_Lessons_Learned_from_Building_Real_Life_Recommender_Systems": {
+    "date": "09-18-16", 
+    "room": "Room 202", 
+    "s_title": "Tutorial: Lessons Learned from Building Real\u00ad-Life Recommender Systems", 
+    "submissions": [
+      "109"
+    ], 
+    "time": "16:20 - 18:00"
+  }, 
+  "Tutorial_Matrix_and_Tensor_Decomposition_in_Recommender_Systems": {
+    "date": "09-19-16", 
+    "room": "Student Center 307", 
+    "s_title": "Tutorial: Matrix and Tensor Decomposition in Recommender Systems", 
+    "submissions": [
+      "110"
+    ], 
+    "time": "8:30: - 10:10"
+  }, 
+  "Tutorial_People_Recommendation": {
+    "date": "09-17-16", 
+    "room": "Room 202", 
+    "s_title": "Tutorial: People Recommendation", 
+    "submissions": [
+      "108"
+    ], 
+    "time": "14:00 - 15:40"
+  }
+}

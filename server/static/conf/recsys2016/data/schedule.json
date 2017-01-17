@@ -1,0 +1,203 @@
+schedule=[
+  {
+    "date": "09-17-16", 
+    "day": "Saturday", 
+    "slots": [
+      {
+        "sessions": [
+          {
+            "room": "Kresge", 
+            "session": "Opening_Keynote_Chair_Shilad_Sen"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "09_17_169_00_10_00", 
+        "time": "9:00: - 10:00"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Kresge", 
+            "session": "Paper_Session_1_Beyond_Accuracy_Chair_Joe_Konstan"
+          }, 
+          {
+            "room": "Room 202", 
+            "session": "Industry_Session_1_Chair_Karen_Church"
+          }
+        ], 
+        "slot_class": "morning2", 
+        "slot_id": "09_17_1610_40_12_20", 
+        "time": "10:40 - 12:20"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Room 202", 
+            "session": "Tutorial_People_Recommendation"
+          }, 
+          {
+            "room": "Kresge", 
+            "session": "Paper_Session_2_Algorithms_I_Chair_Xavier_Amatriain"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "09_17_1614_00_15_40", 
+        "time": "14:00 - 15:40"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Room 202", 
+            "session": "Paper_Session_4_User_in_the_Loop_Chair_Ido_Guy"
+          }, 
+          {
+            "room": "Kresge", 
+            "session": "Paper_Session_3_Cold_Start_and_Hybrid_Methods_Chair_Neil_Hurley"
+          }
+        ], 
+        "slot_class": "afternoon2", 
+        "slot_id": "09_17_1616_20_18_00", 
+        "time": "16:20 - 18:00"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Morss Hall", 
+            "session": "Poster_Reception"
+          }, 
+          {
+            "room": "Morss Hall", 
+            "session": "Demo_Reception"
+          }
+        ], 
+        "slot_class": "evening", 
+        "slot_id": "09_17_1618_30_22_00", 
+        "time": "18:30 - 22:00"
+      }
+    ]
+  }, 
+  {
+    "date": "09-18-16", 
+    "day": "Sunday", 
+    "slots": [
+      {
+        "sessions": [
+          {
+            "room": "Kresge", 
+            "session": "Sunday_Keynote_Chair_Pablo_Castells"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "09_18_168_30_9_30_", 
+        "time": "8:30: - 9:30:"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Kresge", 
+            "session": "Paper_Session_5_Trust_and_Reliability_Chair_Dietmar_Jannach"
+          }, 
+          {
+            "room": "Room 202", 
+            "session": "Paper_Session_6_Applications_Chair_Robin_Burke"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "09_18_169_40_10_40", 
+        "time": "9:40: - 10:40"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Kresge", 
+            "session": "Paper_Session_7_Past_Present_Future_Chair_Jill_Freyne"
+          }, 
+          {
+            "room": "Room 202", 
+            "session": "Paper_Session_8_Deep_Learning_Chair_Paolo_Cremonesi"
+          }
+        ], 
+        "slot_class": "morning2", 
+        "slot_id": "09_18_1611_20_12_20", 
+        "time": "11:20 - 12:20"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Kresge", 
+            "session": "Paper_Session_9_Contextual_Challenges_Chair_Gedas_Adomavicius"
+          }, 
+          {
+            "room": "Room 202", 
+            "session": "Industry_Session_2_Chair_Wei_Chai"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "09_18_1614_00_15_40", 
+        "time": "14:00 - 15:40"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Kresge", 
+            "session": "Paper_Session_10_Social_Perspective_Chair_Elizabeth_Daly"
+          }, 
+          {
+            "room": "Room 202", 
+            "session": "Tutorial_Lessons_Learned_from_Building_Real_Life_Recommender_Systems"
+          }
+        ], 
+        "slot_class": "afternoon2", 
+        "slot_id": "09_18_1616_20_18_00", 
+        "time": "16:20 - 18:00"
+      }
+    ]
+  }, 
+  {
+    "date": "09-19-16", 
+    "day": "Monday", 
+    "slots": [
+      {
+        "sessions": [
+          {
+            "room": "Student Center 307", 
+            "session": "Tutorial_Matrix_and_Tensor_Decomposition_in_Recommender_Systems"
+          }, 
+          {
+            "room": "Kresge", 
+            "session": "Industry_Session_3_Chair_Paul_Lamere"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "09_19_168_30_10_10", 
+        "time": "8:30: - 10:10"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Student Center 307", 
+            "session": "Tutorial_Group_Recommender_Systems"
+          }, 
+          {
+            "room": "Kresge", 
+            "session": "Paper_Session_11_Algorithms_II_Chair_Alexandros_Karatzoglou"
+          }
+        ], 
+        "slot_class": "morning2", 
+        "slot_id": "09_19_1610_40_12_20", 
+        "time": "10:40 - 12:20"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Kresge", 
+            "session": "Closing_Keynote_Chair_Werner_Geyer"
+          }
+        ], 
+        "slot_class": "afternoon2", 
+        "slot_id": "09_19_1615_00_16_00", 
+        "time": "15:00 - 16:00"
+      }
+    ]
+  }
+]

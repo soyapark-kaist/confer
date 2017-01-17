@@ -86,7 +86,7 @@ schedule=[
       {
         "sessions": [
           {
-            "room": "Hyatt Regency", 
+            "room": "Atrium 3 & 4", 
             "session": "Welcome_Reception"
           }
         ], 
@@ -114,7 +114,7 @@ schedule=[
       {
         "sessions": [
           {
-            "room": "Seacliff Foyer", 
+            "room": "Grand Foyer", 
             "session": "Monday_Morning_Coffee_Break"
           }
         ], 
@@ -129,7 +129,7 @@ schedule=[
             "session": "Museums_and_Public_Spaces_Chair_Jennifer_Marlow_FXPAL"
           }, 
           {
-            "room": "Seacliff C/D", 
+            "room": "Seacliff A/B", 
             "session": "Panel_Visibility_in_Digital_Space_Controlling_Personal_Information_Online"
           }, 
           {
@@ -137,7 +137,7 @@ schedule=[
             "session": "Modeling_Social_Media_Chair_Sadat_Shami_IBM"
           }, 
           {
-            "room": "Seacliff A/B", 
+            "room": "Seacliff C/D", 
             "session": "Crowd_Workers_Chair_Ido_Guy_Yahoo_Labs"
           }, 
           {
@@ -175,22 +175,22 @@ schedule=[
             "session": "Distance_Coordination_and_Motivation_Chair_Ingrid_Erickson_Rutgers_University"
           }, 
           {
-            "room": "Seacliff C/D", 
-            "session": "Relationships_and_Romance_Chair_Andrea_Parker_Northeastern_University"
-          }, 
-          {
             "room": "Seacliff A/B", 
             "session": "Panel_Robots_As_Cooperative_Partners_We_Hope_"
+          }, 
+          {
+            "room": "Seacliff C/D", 
+            "session": "Relationships_and_Romance_Chair_Andrea_Parker_Northeastern_University"
           }
         ], 
         "slot_class": "afternoon1", 
         "slot_id": "Monday2_30_4_00", 
         "time": "2:30 - 4:00"
-      }, 
+      },
       {
         "sessions": [
           {
-            "room": "Seacliff Foyer", 
+            "room": "Grand Foyer", 
             "session": "Monday_Afternoon_Coffee_Break"
           }
         ], 
@@ -224,28 +224,21 @@ schedule=[
         "slot_class": "afternoon2", 
         "slot_id": "Monday4_30_6_00", 
         "time": "4:30 - 6:00"
-      }, 
+      },  
       {
         "sessions": [
           {
             "room": "Grand Ballroom A & Grand Foyer", 
-            "session": "Poster_Demo_Reception"
-          }
-        ], 
-        "slot_class": "evening", 
-        "slot_id": "Monday6_00_8_00PM", 
-        "time": "6:00 - 8:00PM"
-      }, 
-      {
-        "sessions": [
+            "session": "Posters"
+          }, 
           {
-            "room": "Specifics TBA at conference opening", 
-            "session": "Sponsored_Hospitality_Receptions"
+            "room": "Grand Ballroom A & Grand Foyer", 
+            "session": "Demos"
           }
         ], 
         "slot_class": "evening", 
-        "slot_id": "Monday8_00PM_10_30PM", 
-        "time": "8:00PM - 10:30PM"
+        "slot_id": "Monday6_00_8_00", 
+        "time": "6:00-8:00"
       }
     ]
   }, 
@@ -260,7 +253,7 @@ schedule=[
             "session": "Games_Chair_Bryan_Semaan_Syracuse_University"
           }, 
           {
-            "room": "Seacliff A/B", 
+            "room": "Marina", 
             "session": "Healthcare_Providers_Chair_Michael_Muller_IBM"
           }, 
           {
@@ -272,7 +265,7 @@ schedule=[
             "session": "Newcomers_in_Peer_Production_Chair_Aaron_Halfaker_Wikimedia_Research"
           }, 
           {
-            "room": "Marina", 
+            "room": "Seacliff A/B", 
             "session": "Panel_Innovations_in_autonomous_systems_Challenges_and_opportunities_for_human_agent_collaboration"
           }
         ], 
@@ -283,7 +276,7 @@ schedule=[
       {
         "sessions": [
           {
-            "room": "Seacliff Foyer", 
+            "room": "Grand Foyer", 
             "session": "Tuesday_Morning_Coffee_Break"
           }
         ], 
@@ -332,11 +325,11 @@ schedule=[
       {
         "sessions": [
           {
-            "room": "Bayview A", 
+            "room": "Seacliff A/B", 
             "session": "Panel_What_did_we_get_right_and_wrong_about_CSCW_during_the_past_30_years_"
           }, 
           {
-            "room": "Seacliff A/B", 
+            "room": "Bayview A", 
             "session": "Food_and_Health_Chair_Yunan_Chen_University_of_California_Irvine"
           }, 
           {
@@ -349,7 +342,7 @@ schedule=[
           }, 
           {
             "room": "Bayview B", 
-            "session": "Crowd_Powered_Applications_Chair_Dan_Russell_Google"
+            "session": "Crowd_Powered_Applications_Chair_Elizabeth_Churchill_Google"
           }
         ], 
         "slot_class": "afternoon1", 
@@ -359,7 +352,7 @@ schedule=[
       {
         "sessions": [
           {
-            "room": "Seacliff Foyer", 
+            "room": "Grand Foyer", 
             "session": "Tuesday_Afternoon_Coffee_Break"
           }
         ], 
@@ -387,7 +380,7 @@ schedule=[
         ], 
         "slot_class": "afternoon2", 
         "slot_id": "Tuesday5_30_6_00", 
-        "time": "5:30 - 6:00"
+        "time": "5:30 - 6:15"
       }, 
       {
         "sessions": [
@@ -409,7 +402,7 @@ schedule=[
       {
         "sessions": [
           {
-            "room": "Seacliff A/B", 
+            "room": "Marina", 
             "session": "Crowd_Innovation_and_Crowdfunding_Chair_Brian_Bailey_University_of_Illinois"
           }, 
           {
@@ -421,7 +414,7 @@ schedule=[
             "session": "Non_Profits_and_Humanitarian_Responses_Chair_Marcos_R_S_Borges_Universidade_Federal_do_Rio_de_Janeiro"
           }, 
           {
-            "room": "Marina", 
+            "room": "Seacliff A/B", 
             "session": "Panel_Constantly_connected_At_what_price_and_with_what_rewards_"
           }, 
           {
@@ -436,7 +429,7 @@ schedule=[
       {
         "sessions": [
           {
-            "room": "Seacliff Foyer", 
+            "room": "Grand Foyer", 
             "session": "Wednesday_Morning_Coffee_Break"
           }
         ], 
@@ -481,7 +474,7 @@ schedule=[
       {
         "sessions": [
           {
-            "room": "Marina", 
+            "room": "Seacliff A/B", 
             "session": "Panel_Practice_based_CSCW_Research_ECSCW_bridging_across_the_Atlantic"
           }, 
           {
@@ -493,7 +486,7 @@ schedule=[
             "session": "Rich_Telepresence_Chair_John_Tang_Microsoft_Research"
           }, 
           {
-            "room": "Seacliff A/B", 
+            "room": "Marina", 
             "session": "Home_and_Family_Chair_Lauren_Scissors_Facebook"
           }, 
           {
@@ -508,7 +501,7 @@ schedule=[
       {
         "sessions": [
           {
-            "room": "Seacliff Foyer", 
+            "room": "Grand Foyer", 
             "session": "Wednesday_Afternoon_Coffee_Break"
           }
         ], 

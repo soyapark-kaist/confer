@@ -1,0 +1,276 @@
+sessions={
+  "Approximate_Query_Processing": {
+    "day": "Wednesday", 
+    "s_title": "Approximate Query Processing", 
+    "submissions": [
+      "407", 
+      "965", 
+      "404", 
+      "363", 
+      "959", 
+      "988"
+    ]
+  }, 
+  "Careers_in_Industry_Panel": {
+    "day": "Wednesday", 
+    "s_title": "Careers in Industry Panel", 
+    "submissions": []
+  }, 
+  "Data_Discovery_and_Extraction": {
+    "day": "Wednesday", 
+    "s_title": "Data Discovery and Extraction", 
+    "submissions": [
+      "873", 
+      "890", 
+      "922", 
+      "422", 
+      "Ind_102", 
+      "364"
+    ]
+  }, 
+  "Data_Integration_Cleaning": {
+    "day": "Wednesday", 
+    "s_title": "Data Integration / Cleaning", 
+    "submissions": [
+      "423", 
+      "975", 
+      "963", 
+      "309", 
+      "987", 
+      "926", 
+      "991"
+    ]
+  }, 
+  "Distributed_Data_Processing": {
+    "day": "Wednesday", 
+    "s_title": "Distributed Data Processing", 
+    "submissions": [
+      "Ind_101", 
+      "899", 
+      "901", 
+      "928", 
+      "958", 
+      "381"
+    ]
+  }, 
+  "Graphs_1_Infrastructure_and_Processing_on_Modern_Hardware": {
+    "day": "Tuesday", 
+    "s_title": "Graphs 1: Infrastructure and Processing on Modern Hardware", 
+    "submissions": [
+      "429", 
+      "418", 
+      "933", 
+      "924", 
+      "970", 
+      "401"
+    ]
+  }, 
+  "Graphs_2_Subgraph_based_Optimization_Techniques": {
+    "day": "Wednesday", 
+    "s_title": "Graphs 2: Subgraph-based Optimization Techniques", 
+    "submissions": [
+      "936", 
+      "394", 
+      "967", 
+      "400", 
+      "929", 
+      "954"
+    ]
+  }, 
+  "Graphs_3_Potpourri_nbsp_": {
+    "day": "Thursday", 
+    "s_title": "Graphs 3: Potpourri &nbsp;", 
+    "submissions": [
+      "946", 
+      "945", 
+      "436", 
+      "962", 
+      "976", 
+      "410"
+    ]
+  }, 
+  "Hardware_Acceleration_amp_Query_Compilation": {
+    "day": "Thursday", 
+    "s_title": "Hardware Acceleration &amp; Query Compilation", 
+    "submissions": [
+      "399", 
+      "977", 
+      "883", 
+      "950", 
+      "887", 
+      "376"
+    ]
+  }, 
+  "Interactive_Analytics": {
+    "day": "Thursday", 
+    "s_title": "Interactive Analytics", 
+    "submissions": [
+      "411", 
+      "972", 
+      "378", 
+      "930", 
+      "Ind_104", 
+      "898"
+    ]
+  }, 
+  "Logical_and_Physical_Database_Design": {
+    "day": "Tuesday", 
+    "s_title": "Logical and Physical Database Design", 
+    "submissions": [
+      "900", 
+      "874", 
+      "Ind_103", 
+      "892", 
+      "971", 
+      "426", 
+      "383"
+    ]
+  }, 
+  "Main_Memory_Analytics": {
+    "day": "Wednesday", 
+    "s_title": "Main Memory Analytics", 
+    "submissions": [
+      "925", 
+      "102", 
+      "872", 
+      "885", 
+      "961", 
+      "504"
+    ]
+  }, 
+  "Nearest_Neighbors_and_Similarity_Search": {
+    "day": "Thursday", 
+    "s_title": "Nearest Neighbors and Similarity Search", 
+    "submissions": [
+      "406", 
+      "931", 
+      "985", 
+      "391", 
+      "435", 
+      "964"
+    ]
+  }, 
+  "Networks_and_the_Web": {
+    "day": "Wednesday", 
+    "s_title": "Networks and the Web", 
+    "submissions": [
+      "927", 
+      "989", 
+      "432", 
+      "390", 
+      "889", 
+      "934"
+    ]
+  }, 
+  "New_Storage_and_Network_Architectures": {
+    "day": "Tuesday", 
+    "s_title": "New Storage and Network Architectures", 
+    "submissions": [
+      "384", 
+      "943", 
+      "365", 
+      "416", 
+      "990", 
+      "375"
+    ]
+  }, 
+  "Privacy_amp_Security": {
+    "day": "Tuesday", 
+    "s_title": "Privacy &amp; Security", 
+    "submissions": [
+      "935", 
+      "983", 
+      "392", 
+      "388", 
+      "393", 
+      "367", 
+      "424"
+    ]
+  }, 
+  "Query_Optimization": {
+    "day": "Thursday", 
+    "s_title": "Query Optimization", 
+    "submissions": [
+      "932", 
+      "370", 
+      "387", 
+      "870", 
+      "974", 
+      "386"
+    ]
+  }, 
+  "Scalable_Analytics_amp_Machine_Learning": {
+    "day": "Tuesday", 
+    "s_title": "Scalable Analytics &amp; Machine Learning", 
+    "submissions": [
+      "402", 
+      "420", 
+      "916", 
+      "421", 
+      "919", 
+      "369", 
+      "937"
+    ]
+  }, 
+  "Spatio_Temporal_Databases": {
+    "day": "Wednesday", 
+    "s_title": "Spatio / Temporal Databases", 
+    "submissions": [
+      "380", 
+      "882", 
+      "982", 
+      "368", 
+      "434", 
+      "430", 
+      "968"
+    ]
+  }, 
+  "Streaming_1_Systems_and_Outlier_Detection": {
+    "day": "Tuesday", 
+    "s_title": "Streaming 1: Systems and Outlier Detection", 
+    "submissions": [
+      "413", 
+      "984", 
+      "379", 
+      "408", 
+      "195", 
+      "692"
+    ]
+  }, 
+  "Streaming_2_Sketches": {
+    "day": "Thursday", 
+    "s_title": "Streaming 2: Sketches", 
+    "submissions": [
+      "412", 
+      "373", 
+      "414", 
+      "956", 
+      "949", 
+      "951"
+    ]
+  }, 
+  "Transaction_Processing": {
+    "day": "Thursday", 
+    "s_title": "Transaction Processing", 
+    "submissions": [
+      "377", 
+      "839", 
+      "955", 
+      "947", 
+      "428", 
+      "940"
+    ]
+  }, 
+  "Transactions_and_Consistency": {
+    "day": "Thursday", 
+    "s_title": "Transactions and Consistency", 
+    "submissions": [
+      "419", 
+      "397", 
+      "395", 
+      "382", 
+      "173", 
+      "921"
+    ]
+  }
+}

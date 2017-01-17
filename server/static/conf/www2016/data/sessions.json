@@ -1,0 +1,818 @@
+sessions={
+  "2016_Workshop_On_Semantics_Analytics_And_Visualisation_Enhancing_Scholarity_Data_": {
+    "date": "Monday", 
+    "room": "518A", 
+    "s_title": "2016 Workshop On \"Semantics, Analytics And Visualisation: Enhancing Scholarity Data\"", 
+    "submissions": [
+      "2012", 
+      "2021"
+    ], 
+    "time": "9:00 - 12:30"
+  }, 
+  "6th_International_Workshop_On_Usage_Analysis_And_Web_Of_Data_The_Diverse_Ecosystem_Of_Data_Access_Mechanisms": {
+    "date": "Monday", 
+    "room": "518C", 
+    "s_title": "6th International Workshop On Usage Analysis And Web Of Data: The Diverse Ecosystem Of Data Access Mechanisms", 
+    "submissions": [
+      "2015"
+    ], 
+    "time": "9:00 - 12:30"
+  }, 
+  "6th_Temporal_Web_Analytics_Workshop_TEMPWEB_": {
+    "date": "Tuesday", 
+    "room": "520F", 
+    "s_title": "6th Temporal Web Analytics Workshop (TEMPWEB)", 
+    "submissions": [
+      "2026", 
+      "2035"
+    ], 
+    "time": "9:00 - 12:30"
+  }, 
+  "7th_International_Workshop_On_Modeling_Social_Media_Behavioral_Analytics_On_The_Web_MSM_2016_": {
+    "date": "Tuesday", 
+    "room": "520B", 
+    "s_title": "7th International Workshop On Modeling Social Media: Behavioral Analytics On The Web (MSM 2016)", 
+    "submissions": [
+      "2032", 
+      "2041"
+    ], 
+    "time": "9:00 - 12:30"
+  }, 
+  "8th_Web_Intelligence_And_Communities_Workshop": {
+    "date": "Monday", 
+    "room": "520B", 
+    "s_title": "8th Web Intelligence And Communities Workshop", 
+    "submissions": [
+      "2010", 
+      "2019"
+    ], 
+    "time": "9:00 - 12:30"
+  }, 
+  "9th_International_Workshop_On_Linked_Data_On_The_Web_LDOW2016_": {
+    "date": "Tuesday", 
+    "room": "518A", 
+    "s_title": "9th International Workshop On Linked Data On The Web (LDOW2016)", 
+    "submissions": [
+      "2027", 
+      "2036"
+    ], 
+    "time": "9:00 - 12:30"
+  }, 
+  "AW4CITY_Enhancing_Urbain_Sustainability_With_Web_Applications": {
+    "date": "Monday", 
+    "room": "520E", 
+    "s_title": "AW4CITY - Enhancing Urbain Sustainability With Web Applications", 
+    "submissions": [
+      "2025"
+    ], 
+    "time": "14:00 -17:30"
+  }, 
+  "Analyzing_SequentialUser_Behavior_On_The_Web": {
+    "date": "Tuesday", 
+    "room": "519B", 
+    "s_title": "Analyzing SequentialUser Behavior On The Web", 
+    "submissions": [
+      "2008"
+    ], 
+    "time": "14:00 -17:30"
+  }, 
+  "Automatic_Discovery_Of_Attribute_Synonyms_Using_Query_Logs_And_Table_Corpora": {
+    "date": "Thursday", 
+    "room": "519B", 
+    "s_title": "Automatic Discovery Of Attribute Synonyms Using Query Logs And Table Corpora", 
+    "submissions": [
+      "2051"
+    ], 
+    "time": "16:00 -17:00"
+  }, 
+  "Automatic_Entity_Recognition_And_Typing_in_Massive_Text_Corpora": {
+    "date": "Tuesday", 
+    "room": "521ABC", 
+    "s_title": "Automatic Entity Recognition And Typing in Massive Text Corpora", 
+    "submissions": [
+      "2006"
+    ], 
+    "time": "9:00 - 12:30"
+  }, 
+  "BIGSCHOLAR_The_Third_WWW_Workshop_On_Big_Scholarity_Data_Towards_The_Web_Of_Scholars": {
+    "date": "Tuesday", 
+    "room": "518B", 
+    "s_title": "BIGSCHOLAR: The Third WWW Workshop On Big Scholarity Data: Towards The Web Of Scholars", 
+    "submissions": [
+      "2028", 
+      "2037"
+    ], 
+    "time": "9:00 - 12:30"
+  }, 
+  "Building_Decentralized_Applications_For_The_Social_Web": {
+    "date": "Tuesday", 
+    "room": "519A", 
+    "s_title": "Building Decentralized Applications For The Social Web", 
+    "submissions": [
+      "2004", 
+      "2007"
+    ], 
+    "time": "9:00 - 12:30"
+  }, 
+  "Centrality_Measures_on_Big_Graphs_Exact_Approximated_And_Ditributed_Algorithms": {
+    "date": "Monday", 
+    "room": "519B", 
+    "s_title": "Centrality Measures on Big Graphs:  Exact, Approximated And Ditributed Algorithms", 
+    "submissions": [
+      "2001"
+    ], 
+    "time": "9:00 - 12:30"
+  }, 
+  "Collaborative_Nowcasting_For_Contextual_Recommendation": {
+    "date": "Thursday", 
+    "room": "519B", 
+    "s_title": "Collaborative Nowcasting For Contextual Recommendation", 
+    "submissions": [
+      "2049"
+    ], 
+    "time": "14:00 -15:30"
+  }, 
+  "Computational_Social_Science_For_The_World_Wide_Web": {
+    "date": "Monday", 
+    "room": "519A", 
+    "s_title": "Computational Social Science For The World Wide Web", 
+    "submissions": [
+      "2000", 
+      "2002"
+    ], 
+    "time": "9:00 - 12:30"
+  }, 
+  "Cryptographic_Currencies_Crash_Course": {
+    "date": "Monday", 
+    "room": "519B", 
+    "s_title": "Cryptographic Currencies Crash Course", 
+    "submissions": [
+      "2003"
+    ], 
+    "time": "14:00 -17:30"
+  }, 
+  "Detecting_and_Mitigating_the_Effect_of_Manipulated_Reputation_on_Online_Social_Networks": {
+    "date": "Thursday", 
+    "room": "519A", 
+    "s_title": "Detecting and Mitigating the Effect of Manipulated Reputation on Online Social Networks", 
+    "submissions": [
+      "2058"
+    ], 
+    "time": "14:00 - 15:30"
+  }, 
+  "Discouraging_abusive_behavior_in_privacy_preserving_online_social_networking_applications": {
+    "date": "Thursday", 
+    "room": "519A", 
+    "s_title": "Discouraging abusive behavior in privacy-preserving online social networking applications", 
+    "submissions": [
+      "2060"
+    ], 
+    "time": "14:00 - 15:30"
+  }, 
+  "From_Freebasr_To_Wikidata_The_great_Migration": {
+    "date": "Thursday", 
+    "room": "519B", 
+    "s_title": "From Freebasr To Wikidata: The great Migration", 
+    "submissions": [
+      "2050"
+    ], 
+    "time": "16:00 -17:00"
+  }, 
+  "Keynote": {
+    "date": "Thursday", 
+    "room": "519A", 
+    "s_title": "Keynote", 
+    "submissions": [
+      "2053"
+    ], 
+    "time": "11:00 - 11:30"
+  }, 
+  "Knowledge_extraction_in_Web_media_at_the_frontier_of_NLP_Machine_Learning_and_Semantics": {
+    "date": "Thursday", 
+    "room": "519A", 
+    "s_title": "Knowledge extraction in Web media: at the frontier of NLP, Machine Learning and Semantics", 
+    "submissions": [
+      "2055"
+    ], 
+    "time": "11:30 -12:30"
+  }, 
+  "LOCWEB_2016_Sixth_International_Workshop_On_Location_And_The_Web": {
+    "date": "Monday", 
+    "room": "520C", 
+    "s_title": "LOCWEB 2016 -- Sixth International Workshop On Location And The Web", 
+    "submissions": [
+      "2013", 
+      "2022"
+    ], 
+    "time": "9:00 - 12:30"
+  }, 
+  "Linked_Data_Profiling_Identifying_the_Domain_of_Datasets_Based_on_Data_Content_and_Metadata": {
+    "date": "Thursday", 
+    "room": "519A", 
+    "s_title": "Linked Data Profiling: Identifying the Domain of Datasets Based on Data Content and Metadata", 
+    "submissions": [
+      "2057"
+    ], 
+    "time": "14:00 - 15:30"
+  }, 
+  "Linked_Learning_2016_6th_International_Workshop_On_Learning_And_Education_With_The_Web_Of_Data_LILE2016_": {
+    "date": "Monday", 
+    "room": "520D", 
+    "s_title": "Linked Learning 2016: 6th International Workshop On Learning And Education With The Web Of Data (#LILE2016)", 
+    "submissions": [
+      "2011", 
+      "2020"
+    ], 
+    "time": "9:00 - 12:30"
+  }, 
+  "Mentor_Student_1_1_Meetings_Closing_Remarks": {
+    "date": "Thursday", 
+    "room": "519A", 
+    "s_title": "Mentor-Student 1-1 Meetings & Closing Remarks", 
+    "submissions": [
+      "2061"
+    ], 
+    "time": "16:00 - 17:30"
+  }, 
+  "Mining_Big_Time_Series_Data_On_The_Web": {
+    "date": "Tuesday", 
+    "room": "519B", 
+    "s_title": "Mining Big Time-Series Data On The Web", 
+    "submissions": [
+      "2005"
+    ], 
+    "time": "9:00 - 12:30"
+  }, 
+  "Mining_User_Intentions_From_Medical_Queries_A_Neural_Network_Based_Heterogeneous_Jointly_Modeling_Approach": {
+    "date": "Thursday", 
+    "room": "519B", 
+    "s_title": "Mining User Intentions From Medical Queries: A Neural Network Based Heterogeneous Jointly Modeling Approach", 
+    "submissions": [
+      "2046"
+    ], 
+    "time": "11:00 - 12:30"
+  }, 
+  "Monitoring_Parkinson_s_Disease_Progression_Using_Behavioural_Inferences_Mobile_Devices_and_Web_Technologies": {
+    "date": "Thursday", 
+    "room": "519A", 
+    "s_title": "Monitoring Parkinson's Disease Progression Using Behavioural Inferences, Mobile Devices and Web Technologies", 
+    "submissions": [
+      "2054"
+    ], 
+    "time": "11:30 -12:30"
+  }, 
+  "Open_Data_For_Local_Search": {
+    "date": "Tuesday", 
+    "room": "520D", 
+    "s_title": "Open Data For Local Search", 
+    "submissions": [
+      "2042"
+    ], 
+    "time": "14:00 -17:30"
+  }, 
+  "Q4APS2016_Question_Answering_And_Activity_Analysis_In_Participatory_Sites": {
+    "date": "Monday", 
+    "room": "518B", 
+    "s_title": "Q4APS2016 - Question Answering And Activity Analysis In Participatory Sites", 
+    "submissions": [
+      "2014", 
+      "2023"
+    ], 
+    "time": "9:00 - 12:30"
+  }, 
+  "SNOW_2016_Third_Workshop_On_Social_News_On_The_Web": {
+    "date": "Tuesday", 
+    "room": "520A", 
+    "s_title": "SNOW 2016: Third Workshop On Social News On The Web", 
+    "submissions": [
+      "2030", 
+      "2039"
+    ], 
+    "time": "9:00 - 12:30"
+  }, 
+  "Socialized_Language_Model_Smoothing_Via_Bi_Directional_Influence_Propagation_On_Social_Networks": {
+    "date": "Thursday", 
+    "room": "519B", 
+    "s_title": "Socialized Language Model Smoothing Via Bi-Directional Influence Propagation On Social Networks", 
+    "submissions": [
+      "2048"
+    ], 
+    "time": "14:00 -15:30"
+  }, 
+  "Structural_Properties_in_Delta_Hyperbolic_Networks_Algorithmic_Analysis_and_Implications": {
+    "date": "Thursday", 
+    "room": "519A", 
+    "s_title": "Structural Properties in Delta-Hyperbolic Networks: Algorithmic Analysis and Implications", 
+    "submissions": [
+      "2056"
+    ], 
+    "time": "11:30 -12:30"
+  }, 
+  "Teaching_The_Web_Sharing_Experiences_And_Developing_Community": {
+    "date": "Tuesday", 
+    "room": "520E", 
+    "s_title": "Teaching The Web: Sharing Experiences And Developing Community", 
+    "submissions": [
+      "2040"
+    ], 
+    "time": "14:00 -17:30"
+  }, 
+  "The_2nd_International_Workshop_On_Natural_Language_Processing_For_Informal_Text_NLPIT_2016_": {
+    "date": "Tuesday", 
+    "room": "520D", 
+    "s_title": "The 2nd International Workshop On Natural Language Processing For Informal Text (NLPIT 2016)", 
+    "submissions": [
+      "2033"
+    ], 
+    "time": "9:00 - 12:30"
+  }, 
+  "The_4rd_International_Workshop_On_Theory_And_Practice_Of_Social_Machines": {
+    "date": "Monday", 
+    "room": "520A", 
+    "s_title": "The 4rd International Workshop On Theory And Practice Of Social Machines", 
+    "submissions": [
+      "2016", 
+      "2024"
+    ], 
+    "time": "9:00 - 12:30"
+  }, 
+  "The_Fourth_Annual_Workshop_On_Crowdsourcing_And_Online_Behavioral_Experiments_COBE2016_": {
+    "date": "Tuesday", 
+    "room": "520E", 
+    "s_title": "The Fourth Annual Workshop On Crowdsourcing And Online Behavioral Experiments (COBE2016)", 
+    "submissions": [
+      "2031"
+    ], 
+    "time": "9:00 - 12:30"
+  }, 
+  "Track_10_Mobility_1_": {
+    "date": "Thursday", 
+    "room": "518BC", 
+    "s_title": "Track 10: Mobility (1)", 
+    "submissions": [
+      "972", 
+      "912", 
+      "244"
+    ], 
+    "time": "11:00 - 12:30"
+  }, 
+  "Track_11_Social_Networks_Graph_Analysis_2_": {
+    "date": "Thursday", 
+    "room": "517D", 
+    "s_title": "Track 11: Social Networks & Graph Analysis (2)", 
+    "submissions": [
+      "512", 
+      "178", 
+      "608", 
+      "960"
+    ], 
+    "time": "14:00 - 15:30"
+  }, 
+  "Track_12_Behaviour_Analysis_Personalization_2_": {
+    "date": "Thursday", 
+    "room": "516C", 
+    "s_title": "Track 12: Behaviour Analysis & Personalization (2)", 
+    "submissions": [
+      "909", 
+      "562", 
+      "466", 
+      "523"
+    ], 
+    "time": "14:00 - 15:30"
+  }, 
+  "Track_13_Web_Search_System_Applications_1_": {
+    "date": "Thursday", 
+    "room": "521ABC", 
+    "s_title": "Track 13: Web Search System & Applications (1)", 
+    "submissions": [
+      "447", 
+      "631", 
+      "759", 
+      "111"
+    ], 
+    "time": "14:00 - 15:30"
+  }, 
+  "Track_14_Crowdsourcing_Systems_Social_Media_1_": {
+    "date": "Thursday", 
+    "room": "516DE", 
+    "s_title": "Track 14: Crowdsourcing Systems & Social Media (1)", 
+    "submissions": [
+      "991", 
+      "658", 
+      "3006", 
+      "599"
+    ], 
+    "time": "14:00 - 15:30"
+  }, 
+  "Track_15_Web_Science_1_": {
+    "date": "Thursday", 
+    "room": "518BC", 
+    "s_title": "Track 15: Web Science (1)", 
+    "submissions": [
+      "1107", 
+      "392", 
+      "444"
+    ], 
+    "time": "14:00 - 15:30"
+  }, 
+  "Track_16_Social_Networks_Graph_Analysis_3_": {
+    "date": "Thursday", 
+    "room": "517D", 
+    "s_title": "Track 16: Social Networks & Graph Analysis (3)", 
+    "submissions": [
+      "212", 
+      "280", 
+      "745", 
+      "283"
+    ], 
+    "time": "16:00 - 17:30"
+  }, 
+  "Track_17_Web_Mining_2_": {
+    "date": "Thursday", 
+    "room": "516C", 
+    "s_title": "Track 17: Web Mining (2)", 
+    "submissions": [
+      "226", 
+      "363", 
+      "572", 
+      "1110"
+    ], 
+    "time": "16:00 - 17:30"
+  }, 
+  "Track_18_Web_Search_Systems_Applications_2_": {
+    "date": "Thursday", 
+    "room": "521ABC", 
+    "s_title": "Track 18: Web Search Systems & Applications (2)", 
+    "submissions": [
+      "948", 
+      "724", 
+      "3004", 
+      "595"
+    ], 
+    "time": "16:00 - 17:30"
+  }, 
+  "Track_19_Crowdsourcing_Systems_Social_Media_2_": {
+    "date": "Thursday", 
+    "room": "516DE", 
+    "s_title": "Track 19: Crowdsourcing Systems & Social Media (2)", 
+    "submissions": [
+      "910", 
+      "3005", 
+      "863", 
+      "504"
+    ], 
+    "time": "16:00 - 17:30"
+  }, 
+  "Track_1_Social_Networks_Graph_Analysis_1_": {
+    "date": "Wednesday", 
+    "room": "517D", 
+    "s_title": "Track 1: Social Networks & Graph Analysis (1)", 
+    "submissions": [
+      "773", 
+      "788", 
+      "2", 
+      "266"
+    ], 
+    "time": "14:00 - 15:30"
+  }, 
+  "Track_20_Web_Science_2_": {
+    "date": "Thursday", 
+    "room": "518BC", 
+    "s_title": "Track 20: Web Science (2)", 
+    "submissions": [
+      "431", 
+      "322", 
+      "202", 
+      "439"
+    ], 
+    "time": "16:00 - 17:30"
+  }, 
+  "Track_21_Semantics_Big_Data_2_": {
+    "date": "Friday", 
+    "room": "519B", 
+    "s_title": "Track 21: Semantics & Big Data (2)", 
+    "submissions": [
+      "715", 
+      "200", 
+      "450"
+    ], 
+    "time": "11:00 - 12:30"
+  }, 
+  "Track_22_Behaviour_Analysis_Personalization_3_": {
+    "date": "Friday", 
+    "room": "517D", 
+    "s_title": "Track 22: Behaviour Analysis & Personalization (3)", 
+    "submissions": [
+      "1085", 
+      "468", 
+      "914", 
+      "380"
+    ], 
+    "time": "11:00 - 12:30"
+  }, 
+  "Track_23_Security_Privacy_3_": {
+    "date": "Friday", 
+    "room": "521ABC", 
+    "s_title": "Track 23: Security & Privacy (3)", 
+    "submissions": [
+      "296", 
+      "577", 
+      "203", 
+      "295"
+    ], 
+    "time": "11:00 - 12:30"
+  }, 
+  "Track_24_Content_Analysis_3_": {
+    "date": "Friday", 
+    "room": "516DE", 
+    "s_title": "Track 24: Content Analysis (3)", 
+    "submissions": [
+      "139", 
+      "1041", 
+      "72", 
+      "188"
+    ], 
+    "time": "11:00 - 12:30"
+  }, 
+  "Track_25_Economics_Markets_2_": {
+    "date": "Friday", 
+    "room": "518BC", 
+    "s_title": "Track 25: Economics & Markets (2)", 
+    "submissions": [
+      "3007", 
+      "169", 
+      "639", 
+      "3000"
+    ], 
+    "time": "11:00 - 12:30"
+  }, 
+  "Track_26A_Semantics_Big_Data_3_": {
+    "date": "Friday", 
+    "room": "519B", 
+    "s_title": "Track 26A: Semantics & Big Data (3)", 
+    "submissions": [
+      "3001", 
+      "261"
+    ], 
+    "time": "11:00 - 12:30"
+  }, 
+  "Track_26B_Social_Networks_Graph_Analysis_4_": {
+    "date": "Friday", 
+    "room": "517D", 
+    "s_title": "Track 26B: Social Networks & Graph Analysis (4)", 
+    "submissions": [
+      "581", 
+      "899"
+    ], 
+    "time": "11:00 - 12:30"
+  }, 
+  "Track_27A_Web_Mining_3_": {
+    "date": "Friday", 
+    "room": "521ABC", 
+    "s_title": "Track 27A: Web Mining (3)", 
+    "submissions": [
+      "638", 
+      "146"
+    ], 
+    "time": "14:00 - 15:30"
+  }, 
+  "Track_27B_Behaviour_Analysis_Personalization_4_": {
+    "date": "Friday", 
+    "room": "516DE", 
+    "s_title": "Track 27B: Behaviour Analysis & Personalization (4)", 
+    "submissions": [
+      "918", 
+      "215"
+    ], 
+    "time": "14:00 - 15:30"
+  }, 
+  "Track_28A_Web_Search_Systems_Applications_3_": {
+    "date": "Friday", 
+    "room": "518BC", 
+    "s_title": "Track 28A: Web Search Systems & Applications (3)", 
+    "submissions": [
+      "254", 
+      "448"
+    ], 
+    "time": "14:00 - 15:30"
+  }, 
+  "Track_28B_Security_Privacy_4_": {
+    "date": "Friday", 
+    "room": "519B", 
+    "s_title": "Track 28B: Security & Privacy (4)", 
+    "submissions": [
+      "401"
+    ], 
+    "time": "14:00 - 15:30"
+  }, 
+  "Track_29A_Content_Analysis_4_": {
+    "date": "Friday", 
+    "room": "516DE", 
+    "s_title": "Track 29A: Content Analysis (4)", 
+    "submissions": [
+      "626", 
+      "827"
+    ], 
+    "time": "14:00 - 15:30"
+  }, 
+  "Track_29B_Crowdsourcing_Systems_Social_Media_3_": {
+    "date": "Friday", 
+    "room": "521ABC", 
+    "s_title": "Track 29B: Crowdsourcing Systems & Social Media (3)", 
+    "submissions": [
+      "453", 
+      "539"
+    ], 
+    "time": "14:00 - 15:30"
+  }, 
+  "Track_2_Behaviour_Analysis_Personalization_1_": {
+    "date": "Wednesday", 
+    "room": "516C", 
+    "s_title": "Track 2: Behaviour Analysis & Personalization (1)", 
+    "submissions": [
+      "316", 
+      "723", 
+      "67", 
+      "92"
+    ], 
+    "time": "14:00 - 15:30"
+  }, 
+  "Track_30A_Mobility_2_": {
+    "date": "Friday", 
+    "room": "517D", 
+    "s_title": "Track 30A: Mobility (2)", 
+    "submissions": [
+      "396", 
+      "3002", 
+      "776"
+    ], 
+    "time": "14:00 - 15:10"
+  }, 
+  "Track_30B_Economics_Markets_3_": {
+    "date": "Friday", 
+    "room": "518BC", 
+    "s_title": "Track 30B: Economics & Markets (3)", 
+    "submissions": [
+      "1054"
+    ], 
+    "time": "15:10 - 15:30"
+  }, 
+  "Track_3_Security_Privacy_1_": {
+    "date": "Wednesday", 
+    "room": "521ABC", 
+    "s_title": "Track 3: Security & Privacy (1)", 
+    "submissions": [
+      "526", 
+      "18", 
+      "499", 
+      "531"
+    ], 
+    "time": "14:00 - 15:30"
+  }, 
+  "Track_4_Content_Analysis_1_": {
+    "date": "Wednesday", 
+    "room": "516DE", 
+    "s_title": "Track 4: Content Analysis (1)", 
+    "submissions": [
+      "769", 
+      "897", 
+      "1010"
+    ], 
+    "time": "14:00 - 15:30"
+  }, 
+  "Track_5_Economy_Markets_1_": {
+    "date": "Wednesday", 
+    "room": "518BC", 
+    "s_title": "Track 5: Economy & Markets (1)", 
+    "submissions": [
+      "374", 
+      "889", 
+      "598", 
+      "155"
+    ], 
+    "time": "14:00 - 15:30"
+  }, 
+  "Track_6_Semantics_Big_Data_1_": {
+    "date": "Thursday", 
+    "room": "517D", 
+    "s_title": "Track 6: Semantics & Big Data (1)", 
+    "submissions": [
+      "450", 
+      "201", 
+      "432", 
+      "501"
+    ], 
+    "time": "11:00 - 12:30"
+  }, 
+  "Track_7_Web_Mining_1_": {
+    "date": "Thursday", 
+    "room": "516C", 
+    "s_title": "Track 7: Web Mining (1)", 
+    "submissions": [
+      "235", 
+      "589", 
+      "708", 
+      "112"
+    ], 
+    "time": "11:00 - 12:30"
+  }, 
+  "Track_8_Security_Privacy_2_": {
+    "date": "Thursday", 
+    "room": "521ABC", 
+    "s_title": "Track 8: Security & Privacy (2)", 
+    "submissions": [
+      "336", 
+      "722", 
+      "757", 
+      "126"
+    ], 
+    "time": "11:00 - 12:30"
+  }, 
+  "Track_9_Content_Analysis_2_": {
+    "date": "Thursday", 
+    "room": "516DE", 
+    "s_title": "Track 9: Content Analysis (2)", 
+    "submissions": [
+      "1029", 
+      "856", 
+      "859", 
+      "488"
+    ], 
+    "time": "11:00 - 12:30"
+  }, 
+  "User_Fatigue_In_Online_News_Recommendation": {
+    "date": "Thursday", 
+    "room": "519B", 
+    "s_title": "User Fatigue In Online News Recommendation", 
+    "submissions": [
+      "2045"
+    ], 
+    "time": "11:00 - 12:30"
+  }, 
+  "Voting_With_Their_Feet_Inferring_User_Preferences_From_App_Management_Activities": {
+    "date": "Thursday", 
+    "room": "519B", 
+    "s_title": "Voting With Their Feet: Inferring User Preferences From App Management Activities", 
+    "submissions": [
+      "2044"
+    ], 
+    "time": "11:00 - 12:30"
+  }, 
+  "WIKI_Workshop_WWW": {
+    "date": "Tuesday", 
+    "room": "520C", 
+    "s_title": "WIKI Workshop @ WWW", 
+    "submissions": [
+      "2034", 
+      "2043"
+    ], 
+    "time": "9:00 - 12:30"
+  }, 
+  "Web_Science_And_Technology_For_Education_": {
+    "date": "Tuesday", 
+    "room": "518C", 
+    "s_title": "Web Science And Technology For Education ", 
+    "submissions": [
+      "2029", 
+      "2038"
+    ], 
+    "time": "9:00 - 12:30"
+  }, 
+  "Web_scale_Multimedia_Search_for_Internet_Video_Content": {
+    "date": "Thursday", 
+    "room": "519A", 
+    "s_title": "Web-scale Multimedia Search for Internet Video Content", 
+    "submissions": [
+      "2059"
+    ], 
+    "time": "14:00 - 15:30"
+  }, 
+  "Who_Benefits_From_The_Sharing_Economy_Of_AIRBNB_": {
+    "date": "Thursday", 
+    "room": "519B", 
+    "s_title": "Who Benefits From The \"Sharing\" Economy Of AIRBNB ?", 
+    "submissions": [
+      "2047"
+    ], 
+    "time": "14:00 -15:30"
+  }, 
+  "Workshop_On_Empirical_Research_Methods_In_Information_Security": {
+    "date": "Monday", 
+    "room": "520E", 
+    "s_title": "Workshop On Empirical Research Methods In Information Security", 
+    "submissions": [
+      "2017"
+    ], 
+    "time": "9:00 - 12:30"
+  }, 
+  "_MICROPOST2016_The_6th_Making_Sense_Of_Microposts_Workshop": {
+    "date": "Monday", 
+    "room": "520F", 
+    "s_title": "#MICROPOST2016 - The 6th 'Making Sense Of Microposts' Workshop", 
+    "submissions": [
+      "2009", 
+      "2018"
+    ], 
+    "time": "9:00 - 12:30"
+  }
+}

@@ -144,9 +144,10 @@ def prepare_data(data_file1):
     
     papers[paper_id]['abstract'] = paper_abstract
     if ';' in paper_authors:
-        papers[paper_id]['authors'] = [{'name': name.strip()} for name in paper_authors.split(';') if name.strip() != '']
+        papers[paper_id]['authors'] = [{'name': name.strip()} for name in paper_authors.strip('"').split(';') if name.strip() != '']
     else:
-        papers[paper_id]['authors'] = [{'name': name.strip()} for name in paper_authors.split(',') if name.strip() != '']
+        papers[paper_id]['authors'] = [{'name': name.strip()} for name in paper_authors.strip('"').split(',') if name.strip() != '']
+    print papers[paper_id]['authors']
     
     # prepare sessions data
     s_id = construct_id(session)

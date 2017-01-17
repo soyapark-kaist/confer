@@ -55,7 +55,7 @@ sessions={
       "481", 
       "109", 
       "383", 
-      ""
+      "a"
     ], 
     "time": "4:30 - 6:00"
   }, 
@@ -94,7 +94,7 @@ sessions={
       "640", 
       "406", 
       "254", 
-      ""
+      "e"
     ], 
     "time": "4:30 - 6:00"
   }, 
@@ -103,7 +103,7 @@ sessions={
     "room": "Exploratorium", 
     "s_title": "Conference Banquet", 
     "submissions": [
-      "31"
+      "1022"
     ], 
     "time": "7:00PM - 10:30PM"
   }, 
@@ -115,13 +115,13 @@ sessions={
       "356", 
       "429", 
       "328", 
-      ""
+      "b"
     ], 
     "time": "4:30 - 6:00"
   }, 
   "Crowd_Innovation_and_Crowdfunding_Chair_Brian_Bailey_University_of_Illinois": {
     "date": "Wednesday", 
-    "room": "Seacliff A/B", 
+    "room": "Marina", 
     "s_title": "Crowd Innovation and Crowdfunding - Chair: Brian Bailey, University of Illinois", 
     "submissions": [
       "562", 
@@ -131,10 +131,10 @@ sessions={
     ], 
     "time": "9:00 - 10:30"
   }, 
-  "Crowd_Powered_Applications_Chair_Dan_Russell_Google": {
+  "Crowd_Powered_Applications_Chair_Elizabeth_Churchill_Google": {
     "date": "Tuesday", 
     "room": "Bayview B", 
-    "s_title": "Crowd-Powered Applications - Chair: Dan Russell, Google", 
+    "s_title": "Crowd-Powered Applications - Chair: Elizabeth Churchill, Google", 
     "submissions": [
       "283", 
       "714", 
@@ -145,7 +145,7 @@ sessions={
   }, 
   "Crowd_Workers_Chair_Ido_Guy_Yahoo_Labs": {
     "date": "Monday", 
-    "room": "Seacliff A/B", 
+    "room": "Seacliff C/D", 
     "s_title": "Crowd Workers - Chair: Ido Guy, Yahoo! Labs", 
     "submissions": [
       "568", 
@@ -185,6 +185,45 @@ sessions={
     ], 
     "time": "9:00 - 5:00"
   }, 
+  "Demos": {
+    "date": "Monday", 
+    "room": "Grand Ballroom A & Grand Foyer", 
+    "s_title": "Demos", 
+    "submissions": [
+      "84", 
+      "85", 
+      "86", 
+      "87", 
+      "88", 
+      "89", 
+      "90", 
+      "91", 
+      "92", 
+      "93", 
+      "94", 
+      "95", 
+      "96", 
+      "97", 
+      "98", 
+      "99", 
+      "1000", 
+      "1001", 
+      "1002", 
+      "1003", 
+      "1004", 
+      "1005", 
+      "1006", 
+      "1007", 
+      "1008", 
+      "1009", 
+      "1010", 
+      "1011", 
+      "1012", 
+      "1013", 
+      "1014"
+    ], 
+    "time": "6:00-8:00"
+  }, 
   "Designing_online_experiments_Citizen_science_approaches_to_research": {
     "date": "Saturday", 
     "room": "Bayview A", 
@@ -206,7 +245,7 @@ sessions={
   "Digital_Learning_Environments_Chair_Michael_Prilla_Ruhr_University_of_Bochum": {
     "date": "Monday", 
     "room": "Bayview A", 
-    "s_title": "Digital Learning Environments  - Chair: Michael Prilla, Ruhr University of Bochum", 
+    "s_title": "Digital Learning Environments  - Chair: Rosta Farzan, University of Pittsburgh", 
     "submissions": [
       "276", 
       "756", 
@@ -286,7 +325,7 @@ sessions={
   }, 
   "Food_and_Health_Chair_Yunan_Chen_University_of_California_Irvine": {
     "date": "Tuesday", 
-    "room": "Seacliff A/B", 
+    "room": "Bayview A", 
     "s_title": "Food and Health - Chair: Yunan Chen, University of California Irvine", 
     "submissions": [
       "300", 
@@ -322,7 +361,7 @@ sessions={
   }, 
   "Healthcare_Providers_Chair_Michael_Muller_IBM": {
     "date": "Tuesday", 
-    "room": "Seacliff A/B", 
+    "room": "Marina", 
     "s_title": "Healthcare Providers - Chair: Michael Muller, IBM", 
     "submissions": [
       "395", 
@@ -334,7 +373,7 @@ sessions={
   }, 
   "Home_and_Family_Chair_Lauren_Scissors_Facebook": {
     "date": "Wednesday", 
-    "room": "Seacliff A/B", 
+    "room": "Marina", 
     "s_title": "Home and Family - Chair: Lauren Scissors, Facebook", 
     "submissions": [
       "284", 
@@ -364,7 +403,7 @@ sessions={
       "452", 
       "335", 
       "232", 
-      ""
+      "d"
     ], 
     "time": "4:30 - 6:00"
   }, 
@@ -382,7 +421,7 @@ sessions={
     "room": "Grand Ballroom A", 
     "s_title": "Lasting Impact Plenary Session", 
     "submissions": [
-      "29"
+      "1020"
     ], 
     "time": "4:30 - 5:30"
   }, 
@@ -403,7 +442,7 @@ sessions={
       "546", 
       "449", 
       "458", 
-      ""
+      "c"
     ], 
     "time": "4:30 - 6:00"
   }, 
@@ -433,7 +472,7 @@ sessions={
   }, 
   "Monday_Afternoon_Coffee_Break": {
     "date": "Monday", 
-    "room": "Seacliff Foyer", 
+    "room": "Grand Foyer", 
     "s_title": "Monday Afternoon Coffee Break", 
     "submissions": [
       "23"
@@ -451,7 +490,7 @@ sessions={
   }, 
   "Monday_Morning_Coffee_Break": {
     "date": "Monday", 
-    "room": "Seacliff Foyer", 
+    "room": "Grand Foyer", 
     "s_title": "Monday Morning Coffee Break", 
     "submissions": [
       "21"
@@ -541,10 +580,10 @@ sessions={
   }, 
   "Panel_Constantly_connected_At_what_price_and_with_what_rewards_": {
     "date": "Wednesday", 
-    "room": "Marina", 
+    "room": "Seacliff A/B", 
     "s_title": "Panel: Constantly connected:  At what price and with what rewards?", 
     "submissions": [
-      "40"
+      "1031"
     ], 
     "time": "9:00 - 10:30"
   }, 
@@ -553,25 +592,25 @@ sessions={
     "room": "Seacliff A/B", 
     "s_title": "Panel: Does the Sharing Economy do any Good?", 
     "submissions": [
-      "38"
+      "1029"
     ], 
     "time": "11:00 - 12:30"
   }, 
   "Panel_Innovations_in_autonomous_systems_Challenges_and_opportunities_for_human_agent_collaboration": {
     "date": "Tuesday", 
-    "room": "Marina", 
+    "room": "Seacliff A/B", 
     "s_title": "Panel: Innovations in autonomous systems: Challenges and opportunities for human-agent collaboration", 
     "submissions": [
-      "37"
+      "1028"
     ], 
     "time": "9:00 - 10:30"
   }, 
   "Panel_Practice_based_CSCW_Research_ECSCW_bridging_across_the_Atlantic": {
     "date": "Wednesday", 
-    "room": "Marina", 
+    "room": "Seacliff A/B", 
     "s_title": "Panel: Practice-based CSCW Research: ECSCW bridging across the Atlantic", 
     "submissions": [
-      "41"
+      "1032"
     ], 
     "time": "2:30 - 4:00"
   }, 
@@ -580,25 +619,25 @@ sessions={
     "room": "Seacliff A/B", 
     "s_title": "Panel: Robots As Cooperative Partners... We Hope... ", 
     "submissions": [
-      "36"
+      "1027"
     ], 
     "time": "2:30 - 4:00"
   }, 
   "Panel_Visibility_in_Digital_Space_Controlling_Personal_Information_Online": {
     "date": "Monday", 
-    "room": "Seacliff C/D", 
+    "room": "Seacliff A/B", 
     "s_title": "Panel: Visibility in Digital Space: Controlling Personal Information Online", 
     "submissions": [
-      "35"
+      "1026"
     ], 
     "time": "11:00 - 12:30"
   }, 
   "Panel_What_did_we_get_right_and_wrong_about_CSCW_during_the_past_30_years_": {
     "date": "Tuesday", 
-    "room": "Bayview A", 
+    "room": "Seacliff A/B", 
     "s_title": "Panel: What did we get right and wrong about CSCW during the past 30 years?", 
     "submissions": [
-      "39"
+      "1030"
     ], 
     "time": "2:30 - 4:00"
   }, 
@@ -614,14 +653,73 @@ sessions={
     ], 
     "time": "9:00 - 10:30"
   }, 
-  "Poster_Demo_Reception": {
+  "Posters": {
     "date": "Monday", 
     "room": "Grand Ballroom A & Grand Foyer", 
-    "s_title": "Poster & Demo Reception", 
+    "s_title": "Posters", 
     "submissions": [
-      "24"
+      "24", 
+      "25", 
+      "26", 
+      "27", 
+      "28", 
+      "29", 
+      "30", 
+      "31", 
+      "32", 
+      "33", 
+      "34", 
+      "35", 
+      "36", 
+      "37", 
+      "38", 
+      "39", 
+      "40", 
+      "41", 
+      "42", 
+      "43", 
+      "44", 
+      "45", 
+      "46", 
+      "47", 
+      "48", 
+      "49", 
+      "50", 
+      "51", 
+      "52", 
+      "53", 
+      "54", 
+      "55", 
+      "56", 
+      "57", 
+      "58", 
+      "59", 
+      "60", 
+      "61", 
+      "62", 
+      "63", 
+      "64", 
+      "65", 
+      "66", 
+      "67", 
+      "68", 
+      "69", 
+      "70", 
+      "71", 
+      "72", 
+      "73", 
+      "74", 
+      "75", 
+      "76", 
+      "77", 
+      "78", 
+      "79", 
+      "80", 
+      "81", 
+      "82", 
+      "83"
     ], 
-    "time": "6:00 - 8:00PM"
+    "time": "6:00-8:00"
   }, 
   "Relationships_and_Romance_Chair_Andrea_Parker_Northeastern_University": {
     "date": "Monday", 
@@ -642,8 +740,7 @@ sessions={
     "submissions": [
       "305", 
       "332", 
-      "385", 
-      ""
+      "385"
     ], 
     "time": "2:30 - 4:00"
   }, 
@@ -658,15 +755,6 @@ sessions={
       "407"
     ], 
     "time": "2:30 - 4:00"
-  }, 
-  "Sponsored_Hospitality_Receptions": {
-    "date": "Monday", 
-    "room": "Specifics TBA at conference opening", 
-    "s_title": "Sponsored Hospitality Receptions", 
-    "submissions": [
-      "25"
-    ], 
-    "time": "8:00PM - 10:30PM"
   }, 
   "Toward_a_Typology_of_Participation_in_Crowdwork": {
     "date": "Sunday", 
@@ -694,16 +782,16 @@ sessions={
     "room": "Grand Ballroom A", 
     "s_title": "Town Hall Meeting", 
     "submissions": [
-      "30"
+      "1021"
     ], 
-    "time": "5:30 - 6:00"
+    "time": "5:30 - 6:15"
   }, 
   "Tuesday_Afternoon_Coffee_Break": {
     "date": "Tuesday", 
-    "room": "Seacliff Foyer", 
+    "room": "Grand Foyer", 
     "s_title": "Tuesday Afternoon Coffee Break", 
     "submissions": [
-      "28"
+      "1019"
     ], 
     "time": "4:00 - 4:30"
   }, 
@@ -712,16 +800,16 @@ sessions={
     "room": "", 
     "s_title": "Tuesday Lunch", 
     "submissions": [
-      "27"
+      "1018"
     ], 
     "time": "12:30 - 2:30"
   }, 
   "Tuesday_Morning_Coffee_Break": {
     "date": "Tuesday", 
-    "room": "Seacliff Foyer", 
+    "room": "Grand Foyer", 
     "s_title": "Tuesday Morning Coffee Break", 
     "submissions": [
-      "26"
+      "1017"
     ], 
     "time": "10:30 - 11:00"
   }, 
@@ -739,10 +827,10 @@ sessions={
   }, 
   "Wednesday_Afternoon_Coffee_Break": {
     "date": "Wednesday", 
-    "room": "Seacliff Foyer", 
+    "room": "Grand Foyer", 
     "s_title": "Wednesday Afternoon Coffee Break", 
     "submissions": [
-      "34"
+      "1025"
     ], 
     "time": "4:00 - 4:30"
   }, 
@@ -751,22 +839,22 @@ sessions={
     "room": "", 
     "s_title": "Wednesday Lunch", 
     "submissions": [
-      "33"
+      "1024"
     ], 
     "time": "12:30 - 2:30"
   }, 
   "Wednesday_Morning_Coffee_Break": {
     "date": "Wednesday", 
-    "room": "Seacliff Foyer", 
+    "room": "Grand Foyer", 
     "s_title": "Wednesday Morning Coffee Break", 
     "submissions": [
-      "32"
+      "1023"
     ], 
     "time": "10:30 - 11:00"
   }, 
   "Welcome_Reception": {
     "date": "Sunday", 
-    "room": "Hyatt Regency", 
+    "room": "Atrium 3 & 4", 
     "s_title": "Welcome Reception", 
     "submissions": [
       "18"

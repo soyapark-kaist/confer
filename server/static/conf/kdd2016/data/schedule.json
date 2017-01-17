@@ -1,0 +1,503 @@
+schedule=[
+  {
+    "date": "08/13/2016", 
+    "day": "Saturday", 
+    "slots": [
+      {
+        "sessions": [
+          {
+            "room": "Plaza Room A/B", 
+            "session": "Tutorial_Enabling_the_Discovery_of_Reliable_Information_from_Passively_and_Actively_Crowdsourced_Data"
+          }, 
+          {
+            "room": "Imperial Ballroom", 
+            "session": "Tutorial_Business_Applications_of_Predictive_Modeling_at_Scale"
+          }, 
+          {
+            "room": "Continental 6-8", 
+            "session": "Tutorial_Algorithmic_Bias_From_Discrimination_Discovery_to_Fairness_aware_Data_Mining"
+          }, 
+          {
+            "room": "Continental 1-4", 
+            "session": "Tutorial_Collective_Sensemaking_via_Social_Sensors_Extracting_Profiling_Analyzing_and_Predicting_Real_world_Events"
+          }, 
+          {
+            "room": "Grand Ballroom Salon A", 
+            "session": "Tutorial_Extracting_Optimal_Performance_from_Dynamic_Time_Warping"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "Saturday8_00_12_00", 
+        "time": "8:00 - 12:00"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Continental 1-4", 
+            "session": "Tutorial_Lifelong_Machine_Learning_and_Computer_Reading_the_Web"
+          }, 
+          {
+            "room": "Grand Ballroom Salon A", 
+            "session": "Tutorial_IoT_Big_Data_Stream_Mining"
+          }, 
+          {
+            "room": "Continental 5", 
+            "session": "Tutorial_Healthcare_Data_Mining_with_Matrix_Models"
+          }, 
+          {
+            "room": "Imperial Ballroom", 
+            "session": "Tutorial_Scalable_Learning_of_Graphical_Models"
+          }, 
+          {
+            "room": "Plaza Room A/B", 
+            "session": "Tutorial_Leveraging_Propagation_for_Data_Mining_Models_Algorithms_and_Applications"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "Saturday13_00_17_00", 
+        "time": "13:00 - 17:00"
+      }
+    ]
+  }, 
+  {
+    "date": "08/14/2016", 
+    "day": "Sunday", 
+    "slots": [
+      {
+        "sessions": [
+          {
+            "room": "Plaza Room A/B", 
+            "session": "Workshop_Mining_and_Learning_with_Graphs"
+          }, 
+          {
+            "room": "Union Square 15/16", 
+            "session": "Workshop_The_5th_International_Workshop_on_Urban_Computing"
+          }, 
+          {
+            "room": "Imperial Ballroom", 
+            "session": "Workshop_Mining_and_Learning_from_Time_Series"
+          }, 
+          {
+            "room": "Embarcadero - Parc 55", 
+            "session": "Workshop_Interactive_Data_Exploration_and_Analytics"
+          }, 
+          {
+            "room": "Market - Parc 55", 
+            "session": "Workshop_Data_Science_for_Food_Energy_and_Water"
+          }, 
+          {
+            "room": "Franciscan A/B", 
+            "session": "Workshop_Large_Scale_Sports_Analytics"
+          }, 
+          {
+            "room": "Union Square 23/24", 
+            "session": "Workshop_KDD_Cup_2016_Towards_Measuring_the_Impact_of_Research_Institutions"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "Sunday8_00_17_00", 
+        "time": "8:00 - 17:00"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Mission - Parc 55", 
+            "session": "Workshop_Workshop_on_Issues_of_Sentiment_Discovery_and_Opinion_Mining"
+          }, 
+          {
+            "room": "Franciscan C/D", 
+            "session": "Workshop_Machine_Learning_for_Large_Scale_Transportation_Systems"
+          }, 
+          {
+            "room": "Yosemite A/B/C", 
+            "session": "Workshop_5th_International_Workshop_on_Big_Data_Streams_and_Heterogeneous_Source_Mining"
+          }, 
+          {
+            "room": "Cyril Magnin - Park 55", 
+            "session": "Workshop_2016_Workshop_on_Large_Scale_Deep_Learning_for_Data_Mining"
+          }, 
+          {
+            "room": "Union Square 22", 
+            "session": "Workshop_Enterprise_Intelligence"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "Sunday8_00_12_00", 
+        "time": "8:00 - 12:00"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Yosemite A/B/C", 
+            "session": "Workshop_KDD_Workshop_on_Causal_Discovery"
+          }, 
+          {
+            "room": "Franciscan C/D", 
+            "session": "Workshop_Machine_Learning_Meets_Fashion_Data_Algorithms_and_Analytics_for_the_Fashion_Industry"
+          }, 
+          {
+            "room": "Union Square 22", 
+            "session": "Workshop_15th_International_Workshop_on_Data_Mining_in_Bioinformatics_BioKDD_"
+          }, 
+          {
+            "room": "Cyril Magnin - Parc 55", 
+            "session": "Workshop_Outlier_Definition_Detection_and_Description_On_Demand"
+          }, 
+          {
+            "room": "Mission - Parc 55", 
+            "session": "Workshop_Machine_Learning_for_Prognostics_and_Health_Management"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "Sunday13_00_17_00", 
+        "time": "13:00 - 17:00"
+      }
+    ]
+  }, 
+  {
+    "date": "08/15/2016", 
+    "day": "Monday", 
+    "slots": [
+      {
+        "sessions": [
+          {
+            "room": "Grand Ballroom", 
+            "session": "Keynote_Graphons_and_Machine_Learning_Modeling_and_Estimation_of_Sparse_Massive_Networks"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "Monday8_00_9_30", 
+        "time": "8:00 - 9:30"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Market - Parc 55", 
+            "session": "Tutorial_Hands_On_Tutorial_Recommender_Systems"
+          }, 
+          {
+            "room": "Embarcadero - Parc 55", 
+            "session": "Tutorial_Hands_On_Tutorial_Big_Natural_Language_Data_Processing"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "Monday9_00_12_00", 
+        "time": "9:00 - 12:00"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Yosemite A/B/C", 
+            "session": "Applied_Data_Science_Invited_Talks_1"
+          }, 
+          {
+            "room": "Plaza Room A/B", 
+            "session": "Graphs_and_Rich_Data"
+          }, 
+          {
+            "room": "Imperial Ballroom", 
+            "session": "Large_Scale_Data_Mining"
+          }, 
+          {
+            "room": "Cyril Magnin - Parc 55", 
+            "session": "Social_Good_1"
+          }
+        ], 
+        "slot_class": "morning2", 
+        "slot_id": "Monday10_00_12_00", 
+        "time": "10:00 - 12:00"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Grand Ballroom", 
+            "session": "Keynote_People_Computers_and_The_Hot_Mess_of_Real_Data"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "Monday12_15_13_30", 
+        "time": "12:15 - 13:30"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Market - Parc 55", 
+            "session": "Tutorial_Hands_On_Tutorial_MXNet"
+          }, 
+          {
+            "room": "Embarcadero - Parc 55", 
+            "session": "Tutorial_Hands_On_Tutorial_Spark_2_0"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "Monday13_00_17_00", 
+        "time": "13:00 - 17:00"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Union Square 22", 
+            "session": "China_KDD_Chapter"
+          }, 
+          {
+            "room": "Union Square 15/16", 
+            "session": "India_KDD_Chapter"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "Monday13_45_18_15", 
+        "time": "13:45 - 18:15"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Yosemite A/B/C", 
+            "session": "Panel_Is_Deep_Learning_the_New_42_Panel_with_Andrei_Broder"
+          }, 
+          {
+            "room": "Imperial Ballroom", 
+            "session": "Streams_and_Temporal_Evolution_I"
+          }, 
+          {
+            "room": "Plaza Room A/B", 
+            "session": "Graphs_and_Social_Networks_I"
+          }, 
+          {
+            "room": "Cyril Magnin - Parc 55", 
+            "session": "Social_Good_2"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "Monday13_45_15_45", 
+        "time": "13:45 - 15:45"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Yosemite A/B/C", 
+            "session": "Applied_Data_Science_Invited_Talks_2"
+          }, 
+          {
+            "room": "Plaza Room A/B", 
+            "session": "Graphs_and_Social_Networks_II"
+          }, 
+          {
+            "room": "Cyril Magnin - Parc 55", 
+            "session": "Miscellaneous_Topics"
+          }, 
+          {
+            "room": "Imperial Ballroom", 
+            "session": "Streams_and_Temporal_Evolution_II"
+          }
+        ], 
+        "slot_class": "afternoon2", 
+        "slot_id": "Monday16_15_18_15", 
+        "time": "16:15 - 18:15"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Golden Gate", 
+            "session": "Poster"
+          }
+        ], 
+        "slot_class": "evening", 
+        "slot_id": "Monday19_00_0_00", 
+        "time": "19:00 - 0:00"
+      }
+    ]
+  }, 
+  {
+    "date": "08/16/2016", 
+    "day": "Tuesday", 
+    "slots": [
+      {
+        "sessions": [
+          {
+            "room": "Grand Ballroom", 
+            "session": "Keynote_A_VC_View_of_Investing_in_ML"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "Tuesday8_00_9_30", 
+        "time": "8:00 - 9:30"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Market - Parc 55", 
+            "session": "Tutorial_Hands_on_Tutorial_AWS"
+          }, 
+          {
+            "room": "Embarcadero - Parc 55", 
+            "session": "Tutorial_Hands_on_Tutorial_CNTK_Microsoft_s_Open_Source_Deep_Learning_Toolkit"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "Tuesday9_00_12_00", 
+        "time": "9:00 - 12:00"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Union Square 15/16", 
+            "session": "Data_Mining_Group"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "Tuesday9_30_12_30", 
+        "time": "9:30 - 12:30"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Yosemite A/B/C", 
+            "session": "Applied_Data_Science_Invited_Talks_3"
+          }, 
+          {
+            "room": "Plaza Room A/B", 
+            "session": "Clustering"
+          }, 
+          {
+            "room": "Imperial Ballroom", 
+            "session": "Deep_Learning_and_Embedding"
+          }, 
+          {
+            "room": "Cyril Magnin - Parc 55", 
+            "session": "Recommendations_Ranking"
+          }
+        ], 
+        "slot_class": "morning2", 
+        "slot_id": "Tuesday10_00_12_00", 
+        "time": "10:00 - 12:00"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Grand Ballroom", 
+            "session": "KDD_2016_Business_Lunch"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "Tuesday12_15_13_30", 
+        "time": "12:15 - 13:30"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Cyril Magnin - Parc 55", 
+            "session": "Social_Networks_Social_Media"
+          }, 
+          {
+            "room": "Plaza Room A/B", 
+            "session": "Unsupervised_Learning_and_Anomaly_Detection"
+          }, 
+          {
+            "room": "Imperial Ballroom", 
+            "session": "Recommender_Systems"
+          }, 
+          {
+            "room": "Yosemite A/B/C", 
+            "session": "Panel_Big_Data_Needs_Big_Dreamers_Lessons_from_Successful_Big_Data_Investors"
+          }, 
+          {
+            "room": "Yosemite A/B/C", 
+            "session": "Panel_Can_Tools_Effectively_Unleash_the_Power_of_Big_Data_"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "Tuesday13_45_15_45", 
+        "time": "13:45 - 15:45"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Grand Ballroom", 
+            "session": "Keynote_The_Evolving_Meaning_of_Information_Security"
+          }
+        ], 
+        "slot_class": "afternoon2", 
+        "slot_id": "Tuesday16_15_18_15", 
+        "time": "16:15 - 18:15"
+      }
+    ]
+  }, 
+  {
+    "date": "08/17/2016", 
+    "day": "Wednesday", 
+    "slots": [
+      {
+        "sessions": [
+          {
+            "room": "Grand Ballroom", 
+            "session": "Keynote_Learning_to_Learn_and_Compositionality_with_Deep_Recurrent_Neural_Networks"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "Wednesday8_00_9_30", 
+        "time": "8:00 - 9:30"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Embarcadero - Parc 55", 
+            "session": "Tutorial_Hand_on_Tutorial_R_on_Spark"
+          }, 
+          {
+            "room": "Market - Parc 55", 
+            "session": "Tutorial_Hands_on_Tutorial_Streaming_Analytics"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "Wednesday9_00_12_00", 
+        "time": "9:00 - 12:00"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Yosemite A/B/C", 
+            "session": "Applied_Data_Science_Invited_Talks_5"
+          }, 
+          {
+            "room": "Cyril Magnin - Parc 55", 
+            "session": "Machine_Learning_Algorithms"
+          }, 
+          {
+            "room": "Plaza Room A/B", 
+            "session": "Supervised_Learning"
+          }, 
+          {
+            "room": "Imperial Ballroom", 
+            "session": "Sequence_Mining"
+          }
+        ], 
+        "slot_class": "morning2", 
+        "slot_id": "Wednesday10_00_12_00", 
+        "time": "10:00 - 12:00"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Plaza Room A/B", 
+            "session": "User_Behavior_Modeling"
+          }, 
+          {
+            "room": "Imperial Ballroom", 
+            "session": "Optimization"
+          }, 
+          {
+            "room": "Cyril Magnin - Parc 55", 
+            "session": "Systems_Experimentation"
+          }, 
+          {
+            "room": "Yosemite A/B/C", 
+            "session": "E_Commerce"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "Wednesday13_00_15_00", 
+        "time": "13:00 - 15:00"
+      }
+    ]
+  }
+]

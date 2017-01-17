@@ -1,0 +1,1352 @@
+schedule=[
+  {
+    "date": "07/09/2016", 
+    "day": "Saturday", 
+    "slots": [
+      {
+        "sessions": [
+          {
+            "room": "Beekman Parlor", 
+            "session": "Tutorial_Bitcoin_a_Basic_Tutorial_on_Decentralized_Digital_Currencies"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "7_9_201608_45_10_30", 
+        "time": "08:45-10:30"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Bryant", 
+            "session": "Workshop_Computer_Games_Workshop"
+          }, 
+          {
+            "room": "Holland", 
+            "session": "Workshop_4th_Workshop_on_Artificial_Intelligence_for_Knowledge_Management"
+          }, 
+          {
+            "room": "Clinton", 
+            "session": "Workshop_Multidisciplinary_Workshop_on_Advances_in_Preference_Handling"
+          }, 
+          {
+            "room": "Gibson", 
+            "session": "Workshop_BOOM_International_Workshop_on_Biomedical_informatics_with_Optimization_and_Machine_learning"
+          }, 
+          {
+            "room": "Madison", 
+            "session": "Workshop_Ethics_for_Artificial_Intelligence"
+          }, 
+          {
+            "room": "Green", 
+            "session": "Workshop_CMNA_16_The_16th_Workshop_on_Computational_Models_of_Natural_Argument"
+          }, 
+          {
+            "room": "Nassau West", 
+            "session": "Workshop_Bridging_the_Gap_between_Human_and_Automated_Reasoning"
+          }, 
+          {
+            "room": "Nassau East", 
+            "session": "Workshop_Interactive_Machine_Learning_Connecting_Humans_and_Machines"
+          }, 
+          {
+            "room": "Morgan", 
+            "session": "Workshop_Workshop_on_Goal_Reasoning"
+          }, 
+          {
+            "room": "Lincoln", 
+            "session": "Workshop_2nd_International_Workshop_on_Social_Influence_Analysis_SocInf_2016_"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "7_9_201608_30_17_30", 
+        "time": "08:30-17:30"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "New York", 
+            "session": "Workshop_Workshop_on_Scholarly_Big_Data_AI_Perspectives_Challenges_and_Ideas"
+          }, 
+          {
+            "room": "East", 
+            "session": "Workshop_Language_Sense_on_Computers"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "7_9_201608_30_12_30", 
+        "time": "08:30-12:30"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Sutton Center", 
+            "session": "Tutorial_Belief_functions_for_the_working_scientist"
+          }, 
+          {
+            "room": "Sutton South", 
+            "session": "Tutorial_Optimality_in_Robot_Motion_and_Action"
+          }, 
+          {
+            "room": "Regent Parlor", 
+            "session": "Tutorial_Deep_Learning_and_Continuous_Representations_for_NLP"
+          }, 
+          {
+            "room": "Sutton North", 
+            "session": "Tutorial_Information_theoretic_Ideas_in_Machine_Learning"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "7_9_201608_45_12_45", 
+        "time": "08:45-12:45"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Beekman Parlor", 
+            "session": "Tutorial_The_Internet_of_Things_and_Multiagent_Systems"
+          }
+        ], 
+        "slot_class": "morning2", 
+        "slot_id": "7_9_201611_00_12_45", 
+        "time": "11:00-12:45"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Regent Parlor", 
+            "session": "Tutorial_Multidimensional_Text_Clustering_for_Hierarchical_Topic_Detection"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "7_9_201613_45_15_30", 
+        "time": "13:45-15:30"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Hudson", 
+            "session": "Workshop_Workshop_on_Human_Language_Technology_and_Intelligent_Applications"
+          }, 
+          {
+            "room": "East", 
+            "session": "Workshop_Workshop_on_AI_for_Synthetic_Biology"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "7_9_201613_30_17_30", 
+        "time": "13:30-17:30"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Sutton South", 
+            "session": "Tutorial_How_Computers_Read_the_Web"
+          }, 
+          {
+            "room": "Beekman Parlor", 
+            "session": "Tutorial_Organ_Exchanges_A_Success_Story_of_AI_in_Healthcare"
+          }, 
+          {
+            "room": "Sutton Center", 
+            "session": "Tutorial_Reasoning_with_Description_Logics"
+          }, 
+          {
+            "room": "Sutton North", 
+            "session": "Tutorial_Statistical_Relational_AI_Logic_Probability_Computation"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "7_9_201613_45_17_45", 
+        "time": "13:45-17:45"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Regent Parlor", 
+            "session": "Tutorial_Affect_Detection_from_Spoken_and_Written_Text_Computational_Models_for_Affect_and_Sentiment_Analysis"
+          }
+        ], 
+        "slot_class": "afternoon2", 
+        "slot_id": "7_9_201616_00_17_45", 
+        "time": "16:00-17:45"
+      }
+    ]
+  }, 
+  {
+    "date": "07/10/2016", 
+    "day": "Sunday", 
+    "slots": [
+      {
+        "sessions": [
+          {
+            "room": "Beekman Parlor", 
+            "session": "Tutorial_Eliciting_high_quality_information"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "7_10_201608_45_10_30", 
+        "time": "08:45-10:30"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Nassau East", 
+            "session": "Workshop_Deep_Learning_for_Artificial_Intelligence_DL_"
+          }, 
+          {
+            "room": "Nassau West", 
+            "session": "Workshop_Knowledge_Discovery_in_Healthcare_Data"
+          }, 
+          {
+            "room": "Gibson", 
+            "session": "Workshop_BEYONDLABELLER_Human_is_More_Than_a_Labeller"
+          }, 
+          {
+            "room": "Madison", 
+            "session": "Workshop_9th_International_Workshop_on_Agents_in_Traffic_and_Transportation_ATT_2016_"
+          }, 
+          {
+            "room": "East", 
+            "session": "Workshop_Second_International_Workshop_on_Multi_Agent_Path_Finding"
+          }, 
+          {
+            "room": "Bryant", 
+            "session": "Workshop_5th_International_General_Game_Playing_Workshop"
+          }, 
+          {
+            "room": "Clinton", 
+            "session": "Workshop_Computational_modeling_of_attitudes_4th_Workshop_on_Sentiment_Analysis_where_AI_meets_Psychology_SAAIP_2016_"
+          }, 
+          {
+            "room": "Morgan", 
+            "session": "Workshop_Knowledge_based_techniques_for_problem_solving_and_reasoning"
+          }, 
+          {
+            "room": "Lincoln", 
+            "session": "Workshop_Natural_Language_Processing_Meets_Journalism"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "7_10_201608_30_17_30", 
+        "time": "08:30-17:30"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Green", 
+            "session": "Workshop_Semantic_Machine_Learning"
+          }, 
+          {
+            "room": "Hudson", 
+            "session": "Workshop_Argumentation_in_Logic_Programming_and_Non_Monotonic_Reasoning_Arg_LPNMR_"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "7_10_201608_30_12_30", 
+        "time": "08:30-12:30"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Sutton Center", 
+            "session": "Tutorial_Rulelog_Rule_based_Knowledge_Representation_and_Reasoning"
+          }, 
+          {
+            "room": "Regent Parlor", 
+            "session": "Tutorial_Programming_by_Optimization_A_Practical_Paradigm_for_Computer_Aided_Algorithm_Design"
+          }, 
+          {
+            "room": "Sutton North", 
+            "session": "Tutorial_Lifted_Probabilistic_Inference_in_Relational_Models"
+          }, 
+          {
+            "room": "Sutton South", 
+            "session": "Tutorial_Symbolic_and_structural_models_for_image_understanding"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "7_10_201608_45_12_45", 
+        "time": "08:45-12:45"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Beekman Parlor", 
+            "session": "Tutorial_Argument_and_Cognition"
+          }
+        ], 
+        "slot_class": "morning2", 
+        "slot_id": "7_10_201611_00_12_45", 
+        "time": "11:00-12:45"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Green", 
+            "session": "Workshop_Agent_Mediated_Electronic_Commerce_AMEC_TADA_"
+          }, 
+          {
+            "room": "Hudson", 
+            "session": "Workshop_Fourth_IJCAI_Workshop_on_Heterogeneous_Information_Network_Analysis"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "7_10_201613_30_17_30", 
+        "time": "13:30-17:30"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Sutton Complex", 
+            "session": "Tutorial_New_Advances_in_Combinatorial_Optimization_for_Graphical_Models"
+          }, 
+          {
+            "room": "Beekman Parlor", 
+            "session": "Tutorial_Generating_Synthetic_Populations_for_Social_Modeling"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "7_10_201613_45_15_30", 
+        "time": "13:45-15:30"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Sutton Center", 
+            "session": "Tutorial_AI_for_Smarter_Cities"
+          }, 
+          {
+            "room": "Regent Parlor", 
+            "session": "Tutorial_Scalable_Big_Data_Programming_Models_for_AI"
+          }, 
+          {
+            "room": "Sutton South", 
+            "session": "Tutorial_Spatio_Temporal_Stream_Reasoning_for_Safe_Autonomous_Systems"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "7_10_201613_45_17_45", 
+        "time": "13:45-17:45"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Sutton North", 
+            "session": "Tutorial_Scalable_learning_of_graphical_models"
+          }, 
+          {
+            "room": "Beekman Parlor", 
+            "session": "Tutorial_If_Turing_had_lived_longer_how_might_he_have_investigated_what_AI_and_Philosophy_can_learn_from_evolved_information_processing_systems_"
+          }
+        ], 
+        "slot_class": "afternoon2", 
+        "slot_id": "7_10_201616_00_17_45", 
+        "time": "16:00-17:45"
+      }
+    ]
+  }, 
+  {
+    "date": "07/11/2016", 
+    "day": "Monday", 
+    "slots": [
+      {
+        "sessions": [
+          {
+            "room": "Sutton North", 
+            "session": "Tutorial_Pattern_Recognition_on_Random_Graphs"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "7_11_201608_45_10_30", 
+        "time": "08:45-10:30"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Green", 
+            "session": "Workshop_Advances_in_Bioinformatics_and_Artificial_Intelligence_Bridging_the_Gap"
+          }, 
+          {
+            "room": "Lincoln", 
+            "session": "Workshop_29th_International_Workshop_on_Qualitative_Reasoning"
+          }, 
+          {
+            "room": "Nassau West", 
+            "session": "Workshop_Statistical_Relational_AI_StarAI_"
+          }, 
+          {
+            "room": "Nassau East", 
+            "session": "Workshop_Deep_Reinforcement_Learning_Frontiers_and_Challenges"
+          }, 
+          {
+            "room": "East", 
+            "session": "Workshop_Fourth_International_Workshop_on_Natural_Language_Processing_for_Social_Media_SocialNLP_2016_"
+          }, 
+          {
+            "room": "Morgan", 
+            "session": "Workshop_Autonomous_Mobile_Service_Robots"
+          }, 
+          {
+            "room": "Madison", 
+            "session": "Workshop_Fifth_International_Workshop_on_Human_Agent_Interaction_Design_and_Models_HAIDM_"
+          }, 
+          {
+            "room": "Bryant", 
+            "session": "Workshop_Algorithmic_Game_Theory_IJCAI_Workshop"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "7_11_201608_30_17_30", 
+        "time": "08:30-17:30"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Hudson", 
+            "session": "Workshop_Interactions_with_Mixed_Agent_Types"
+          }, 
+          {
+            "room": "Clinton", 
+            "session": "Workshop_Cognitive_Knowledge_Acquisition_and_Applications_Cognitum_2016_"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "7_11_201608_30_12_30", 
+        "time": "08:30-12:30"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Regent Parlor", 
+            "session": "Tutorial_Coreference_Resolution_Recent_Successes_and_Future_Directions"
+          }, 
+          {
+            "room": "Sutton Center", 
+            "session": "Tutorial_Methodologies_for_Ontology_Based_Data_Access_Applications"
+          }, 
+          {
+            "room": "Beekman Parlor", 
+            "session": "Tutorial_Argument_Mining"
+          }, 
+          {
+            "room": "Sutton South", 
+            "session": "Tutorial_Introduction_to_Planning_Models_and_Methods"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "7_11_201608_45_12_45", 
+        "time": "08:45-12:45"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "East Room 3rd floor", 
+            "session": "Doctoral_Consortium"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "7_11_201609_00_17_45", 
+        "time": "09:00-17:45"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Sutton North", 
+            "session": "Tutorial_Low_Rank_and_Sparse_Modeling_for_Data_Analytics"
+          }
+        ], 
+        "slot_class": "morning2", 
+        "slot_id": "7_11_201611_00_12_45", 
+        "time": "11:00-12:45"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Hudson", 
+            "session": "Workshop_Ontologies_and_Logic_Programming_for_Query_Answering"
+          }, 
+          {
+            "room": "Clinton", 
+            "session": "Workshop_Closing_the_Cognitive_Loop_Third_Workshop_on_Knowledge_Data_and_Systems_for_Cognitive_Computing"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "7_11_201613_30_17_30", 
+        "time": "13:30-17:30"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Sutton Center", 
+            "session": "Tutorial_Solving_Problems_with_Quantified_Boolean_Formulas_Recent_Trends_and_Challenges"
+          }, 
+          {
+            "room": "Regent Parlor", 
+            "session": "Tutorial_Research_Challenges_in_Computational_Sustainability"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "7_11_201613_45_15_30", 
+        "time": "13:45-15:30"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Sutton South", 
+            "session": "Tutorial_Deliberative_Planning_and_Acting"
+          }, 
+          {
+            "room": "Sutton North", 
+            "session": "Tutorial_Integrating_Learning_and_Search_for_Structured_Prediction"
+          }, 
+          {
+            "room": "Beekman Parlor", 
+            "session": "Tutorial_The_Soar_Cognitive_Architecture"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "7_11_201613_45_17_45", 
+        "time": "13:45-17:45"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Regent Parlor", 
+            "session": "Tutorial_Towards_a_Unified_Framework_for_Transfer_Learning_Exploiting_Correlations_and_Symmetries"
+          }, 
+          {
+            "room": "Sutton Center", 
+            "session": "Tutorial_Scalable_Probabilistic_Logics"
+          }
+        ], 
+        "slot_class": "afternoon2", 
+        "slot_id": "7_11_201616_00_17_45", 
+        "time": "16:00-17:45"
+      }
+    ]
+  }, 
+  {
+    "date": "07/12/2016", 
+    "day": "Tuesday", 
+    "slots": [
+      {
+        "sessions": [
+          {
+            "room": "Rhinelander Gallery", 
+            "session": "Main_track_AIW_track_Posters_Day_1"
+          }, 
+          {
+            "room": "Rhinelander Gallery", 
+            "session": "Machine_Learning_Data_Mining_Demos"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "7_12_201608_30_20_00", 
+        "time": "08:30-20:00"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Ballroom", 
+            "session": "Opening_Remarks"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "7_12_201608_30_09_10", 
+        "time": "08:30-09:10"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Ballroom", 
+            "session": "Invited_Talk_by_David_Silver_Google_DeepMind_Chair_Rao_Kambhampati"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "7_12_201609_10_09_55", 
+        "time": "09:10-09:55"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Clinton Suite", 
+            "session": "Planning_and_Scheduling1_Activity_and_Plan_Recognition_Chair_Joerg_Hoffman"
+          }, 
+          {
+            "room": "Sutton South", 
+            "session": "EarlyCareer_Shahaf_Salakhutdinov_Chair_Rao_Kambhampati"
+          }, 
+          {
+            "room": "Regent Parlor", 
+            "session": "Best_of_ICRA_ICCV_Chair_Michael_Thielscher"
+          }, 
+          {
+            "room": "Beekman Parlor", 
+            "session": "Agent_based_and_Multi_agent_Systems1_Resource_Allocation_Chair_Vincent_Conitzer"
+          }, 
+          {
+            "room": "Sutton North", 
+            "session": "Multidisciplinary_Topics_and_Applications1_Computational_Sustainability_Chair_Gregg_Vesonder"
+          }, 
+          {
+            "room": "Madison Suite", 
+            "session": "Knowledge_Representation_Reasoning_and_Logic1_Knowledge_Representation1_Chair_Angelo_Montanari"
+          }, 
+          {
+            "room": "Sutton Center", 
+            "session": "AI_and_the_Web1_Web_based_recommendation_systems_Chair_Biplav_Srivastava"
+          }, 
+          {
+            "room": "Gibson Suite", 
+            "session": "Constraints_Satisfiability1_Modeling_Chair_Nic_Wilson"
+          }
+        ], 
+        "slot_class": "morning2", 
+        "slot_id": "7_12_201610_05_11_05", 
+        "time": "10:05-11:05"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Beekman Parlor", 
+            "session": "Agent_based_and_Multi_agent_Systems2_Social_Choice_Theory1_Chair_Reshef_Meir"
+          }, 
+          {
+            "room": "Ballroom East", 
+            "session": "Invited_Panel_on_Human_Aware_AI_Challenges_Opportunities"
+          }, 
+          {
+            "room": "Clinton Suite", 
+            "session": "Planning_and_Scheduling2_Markov_Decisions_Processes_Chair_Balaraman_Ravindran"
+          }, 
+          {
+            "room": "Sutton South", 
+            "session": "EarlyCareer_Choi_Gupta_Chair_Prasad_Tadepalli"
+          }, 
+          {
+            "room": "Regent Parlor", 
+            "session": "Best_of_CADE_Chair_Rodrigo_de_Salvo_Braz"
+          }, 
+          {
+            "room": "Madison Suite", 
+            "session": "Machine_Learning1_Online_Learning_Chair_Tang_Jie"
+          }, 
+          {
+            "room": "Sutton North", 
+            "session": "Multidisciplinary_Topics_and_Applications2_AI_and_Social_Sciences_Chair_Toru_Ishida"
+          }, 
+          {
+            "room": "Gibson Suite", 
+            "session": "Constraints_Satisfiability2_Constraint_Satisfaction_Chair_Malek_Mouhoub"
+          }, 
+          {
+            "room": "Sutton Center", 
+            "session": "AI_and_the_Web2_Social_network_analysis_theories_models_and_applications_Chair_De_Nian_Yang"
+          }
+        ], 
+        "slot_class": "morning2", 
+        "slot_id": "7_12_201611_35_12_35", 
+        "time": "11:35-12:35"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Ballroom East", 
+            "session": "Invited_Talk_by_Wolfram_Burgard_Chair_Bernhard_Nebel"
+          }, 
+          {
+            "room": "Ballroom West", 
+            "session": "Invited_Talk_by_Sheila_McIlraith_Chair_Thomas_Eiter"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "7_12_201614_00_15_00", 
+        "time": "14:00-15:00"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Beekman Parlor", 
+            "session": "Uncertainty_in_AI1_Approximate_Probabilistic_Inference_Chair_Roni_Khadron"
+          }, 
+          {
+            "room": "Clinton Suite", 
+            "session": "Robotics_and_Vision1_Vision_and_Perception1_Chair_Joydeep_Biswas"
+          }, 
+          {
+            "room": "Gibson Suite", 
+            "session": "Combinatorial_Heuristic_Search1_Heuristic_Search_and_Combinatorial_Optimization_Chair_Martin_Golumbic"
+          }, 
+          {
+            "room": "Sutton Center", 
+            "session": "Natural_Language_Processing1_Information_Extraction_Chair_Jana_Doppa"
+          }, 
+          {
+            "room": "Madison Suite", 
+            "session": "Knowledge_Representation_Reasoning_and_Logic2_Action_Change_and_Causality_Chair_Stephen_Muggleton"
+          }, 
+          {
+            "room": "Sutton North", 
+            "session": "Human_Aware_AI_IJCAI_16_Theme_1_Chair_Laura_Hiatt"
+          }
+        ], 
+        "slot_class": "afternoon2", 
+        "slot_id": "7_12_201615_10_16_35", 
+        "time": "15:10-16:35"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Regent Parlor", 
+            "session": "Best_of_ICAPS_Chair_Blai_Bonet"
+          }, 
+          {
+            "room": "Madison Suite", 
+            "session": "Machine_Learning2_Semi_Supervised_Learning_Chair_Ming_Li"
+          }, 
+          {
+            "room": "Beekman Parlor", 
+            "session": "Agent_based_and_Multi_agent_Systems3_Social_Choice_Theory2_Chair_Umberto_Grandi"
+          }, 
+          {
+            "room": "Clinton Suite", 
+            "session": "Planning_and_Scheduling3_Planning_under_Uncertainty1_Chair_Sven_Koenig"
+          }, 
+          {
+            "room": "Sutton Center", 
+            "session": "Natural_Language_Processing2_Natural_Language_Generation_Chair_Rafal_Rzepka"
+          }, 
+          {
+            "room": "Gibson Suite", 
+            "session": "Combinatorial_Heuristic_Search2_Applications_Chair_Holger_Hoos"
+          }, 
+          {
+            "room": "Sutton South", 
+            "session": "EarlyCareer_Coles_Mausam_Chair_Daniel_Borrajo"
+          }, 
+          {
+            "room": "Sutton North", 
+            "session": "Human_Aware_AI_IJCAI_16_Theme_2_Planning_and_Decision_Support_for_Human_Machine_Teams_Chair_Alessandro_Saffiotti"
+          }
+        ], 
+        "slot_class": "afternoon2", 
+        "slot_id": "7_12_201617_05_18_05", 
+        "time": "17:05-18:05"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Rhinelander Gallery", 
+            "session": "Doctoral_Consortium_Posters"
+          }
+        ], 
+        "slot_class": "evening", 
+        "slot_id": "7_12_201618_05_20_00", 
+        "time": "18:05-20:00"
+      }
+    ]
+  }, 
+  {
+    "date": "07/13/2016", 
+    "day": "Wednesday", 
+    "slots": [
+      {
+        "sessions": [
+          {
+            "room": "Rhinelander Gallery", 
+            "session": "Planning_KR_NLP_Demos"
+          }, 
+          {
+            "room": "Rhinelander Gallery", 
+            "session": "Main_track_AIW_track_Posters_Day_2"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "7_13_201608_30_20_00", 
+        "time": "08:30-20:00"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Regent Parlor", 
+            "session": "Best_of_CP_Chair_Berthe_Choueiry"
+          }, 
+          {
+            "room": "Madison Suite", 
+            "session": "Knowledge_Representation_Reasoning_and_Logic3_Computational_Complexity_of_Reasoning_Chair_Michael_Witbrock"
+          }, 
+          {
+            "room": "Gibson Suite", 
+            "session": "Machine_Learning5_Unsupervised_Learning1_Chair_Xiangwei_Kong"
+          }, 
+          {
+            "room": "Sutton Center", 
+            "session": "AI_and_the_Web3_Mining_user_generated_data_on_the_Web_Chair_Luigi_Portinale"
+          }, 
+          {
+            "room": "Sutton South", 
+            "session": "EarlyCareer_Velez_Doshi_Ermon_Chair_Nevin_Zhang"
+          }, 
+          {
+            "room": "Clinton Suite", 
+            "session": "Robotics_and_Vision2_Vision_and_Perception2_Chair_Eric_Eaton"
+          }, 
+          {
+            "room": "Beekman Parlor", 
+            "session": "Machine_Learning3_Feature_Selection_Construction1_Chair_Ganesh_Ramakrishnan"
+          }, 
+          {
+            "room": "Sutton North", 
+            "session": "Machine_Learning4_Multi_instance_Multi_label_Multi_view_learning_Chair_Min_Ling_Zhang"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "7_13_201608_30_09_55", 
+        "time": "08:30-09:55"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Sutton Center", 
+            "session": "Natural_Language_Processing3_Chair_Michael_Witbrock"
+          }, 
+          {
+            "room": "Sutton North", 
+            "session": "Multidisciplinary_Topics_and_Applications3_Personalization_and_User_Modeling_Chair_Shimei_Pan"
+          }, 
+          {
+            "room": "Gibson Suite", 
+            "session": "Constraints_Satisfiability3_Chair_William_Yeoh"
+          }, 
+          {
+            "room": "Beekman Parlor", 
+            "session": "Agent_based_and_Multi_agent_Systems4_Social_Choice_Theory3_Chair_Ulle_Endriss"
+          }, 
+          {
+            "room": "Sutton South", 
+            "session": "EarlyCareer_Elkind_Jarvisalo_Chair_Holger_Hoos"
+          }, 
+          {
+            "room": "Regent Parlor", 
+            "session": "Best_of_ICLP_Chair_Michael_Gelfond"
+          }, 
+          {
+            "room": "Clinton Suite", 
+            "session": "Planning_and_Scheduling4_Theoretical_Foundations_of_Planning_Chair_Shirin_Sohrabi"
+          }, 
+          {
+            "room": "Madison Suite", 
+            "session": "Uncertainty_in_AI2_Sequential_Decision_Making_Chair_Byron_Boots"
+          }
+        ], 
+        "slot_class": "morning2", 
+        "slot_id": "7_13_201610_05_11_05", 
+        "time": "10:05-11:05"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Sutton South", 
+            "session": "EarlyCareer_Agarwal_Seuken_Chair_Shlomo_Zilberstein"
+          }, 
+          {
+            "room": "Beekman Parlor", 
+            "session": "Agent_based_and_Multi_agent_Systems5_Social_Choice_Theory4_Chair_Haris_Aziz"
+          }, 
+          {
+            "room": "Sutton Center", 
+            "session": "Natural_Language_Processing4_Chair_Ganesh_Ramakrishnan"
+          }, 
+          {
+            "room": "Madison Suite", 
+            "session": "Knowledge_Representation_Reasoning_and_Logic4_Geometric_Spatial_and_Temporal_Reasoning_Chair_Jochen_Renz"
+          }, 
+          {
+            "room": "Gibson Suite", 
+            "session": "Constraints_Satisfiability4_Chair_Tal_Grinshpoun"
+          }, 
+          {
+            "room": "Regent Parlor", 
+            "session": "Best_of_UAI_Chair_Martin_Golumbic"
+          }, 
+          {
+            "room": "Sutton North", 
+            "session": "Multidisciplinary_Topics_and_Applications4_Computational_Biology_and_e_Health_Chair_Jesse_Davis"
+          }, 
+          {
+            "room": "Clinton Suite", 
+            "session": "Planning_and_Scheduling5_Planning_Algorithms_Chair_Malte_Helmert"
+          }
+        ], 
+        "slot_class": "morning2", 
+        "slot_id": "7_13_201611_35_12_35", 
+        "time": "11:35-12:35"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Ballroom West", 
+            "session": "Invited_Talk_by_Robert_Holte_Chair_Sven_Koenig"
+          }, 
+          {
+            "room": "Ballroom East", 
+            "session": "Invited_Talk_by_Kevin_Leyton_Brown_Chair_Jerome_Lang"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "7_13_201614_00_15_00", 
+        "time": "14:00-15:00"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Ballroom East", 
+            "session": "Invited_Panel_on_Reviewing_Best_Practices"
+          }, 
+          {
+            "room": "Sutton North", 
+            "session": "Machine_Learning7_Transfer_Adaptation_Multi_task_Learning_Chair_Bo_Liu"
+          }, 
+          {
+            "room": "Beekman Parlor", 
+            "session": "Machine_Learning6_Classification1_Chair_Jana_Doppa"
+          }, 
+          {
+            "room": "Sutton Center", 
+            "session": "AI_and_the_Web4_Chair_Munindar_Singh"
+          }, 
+          {
+            "room": "Madison Suite", 
+            "session": "Knowledge_Representation_Reasoning_and_Logic5_Knowledge_Representation_Languages_Chair_Frank_Wolter"
+          }, 
+          {
+            "room": "Clinton Suite", 
+            "session": "Robotics_and_Vision3_Chair_Malik_Ghallab"
+          }, 
+          {
+            "room": "Gibson Suite", 
+            "session": "Machine_Learning8_Data_Mining_Chair_Xiaobai_Liu"
+          }
+        ], 
+        "slot_class": "afternoon2", 
+        "slot_id": "7_13_201615_10_16_35", 
+        "time": "15:10-16:35"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Beekman Parlor", 
+            "session": "Agent_based_and_Multi_agent_Systems6_Auctions_Mechanism_Design_and_Market_Based_Systems1_Chair_Bo_An"
+          }, 
+          {
+            "room": "Madison Suite", 
+            "session": "Uncertainty_in_AI3_Chair_Nico_Potyka"
+          }, 
+          {
+            "room": "Sutton Center", 
+            "session": "Machine_Learning9_Reinforcement_Learning_Chair_Bo_Liu"
+          }, 
+          {
+            "room": "Clinton Suite", 
+            "session": "Planning_and_Scheduling6_Planning_General_other_1_Chair_Chris_Amato"
+          }, 
+          {
+            "room": "Regent Parlor", 
+            "session": "Workshops_Highlights1_Chair_Biplav_Srivastava"
+          }, 
+          {
+            "room": "Sutton South", 
+            "session": "EarlyCareer_Saria_Vorobeychik_Chair_Boi_Faltings"
+          }, 
+          {
+            "room": "Gibson Suite", 
+            "session": "Combinatorial_Heuristic_Search3_Chair_Ariel_Felner"
+          }, 
+          {
+            "room": "Sutton North", 
+            "session": "Multidisciplinary_Topics_and_Applications5_Chair_Mehul_Bhatt"
+          }
+        ], 
+        "slot_class": "afternoon2", 
+        "slot_id": "7_13_201617_05_18_05", 
+        "time": "17:05-18:05"
+      }
+    ]
+  }, 
+  {
+    "date": "07/14/2016", 
+    "day": "Thursday", 
+    "slots": [
+      {
+        "sessions": [
+          {
+            "room": "Rhinelander Gallery", 
+            "session": "Main_track_AIW_track_Posters_Day_3"
+          }, 
+          {
+            "room": "Rhinelander Gallery", 
+            "session": "Machine_Learning_Computer_Vision_Demos"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "7_14_201608_30_20_00", 
+        "time": "08:30-20:00"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Regent Parlor", 
+            "session": "Best_of_AAMAS_EC_Chair_Valentin_Robu"
+          }, 
+          {
+            "room": "Sutton South", 
+            "session": "EarlyCareer_Kamar_Aziz_Chair_Jerome_Lang"
+          }, 
+          {
+            "room": "Sutton Center", 
+            "session": "AI_and_the_Web5_Chair_Banafsheh_Rekabdar"
+          }, 
+          {
+            "room": "Clinton Suite", 
+            "session": "Robotics_and_Vision4_Chair_Xiangliang_Zhang"
+          }, 
+          {
+            "room": "Gibson Suite", 
+            "session": "Machine_Learning12_Deep_Learning_Chair_Jonathan_Rubin"
+          }, 
+          {
+            "room": "Madison Suite", 
+            "session": "Knowledge_Representation_Reasoning_and_Logic6_Logic_Programming_Chair_Joohyung_Lee"
+          }, 
+          {
+            "room": "Beekman Parlor", 
+            "session": "Machine_Learning10_New_Problems_Chair_Hala_Mostafa"
+          }, 
+          {
+            "room": "Sutton North", 
+            "session": "Machine_Learning11_Learning_Preferences_or_Rankings_Chair_Xiangwei_Kong"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "7_14_201608_30_09_55", 
+        "time": "08:30-09:55"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Madison Suite", 
+            "session": "Uncertainty_in_AI4_Chair_Kartik_Talamadupula"
+          }, 
+          {
+            "room": "Regent Parlor", 
+            "session": "Best_of_ICML_Chair_Shivaram_Kalyanakrishnan"
+          }, 
+          {
+            "room": "Sutton South", 
+            "session": "EarlyCareer_Shah_Schockaert_Chair_Thomas_Eiter"
+          }, 
+          {
+            "room": "Gibson Suite", 
+            "session": "Constraints_Satisfiability5_Chair_Nadjib_Lazaar"
+          }, 
+          {
+            "room": "Sutton North", 
+            "session": "Multidisciplinary_Topics_and_Applications6_Chair_Yifeng_Zeng"
+          }, 
+          {
+            "room": "Beekman Parlor", 
+            "session": "Agent_based_and_Multi_agent_Systems7_Auctions_Mechanism_Design_and_Market_Based_Systems2_Chair_Bo_An"
+          }, 
+          {
+            "room": "Clinton Suite", 
+            "session": "Planning_and_Scheduling7_Planning_under_Uncertainty2_Chair_Florent_Teichteil"
+          }, 
+          {
+            "room": "Sutton Center", 
+            "session": "Natural_Language_Processing5_Chair_Qin_Lu"
+          }
+        ], 
+        "slot_class": "morning2", 
+        "slot_id": "7_14_201610_05_11_05", 
+        "time": "10:05-11:05"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Beekman Parlor", 
+            "session": "Agent_based_and_Multi_agent_Systems8_Noncooperative_Games1_Chair_Sven_Seuken"
+          }, 
+          {
+            "room": "Regent Parlor", 
+            "session": "Best_of_IUI_Chair_Rafal_Rzepka"
+          }, 
+          {
+            "room": "Clinton Suite", 
+            "session": "Planning_and_Scheduling8_Planning_General_other_2_Chair_Christian_Muise"
+          }, 
+          {
+            "room": "Sutton Center", 
+            "session": "Machine_Learning13_Relational_Learning_Chair_Peter_Flach"
+          }, 
+          {
+            "room": "Gibson Suite", 
+            "session": "Combinatorial_Heuristic_Search4_Chair_Sven_Koenig"
+          }, 
+          {
+            "room": "Madison Suite", 
+            "session": "Knowledge_Representation_Reasoning_and_Logic7_Preferences_Chair_Antonio_Lieto"
+          }, 
+          {
+            "room": "Sutton North", 
+            "session": "Multidisciplinary_Topics_and_Applications7_Chair_Ming_Li"
+          }, 
+          {
+            "room": "Sutton South", 
+            "session": "EarlyCareer_Bienvenu_Van_den_Broeck_Chair_Sheila_McIllraith"
+          }
+        ], 
+        "slot_class": "morning2", 
+        "slot_id": "7_14_201611_35_12_35", 
+        "time": "11:35-12:35"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Ballroom East", 
+            "session": "Invited_Talk_by_James_A_Hendler_Chair_Ernie_Davis"
+          }, 
+          {
+            "room": "Ballroom West", 
+            "session": "Invited_Talk_by_Jonathan_Gratch_Chair_Catholijn_Jonker"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "7_14_201614_00_15_00", 
+        "time": "14:00-15:00"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Madison Suite", 
+            "session": "Knowledge_Representation_Reasoning_and_Logic8_Knowledge_Representation2_Chair_Alessandro_Saffiotti"
+          }, 
+          {
+            "room": "Ballroom East", 
+            "session": "Invited_Panel_on_Preparing_for_the_Future_of_AI_Office_of_Science_and_Technology_Policy_OSTP_"
+          }, 
+          {
+            "room": "Gibson Suite", 
+            "session": "Machine_Learning16_Time_series_Data_Streams_Chair_Byron_Boots"
+          }, 
+          {
+            "room": "Beekman Parlor", 
+            "session": "Machine_Learning14_Neural_Networks_Chair_Kartik_Talamadupula"
+          }, 
+          {
+            "room": "Sutton Center", 
+            "session": "AI_and_the_Web6_Chair_Mausam"
+          }, 
+          {
+            "room": "Sutton North", 
+            "session": "Machine_Learning15_Ensemble_Methods_Chair_Artur_Dubrawski"
+          }, 
+          {
+            "room": "Clinton Suite", 
+            "session": "Knowledge_Representation_Reasoning_and_Logic9_Chair_Domenico_Lembo"
+          }
+        ], 
+        "slot_class": "afternoon2", 
+        "slot_id": "7_14_201615_10_16_35", 
+        "time": "15:10-16:35"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Clinton Suite", 
+            "session": "Planning_and_Scheduling9_Chair_Erez_Karpas"
+          }, 
+          {
+            "room": "Madison Suite", 
+            "session": "Agent_based_and_Multi_agent_Systems10_Normative_MAS_and_Logical_Formalisation_of_MAS_Chair_Catholijn_Jonker"
+          }, 
+          {
+            "room": "Beekman Parlor", 
+            "session": "Agent_based_and_Multi_agent_Systems9_Coordination_and_Collaboration1_Chair_Maria_Gini"
+          }, 
+          {
+            "room": "Gibson Suite", 
+            "session": "Machine_Learning17_Unsupervised_Learning2_Chair_Xintao_Wu"
+          }, 
+          {
+            "room": "Sutton Center", 
+            "session": "Natural_Language_Processing6_Chair_Qin_Lu"
+          }, 
+          {
+            "room": "Sutton North", 
+            "session": "Multidisciplinary_Topics_and_Applications8_Chair_Rudy_Raymond"
+          }, 
+          {
+            "room": "Sutton South", 
+            "session": "EarlyCareer_Chernova_Varakantham_Chair_Sven_Koenig"
+          }, 
+          {
+            "room": "Regent Parlor", 
+            "session": "Workshops_Highlights2_Chair_Biplav_Srivastava"
+          }
+        ], 
+        "slot_class": "afternoon2", 
+        "slot_id": "7_14_201617_05_18_05", 
+        "time": "17:05-18:05"
+      }
+    ]
+  }, 
+  {
+    "date": "07/15/2016", 
+    "day": "Friday", 
+    "slots": [
+      {
+        "sessions": [
+          {
+            "room": "Rhinelander Gallery", 
+            "session": "Main_track_AIW_track_Posters_Day_4"
+          }, 
+          {
+            "room": "Ballroom", 
+            "session": "Industry_Day_Talks1"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "7_15_201608_30_12_35", 
+        "time": "08:30-12:35"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Sutton Center", 
+            "session": "Machine_Learning22_Chair_Banafsheh_Rekabdar"
+          }, 
+          {
+            "room": "Beekman Parlor", 
+            "session": "Machine_Learning18_Feature_Selection_Construction2_Chair_Rudy_Raymond"
+          }, 
+          {
+            "room": "Clinton Suite", 
+            "session": "Machine_Learning19_Classification2_Chair_Bj_rn_Schuller"
+          }, 
+          {
+            "room": "Madison Suite", 
+            "session": "Knowledge_Representation_Reasoning_and_Logic10_Chair_Gerhard_Lakemeyer"
+          }, 
+          {
+            "room": "Gibson Suite", 
+            "session": "Machine_Learning21_Chair_Jeremy_Forth"
+          }, 
+          {
+            "room": "Sutton North", 
+            "session": "Machine_Learning20_Chair_Samira_Sadaoui"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "7_15_201608_30_09_55", 
+        "time": "08:30-09:55"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Clinton Suite", 
+            "session": "Planning_and_Scheduling10_Chair_Sebastian_Sardina"
+          }, 
+          {
+            "room": "Beekman Parlor", 
+            "session": "Agent_based_and_Multi_agent_Systems11_Noncooperative_Games2_Chair_Valentin_Robu"
+          }, 
+          {
+            "room": "Madison Suite", 
+            "session": "Knowledge_Representation_Reasoning_and_Logic11_Belief_Change_Chair_Steven_Schockaert"
+          }, 
+          {
+            "room": "Sutton Center", 
+            "session": "AI_and_the_Web7_Other_topics_in_ML_and_the_Web_Chair_Hala_Mostafa"
+          }, 
+          {
+            "room": "Gibson Suite", 
+            "session": "Natural_Language_Processing7_Chair_Philippe_Cudr_Mauroux"
+          }, 
+          {
+            "room": "Sutton North", 
+            "session": "Agent_based_and_Multi_agent_Systems12_Coordination_and_Collaboration2_Chair_Jonathan_Gratch"
+          }
+        ], 
+        "slot_class": "morning2", 
+        "slot_id": "7_15_201610_05_11_05", 
+        "time": "10:05-11:05"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Ballroom", 
+            "session": "Research_Excellence_Award_Talk_by_Barbara_Grosz"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "7_15_201613_30_14_15", 
+        "time": "13:30-14:15"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Sutton Complex", 
+            "session": "Industry_Day_Talks2"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "7_15_201613_30_17_00", 
+        "time": "13:30-17:00"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Ballroom", 
+            "session": "Computers_and_Thought_Award_Talk_by_Percy_Liang"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "7_15_201614_15_15_00", 
+        "time": "14:15-15:00"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Ballroom", 
+            "session": "McCarthy_Award_Talk_by_Moshe_Tennenholtz"
+          }
+        ], 
+        "slot_class": "afternoon2", 
+        "slot_id": "7_15_201615_30_16_15", 
+        "time": "15:30-16:15"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Ballroom", 
+            "session": "Research_Excellence_Award_Talk_by_Michael_I_Jordan"
+          }
+        ], 
+        "slot_class": "afternoon2", 
+        "slot_id": "7_15_201616_15_17_00", 
+        "time": "16:15-17:00"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Sutton Complex", 
+            "session": "Closing_Ceremony"
+          }
+        ], 
+        "slot_class": "afternoon2", 
+        "slot_id": "7_15_201617_10_18_00", 
+        "time": "17:10-18:00"
+      }
+    ]
+  }
+]

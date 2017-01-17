@@ -1,0 +1,458 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Paper Assignment Tool</title>
+ 
+ <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+  <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+  <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+<script src="swal/sweetalert.min.js"></script> 
+<link rel="stylesheet" type="text/css" href="swal/sweetalert.css">
+
+<!-- <link rel="stylesheet" href="jquery-ui.css">
+  <script src="jquery-1.10.2.js"></script>
+  <script src="jquery-ui.js"></script>
+-->
+  <script src="settings.js"></script>
+
+  <link rel="stylesheet" href="styles.css">
+
+  <script>
+
+  gSessions = {};
+  gPapers = {};
+  gSessionList = [];
+
+
+
+//load papers and sessions from json files
+  function loadPapers() {
+    $.getJSON("paper-list.json", function(data) {
+        $.each(data["papers"], function(key,val) {
+            var auths = "<b>";
+            $.each(val["authors"], function(ano,obj){
+                auths += obj.name + ", ";
+            });
+            auths += "</b>";
+            addPaper(val.title,auths + "<p>" + val.abstract,key);
+        });
+        gPapers = data;
+
+        $.getJSON("session-list.json", function(data) {
+            var i = 0;
+            $.each(data["sessions"], function(key,val) {
+                addSession(key,val["papers"]);
+                gSessionList[i++] = val;
+            });
+            gSessions = data;
+            resize();
+        });
+    });
+}
+
+function createPaperDiv(title,body,key)
+{
+    var div = document.createElement("div");
+    div.className = "paper ui-widget ui-widget-content ui-helper-clearfix ui-corner-all";
+    div.paperKey = key;
+    div.id = key;
+    var header = document.createElement("div");
+    header.paperKey = key;
+    header.innerHTML = "<span class='ui-icon ui-icon-plusthick paper-toggle'></span>" + title;
+    header.className = "paper-header .ui-widget-header ui-corner-all";
+    div.appendChild(header);
+    var bodyDiv = document.createElement("div");
+    div.appendChild(bodyDiv);
+    bodyDiv.innerHTML = body;
+    bodyDiv.className = "paper-content";
+    return div;
+}
+
+function addPaper(title, body, key) {
+    var papers = document.getElementById("papers");
+    var div = createPaperDiv(title,body,key);
+    papers.appendChild(div);
+}
+
+
+//load the sessions 
+function getSessionsJSON() {
+    var s = {}; //gSessions["sessions"];
+    var keys = Object.keys(s);
+    $("#sessions .header").each(function(index) {
+        var title = $(this).html();
+        var sessionInfo = gSessionList[index]; //s[keys[index]];
+        //delete s[keys[index]];
+        s[title] = sessionInfo;
+        
+    });
+    gSessions["sessions"] = s;
+    var json = JSON.stringify(gSessions);
+    return json;
+}
+
+
+//calls didLock on success, passing a boolean indicating if the lock was acquired
+function testAndSetLock(didLock) {
+    $.ajax({
+        type: "GET",
+        url:"is_locked.php",
+        dataType: "text",
+        success: function(data, textStatus, jqXHR) {
+            if (data == "2") {
+                didLock(false);
+            } else {
+                $.ajax({
+                    type: "GET",
+                    url:"lock.php",
+                    dataType: "text",
+                    success: function(data, textStatus, jqXHR) {
+                        didLock(true);
+                    }
+                });
+            }
+
+        }
+    });
+}
+
+function promptUnlock() { 
+    swal({   
+        title: "Are you sure?",   
+        text: "Acquiring the lock will prevent other users from editing, possibly resulting is them losing data.",   
+        type: "warning",
+        showCancelButton: true,   
+        confirmButtonColor: "#DD6B55",   
+        confirmButtonText: "Yes, steal the lock!",   
+        closeOnConfirm: false }, 
+        function(){   
+            $.ajax({
+                    type: "GET",
+                    url:"lock.php",
+                    dataType: "text",
+                    success: function(data, textStatus, jqXHR) {
+                        swal("Success!","You now hold the lock.", "success"); 
+                        $("#clickMe").prop('value',"Save");
+                        $('#clickMe').off('click');
+                        $("#clickMe").on('click',function() {saveSessions();});
+                        enableClicks();
+                    }
+                });
+        }); 
+}
+
+function disableClicks() {
+    $(".session-body").each(function() {
+        $(this).sortable( "disable" );
+    });
+    $("#papers").sortable("disable");
+    $("#sessions").sortable( "disable" );
+    
+}
+
+function enableClicks() {
+    $(".session-body").each(function() {
+        $(this).sortable( "enable" );
+    });
+    $("#papers").sortable("enable");
+    $("#sessions").sortable( "enable" );
+
+}
+
+//save the current sessions
+function saveSessions() {
+    testAndSetLock(function(locked) {
+        if (locked) {
+            var json = getSessionsJSON();
+            $.ajax
+            ({
+                type: "POST",
+                dataType : 'json',
+                url: 'save.php',
+                data: {data: json},
+            });
+        } else {
+            swal("Uh oh!","Someone else is editing the file concurrently. Click again to steal the lock (you should reload before doing this!)", "success"); 
+            $("#clickMe").prop('value',"Locked (Click to unlock)");
+            $('#clickMe').off('click');
+            $("#clickMe").on('click',function() {promptUnlock();});
+            disableClicks();
+        }
+    });
+
+
+}
+
+//helper function used to force all sessions to be the same height
+// so that dragging sessions doesn't cause weird UI glitches
+function resizeEven() {
+    var maxHeight = 0;
+    $("#sessions .session").each(function(index) {
+
+        $(this).height("auto");
+        if ($(this).height() > maxHeight) {
+            maxHeight = $(this).height();
+        }
+    });
+    $("#sessions .session").each(function(index) {
+        $(this).height(maxHeight);
+        var off = $(this).offset();
+        var hdr = timeHeaders[index];//$(this).prop("header")
+        $(hdr).offset({top: off.top, left: '20%'});
+    });
+    
+}
+
+//layout the sessions so all sessions in a given row are the same height
+function resize() {
+    var sessions = $("#sessions .session");
+    var numRows = sessions.length / parallelSessions;
+    if (numRows * parallelSessions != sessions.length) {
+        numRows++;
+    }
+    var curPaper = 0;
+    for (var i = 0; i < numRows; i++) {
+        var maxHeight = 0;
+
+        $("#sessions .session").slice(i*parallelSessions,Math.min(sessions.length,(i+1)*parallelSessions)).each(function(index) {
+            $(this).height("auto");
+            if ($(this).height() > maxHeight) {
+                maxHeight = $(this).height();
+            }
+        });
+        $("#sessions .session").slice(i*parallelSessions,Math.min(sessions.length,(i+1)*parallelSessions)).each(function(index) {
+
+            $(this).height(maxHeight);
+            var off = $(this).offset();
+            var hdr = timeHeaders[i*parallelSessions + index];//$(this).prop("header")
+            $(hdr).offset({top: off.top, left: '20%'});
+        });
+    }
+}
+
+numSessions = 0;
+timeHeaders = [];
+sessionTimeHeader = null; //global
+
+//create a new session
+function addSession(title, paperList) {
+
+    var sessions = document.getElementById("sessions");
+    var sessionHeaders = document.getElementById("session-headers");
+    var session = document.createElement("div");
+    session.className = "session";
+    $(session).css("width",100/parallelSessions + "%");
+    var sessionBody = document.createElement("div");
+    sessionBody.className = "session-body";
+    var titleDiv = document.createElement("div");
+    titleDiv.className = "header";
+    titleDiv.setAttribute("contenteditable",true);
+    titleDiv.innerHTML = title;
+    var handleDiv = document.createElement("div");
+    handleDiv.className = "handle";
+
+    session.appendChild(handleDiv);
+    session.appendChild(titleDiv);
+    session.appendChild(sessionBody);
+
+    if (numSessions % parallelSessions == 0) {
+        sessionTimeHeader= document.createElement("div");
+        sessionTimeHeader.className="session-time-header";
+        sessionTimeHeader.innerHTML = "<center>"+sessionTimes[Math.trunc(numSessions / parallelSessions)]+"</center>"
+        sessionHeaders.appendChild(sessionTimeHeader);
+    }
+    numSessions = numSessions + 1;
+
+    sessions.appendChild(session);
+    if (sessionTimeHeader) {
+        var off = $(session).offset();
+        $(sessionTimeHeader).offset({top: off.top, left: '20%'});
+        //session.header = sessionTimeHeader;
+        timeHeaders.push(sessionTimeHeader);
+    }
+    sessionBody.sessionId = title;
+    if (paperList) {
+        for (var i = 0; i < paperList.length; i++ ) {
+            var p = paperList[i];
+            var div = document.getElementById(p);
+            sessionBody.appendChild(div);
+            $(div).children(".paper-header").css("background-color", sessionColor);
+
+        }
+    }
+    $( handleDiv )
+    .addClass( "ui-widget ui-widget-content ui-helper-clearfix ui-corner-all" );
+
+    $(sessionBody).disableSelection();
+    $(sessionBody).sortable({
+        connectWith: ".session-body",
+        handle: ".paper-header",
+        cancel: ".paper-toggle",
+        placeholder: "paper-placeholder ui-corner-all",
+        update: function(event,ui) {
+            var session = event.target.sessionId;
+            var s = gSessions["sessions"];
+            if (session && typeof s[session].papers === "undefined")
+                s[session].papers = [];
+
+            var paperId = $(ui.item).prop("paperKey");
+            var oldSession = gPapers["papers"][paperId].session;
+            if (oldSession) {
+                var i = s[oldSession].papers.indexOf(paperId);
+                s[oldSession].papers.splice(i,1);
+            }
+            gPapers["papers"][paperId].session = session;
+            if (s[session].papers.indexOf(paperId) == -1)
+                s[session].papers.push(paperId);
+
+            resize();
+            $(ui.item).children(".paper-header").css("background-color", sessionColor);
+
+        }
+
+    });
+
+}
+
+
+function showConflicts() {
+    $.ajax({
+            type: "GET",
+            url:"find-conflicts.py",
+            dataType: "html",
+            success: function(data, textStatus, jqXHR) {
+                $("#conflictAuthorsDiv").prop('innerHTML',data);
+                $("#conflictAuthors").prop('value',"Hide Conflicts");
+                $('#conflictAuthors').off('click');
+                $("#conflictAuthors").on('click', hideConflicts);
+
+            }
+        });
+
+}
+
+function hideConflicts() {
+    $("#conflictAuthorsDiv").prop('innerHTML','');
+    $("#conflictAuthors").prop('value',"Show Conflicts");
+    $('#conflictAuthors').off('click');
+    $("#conflictAuthors").on('click', showConflicts);
+
+}
+
+
+$(document).ready(function() {
+    $.ajaxSetup({ cache: false });
+    $("#title").html(documentTitle);
+    $("#conflictAuthors").on('click', showConflicts);
+    testAndSetLock(function(locked) {
+        $('#clickMe').off('click');
+        if (locked) {
+            $("#clickMe").prop('value',"Save");
+            $("#clickMe").on('click',function() {saveSessions();});
+            enableClicks();
+        } else {
+            $("#clickMe").prop('value',"Locked (Click to unlock)");
+            $("#clickMe").on('click',function() {promptUnlock();});
+            disableClicks();
+        }
+    });
+    loadPapers();
+});
+
+$( window ).resize(function() {
+    resize();
+});
+
+
+$(function() {
+
+    $( ".session-body" ).sortable({
+        connectWith: ".session-body",
+        handle: ".paper-header",
+        cancel: ".paper-toggle",
+        placeholder: "paper-placeholder ui-corner-all"
+    });
+    $(sessions).sortable({
+        handle: ".handle",
+        start: function(e, ui) {
+            $(this).attr('data-previndex', ui.item.index());
+            resizeEven();
+        }, 
+        update: function(event,ui) {
+            var newIndex = ui.item.index();
+            var oldIndex = parseInt($(this).attr('data-previndex'));
+            $(this).removeAttr('data-previndex');
+            var movedSession = gSessionList[oldIndex];
+            var oldSessionList = gSessionList.slice();
+            if (newIndex < oldIndex) { //moved earlier, newIndex+1 to oldIndex moves up 
+                for (var i = newIndex+1; i <= oldIndex; i++) {
+                    gSessionList[i] = oldSessionList[i-1];
+                }
+            } else { //moved later, oldIndex to newIndex-1 moves down
+                for (var i = oldIndex; i <= newIndex-1; i++) {
+                    gSessionList[i] = oldSessionList[i+1];
+                }
+            }
+            gSessionList[newIndex] = movedSession;
+            resize();
+        }
+    });
+
+    //for papers session, on drop remove from session
+    $("#papers").sortable({
+        update: function(event,ui) {
+            //console.log(event.target.sessionId);
+
+            var paperId = $(ui.item).prop("paperKey");
+            var oldSession = gPapers["papers"][paperId].session;
+            if (oldSession) {
+                var i = s[oldSession].papers.indexOf(paperId);
+                s[oldSession].papers.splice(i,1);
+            }
+            $(ui.item).children(".paper-header").css("background-color", paperListColor);
+           
+        }
+    });
+
+    //if there are any initial papers, set them up for dropping and with appropriate classes
+    $( ".paper" )
+    .addClass( "ui-widget ui-widget-content ui-helper-clearfix ui-corner-all" )
+    .find( ".paper-header" )
+    .addClass( ".ui-widget-header ui-corner-all" )
+    .prepend( "<span class='ui-icon ui-icon-plusthick paper-toggle'></span>");
+    
+    //enable clicking on toggle button
+    $('body').on('click','.paper-toggle',function() {
+            var icon = $( this );
+            icon.toggleClass( "ui-icon-minusthick ui-icon-plusthick" );
+            icon.closest( ".paper" ).find( ".paper-content" ).toggle();
+            resize();
+
+        });
+});
+
+</script>
+</head>
+<body>
+    <div class="header-bar">
+      <p id="title"></p>
+      <input id="clickMe" class="saveButton" type="button" value="Save" />
+      <input id="conflictAuthors" class="conflictButton" type="button" value="Show Conflicts" />
+  </div>
+  <div id="conflictAuthorsDiv">
+  </div>
+  <div class="papers">
+      <div class="paper-group session" >
+       <div class="header">Unassigned Papers</div>
+       <div class="session-body" id="papers" sessionId="papers"> </div>
+   </div>
+</div>
+    <div id = "session-headers" class="session-headers">
+</div>
+
+
+<div class="sessions" id = "sessions">
+</div>
+</body>
+</html>

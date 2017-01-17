@@ -33,10 +33,8 @@ def send_email(addr, subject, msg_body):
 	msg['CC'] = 'mychi@csail.mit.edu'
 	msg['Subject'] = email_subject
 	msg.attach(MIMEText(msg_body))	
-	print msg
-	username = 'anantb'
-	password = 'JcAt250486'
-	smtp_conn = smtplib.SMTP_SSL('cs.stanford.edu', 465)
+
+	smtp_conn = smtplib.SMTP_SSL('localhost', 25)
 	smtp_conn.login(username, password)	
 	
 	smtp_conn.sendmail(from_addr, to_addr, msg.as_string())

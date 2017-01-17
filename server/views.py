@@ -261,7 +261,7 @@ def settings (request, conf):
         redirect_url = request.POST['redirect_url']
 
       user_email = request.POST["user_email"].lower()
-      user_voter_id = request.POST["user_voter_id"].strip()
+      #user_voter_id = request.POST["user_voter_id"].strip()
       meetups = request.POST["meetups_enabled"]
       friendly = request.POST["friendly"] 
       user = User.objects.get(email=user_email)
@@ -278,8 +278,8 @@ def settings (request, conf):
       user.save()
 
       registration = get_registration(user.email, conf)
-      registration.voter_id = user_voter_id
-      registration.save()
+      #registration.voter_id = user_voter_id
+      #registration.save()
 
       return HttpResponseRedirect(redirect_url)
     except Exception, e:
@@ -300,7 +300,6 @@ def settings (request, conf):
         'user_email': user.email,
         'login_id': user.email,
         'login_name': user.f_name,
-        'user_voter_id': registration.voter_id,
         'meetups_enabled': user.meetups_enabled,
         'friendly': user.friendly,
         'redirect_url': redirect_url}
@@ -454,13 +453,13 @@ def data (request):
   msg = 'OK'
   login = None
   login_name = None
-  user_voter_id = None
+  #user_voter_id = None
   try:
     login = request.session[kLogIn]
     login_name = request.session[kName]
     conf = request.session[kConf]
     registration = get_registration(login, conf)
-    user_voter_id = registration.voter_id
+    #user_voter_id = registration.voter_id
     data = None
 
     try:
@@ -497,7 +496,6 @@ def data (request):
   return HttpResponse(json.dumps({
       'login_id': login,
       'login_name': login_name,
-      'user_voter_id': user_voter_id,
       'recs':recs, 
       'likes':likes,
       'error': error,
@@ -591,7 +589,11 @@ def person_like (request, like_str):
         msg_body = '''
 Dear %s,
 
-Someone indicated an interest in meeting you at %s. You can see the list of people interested in meeting you by going to http://confer.csail.mit.edu/%s/meetups
+Someone indicated an interest in meeting you at %s. 
+
+Confer helps you finds people who are interested in the same papers. 
+You can use Confer to find your matches, suggest meetings with others, and see the list of people 
+interested in meeting you by going to http://confer.csail.mit.edu/%s/meetups
 
 Happy Networking,
 Confer Team

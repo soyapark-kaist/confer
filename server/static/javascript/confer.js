@@ -21,7 +21,7 @@ window.applicationCache.addEventListener('updateready', function(){
 
 /* Private Data */
 var login_id = localStorage.getItem('login_id')
-var user_voter_id = localStorage.getItem('user_voter_id')
+//var user_voter_id = localStorage.getItem('user_voter_id')
 var login_name = localStorage.getItem('login_name')
 var starred = []
 
@@ -36,6 +36,7 @@ var recommended = []
 
 //var recommended = JSON.parse(localStorage.getItem('recommended'))
 
+/*
 function get_all_votes(_async_) {
   $.ajax({
     type: 'GET',
@@ -49,6 +50,7 @@ function get_all_votes(_async_) {
     }
   });
 }
+*/
 
 function get_paper_schedule (id) {
   var res = null
@@ -63,6 +65,7 @@ function get_paper_schedule (id) {
   return res
 }
 
+/*
 function handle_vote(event) {
   if (user_voter_id == null) {
     persistent_alert('You haven\'t set your voter id. <a class="blue bold" href="settings?redirect_url='+ encodeURIComponent(window.location.pathname + window.location.hash) + '"> Click Here</a> to set your voter id.'); 
@@ -98,6 +101,8 @@ function handle_vote(event) {
   });
 }
 
+*/
+
 function refresh(_async_){
   if(!navigator.onLine){
     return
@@ -116,8 +121,8 @@ function refresh(_async_){
       login_name = res.login_name 
       localStorage.setItem('login_name', login_name)
 
-      user_voter_id = res.user_voter_id
-      localStorage.setItem('user_voter_id', user_voter_id)                     
+      //user_voter_id = res.user_voter_id
+      //localStorage.setItem('user_voter_id', user_voter_id)                     
 
       if(res.likes != null){
         starred = res.likes
@@ -482,10 +487,6 @@ function bind_events(){
     
 
   }
-  
-   
-
-  
 
   $('#show_likes').on('click', function(){
     if($("#likes tr:visible").length > 2){
@@ -524,13 +525,13 @@ function bind_events(){
 
   $('#show_filters').on('click', function(){
     if ($(this).hasClass("expanded")){
-    $(".more-filters").hide();
-    $(this).text("Show More Filters");
-    $(this).removeClass("expanded");
+      $(".more-filters").hide();
+      $(this).text("Show More Filters");
+      $(this).removeClass("expanded");
     } else {
-    $(".more-filters").show();
-    $(this).text("Show Less Filters");
-    $(this).addClass("expanded");
+      $(".more-filters").show();
+      $(this).text("Show Less Filters");
+      $(this).addClass("expanded");
     }
 
   });
@@ -702,8 +703,13 @@ function isMyPaper(id){
 
 
 function get_paper_html(id){
-  if(entities[id] == null)
+  if (id == null) {
     return ''
+  }
+  
+  if(entities[id] == null) {
+    return ''
+  }
   var raw_html = '<tr data= "' + id + '" class="clickable paper ' + id
   if(exists(recommended, id)){
     raw_html += ' recommended'
@@ -1559,12 +1565,14 @@ function update_sessions_count_async(){
 
 function reset_all_papers(){
   $("#all_papers tr").show()
-  $("#all_papers tr:gt(24)").hide()  
+  if (config_params['display_all'] != true) {
+    $("#all_papers tr:gt(24)").hide() 
+  }
 
   if($("#all_papers tr:visible").length == $("#all_papers tr").length){
-  $('#show_papers').hide();
+    $('#show_papers').hide();
   }else{
-  $('#show_papers').show();
+    $('#show_papers').show();
   }         
   update_papers_count();
 }
@@ -1614,20 +1622,39 @@ function append_recs(){
 
 function populate_papers(){
   if(typeof entities == "undefined" || entities == null){
-  console.log("Error populating papers list.")
-  return
+    console.log("Error populating papers list.")
+    return
   }
-  var raw_html = ''       
-  for(var e in entities){
-  raw_html += get_paper_html(e)
+  var raw_html = ''
+  entities_keys = Object.keys(entities)
+  if(config_params['sort_paper'] != undefined && config_params['sort_paper']['param'] != null) {
+    entities_keys = entities_keys.sort(function(a, b) {
+        var val_a = entities[a][config_params['sort_paper']['param']];
+        var val_b = entities[b][config_params['sort_paper']['param']];
+        if (val_a != null && val_b != null) {
+          return val_a.localeCompare(val_b);
+        } else if (val_a == null && val_b != null) {
+          return -1;
+        } else if (val_a != null && val_b == null) {
+          return 1;
+        } else {
+          return 0;
+        }
+    })
+  }
+  
+  for(var e in entities_keys){
+    raw_html += get_paper_html(entities_keys[e])
   }
   $("#all_papers").html(raw_html)
-  $("#all_papers tr:gt(24)").hide()  
+  if (config_params['display_all'] != true) {
+    $("#all_papers tr:gt(24)").hide()
+  }
 
   if($("#all_papers tr:visible").length == $("#all_papers tr").length){
-  $('#show_papers').hide();
+    $('#show_papers').hide();
   }else{
-  $('#show_papers').show();
+    $('#show_papers').show();
   }         
   update_papers_count();
 }

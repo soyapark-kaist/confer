@@ -7,7 +7,7 @@ urlpatterns = patterns('',
     url(r'^credits', 'server.views.credits'),
     
     url(r'^data', 'server.views.data'),
-    url(r'^recs', 'server.views.get_recs'),
+    
     url(r'^like/(\w+)$', 'server.views.like'),
     url(r'^person_like/(\w+)$', 'server.views.person_like'),
     url(r'^log/(\w+)$', 'server.views.log'),
@@ -48,4 +48,6 @@ urlpatterns = patterns('',
     url(r'^(\w+?)/$', 'server.views.conf'),
     url(r'^(\w+?)/anonymized_data_dump$', 'server.views.anonymized_data_dump'),
     url(r'^(\w+?)/all_data_dump$', 'server.views.all_data_dump'),
+    
+    url(r'^recs', 'server.views.get_recs'),
 )

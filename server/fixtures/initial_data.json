@@ -250,12 +250,95 @@
 	      "confer_name": "chi2016",
 	      "title": "CHI 2016 - ACM CHI Conference on Human Factors in Computing Systems",
 	      "subtitle": "",
-	      "blurb": "The ACM CHI Conference on Human Factors in Computing Systems is the premier international conference of Human-Computer Interaction.",
+	      "blurb": "The ACM CHI Conference on Human Factors in Computing Systems is the premier international conference of Human-Computer Interaction. CHI is a place to see, discuss and learn about the future of how people interact with technology.",
 	      "location": "San Jose, USA",
 	      "start_date": "2016-05-07",
 	      "end_date": "2016-05-12",
-	      "admins": "[\"anantb@csail.mit.edu\", \"axz@mit.edu\", \"bob.beaton@gmail.com\"]",
-	      "hidden": "True"
+	      "admins": "[\"anantb@csail.mit.edu\", \"axz@mit.edu\", \"bob.beaton@gmail.com\", \"confer.csail.mit.edu@thegreatmichael.com\"]"
+	  	}
+	},
+	{"model": "server.Conference",
+	    "pk": 19,
+	    "fields": {
+	      "unique_name": "www2016",
+	      "confer_name": "www2016",
+	      "title": "WWW 2016 - 25th International World Wide Web Conference",
+	      "subtitle": "",
+	      "blurb": "The World Wide Web Conference is an annual international conference on the topics of the future direction of the World Wide Web. The Conference is an outstanding international forum to present and discuss progress in research, development, standards, and applications of the topics related to the Web.",
+	      "location": "Montreal, Canada",
+	      "start_date": "2016-04-11",
+	      "end_date": "2016-04-15",
+	      "admins": "[\"anantb@csail.mit.edu\", \"axz@mit.edu\"]"
+	  	}
+	},
+	{"model": "server.Conference",
+	    "pk": 20,
+	    "fields": {
+	      "unique_name": "sigmod2016",
+	      "confer_name": "sigmod2016",
+	      "title": "SIGMOD/PODS 2016 - ACM International Conference on Management of Data",
+	      "subtitle": "",
+	      "blurb": "The annual ACM SIGMOD/PODS Conference is a leading international forum for database researchers, practitioners, developers, and users to explore cutting-edge ideas and results, and to exchange techniques, tools, and experiences.",
+	      "location": "San Francisco, USA",
+	      "start_date": "2016-06-26",
+	      "end_date": "2016-07-01",
+	      "admins": "[\"anantb@csail.mit.edu\", \"madden@csail.mit.edu\"]"
+	  	}
+	},
+	{"model": "server.Conference",
+	    "pk": 21,
+	    "fields": {
+	      "unique_name": "ijcai2016",
+	      "confer_name": "ijcai2016",
+	      "title": "IJCAI 2016 - International Joint Conference on Artificial Intelligence",
+	      "subtitle": "",
+	      "blurb": "We are delighted to invite you to come to New York, one of the most exciting cities of the world, and take part in IJCAI, the leading conference on the thrilling field of Artificial Intelligence. AI today has a tremendous impact. It is in all the media and makes a real difference. At IJCAI-16, you will have the opportunity to meet some of the world's leading AI researchers, to learn first-hand about their newest research results and developments, and to catch up with current AI trends in science and industry. And, of course, IJCAI-16 will be the perfect forum for presenting your own achievements, both to specialists in your field, and to the AI world in general.",
+	      "location": "New York, NY, USA",
+	      "start_date": "2016-07-09",
+	      "end_date": "2016-07-15",
+	      "admins": "[\"anantb@csail.mit.edu\", \"axz@mit.edu\", \"vsatyagautam@gmail.com\", \"ssengu15@asu.edu\"]"
+	  	}
+	},
+	{"model": "server.Conference",
+	    "pk": 22,
+	    "fields": {
+	      "unique_name": "kdd2016",
+	      "confer_name": "kdd2016",
+	      "title": "KDD 2016 - 22nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+	      "subtitle": "",
+	      "blurb": "KDD 2016, a premier interdisciplinary conference, brings together researchers and practitioners from data science, data mining, knowledge discovery, large-scale data analytics, and big data.",
+	      "location": "San Francisco, CA, USA",
+	      "start_date": "2016-08-13",
+	      "end_date": "2016-08-17",
+	      "admins": "[\"anantb@csail.mit.edu\", \"axz@mit.edu\", \"stefje@csail.mit.edu\"]"
+	  	}
+	},
+	{"model": "server.Conference",
+	    "pk": 23,
+	    "fields": {
+	      "unique_name": "recsys2016",
+	      "confer_name": "recsys2016",
+	      "title": "RecSys 2016 - 10th ACM Conference on Recommender Systems",
+	      "subtitle": "",
+	      "blurb": "The ACM Recommender Systems conference (RecSys) is the premier international forum for the presentation of new research results, systems and techniques in the broad field of recommender systems.",
+	      "location": "Boston, MA, USA",
+	      "start_date": "2016-09-15",
+	      "end_date": "2016-09-19",
+	      "admins": "[\"anantb@csail.mit.edu\", \"axz@mit.edu\"]"
+	  	}
+	},
+	{"model": "server.Conference",
+	    "pk": 24,
+	    "fields": {
+	      "unique_name": "nordichi2016",
+	      "confer_name": "nordichi2016",
+	      "title": "NordiCHI 2016 -  9th ACM Nordic Conference on Human-Computer Interaction",
+	      "subtitle": "",
+	      "blurb": "NordiCHI is a biennial conference functioning as the main Nordic forum for Human-Computer Interaction (HCI) research. NordiCHI is the meeting place for researchers from academia and industry, designers, practitioners, educators and others from a broad range of traditions and communities. The NordiCHI conference takes HCI in the non-limited sense of research and practice addressing the design and use of interactive technology. The NordiCHI conference is a joint effort initiated by Nordic HCI organisations.",
+	      "location": "Gothenburg, Sweden",
+	      "start_date": "2016-10-23",
+	      "end_date": "2016-10-27",
+	      "admins": "[\"anantb@csail.mit.edu\", \"axz@mit.edu\", \"khanhd@chalmers.se\", \"khanh-duy.le@chalmers.se\", \"Pawel.Wozniak@vis.uni-stuttgart.de\"]"
 	  	}
 	}
 ]

@@ -40,12 +40,9 @@ def send_email (addr, subject, msg_body):
   msg['Subject'] = email_subject
   msg.attach(MIMEText(msg_body))
 
-  username = 'anantb'
-  password = 'JcAt250486'
-  smtp_conn = smtplib.SMTP_SSL('cs.stanford.edu', 465)
-  smtp_conn.login(username, password)   
+  smtp_conn = smtplib.SMTP('localhost', 25)
   smtp_conn.sendmail(from_addr, to_addr, msg.as_string())
-  smtp_conn.close() 
+  smtp_conn.close()
 
 
 def insert_log (registration, action, data=None):

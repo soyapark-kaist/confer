@@ -1,0 +1,93 @@
+fb_comment = true
+s_filters=[
+	{
+		"label":"Sessions", 
+		"vals":
+			[
+				{
+					"data":"all", 
+					"class":"p_session filter active f_all", 
+					"type":"p_session", 
+					"label":"All"
+				},
+				{
+					"data":"s_starred", 
+					"class":"p_session filter", 
+					"type":"p_session", 
+					"label":"Liked"
+				},
+				{
+					"data":"s_recommended, .s_starred", 
+					"class":"p_session filter", 
+					"type":"p_session", 
+					"label":"Liked + Recommended"
+				}
+		]
+	},
+	{
+		"label":"Day", 
+		"vals":
+			[
+				{
+					"data":"all", 
+					"class":"day filter active f_all", 
+					"type":"day", 
+					"label":"All"
+				},
+				{
+					"data":"Saturday", 
+					"class":"day filter", 
+					"type":"day", 
+					"label":"Sat (Sept 17)"
+				},
+				{
+					"data":"Sunday", 
+					"class":"day filter", 
+					"type":"day", 
+					"label":"Sun (Sept 18)"
+				},
+				{
+					"data":"Monday", 
+					"class":"day filter", 
+					"type":"day", 
+					"label":"Mon (Sept 19)"
+				}
+		]
+	},
+	{
+		"label":"Time", 
+		"vals":
+			[
+				{
+					"data":"all", 
+					"class":"time filter active f_all", 
+					"type":"time", 
+					"label":"All"
+				},
+				{
+					"data":"morning1", 
+					"class":"time filter", 
+					"type":"time", 
+					"label":"Early Morning"
+				},
+				{
+					"data":"morning2", 
+					"class":"time filter", 
+					"type":"time", 
+					"label":"Late Morning"
+				},
+				{
+					"data":"afternoon1", 
+					"class":"time filter", 
+					"type":"time", 
+					"label":"Early Afternoon"
+				},
+				{
+					"data":"afternoon2, .afternoon3, .evening1, .evening2", 
+					"class":"time filter", 
+					"type":"time", 
+					"label":"Late Afternoon"
+				}
+		]
+	}
+]

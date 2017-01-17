@@ -1,0 +1,168 @@
+schedule=[
+  {
+    "date": "06/28/2016", 
+    "day": "Tuesday", 
+    "slots": [
+      {
+        "sessions": [
+          {
+            "room": "Bayview", 
+            "session": "Scalable_Analytics_amp_Machine_Learning"
+          }, 
+          {
+            "room": "Grand Ballroom C", 
+            "session": "Privacy_amp_Security"
+          }, 
+          {
+            "room": "Seacliffs", 
+            "session": "Logical_and_Physical_Database_Design"
+          }
+        ], 
+        "slot_class": "morning2", 
+        "slot_id": "06_28_2016_10_30_12_15", 
+        "time": "10:30-12:15"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Bayview", 
+            "session": "New_Storage_and_Network_Architectures"
+          }, 
+          {
+            "room": "Grand Ballroom C", 
+            "session": "Graphs_1_Infrastructure_and_Processing_on_Modern_Hardware"
+          }, 
+          {
+            "room": "Seacliffs", 
+            "session": "Streaming_1_Systems_and_Outlier_Detection"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "06_28_2016_13_30_15_00", 
+        "time": "13:30-15:00"
+      }
+    ]
+  }, 
+  {
+    "date": "06/29/2016", 
+    "day": "Wednesday", 
+    "slots": [
+      {
+        "sessions": [
+          {
+            "room": "Bayview", 
+            "session": "Approximate_Query_Processing"
+          }, 
+          {
+            "room": "Grand Ballroom C", 
+            "session": "Networks_and_the_Web"
+          }, 
+          {
+            "room": "Seacliffs", 
+            "session": "Data_Discovery_and_Extraction"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "06_29_2016_8_30_10_00", 
+        "time": "8:30-10:00"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Bayview", 
+            "session": "Data_Integration_Cleaning"
+          }, 
+          {
+            "room": "Grand Ballroom C", 
+            "session": "Spatio_Temporal_Databases"
+          }, 
+          {
+            "room": "Seacliffs", 
+            "session": "Careers_in_Industry_Panel"
+          }
+        ], 
+        "slot_class": "morning2", 
+        "slot_id": "06_29_2016_10_30_12_15", 
+        "time": "10:30-12:15"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Bayview", 
+            "session": "Distributed_Data_Processing"
+          }, 
+          {
+            "room": "Grand Ballroom C", 
+            "session": "Graphs_2_Subgraph_based_Optimization_Techniques"
+          }, 
+          {
+            "room": "Seacliffs", 
+            "session": "Main_Memory_Analytics"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "06_29_2016_13_30_15_00", 
+        "time": "13:30-15:00"
+      }
+    ]
+  }, 
+  {
+    "date": "06/30/2016", 
+    "day": "Thursday", 
+    "slots": [
+      {
+        "sessions": [
+          {
+            "room": "Grand Ballroom A", 
+            "session": "Interactive_Analytics"
+          }, 
+          {
+            "room": "Grand Ballroom BC", 
+            "session": "Streaming_2_Sketches"
+          }, 
+          {
+            "room": "Seacliffs", 
+            "session": "Transaction_Processing"
+          }
+        ], 
+        "slot_class": "morning2", 
+        "slot_id": "06_30_2016_10_30_12_00", 
+        "time": "10:30-12:00"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Grand Ballroom A", 
+            "session": "Transactions_and_Consistency"
+          }, 
+          {
+            "room": "Grand Ballroom BC", 
+            "session": "Query_Optimization"
+          }, 
+          {
+            "room": "Seacliffs", 
+            "session": "Graphs_3_Potpourri_nbsp_"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "06_30_2016_13_30_15_00", 
+        "time": "13:30-15:00"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Grand Ballroom A", 
+            "session": "Hardware_Acceleration_amp_Query_Compilation"
+          }, 
+          {
+            "room": "Grand Ballroom BC", 
+            "session": "Nearest_Neighbors_and_Similarity_Search"
+          }
+        ], 
+        "slot_class": "afternoon2", 
+        "slot_id": "06_30_2016_15_00_17_00", 
+        "time": "15:00-17:00"
+      }
+    ]
+  }
+]
