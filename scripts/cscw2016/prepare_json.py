@@ -36,15 +36,15 @@ def get_start_time(s_time):
 
 def get_date_time(s_date, dt_format='%m/%d/%Y'):
   if s_date == "Saturday":
-      return time.strptime('02/25/2016', dt_format)
+      return time.strptime('02/25/2017', dt_format)
   if s_date == 'Sunday':
-      return time.strptime('02/26/2016', dt_format)
+      return time.strptime('02/26/2017', dt_format)
   if s_date == 'Monday':
-      return time.strptime('02/27/2016', dt_format) 
+      return time.strptime('02/27/2017', dt_format) 
   if s_date == "Tuesday":
-      return time.strptime('02/28/2016', dt_format)
+      return time.strptime('02/28/2017', dt_format)
   if s_date == "Wednesday":
-      return time.strptime('03/01/2016', dt_format)      
+      return time.strptime('03/01/2017', dt_format)      
   #time_struct = time.strptime(s_date, dt_format)
   #return time_struct
 

@@ -1,7 +1,7 @@
 schedule=[
   {
-    "date": "02/25/2016", 
-    "day": "Thursday", 
+    "date": "02/25/2017", 
+    "day": "Saturday", 
     "slots": [
       {
         "sessions": [
@@ -52,8 +52,8 @@ schedule=[
     ]
   }, 
   {
-    "date": "02/26/2016", 
-    "day": "Friday", 
+    "date": "02/26/2017", 
+    "day": "Sunday", 
     "slots": [
       {
         "sessions": [
@@ -104,8 +104,8 @@ schedule=[
     ]
   }, 
   {
-    "date": "02/27/2016", 
-    "day": "Saturday", 
+    "date": "02/27/2017", 
+    "day": "Monday", 
     "slots": [
       {
         "sessions": [
@@ -273,8 +273,8 @@ schedule=[
     ]
   }, 
   {
-    "date": "02/28/2016", 
-    "day": "Sunday", 
+    "date": "02/28/2017", 
+    "day": "Tuesday", 
     "slots": [
       {
         "sessions": [
@@ -430,8 +430,8 @@ schedule=[
     ]
   }, 
   {
-    "date": "03/01/2016", 
-    "day": "Tuesday", 
+    "date": "03/01/2017", 
+    "day": "Wednesday", 
     "slots": [
       {
         "sessions": [
