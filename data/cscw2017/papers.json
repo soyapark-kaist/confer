@@ -2095,16 +2095,16 @@
     "abstract": "Professional interaction designers and software developers have different trainings and skills, yet they need to closely collaborate to create interactive systems. We conducted three studies to understand the mismatches between their processes, tools and representations. Based on 16 interviews, we found that current practices induce unnecessary rework and cause discrepancies between the original design and the implementation. We identified three key design breakdowns where designers omitted critical details, ignored the presence of edge cases or disregarded technical limitations. We next observed two face-to-face meetings between designers and developers. We found that early involvement of the developer helped to mitigate potential design breakdowns but new ones emerged as the project unfolded. Finally, we ran a participatory design session with two designer/developer pairs. Both pairs had difficulty representing and communicating pre-existing interactions. Creating complete interaction descriptions required iterating from individual examples to rule-based representations. We conclude with implications for designing collaborative tools that facilitate the designer's ability to express and the developer's ability to implement complex interactive systems.", 
     "authors": [
       {
-        "name": "Nolwenn Maudet, Universit_ Paris-Sud, CNRS, Universit_ Paris-Saclay"
+        "name": "Nolwenn Maudet, Universit\u008e Paris-Sud, CNRS, Universit\u008e Paris-Saclay"
       }, 
       {
-        "name": "Germ\u00f6n Leiva, Universit_ Paris-Sud, CNRS, Universit_ Paris-Saclay"
+        "name": "Germ\u00f6n Leiva, Universit\u008e Paris-Sud, CNRS, Universit\u008e Paris-Saclay"
       }, 
       {
-        "name": "Michel Beaudouin-Lafon, Universit_ Paris-Sud, CNRS, Universit_ Paris-Saclay"
+        "name": "Michel Beaudouin-Lafon, Universit\u008e Paris-Sud, CNRS, Universit\u008e Paris-Saclay"
       }, 
       {
-        "name": "Wendy Mackay, Inria, Universit_ Paris-Saclay"
+        "name": "Wendy Mackay, Inria, Universit\u008e Paris-Saclay"
       }
     ], 
     "award": false, 
