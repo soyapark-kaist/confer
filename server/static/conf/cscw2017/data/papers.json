@@ -562,7 +562,7 @@ entities={
     "award": false, 
     "hm": false, 
     "subtype": "poster", 
-    "title": "Chasing Lovely Monsters in the Wild, Exploring Players' Motivation and Play Patterns of Pok\u00d5\u00a9mon Go: Go, Gone or Go Away?", 
+    "title": "Chasing Lovely Monsters in the Wild, Exploring Players' Motivation and Play Patterns of Pok\u008emon Go: Go, Gone or Go Away?", 
     "type": "poster"
   }, 
   "36": {
@@ -635,7 +635,7 @@ entities={
         "name": "Kevin Crowston"
       }, 
       {
-        "name": "Carsten \u00f8sterlund"
+        "name": "Carsten \u00bfsterlund"
       }, 
       {
         "name": "Grant Miller"
@@ -1218,13 +1218,13 @@ entities={
     "abstract": "", 
     "authors": [
       {
-        "name": "Cristian P\u00e0ez Rinc\u00d1n"
+        "name": "Cristian P\u0088ez Rinc\u0084n"
       }, 
       {
-        "name": "Isaac Montoya Guzm\u00e0n"
+        "name": "Isaac Montoya Guzm\u0088n"
       }, 
       {
-        "name": "Carlos L\u00d1pez Ospina"
+        "name": "Carlos L\u0084pez Ospina"
       }
     ], 
     "award": false, 
@@ -1346,7 +1346,7 @@ entities={
     "award": false, 
     "hm": false, 
     "subtype": "demo", 
-    "title": "Collaborative Software Development Through Reflection and Storytelling \u00be", 
+    "title": "Collaborative Software Development Through Reflection and Storytelling _", 
     "type": "demo"
   }, 
   "71": {
@@ -1706,7 +1706,7 @@ entities={
     "type": "Paper"
   }, 
   "TOCHI-2015-0042": {
-    "abstract": "Do teams show stable conflict interaction patterns that predict their performance hours, weeks or even months in advance? Two studies demonstrate that two of the same patterns of emotional interaction dynamics that distinguish functional from dysfunctional marriages also distinguish high from low performance design teams in the field, up to six months in advance, with up to 91% accuracy, and based on just 15 minutes of interaction data: Group Affective Balance (GAB), the balance of positive to negative affect during an interaction, and Hostile Affect, the expression of a set of specific negative behaviors were both found as predictors of team performance. The research also contributes a novel method to obtain a representative sample of a team\u00eas conflict interaction. Implications for our understanding of design work in teams and for the design of groupware and feedback intervention systems are discussed.", 
+    "abstract": "Do teams show stable conflict interaction patterns that predict their performance hours, weeks or even months in advance? Two studies demonstrate that two of the same patterns of emotional interaction dynamics that distinguish functional from dysfunctional marriages also distinguish high from low performance design teams in the field, up to six months in advance, with up to 91% accuracy, and based on just 15 minutes of interaction data: Group Affective Balance (GAB), the balance of positive to negative affect during an interaction, and Hostile Affect, the expression of a set of specific negative behaviors were both found as predictors of team performance. The research also contributes a novel method to obtain a representative sample of a team\u0090s conflict interaction. Implications for our understanding of design work in teams and for the design of groupware and feedback intervention systems are discussed.", 
     "authors": [
       {
         "name": "Malte F Yung, Cornell University"
@@ -1738,7 +1738,7 @@ entities={
     "type": "Paper"
   }, 
   "TOCHI-2015-0195": {
-    "abstract": "This paper provides a detailed analysis of rural Kenyan women and their interactions with the products and services of Safaricom Ltd., Kenya\u00eas dominant mobile network provider. Amplification theory of technology offers a framework for analyzing our data, and we find that differential motivation and capacity are mechanisms that appear to benefit the network provider, while disadvantaging rural mobile phone owners. In particular, the design of Safaricom\u00eas airtime scratch cards and mobile services does not support rural users\u00ea capabilities. Our analysis suggests that technologists consider their ongoing responsibilities for technologies they built yesterday\u00e3that is, they should address problems inherent in the current design of mobile-phone interfaces. We offer practical recommendations on how to do this, and ask HCI/ICTD researchers and practitioners to more carefully consider how overlooking corporate power structures and their impact on mobile phone use amplifies social inequality.", 
+    "abstract": "This paper provides a detailed analysis of rural Kenyan women and their interactions with the products and services of Safaricom Ltd., Kenya\u0090s dominant mobile network provider. Amplification theory of technology offers a framework for analyzing our data, and we find that differential motivation and capacity are mechanisms that appear to benefit the network provider, while disadvantaging rural mobile phone owners. In particular, the design of Safaricom\u0090s airtime scratch cards and mobile services does not support rural users\u0090 capabilities. Our analysis suggests that technologists consider their ongoing responsibilities for technologies they built yesterday\u008bthat is, they should address problems inherent in the current design of mobile-phone interfaces. We offer practical recommendations on how to do this, and ask HCI/ICTD researchers and practitioners to more carefully consider how overlooking corporate power structures and their impact on mobile phone use amplifies social inequality.", 
     "authors": [
       {
         "name": "Susan Wyche, Michigan State"
@@ -1757,7 +1757,7 @@ entities={
     "type": "Paper"
   }, 
   "W1": {
-    "abstract": "Not long ago, real-time collaborative editing (CE) systems were seen as a novelty to the average user, and a niche area of computer science research. Today, nothing could be further from the truth. Users are increasingly more connected and are creating more and more content online, on mobile devices, and in cloud based applications. Users are increasingly expecting collaborative editing functionalities in all of their applications. The focus of this year\u00eas workshop is: 1) to explore recent advances in the technologies that enable collaborative editing systems, 2) to evaluate the adoption of these technologies by commercial industry and the open source communities, and 3) to foster an exchange of ideas between CE researchers and end-user CE systems builders. The goal is to increase the adoption of recent technological advancements in CE research by practitioners and to have practitioners identify real-world challenges for future research.", 
+    "abstract": "Not long ago, real-time collaborative editing (CE) systems were seen as a novelty to the average user, and a niche area of computer science research. Today, nothing could be further from the truth. Users are increasingly more connected and are creating more and more content online, on mobile devices, and in cloud based applications. Users are increasingly expecting collaborative editing functionalities in all of their applications. The focus of this year\u0090s workshop is: 1) to explore recent advances in the technologies that enable collaborative editing systems, 2) to evaluate the adoption of these technologies by commercial industry and the open source communities, and 3) to foster an exchange of ideas between CE researchers and end-user CE systems builders. The goal is to increase the adoption of recent technological advancements in CE research by practitioners and to have practitioners identify real-world challenges for future research.", 
     "authors": [], 
     "award": false, 
     "hm": false, 
@@ -1793,7 +1793,7 @@ entities={
     "type": "Workshop"
   }, 
   "W13": {
-    "abstract": "Many social media platforms provide features for commenting, which often provide affordances for people to give feedback to others. Around the theme of advancing research about online comments, this workshop aims to bring together a diverse range of researchers for cross-discipline community building and productive mixed-methods research. The workshop is structured around a research \u0096hackathon,\u0094 where participants actively work on producing initial stages of research, theory, and design related to a central dataset (in the case of this workshop, public comments from a historical reddit.com corpus). Participants will form collaborative teams to tackle questions of interest that move forward current thinking around online comment behaviors, participants, quality, and design.", 
+    "abstract": "Many social media platforms provide features for commenting, which often provide affordances for people to give feedback to others. Around the theme of advancing research about online comments, this workshop aims to bring together a diverse range of researchers for cross-discipline community building and productive mixed-methods research. The workshop is structured around a research \u00d0hackathon,\u00d3 where participants actively work on producing initial stages of research, theory, and design related to a central dataset (in the case of this workshop, public comments from a historical reddit.com corpus). Participants will form collaborative teams to tackle questions of interest that move forward current thinking around online comment behaviors, participants, quality, and design.", 
     "authors": [], 
     "award": false, 
     "hm": false, 
@@ -1838,7 +1838,7 @@ entities={
     "type": "Workshop"
   }, 
   "W5": {
-    "abstract": "Through a series of ACM SIGCHI workshops, we have built a research community of individuals dedicated to networked privacy\u00e3from identifying the key challenges to designing privacy solutions and setting a privacy-focused agenda for the future. In this workshop, we take an intentional pause to unpack the potential ethical questions and concerns this agenda might raise. Rather than strictly focusing on privacy as a state that is always desired\u00e3where more privacy is viewed unequivocally as \u0096better\u0094\u00e3we consider situations where privacy may not be optimal for researchers, end users, or society. We discuss the current research landscape, including the recent updates to ACM\u00eas Code of Ethics, and how researchers and designers can make more informed decisions regarding ethics, privacy, and other competing values in privacy-related research and designs. Our workshop includes group discussions, breakout activities, and a panel of experts with diverse insights discussing topics related to privacy and ethics.", 
+    "abstract": "Through a series of ACM SIGCHI workshops, we have built a research community of individuals dedicated to networked privacy\u008bfrom identifying the key challenges to designing privacy solutions and setting a privacy-focused agenda for the future. In this workshop, we take an intentional pause to unpack the potential ethical questions and concerns this agenda might raise. Rather than strictly focusing on privacy as a state that is always desired\u008bwhere more privacy is viewed unequivocally as \u00d0better\u00d3\u008bwe consider situations where privacy may not be optimal for researchers, end users, or society. We discuss the current research landscape, including the recent updates to ACM\u0090s Code of Ethics, and how researchers and designers can make more informed decisions regarding ethics, privacy, and other competing values in privacy-related research and designs. Our workshop includes group discussions, breakout activities, and a panel of experts with diverse insights discussing topics related to privacy and ethics.", 
     "authors": [], 
     "award": false, 
     "hm": false, 
@@ -1847,7 +1847,7 @@ entities={
     "type": "Workshop"
   }, 
   "W6": {
-    "abstract": "Recent years, we\u00eave observed a fast expansion of CSCW researchers in China. This is due to the development of the mobile Internet, social network services and other collaborative services in China, as well as the rise of the CSCW conference in the official conference and journal rankings of China Computer Federation (CCF). In industry, companies in China like Tencent and Sina have their own productions related to social and collaborative systems. For example, Sina has Weibo while Tencent has Wechat. Both of them primarily focus on communicative, cooperative and social behavior. In academia, the CSCW community in China is developing rapidly. In 1998, the first Chinese Conference on Computer-Supported Cooperative Work (CCSCW) was successfully held in Tsinghua University, and CCF Technical Committee on Collaborative Computing (CCF TCCC) was also established in the meantime, with about 115 members today. The goal of this workshop is to serve as a catalyst to the communication between CSCW researchers from China and CSCW researchers abroad. Since CSCW is a cross-disciplinary field, we also need the ideas and theories from other disciplines, which can be inspiring and can be important for the further development of the CSCW community in China.", 
+    "abstract": "Recent years, we\u0090ve observed a fast expansion of CSCW researchers in China. This is due to the development of the mobile Internet, social network services and other collaborative services in China, as well as the rise of the CSCW conference in the official conference and journal rankings of China Computer Federation (CCF). In industry, companies in China like Tencent and Sina have their own productions related to social and collaborative systems. For example, Sina has Weibo while Tencent has Wechat. Both of them primarily focus on communicative, cooperative and social behavior. In academia, the CSCW community in China is developing rapidly. In 1998, the first Chinese Conference on Computer-Supported Cooperative Work (CCSCW) was successfully held in Tsinghua University, and CCF Technical Committee on Collaborative Computing (CCF TCCC) was also established in the meantime, with about 115 members today. The goal of this workshop is to serve as a catalyst to the communication between CSCW researchers from China and CSCW researchers abroad. Since CSCW is a cross-disciplinary field, we also need the ideas and theories from other disciplines, which can be inspiring and can be important for the further development of the CSCW community in China.", 
     "authors": [], 
     "award": false, 
     "hm": false, 
@@ -1856,7 +1856,7 @@ entities={
     "type": "Workshop"
   }, 
   "W7": {
-    "abstract": "The aim of this one-day workshop is to explore theoretical and methodological approaches that help us consider issues of gender, sexual orientation, and power in the design of socio-technical systems. This program builds on two previous workshops on the topic of feminism and CSCW. With this instantiation, we are motivated by an explicit commitment to intersectionality\u00e3a recognition that the effects of various oppressions cannot be understood independently. Considerable time will be devoted to discussing work in post-colonial feminism, queer theory, Women of Color feminism, and feminist critical disability studies. Through generative conversation with participants, feedback on works-in-progress, and the initiation of outlets for new feminist CSCW work, we aim to 1) build on existing research and practice and 2) identify concerns and approaches for both designing and assessing research oriented toward intersectional and feminist futures in the context of CSCW and social computing.", 
+    "abstract": "The aim of this one-day workshop is to explore theoretical and methodological approaches that help us consider issues of gender, sexual orientation, and power in the design of socio-technical systems. This program builds on two previous workshops on the topic of feminism and CSCW. With this instantiation, we are motivated by an explicit commitment to intersectionality\u008ba recognition that the effects of various oppressions cannot be understood independently. Considerable time will be devoted to discussing work in post-colonial feminism, queer theory, Women of Color feminism, and feminist critical disability studies. Through generative conversation with participants, feedback on works-in-progress, and the initiation of outlets for new feminist CSCW work, we aim to 1) build on existing research and practice and 2) identify concerns and approaches for both designing and assessing research oriented toward intersectional and feminist futures in the context of CSCW and social computing.", 
     "authors": [], 
     "award": false, 
     "hm": false, 
@@ -1865,7 +1865,7 @@ entities={
     "type": "Workshop"
   }, 
   "W8": {
-    "abstract": "Citizen science is a form of collaboration that engages non-professionals as contributors to scientific research, typically through the processes of gathering, transforming or analyzing data. To date, research has documented examples of hugely successful citizen science projects, such as Zooniverse and eBird, but citizen science also includes hundreds of smaller citizen science and functionally similar digital humanities projects, operating from small-scale web platforms and in-person collaboration teams. Yet, it is unclear what the \u0096science\" of citizen science entails: What are the core research questions and methodologies for answering them? What theories and concepts have been associated with citizen science research to date? What are the technology needs for supporting successful research collaboration among diverse stakeholders and across distinctive types of citizen science projects? In this workshop, our goals are to (i) bring together researchers studying citizen science to form a coherent map summarizing the theories, methodologies, and platforms that currently defines citizen science research, with a special focus on CHI and CSCW relevant topics; (ii) brainstorm a list of fundamental open questions and ways to tackle them; and (iii) form a multidisciplinary community to build synergies for further collaboration.", 
+    "abstract": "Citizen science is a form of collaboration that engages non-professionals as contributors to scientific research, typically through the processes of gathering, transforming or analyzing data. To date, research has documented examples of hugely successful citizen science projects, such as Zooniverse and eBird, but citizen science also includes hundreds of smaller citizen science and functionally similar digital humanities projects, operating from small-scale web platforms and in-person collaboration teams. Yet, it is unclear what the \u00d0science\" of citizen science entails: What are the core research questions and methodologies for answering them? What theories and concepts have been associated with citizen science research to date? What are the technology needs for supporting successful research collaboration among diverse stakeholders and across distinctive types of citizen science projects? In this workshop, our goals are to (i) bring together researchers studying citizen science to form a coherent map summarizing the theories, methodologies, and platforms that currently defines citizen science research, with a special focus on CHI and CSCW relevant topics; (ii) brainstorm a list of fundamental open questions and ways to tackle them; and (iii) form a multidisciplinary community to build synergies for further collaboration.", 
     "authors": [], 
     "award": false, 
     "hm": false, 
@@ -1874,7 +1874,7 @@ entities={
     "type": "Workshop"
   }, 
   "W9": {
-    "abstract": "Over the last decade the idea that robots could become an integral part of groups and teams has developed from a promising vision into a reality. Robots are increasingly part of groups and teams, yet most human-robot interaction research still focuses on a single human interacting with a single robot. The goal for the workshop is therefore to advance research in computer supported cooperative work (CSCW) and human robot interaction (HRI) by raising awareness for the social and technical challenges that surround the placement of robots within work-groups and teams. The workshop will be organized around three central questions: (1) How do robots shape the dynamics of groups and teams in existing settings? (2) How does a robot\u00eas behavior shape how humans interact with each other in dyads and in larger groups and teams? (3) How can robots improve the performance of work groups and teams by acting on social processes? Through presentations centered around these core questions we expect in depth discussions around each question and, ultimately, to improve the quality of and support the growth of research in the CSCW community that focuses on the intersection of robots and groups and teams.", 
+    "abstract": "Over the last decade the idea that robots could become an integral part of groups and teams has developed from a promising vision into a reality. Robots are increasingly part of groups and teams, yet most human-robot interaction research still focuses on a single human interacting with a single robot. The goal for the workshop is therefore to advance research in computer supported cooperative work (CSCW) and human robot interaction (HRI) by raising awareness for the social and technical challenges that surround the placement of robots within work-groups and teams. The workshop will be organized around three central questions: (1) How do robots shape the dynamics of groups and teams in existing settings? (2) How does a robot\u0090s behavior shape how humans interact with each other in dyads and in larger groups and teams? (3) How can robots improve the performance of work groups and teams by acting on social processes? Through presentations centered around these core questions we expect in depth discussions around each question and, ultimately, to improve the quality of and support the growth of research in the CSCW community that focuses on the intersection of robots and groups and teams.", 
     "authors": [], 
     "award": false, 
     "hm": false, 
@@ -2098,7 +2098,7 @@ entities={
         "name": "Nolwenn Maudet, Universit_ Paris-Sud, CNRS, Universit_ Paris-Saclay"
       }, 
       {
-        "name": "Germ\u00e0n Leiva, Universit_ Paris-Sud, CNRS, Universit_ Paris-Saclay"
+        "name": "Germ\u0088n Leiva, Universit_ Paris-Sud, CNRS, Universit_ Paris-Saclay"
       }, 
       {
         "name": "Michel Beaudouin-Lafon, Universit_ Paris-Sud, CNRS, Universit_ Paris-Saclay"
@@ -2123,7 +2123,7 @@ entities={
         "name": "Laura Kocksch, Fraunhofer Institute for Secure Information Technology"
       }, 
       {
-        "name": "Sven T\u00f4rpe, Fraunhofer Institute for Secure Information Technology SIT"
+        "name": "Sven T\u0099rpe, Fraunhofer Institute for Secure Information Technology SIT"
       }, 
       {
         "name": "Felix Anand Epp, Fraunhofer Institute for Secure Information Technology"
@@ -2603,7 +2603,7 @@ entities={
     "type": "Paper"
   }, 
   "cscwp206": {
-    "abstract": "Nepal was struck by two major earthquakes in April and May 2015 which gave rise to much media attention. Because of photographs' power to influence how people perceive significant events, we investigate how these disasters are represented visually through Twitter-shared images in three ways. First, we compare how geotagged image tweets are distributed vis-\u0092\u00be-vis the reported damage, to see if a seemingly \"objective\" method of representation stands up. Second, with an iteratively developed coding scheme, we examine how images are differently produced and shared within global versus local populations and after each earthquake, with the idea that amplification \"collectively instructs\" what features of the event are most important. Third, we analyze how images from other locations, disasters, and time periods are appropriated as part of the \"story\" of the disaster event. We found differences in image popularity, with global twitterers emphasizing recovery and relief efforts in their diffusion of images, and locals emphasizing people suffering and major damage in their sourcing and re-sharing. We also found that globals were more likely to appropriate images, evoking lessons from Sontag about \"the pain of others\" [39].", 
+    "abstract": "Nepal was struck by two major earthquakes in April and May 2015 which gave rise to much media attention. Because of photographs' power to influence how people perceive significant events, we investigate how these disasters are represented visually through Twitter-shared images in three ways. First, we compare how geotagged image tweets are distributed vis-\u00d5_-vis the reported damage, to see if a seemingly \"objective\" method of representation stands up. Second, with an iteratively developed coding scheme, we examine how images are differently produced and shared within global versus local populations and after each earthquake, with the idea that amplification \"collectively instructs\" what features of the event are most important. Third, we analyze how images from other locations, disasters, and time periods are appropriated as part of the \"story\" of the disaster event. We found differences in image popularity, with global twitterers emphasizing recovery and relief efforts in their diffusion of images, and locals emphasizing people suffering and major damage in their sourcing and re-sharing. We also found that globals were more likely to appropriate images, evoking lessons from Sontag about \"the pain of others\" [39].", 
     "authors": [
       {
         "name": "Melissa Bica, University of Colorado Boulder"
@@ -2852,7 +2852,7 @@ entities={
     "type": "Paper"
   }, 
   "cscwp250": {
-    "abstract": "Self-harm is the infliction of pain or injury onto oneself. Though historically these behaviors were relegated to the fringes of communities, information technology now enables new ways to foster and encourage these dangerous activities. This paper defines the concept of digital self-harm as\u00ce\u00bethe online communication and activity that leads to, supports, or exacerbates, non-suicidal yet intentional harm or impairment of an individual's physical wellbeing. We outline a research agenda for the CSCW community to understand the correlation and possible causation of offline self-harm behaviors due to online activities, and to design and assess technologies focused on prevention, mitigation and treatment. CAUTION: This paper includes media that could potentially be triggering to those dealing with an eating disorder or with other self-harm related illnesses. Please use caution when reading or disseminating this paper.  ", 
+    "abstract": "Self-harm is the infliction of pain or injury onto oneself. Though historically these behaviors were relegated to the fringes of communities, information technology now enables new ways to foster and encourage these dangerous activities. This paper defines the concept of digital self-harm as\u00eb_the online communication and activity that leads to, supports, or exacerbates, non-suicidal yet intentional harm or impairment of an individual's physical wellbeing. We outline a research agenda for the CSCW community to understand the correlation and possible causation of offline self-harm behaviors due to online activities, and to design and assess technologies focused on prevention, mitigation and treatment. CAUTION: This paper includes media that could potentially be triggering to those dealing with an eating disorder or with other self-harm related illnesses. Please use caution when reading or disseminating this paper.  ", 
     "authors": [
       {
         "name": "Jessica A Pater, Georgia Institute of Technology"
@@ -3474,7 +3474,7 @@ entities={
     "type": "Paper"
   }, 
   "cscwp337": {
-    "abstract": "OT (Operational Transformation) is a consistency maintenance technique for real-time collaborative editors and a continuous topic of research in CSCW for over two-decades. One main challenge in OT research is to detect and resolve puzzles \u008a\u0094\u0097 characteristic collaboration scenarios or transformation cases in which an OT system may fail to produce consistent results. A long-standing open issue is whether we can find and solve all possible puzzles in OT systems supporting string-wise operations under well-defined consistency requirements. In this paper, we present our research that solves this open problem and a set of concrete string-wise transformation functions capable of solving all known puzzles and preserving well-defined consistency requirements. Our results contribute to the advancement of state-of-the-art of OT fundamental knowledge and technological innovation.", 
+    "abstract": "OT (Operational Transformation) is a consistency maintenance technique for real-time collaborative editors and a continuous topic of research in CSCW for over two-decades. One main challenge in OT research is to detect and resolve puzzles _\u00d3\u00d1 characteristic collaboration scenarios or transformation cases in which an OT system may fail to produce consistent results. A long-standing open issue is whether we can find and solve all possible puzzles in OT systems supporting string-wise operations under well-defined consistency requirements. In this paper, we present our research that solves this open problem and a set of concrete string-wise transformation functions capable of solving all known puzzles and preserving well-defined consistency requirements. Our results contribute to the advancement of state-of-the-art of OT fundamental knowledge and technological innovation.", 
     "authors": [
       {
         "name": "Chengzheng Sun, Nanyang Technological University"
@@ -4333,10 +4333,10 @@ entities={
     "abstract": "Introducing data tracking of patients, doctors, medicine, or medical equipment holds promise to optimize workflows within hospitals. However, placing tracking devices and collecting data does not automatically translate into new workflows; instead, it requires careful considerations, knowledge about the activities tracked, and technical knowledge. In this paper, we study the interdisciplinary work involved when data tracking techniques are used to construe workflows within a real life work setting: architectural design of hospitals. We provide an ethnographic account from a unique study where two types of data tracking techniques were utilized in an existing hospital with the aim of informing the architectural design of a future hospital. The paper makes three contributions. First, we characterize the work involved in construing workflows based upon data tracking. Second, we discuss surveillance as an empirical category, which emerged in our study. Finally, we argue that to be able to construe workflows based upon data tracking, balancing the seamless boundary of privacy in work and surveillance in cooperation with the practitioners is of critical importance. Without support from the practitioners, data quality is at risk, and the resulting workflows might turn out 'flawed'. ", 
     "authors": [
       {
-        "name": "Naja L. Holten M\u00cbller, University of Copenhagen"
+        "name": "Naja L. Holten M\u00e8ller, University of Copenhagen"
       }, 
       {
-        "name": "Pernille Bj\u00cbrn, University of Copenhagen"
+        "name": "Pernille Bj\u00e8rn, University of Copenhagen"
       }, 
       {
         "name": "Jonas  Christoffer  Villumsen, Hitachi Europe Ltd."
@@ -5011,7 +5011,7 @@ entities={
     "type": "Paper"
   }, 
   "cscwp587": {
-    "abstract": "Users have played a prominent role as \"objects of study\" in HCI, CSCW, and HRI (Human-Robot Interaction). Researchers have begun to problematize the asymmetric relationship between technical experts and users. In this paper, we focus on how roboticists-borrowing a term from Steve Woolgar-\"configure\" their robot users. Instead of focusing on what roboticists think of their robots or what users think of robots, we ask, \"What do roboticists think of users?\" Utilizing two exercises we call futuristic stories and value index cards, we conducted semi-structured interviews with roboticists to examine their discourse on robotics, robots, and users. We found that roboticists framed users as inevitably transforming from a na\u0092\u00c0ve user to a sensible user equipped to handle their ideal, utilitarian robot. Our findings illustrate that roboticists and designers need to make transparent what forms of future users they desire and expect in their design processes.", 
+    "abstract": "Users have played a prominent role as \"objects of study\" in HCI, CSCW, and HRI (Human-Robot Interaction). Researchers have begun to problematize the asymmetric relationship between technical experts and users. In this paper, we focus on how roboticists-borrowing a term from Steve Woolgar-\"configure\" their robot users. Instead of focusing on what roboticists think of their robots or what users think of robots, we ask, \"What do roboticists think of users?\" Utilizing two exercises we call futuristic stories and value index cards, we conducted semi-structured interviews with roboticists to examine their discourse on robotics, robots, and users. We found that roboticists framed users as inevitably transforming from a na\u00d5\u00cbve user to a sensible user equipped to handle their ideal, utilitarian robot. Our findings illustrate that roboticists and designers need to make transparent what forms of future users they desire and expect in their design processes.", 
     "authors": [
       {
         "name": "EunJeong Cheon, Indiana University Bloomington"
@@ -5512,7 +5512,7 @@ entities={
     "abstract": "Millions of people regularly report the details of their real-world experiences on social media. This provides an opportunity to observe the outcomes of common and critical situations. Identifying and quantifying these outcomes may provide better decision-support and goal-achievement for individuals, and help policy-makers and scientists better understand important societal phenomena. We address several open questions about using social media data for open-domain outcome identification: Are the words people are more likely to use after some experience relevant to this experience? How well do these words cover the breadth of outcomes likely to occur for an experience? What kinds of outcomes are discovered? Studying 3-months of Twitter data capturing people who experienced 39 distinct situations across a variety of domains, we find that these outcomes are generally found to be relevant (55-100% on average) and that causally related concepts are more likely to be discovered than conceptual or semantically related concepts.", 
     "authors": [
       {
-        "name": "Alexandra Olteanu, \u008ecole Polytechnique F_d_rale de Lausanne"
+        "name": "Alexandra Olteanu, _cole Polytechnique F_d_rale de Lausanne"
       }, 
       {
         "name": "Onur Varol, Indiana University"
@@ -5686,7 +5686,7 @@ entities={
     "type": "Paper"
   }, 
   "cscwp716": {
-    "abstract": "In families composed of parents and children, the health of parents and children is often interrelated: the health of children can have an impact on the health of parents, and vice versa. However, the design of health tracking technologies typically focuses on individual self-tracking and self\u008a\u0097\u0095management, not yet addressing family health in a unified way. To examine opportunities for family-centered health informatics, we interviewed 14 typically healthy families, interviewed 10 families with a child with a chronic condition, and conducted three participatory design sessions with children aged 7 to 11. Although we identified similarities between family\u008a\u0097\u0095centered tracking and personal self-tracking, we also found families want to: (1) identify ripple effects between family members; (2) consider both caregivers and children as trackers to support distributing the burdens of tracking across family members; and (3) identify and pursue health guidelines that consider the state of their family (e.g., specific health guidelines for families that include a child with a chronic condition). We contribute to expanding the design lens from self\u008a\u0097\u0095tracking to family-centered health tracking.", 
+    "abstract": "In families composed of parents and children, the health of parents and children is often interrelated: the health of children can have an impact on the health of parents, and vice versa. However, the design of health tracking technologies typically focuses on individual self-tracking and self_\u00d1\u00a5management, not yet addressing family health in a unified way. To examine opportunities for family-centered health informatics, we interviewed 14 typically healthy families, interviewed 10 families with a child with a chronic condition, and conducted three participatory design sessions with children aged 7 to 11. Although we identified similarities between family_\u00d1\u00a5centered tracking and personal self-tracking, we also found families want to: (1) identify ripple effects between family members; (2) consider both caregivers and children as trackers to support distributing the burdens of tracking across family members; and (3) identify and pursue health guidelines that consider the state of their family (e.g., specific health guidelines for families that include a child with a chronic condition). We contribute to expanding the design lens from self_\u00d1\u00a5tracking to family-centered health tracking.", 
     "authors": [
       {
         "name": "Laura R Pina, University of Washington"

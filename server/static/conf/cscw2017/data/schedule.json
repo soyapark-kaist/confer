@@ -7,7 +7,7 @@ schedule=[
         "sessions": [
           {
             "room": "Broadway/Wiedler", 
-            "session": "Doctoral_Colloquium"
+            "session": "Saturday_Doctoral_Colloquium"
           }
         ], 
         "slot_class": "evening", 
@@ -64,6 +64,10 @@ schedule=[
           {
             "room": "Mt. St. Helens", 
             "session": "Talking_with_Conversational_Agents_in_Collaborative_Action"
+          }, 
+          {
+            "room": "Broadway/Wiedler", 
+            "session": "Sunday_Doctoral_Colloquium"
           }, 
           {
             "room": "Halsey", 

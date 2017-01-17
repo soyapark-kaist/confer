@@ -250,16 +250,6 @@ sessions={
     ], 
     "time": "9:00 - 10:30"
   }, 
-  "Doctoral_Colloquium": {
-    "date": "Saturday", 
-    "room": "Broadway/Wiedler", 
-    "s_title": "Doctoral Colloquium", 
-    "submissions": [
-      "1", 
-      "2"
-    ], 
-    "time": "2:00 - 5:00"
-  }, 
   "E_Infrastructures_for_Research_Collaboration_The_Case_of_the_Social_Sciences_and_Humanities": {
     "date": "Sunday", 
     "room": "Hawthorne", 
@@ -689,6 +679,15 @@ sessions={
     ], 
     "time": "9:00 - 5:00"
   }, 
+  "Saturday_Doctoral_Colloquium": {
+    "date": "Saturday", 
+    "room": "Broadway/Wiedler", 
+    "s_title": "Saturday Doctoral Colloquium", 
+    "submissions": [
+      "1"
+    ], 
+    "time": "2:00 - 5:00"
+  }, 
   "Social_Media_the_Individual_Chair_Vivek_Singh_Rutgers_University": {
     "date": "Monday", 
     "room": "Three Sisters", 
@@ -700,6 +699,15 @@ sessions={
       "cscwp685"
     ], 
     "time": "2:30 - 4:00"
+  }, 
+  "Sunday_Doctoral_Colloquium": {
+    "date": "Sunday", 
+    "room": "Broadway/Wiedler", 
+    "s_title": "Sunday Doctoral Colloquium", 
+    "submissions": [
+      "2"
+    ], 
+    "time": "9:00 - 5:00"
   }, 
   "Talking_with_Conversational_Agents_in_Collaborative_Action": {
     "date": "Sunday", 
