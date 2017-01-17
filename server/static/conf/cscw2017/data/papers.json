@@ -204,7 +204,7 @@ entities={
         "name": "Volker Held"
       }, 
       {
-        "name": "J_rn Hurtienne"
+        "name": "J\u00F6rn Hurtienne"
       }
     ], 
     "award": false, 
@@ -635,7 +635,7 @@ entities={
         "name": "Kevin Crowston"
       }, 
       {
-        "name": "Carsten \u00c0sterlund"
+        "name": "Carsten \u00D8sterlund"
       }, 
       {
         "name": "Grant Miller"
@@ -1218,13 +1218,13 @@ entities={
     "abstract": "", 
     "authors": [
       {
-        "name": "Cristian P\u00f6ez Rinc\u00e3n"
+        "name": "Cristian P\u00E1ez Rinc\u00F3n"
       }, 
       {
-        "name": "Isaac Montoya Guzm\u00f6n"
+        "name": "Isaac Montoya Guzm\u00E1n"
       }, 
       {
-        "name": "Carlos L\u00e3pez Ospina"
+        "name": "Carlos L\u00F3pez Ospina"
       }
     ], 
     "award": false, 
@@ -2095,16 +2095,16 @@ entities={
     "abstract": "Professional interaction designers and software developers have different trainings and skills, yet they need to closely collaborate to create interactive systems. We conducted three studies to understand the mismatches between their processes, tools and representations. Based on 16 interviews, we found that current practices induce unnecessary rework and cause discrepancies between the original design and the implementation. We identified three key design breakdowns where designers omitted critical details, ignored the presence of edge cases or disregarded technical limitations. We next observed two face-to-face meetings between designers and developers. We found that early involvement of the developer helped to mitigate potential design breakdowns but new ones emerged as the project unfolded. Finally, we ran a participatory design session with two designer/developer pairs. Both pairs had difficulty representing and communicating pre-existing interactions. Creating complete interaction descriptions required iterating from individual examples to rule-based representations. We conclude with implications for designing collaborative tools that facilitate the designer's ability to express and the developer's ability to implement complex interactive systems.", 
     "authors": [
       {
-        "name": "Nolwenn Maudet, Universit\u008e Paris-Sud, CNRS, Universit\u008e Paris-Saclay"
+        "name": "Nolwenn Maudet, Universit\u00E9 Paris-Sud, CNRS, Universit\u00E9 Paris-Saclay"
       }, 
       {
-        "name": "Germ\u00f6n Leiva, Universit\u008e Paris-Sud, CNRS, Universit\u008e Paris-Saclay"
+        "name": "Germ\u00E1n Leiva, Universit\u00E9 Paris-Sud, CNRS, Universit\u00E9 Paris-Saclay"
       }, 
       {
-        "name": "Michel Beaudouin-Lafon, Universit\u008e Paris-Sud, CNRS, Universit\u008e Paris-Saclay"
+        "name": "Michel Beaudouin-Lafon, Universit\u00E9 Paris-Sud, CNRS, Universit\u00E9 Paris-Saclay"
       }, 
       {
-        "name": "Wendy Mackay, Inria, Universit\u008e Paris-Saclay"
+        "name": "Wendy Mackay, Inria, Universit\u00E9 Paris-Saclay"
       }
     ], 
     "award": false, 
@@ -2123,7 +2123,7 @@ entities={
         "name": "Laura Kocksch, Fraunhofer Institute for Secure Information Technology"
       }, 
       {
-        "name": "Sven T\u00aarpe, Fraunhofer Institute for Secure Information Technology SIT"
+        "name": "Sven T\u00FCrpe, Fraunhofer Institute for Secure Information Technology SIT"
       }, 
       {
         "name": "Felix Anand Epp, Fraunhofer Institute for Secure Information Technology"
@@ -5217,16 +5217,16 @@ entities={
     "abstract": "People increasingly turn to social media to augment their broadcast viewing experience with a parallel stream of information and opinion. Known as \"social watching,\" the practice of integrating broadcast media and social media has become routine for many citizens tracking live events and breaking news. In a controlled laboratory study, we examined how interactivity and exposure to social media opinions influence a sense of community, attitudes and discussion elaboration. The results suggest that receiving positive feedback to social media posts instills a psychological sense of community in the poster, and this feeling of connectedness is related to greater elaboration of the civic social media discussion. Secondly, the study found support for conformity effects. The third contribution of this work is a better understanding of how the valence of others' social media posts and the user's posting activity influences cognitive elaboration of social media discussions during social watching in civic contexts. ", 
     "authors": [
       {
-        "name": "Misa Maruyama, University of Hawai_i at M_noa"
+        "name": "Misa Maruyama, University of Hawai'i at M\u00E1noa"
       }, 
       {
-        "name": "Scott P Robertson, University of Hawai_i at M_noa"
+        "name": "Scott P Robertson, University of Hawai'i at M\u00E1noa"
       }, 
       {
-        "name": "Sara Douglas, University of Hawai_i at M_noa"
+        "name": "Sara Douglas, University of Hawai'i at M\u00E1noa"
       }, 
       {
-        "name": "Roxanne B Raine, University of Hawai_i at M_noa"
+        "name": "Roxanne B Raine, University of Hawai'i at M\u00E1noa"
       }, 
       {
         "name": "Bryan C Semaan, Syracuse University"
@@ -5512,7 +5512,7 @@ entities={
     "abstract": "Millions of people regularly report the details of their real-world experiences on social media. This provides an opportunity to observe the outcomes of common and critical situations. Identifying and quantifying these outcomes may provide better decision-support and goal-achievement for individuals, and help policy-makers and scientists better understand important societal phenomena. We address several open questions about using social media data for open-domain outcome identification: Are the words people are more likely to use after some experience relevant to this experience? How well do these words cover the breadth of outcomes likely to occur for an experience? What kinds of outcomes are discovered? Studying 3-months of Twitter data capturing people who experienced 39 distinct situations across a variety of domains, we find that these outcomes are generally found to be relevant (55-100% on average) and that causally related concepts are more likely to be discovered than conceptual or semantically related concepts.", 
     "authors": [
       {
-        "name": "Alexandra Olteanu, _cole Polytechnique F_d_rale de Lausanne"
+        "name": "Alexandra Olteanu, \u00C9cole Polytechnique F\u00E9d\u00E9rale de Lausanne"
       }, 
       {
         "name": "Onur Varol, Indiana University"
