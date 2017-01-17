@@ -1,0 +1,956 @@
+sessions={
+  "15th_International_Workshop_on_Collaborative_Editing_Systems": {
+    "date": "Saturday", 
+    "room": "Ross Island", 
+    "s_title": "15th International Workshop on Collaborative Editing Systems", 
+    "submissions": [
+      "W1"
+    ], 
+    "time": "9:00 - 5:00"
+  }, 
+  "Advancing_the_Open_Collaboration_Data_Exchange_OCDX_Building_a_Social_Computing_Infrastructure": {
+    "date": "Sunday", 
+    "room": "Halsey", 
+    "s_title": "Advancing the Open Collaboration Data Exchange (OCDX): Building a Social Computing Infrastructure", 
+    "submissions": [
+      "W12"
+    ], 
+    "time": "9:00 - 5:00"
+  }, 
+  "Agents_Robots_the_Wizard_of_Oz_Chair_Joel_Fischer_University_of_Nottingham": {
+    "date": "Monday", 
+    "room": "Mt. St. Helens", 
+    "s_title": "Agents, Robots & the Wizard of Oz - Chair: Joel Fischer, University of Nottingham", 
+    "submissions": [
+      "cscwp461", 
+      "cscwp686", 
+      "cscwp587", 
+      "cscwp481"
+    ], 
+    "time": "11:00 - 12:30"
+  }, 
+  "All_About_Sharing": {
+    "date": "Wednesday", 
+    "room": "Mt. St. Helens", 
+    "s_title": "All About Sharing", 
+    "submissions": [
+      "cscwp453", 
+      "cscwp252", 
+      "cscwp174", 
+      "cscwp396"
+    ], 
+    "time": "2:30 - 4:00"
+  }, 
+  "CSCW_in_China_and_Beyond": {
+    "date": "Saturday", 
+    "room": "Mt. Hood", 
+    "s_title": "CSCW in China and Beyond", 
+    "submissions": [
+      "W6"
+    ], 
+    "time": "9:00 - 5:00"
+  }, 
+  "Caregiving_Collaborative": {
+    "date": "Tuesday", 
+    "room": "Mt. St. Helens", 
+    "s_title": "Caregiving - Collaborative", 
+    "submissions": [
+      "cscwp186", 
+      "cscwp533", 
+      "cscwp590", 
+      "cscwp544"
+    ], 
+    "time": "2:30 - 4:00"
+  }, 
+  "Challenges_in_Sharing_Experiences": {
+    "date": "Tuesday", 
+    "room": "Hawthorne/Sellwood", 
+    "s_title": "Challenges in Sharing Experiences", 
+    "submissions": [
+      "cscwp152", 
+      "cscwp527", 
+      "cscwp439", 
+      "cscwp719"
+    ], 
+    "time": "9:00 - 10:30"
+  }, 
+  "Citizen_Science": {
+    "date": "Wednesday", 
+    "room": "Mt. Hood", 
+    "s_title": "Citizen Science", 
+    "submissions": [
+      "cscwp307", 
+      "cscwp722", 
+      "cscwp506", 
+      "cscwp490"
+    ], 
+    "time": "11:00 - 12:30"
+  }, 
+  "Closing_Keynote": {
+    "date": "Wednesday", 
+    "room": "Multnomah/Holladay", 
+    "s_title": "Closing Keynote", 
+    "submissions": [
+      "5"
+    ], 
+    "time": "4:30 - 6:00"
+  }, 
+  "Communication_Couples_Control_Chair_John_Thomas_Independent": {
+    "date": "Monday", 
+    "room": "Mt. Bachelor", 
+    "s_title": "Communication, Couples, & Control - Chair: John Thomas, Independent", 
+    "submissions": [
+      "cscwp684", 
+      "cscwp105", 
+      "cscwp170", 
+      "cscwp327"
+    ], 
+    "time": "11:00 - 12:30"
+  }, 
+  "Conceptualizing_Creating_Controlling_Constructive_and_Controversial_Comments_A_CSCW_Research_athon": {
+    "date": "Sunday", 
+    "room": "Mt. Hood", 
+    "s_title": "Conceptualizing, Creating, & Controlling Constructive and Controversial Comments: A CSCW Research-athon", 
+    "submissions": [
+      "W13"
+    ], 
+    "time": "9:00 - 5:00"
+  }, 
+  "Conference_Banquet": {
+    "date": "Tuesday", 
+    "room": "Portland Art Museum", 
+    "s_title": "Conference Banquet", 
+    "submissions": [
+      "86"
+    ], 
+    "time": "6:30 - 10:00"
+  }, 
+  "Content_Quality_Chair_Haiyi_Zhu_University_of_Minnesota": {
+    "date": "Monday", 
+    "room": "Mt. Hood", 
+    "s_title": "Content Quality - Chair: Haiyi Zhu, University of Minnesota", 
+    "submissions": [
+      "cscwp423", 
+      "cscwp683", 
+      "cscwp229", 
+      "cscwp468"
+    ], 
+    "time": "11:00 - 12:30"
+  }, 
+  "Creativity_Supporting_Collaboration_Chair_Amy_Bruckman_Georgia_Tech_University": {
+    "date": "Monday", 
+    "room": "Ross Island/Morrison", 
+    "s_title": "Creativity - Supporting Collaboration - Chair: Amy Bruckman, Georgia Tech University", 
+    "submissions": [
+      "cscwp161", 
+      "cscwp156", 
+      "cscwp155", 
+      "cscwp653"
+    ], 
+    "time": "11:00 - 12:30"
+  }, 
+  "Crisis_Management": {
+    "date": "Tuesday", 
+    "room": "Mt. Bachelor", 
+    "s_title": "Crisis Management", 
+    "submissions": [
+      "cscwp482", 
+      "cscwp206", 
+      "cscwp454", 
+      "cscwp219"
+    ], 
+    "time": "11:00 - 12:30"
+  }, 
+  "Crowd_Processes": {
+    "date": "Tuesday", 
+    "room": "Ross Island/Morrison", 
+    "s_title": "Crowd Processes", 
+    "submissions": [
+      "cscwp656", 
+      "cscwp332", 
+      "cscwp369", 
+      "cscwp485"
+    ], 
+    "time": "2:30 - 4:00"
+  }, 
+  "Crowdsourcing_Law_and_Policy_A_Design_Thinking_Approach_to_Crowd_Civic_Systems": {
+    "date": "Saturday", 
+    "room": "Morrison", 
+    "s_title": "Crowdsourcing Law and Policy: A Design-Thinking Approach to Crowd-Civic Systems", 
+    "submissions": [
+      "W2"
+    ], 
+    "time": "9:00 - 5:00"
+  }, 
+  "Data_Visualization_Gamification_Virtual_Worlds": {
+    "date": "Wednesday", 
+    "room": "Ross Island/Morrison", 
+    "s_title": "Data Visualization, Gamification, & Virtual Worlds", 
+    "submissions": [
+      "cscwp403", 
+      "cscwp647", 
+      "cscwp591", 
+      "cscwp133"
+    ], 
+    "time": "2:30 - 4:00"
+  }, 
+  "Data_Work_Chair_David_Ribes_University_of_Washington": {
+    "date": "Monday", 
+    "room": "Ross Island/Morrison", 
+    "s_title": "Data & Work - Chair: David Ribes, University of Washington", 
+    "submissions": [
+      "cscwp430", 
+      "cscwp664", 
+      "cscwp386", 
+      "cscwp199"
+    ], 
+    "time": "4:30 - 6:00"
+  }, 
+  "Demos": {
+    "date": "Monday", 
+    "room": "Multnomah/Holladay", 
+    "s_title": "Demos", 
+    "submissions": [
+      "66", 
+      "67", 
+      "68", 
+      "69", 
+      "70", 
+      "71", 
+      "72", 
+      "73", 
+      "74", 
+      "75", 
+      "76", 
+      "77"
+    ], 
+    "time": "6:00 - 8:01"
+  }, 
+  "Design_Supporting_Collaboration": {
+    "date": "Monday", 
+    "room": "Hawthorne/Sellwood", 
+    "s_title": "Design - Supporting Collaboration", 
+    "submissions": [
+      "cscwp196", 
+      "cscwp183", 
+      "cscwp159", 
+      "cscwp136"
+    ], 
+    "time": "2:30 - 4:00"
+  }, 
+  "Digital_Memories_Creating": {
+    "date": "Wednesday", 
+    "room": "Mt. Hood", 
+    "s_title": "Digital Memories - Creating", 
+    "submissions": [
+      "cscwp709", 
+      "cscwp123", 
+      "cscwp675", 
+      "TOCHI-2015-0108"
+    ], 
+    "time": "9:00 - 10:30"
+  }, 
+  "Doctoral_Colloquium": {
+    "date": "Saturday", 
+    "room": "Broadway/Wiedler", 
+    "s_title": "Doctoral Colloquium", 
+    "submissions": [
+      "1", 
+      "2"
+    ], 
+    "time": "2:00 - 5:00"
+  }, 
+  "E_Infrastructures_for_Research_Collaboration_The_Case_of_the_Social_Sciences_and_Humanities": {
+    "date": "Sunday", 
+    "room": "Hawthorne", 
+    "s_title": "E-Infrastructures for Research Collaboration: The Case of the Social Sciences and Humanities", 
+    "submissions": [
+      "W11"
+    ], 
+    "time": "9:00 - 5:00"
+  }, 
+  "Education_Games_Chair_Juho_Kim_KAIST": {
+    "date": "Monday", 
+    "room": "Mt. Hood", 
+    "s_title": "Education & Games - Chair: Juho Kim, KAIST", 
+    "submissions": [
+      "cscwp552", 
+      "cscwp443", 
+      "cscwp696", 
+      "cscwp488"
+    ], 
+    "time": "2:30 - 4:00"
+  }, 
+  "Emergency_Safety_Work_Collaboration_around": {
+    "date": "Tuesday", 
+    "room": "Three Sisters", 
+    "s_title": "Emergency & Safety Work - Collaboration around", 
+    "submissions": [
+      "cscwp615", 
+      "cscwp402", 
+      "cscwp586", 
+      "cscwp687"
+    ], 
+    "time": "9:00 - 10:30"
+  }, 
+  "Funding_Founders": {
+    "date": "Wednesday", 
+    "room": "Three Sisters", 
+    "s_title": "Funding & Founders", 
+    "submissions": [
+      "cscwp187", 
+      "cscwp325", 
+      "cscwp324", 
+      "cscwp380"
+    ], 
+    "time": "11:00 - 12:30"
+  }, 
+  "Gender_Death_Design_Chair_Morgan_Ames_University_of_California_Berkeley": {
+    "date": "Tuesday", 
+    "room": "Ross Island/Morrison", 
+    "s_title": "Gender, Death, & Design - Chair: Morgan Ames, University of California Berkeley", 
+    "submissions": [
+      "cscwp448", 
+      "cscwp480", 
+      "cscwp398", 
+      "cscwp363"
+    ], 
+    "time": "9:00 - 10:30"
+  }, 
+  "Hacking_and_Making_at_Time_Bounded_Events_Current_Trends_and_Next_Steps_in_Research_and_Event_Design": {
+    "date": "Saturday", 
+    "room": "Sellwood", 
+    "s_title": "Hacking and Making at Time-Bounded Events: Current Trends and Next Steps in Research and Event Design", 
+    "submissions": [
+      "W3"
+    ], 
+    "time": "9:00 - 5:00"
+  }, 
+  "Health_care_Data_Tracking_Triggers_in_Health_care_": {
+    "date": "Wednesday", 
+    "room": "Mt. St. Helens", 
+    "s_title": "Health(care)- Data Tracking & Triggers in Health(care)", 
+    "submissions": [
+      "cscwp475", 
+      "cscwp614", 
+      "cscwp703", 
+      "cscwp580"
+    ], 
+    "time": "11:00 - 12:30"
+  }, 
+  "ICT4D": {
+    "date": "Tuesday", 
+    "room": "Mt. Hood", 
+    "s_title": "ICT4D", 
+    "submissions": [
+      "cscwp320", 
+      "cscwp300", 
+      "TOCHI-2015-0195"
+    ], 
+    "time": "2:30 - 4:00"
+  }, 
+  "Illness_Digital_Data": {
+    "date": "Wednesday", 
+    "room": "Three Sisters", 
+    "s_title": "Illness & Digital Data", 
+    "submissions": [
+      "cscwp420", 
+      "cscwp715", 
+      "cscwp677", 
+      "cscwp583"
+    ], 
+    "time": "9:00 - 10:30"
+  }, 
+  "Imagining_Intersectional_Futures_Feminist_approaches_in_CSCW": {
+    "date": "Saturday", 
+    "room": "Mt. St. Helens", 
+    "s_title": "Imagining Intersectional Futures: Feminist approaches in CSCW", 
+    "submissions": [
+      "W7"
+    ], 
+    "time": "9:00 - 5:00"
+  }, 
+  "In_Whose_Best_Interest_Exploring_the_Real_Potential_and_Imagined_Ethical_Concerns_in_Privacy_Focused_Agendas": {
+    "date": "Saturday", 
+    "room": "Halsey", 
+    "s_title": "In Whose Best Interest? Exploring the Real, Potential, and Imagined Ethical Concerns in Privacy-Focused Agendas", 
+    "submissions": [
+      "W5"
+    ], 
+    "time": "9:00 - 5:00"
+  }, 
+  "Interactive_Posters": {
+    "date": "Monday", 
+    "room": "Multnomah/Holladay", 
+    "s_title": "Interactive Posters", 
+    "submissions": [
+      "10", 
+      "11", 
+      "12", 
+      "13", 
+      "14", 
+      "15", 
+      "16", 
+      "17", 
+      "18", 
+      "19", 
+      "20", 
+      "21", 
+      "22", 
+      "23", 
+      "24", 
+      "25", 
+      "26", 
+      "27", 
+      "28", 
+      "29", 
+      "30", 
+      "31", 
+      "32", 
+      "33", 
+      "34", 
+      "35", 
+      "36", 
+      "37", 
+      "38", 
+      "39", 
+      "40", 
+      "41", 
+      "42", 
+      "43", 
+      "44", 
+      "45", 
+      "46", 
+      "47", 
+      "48", 
+      "49", 
+      "50", 
+      "51", 
+      "52", 
+      "53", 
+      "54", 
+      "55", 
+      "56", 
+      "57", 
+      "58", 
+      "59", 
+      "60", 
+      "61", 
+      "62", 
+      "63", 
+      "64", 
+      "65"
+    ], 
+    "time": "6:00 - 8:00"
+  }, 
+  "Language_Matters_Chair_Brent_Hetcht": {
+    "date": "Monday", 
+    "room": "Hawthorne/Sellwood", 
+    "s_title": "Language Matters - Chair: Brent Hetcht", 
+    "submissions": [
+      "cscwp508", 
+      "cscwp393", 
+      "cscwp185", 
+      "cscwp499"
+    ], 
+    "time": "11:00 - 12:30"
+  }, 
+  "Lasting_Impact_Plenary_Session": {
+    "date": "Tuesday", 
+    "room": "Multnomah/Holladay", 
+    "s_title": "Lasting Impact Plenary Session", 
+    "submissions": [
+      "84"
+    ], 
+    "time": "4:30 - 5:30"
+  }, 
+  "Leave_Me_Alone_Privacy_Notifications_Chair_Cristina_Garcia": {
+    "date": "Monday", 
+    "room": "Ross Island/Morrison", 
+    "s_title": "Leave Me Alone: Privacy & Notifications - Chair: Cristina Garcia", 
+    "submissions": [
+      "cscwp134", 
+      "cscwp451", 
+      "cscwp249", 
+      "cscwp575"
+    ], 
+    "time": "2:30 - 4:00"
+  }, 
+  "Locations_and_Relations_Chair_Mor_Naaman_Cornell_Tech": {
+    "date": "Monday", 
+    "room": "Three Sisters", 
+    "s_title": "Locations and Relations - Chair: Mor Naaman, Cornell Tech", 
+    "submissions": [
+      "cscwp447", 
+      "cscwp674", 
+      "cscwp427", 
+      "cscwp318"
+    ], 
+    "time": "11:00 - 12:30"
+  }, 
+  "Meetings_Collaboration_Support": {
+    "date": "Wednesday", 
+    "room": "Ross Island/Morrison", 
+    "s_title": "Meetings & Collaboration Support", 
+    "submissions": [
+      "cscwp621", 
+      "cscwp258", 
+      "cscwp665", 
+      "cscwp349"
+    ], 
+    "time": "11:00 - 12:30"
+  }, 
+  "Models_Language_in_Work_Investment": {
+    "date": "Tuesday", 
+    "room": "Mt. St. Helens", 
+    "s_title": "Models & Language in Work & Investment", 
+    "submissions": [
+      "cscwp555", 
+      "cscwp269", 
+      "cscwp714", 
+      "cscwp338"
+    ], 
+    "time": "9:00 - 10:30"
+  }, 
+  "Monday_Afternoon_Coffee_Break": {
+    "date": "Monday", 
+    "room": "Foyer", 
+    "s_title": "Monday Afternoon Coffee Break", 
+    "submissions": [
+      "8"
+    ], 
+    "time": "4:00 - 4:30"
+  }, 
+  "Monday_Lunch": {
+    "date": "Monday", 
+    "room": "", 
+    "s_title": "Monday Lunch", 
+    "submissions": [
+      "7"
+    ], 
+    "time": "12:30 - 2:30"
+  }, 
+  "Monday_Morning_Coffee_Break": {
+    "date": "Monday", 
+    "room": "Foyer", 
+    "s_title": "Monday Morning Coffee Break", 
+    "submissions": [
+      "6"
+    ], 
+    "time": "10:30 - 11:00"
+  }, 
+  "On_Mental_Models_Collaboration": {
+    "date": "Wednesday", 
+    "room": "Ross Island/Morrison", 
+    "s_title": "On Mental Models & Collaboration", 
+    "submissions": [
+      "cscwp388", 
+      "cscwp340", 
+      "cscwp546", 
+      "cscwp351"
+    ], 
+    "time": "9:00 - 10:30"
+  }, 
+  "On_New_Old_Research_Methods": {
+    "date": "Tuesday", 
+    "room": "Mt. Bachelor", 
+    "s_title": "On New & Old Research Methods", 
+    "submissions": [
+      "cscwp661", 
+      "cscwp101", 
+      "cscwp157", 
+      "cscwp718"
+    ], 
+    "time": "2:30 - 4:00"
+  }, 
+  "Online_Movements": {
+    "date": "Tuesday", 
+    "room": "Ross Island/Morrison", 
+    "s_title": "Online Movements", 
+    "submissions": [
+      "cscwp132", 
+      "cscwp204", 
+      "cscwp153", 
+      "cscwp276"
+    ], 
+    "time": "11:00 - 12:30"
+  }, 
+  "Overcoming_Barriers_Chair_Gilly_Leshed_Cornell_University": {
+    "date": "Monday", 
+    "room": "Three Sisters", 
+    "s_title": "Overcoming Barriers - Chair: Gilly Leshed, Cornell University", 
+    "submissions": [
+      "cscwp431", 
+      "cscwp418", 
+      "cscwp181", 
+      "cscwp215"
+    ], 
+    "time": "4:30 - 6:00"
+  }, 
+  "Panel_Panel_CSCW_Research_Ethics_Town_Hall_Working_Towards_Community_Norms": {
+    "date": "Tuesday", 
+    "room": "Mt. Hood", 
+    "s_title": "Panel: Panel: CSCW Research Ethics Town Hall: Working Towards Community Norms", 
+    "submissions": [
+      "88"
+    ], 
+    "time": "9:00 - 10:30"
+  }, 
+  "Panel_Panel_Perspectives_on_Live_Streaming_Apps_Users_and_Research": {
+    "date": "Wednesday", 
+    "room": "Mt. Hood", 
+    "s_title": "Panel: Panel: Perspectives on Live Streaming: Apps, Users, and Research", 
+    "submissions": [
+      "89"
+    ], 
+    "time": "2:30 - 4:00"
+  }, 
+  "Panel_Panel_Social_Justice_and_Design_Power_and_Oppression_in_Collaborative_Systems": {
+    "date": "Monday", 
+    "room": "Mt. Hood", 
+    "s_title": "Panel: Panel: Social Justice and Design: Power and Oppression in Collaborative Systems", 
+    "submissions": [
+      "87"
+    ], 
+    "time": "4:30 - 6:00"
+  }, 
+  "Parenting": {
+    "date": "Wednesday", 
+    "room": "Three Sisters", 
+    "s_title": "Parenting", 
+    "submissions": [
+      "cscwp498", 
+      "cscwp237", 
+      "cscwp286", 
+      "cscwp716"
+    ], 
+    "time": "2:30 - 4:00"
+  }, 
+  "Politics_Party_Policy_Participation_Chair_Sean_Goggins_University_of_Missouri": {
+    "date": "Monday", 
+    "room": "Mt. Bachelor", 
+    "s_title": "Politics, Party, Policy, & Participation - Chair: Sean Goggins, University of Missouri", 
+    "submissions": [
+      "cscwp245", 
+      "cscwp459", 
+      "cscwp564", 
+      "cscwp473"
+    ], 
+    "time": "2:30 - 4:00"
+  }, 
+  "Poster_Demo_Reception": {
+    "date": "Monday", 
+    "room": "Multnomah/Holladay", 
+    "s_title": "Poster & Demo Reception", 
+    "submissions": [
+      "9"
+    ], 
+    "time": "6:00 - 8:00"
+  }, 
+  "Programming": {
+    "date": "Wednesday", 
+    "room": "Hawthorne/Sellwood", 
+    "s_title": "Programming", 
+    "submissions": [
+      "cscwp425", 
+      "cscwp517", 
+      "cscwp137", 
+      "cscwp337"
+    ], 
+    "time": "2:30 - 4:00"
+  }, 
+  "Ranking_Recommendation": {
+    "date": "Tuesday", 
+    "room": "Hawthorne/Sellwood", 
+    "s_title": "Ranking & Recommendation", 
+    "submissions": [
+      "cscwp348", 
+      "cscwp173", 
+      "cscwp350", 
+      "cscwp205"
+    ], 
+    "time": "11:00 - 12:30"
+  }, 
+  "Reflection_on_Design_Methods_for_Underserved_Communities": {
+    "date": "Sunday", 
+    "room": "Sellwood", 
+    "s_title": "Reflection on Design Methods for Underserved Communities", 
+    "submissions": [
+      "W10"
+    ], 
+    "time": "9:00 - 5:00"
+  }, 
+  "Robots_in_Groups_and_Teams": {
+    "date": "Sunday", 
+    "room": "Morrison", 
+    "s_title": "Robots in Groups and Teams", 
+    "submissions": [
+      "W9"
+    ], 
+    "time": "9:00 - 5:00"
+  }, 
+  "Social_Media_the_Individual_Chair_Vivek_Singh_Rutgers_University": {
+    "date": "Monday", 
+    "room": "Three Sisters", 
+    "s_title": "Social Media & the Individual - Chair: Vivek Singh, Rutgers University", 
+    "submissions": [
+      "cscwp711", 
+      "cscwp460", 
+      "cscwp244", 
+      "cscwp685"
+    ], 
+    "time": "2:30 - 4:00"
+  }, 
+  "Talking_with_Conversational_Agents_in_Collaborative_Action": {
+    "date": "Sunday", 
+    "room": "Mt. St. Helens", 
+    "s_title": "Talking with Conversational Agents in Collaborative Action", 
+    "submissions": [
+      "W14"
+    ], 
+    "time": "9:00 - 5:00"
+  }, 
+  "Teamwork": {
+    "date": "Wednesday", 
+    "room": "Mt. Bachelor", 
+    "s_title": "Teamwork", 
+    "submissions": [
+      "cscwp112", 
+      "cscwp566", 
+      "cscwp356", 
+      "TOCHI-2015-0042"
+    ], 
+    "time": "2:30 - 4:00"
+  }, 
+  "Teens_Children": {
+    "date": "Monday", 
+    "room": "Mt. St. Helens", 
+    "s_title": "Teens & Children", 
+    "submissions": [
+      "cscwp271", 
+      "cscwp315", 
+      "cscwp522", 
+      "cscwp298"
+    ], 
+    "time": "2:30 - 4:00"
+  }, 
+  "The_Presentation_of_Self_in_Everyday_Media_Chair_Jed_Brubaker_University_of_Colorado": {
+    "date": "Monday", 
+    "room": "Mt. Bachelor", 
+    "s_title": "The Presentation of Self in Everyday Media - Chair: Jed Brubaker, University of Colorado", 
+    "submissions": [
+      "cscwp631", 
+      "cscwp246", 
+      "cscwp562", 
+      "cscwp145"
+    ], 
+    "time": "4:30 - 6:00"
+  }, 
+  "The_Science_of_Citizen_Science_Theories_Methodologies_and_Platforms": {
+    "date": "Sunday", 
+    "room": "Ross Island", 
+    "s_title": "The Science of Citizen Science: Theories, Methodologies and Platforms", 
+    "submissions": [
+      "W8"
+    ], 
+    "time": "9:00 - 5:00"
+  }, 
+  "Theory_Transfers_Social_Theory_and_CSCW_research": {
+    "date": "Saturday", 
+    "room": "Hawthorne", 
+    "s_title": "Theory Transfers? Social Theory and CSCW research", 
+    "submissions": [
+      "W4"
+    ], 
+    "time": "9:00 - 5:00"
+  }, 
+  "Town_Hall_Meeting": {
+    "date": "Tuesday", 
+    "room": "Multnomah/Holladay", 
+    "s_title": "Town Hall Meeting", 
+    "submissions": [
+      "85"
+    ], 
+    "time": "5:30 - 6:15"
+  }, 
+  "Tracking_Activity_Health": {
+    "date": "Tuesday", 
+    "room": "Mt. St. Helens", 
+    "s_title": "Tracking Activity & Health", 
+    "submissions": [
+      "cscwp638", 
+      "cscwp626", 
+      "cscwp243", 
+      "cscwp209"
+    ], 
+    "time": "11:00 - 12:30"
+  }, 
+  "Trolls_Harassment": {
+    "date": "Tuesday", 
+    "room": "Three Sisters", 
+    "s_title": "Trolls & Harassment", 
+    "submissions": [
+      "cscwp303", 
+      "cscwp426", 
+      "cscwp208", 
+      "cscwp627"
+    ], 
+    "time": "11:00 - 12:30"
+  }, 
+  "Tuesday_Afternoon_Coffee_Break": {
+    "date": "Tuesday", 
+    "room": "Foyer", 
+    "s_title": "Tuesday Afternoon Coffee Break", 
+    "submissions": [
+      "80"
+    ], 
+    "time": "4:00 - 4:30"
+  }, 
+  "Tuesday_Lunch": {
+    "date": "Tuesday", 
+    "room": "", 
+    "s_title": "Tuesday Lunch", 
+    "submissions": [
+      "79"
+    ], 
+    "time": "12:30 - 2:30"
+  }, 
+  "Tuesday_Morning_Coffee_Break": {
+    "date": "Tuesday", 
+    "room": "Foyer", 
+    "s_title": "Tuesday Morning Coffee Break", 
+    "submissions": [
+      "78"
+    ], 
+    "time": "10:30 - 11:00"
+  }, 
+  "Viva_La_Video_Chair_Franklin_Bentley_Yahoo_": {
+    "date": "Monday", 
+    "room": "Mt. St. Helens", 
+    "s_title": "Viva La Video - Chair: Franklin Bentley, Yahoo!", 
+    "submissions": [
+      "cscwp267", 
+      "cscwp346", 
+      "cscwp263", 
+      "cscwp642"
+    ], 
+    "time": "4:30 - 6:00"
+  }, 
+  "Wednesday_Afternoon_Coffee_Break": {
+    "date": "Wednesday", 
+    "room": "Foyer", 
+    "s_title": "Wednesday Afternoon Coffee Break", 
+    "submissions": [
+      "83"
+    ], 
+    "time": "4:00 - 4:30"
+  }, 
+  "Wednesday_Lunch": {
+    "date": "Wednesday", 
+    "room": "", 
+    "s_title": "Wednesday Lunch", 
+    "submissions": [
+      "82"
+    ], 
+    "time": "12:30 - 2:30"
+  }, 
+  "Wednesday_Morning_Coffee_Break": {
+    "date": "Wednesday", 
+    "room": "Foyer", 
+    "s_title": "Wednesday Morning Coffee Break", 
+    "submissions": [
+      "81"
+    ], 
+    "time": "10:30 - 11:00"
+  }, 
+  "Welcome_Reception": {
+    "date": "Sunday", 
+    "room": "Multnomah/Holladay", 
+    "s_title": "Welcome Reception", 
+    "submissions": [
+      "3"
+    ], 
+    "time": "5:00 - 7:00"
+  }, 
+  "Welcome_and_Opening_Keynote": {
+    "date": "Monday", 
+    "room": "Multnomah/Holladay", 
+    "s_title": "Welcome and Opening Keynote", 
+    "submissions": [
+      "4"
+    ], 
+    "time": "9:00 - 10:30"
+  }, 
+  "What_Works_in_Crowd_Work_Chair_Chinmay_Kulkarni_Carnegie_Mellon_University": {
+    "date": "Monday", 
+    "room": "Hawthorne/Sellwood", 
+    "s_title": "What Works in Crowd Work - Chair: Chinmay Kulkarni, Carnegie Mellon University", 
+    "submissions": [
+      "cscwp334", 
+      "cscwp331", 
+      "cscwp524", 
+      "TOCHI-2014-0096"
+    ], 
+    "time": "4:30 - 6:00"
+  }, 
+  "Wikipedia": {
+    "date": "Wednesday", 
+    "room": "Mt. Bachelor", 
+    "s_title": "Wikipedia", 
+    "submissions": [
+      "cscwp259", 
+      "cscwp516", 
+      "cscwp405", 
+      "cscwp103"
+    ], 
+    "time": "9:00 - 10:30"
+  }, 
+  "Wikipedia_More": {
+    "date": "Wednesday", 
+    "room": "Mt. Bachelor", 
+    "s_title": "Wikipedia & More", 
+    "submissions": [
+      "cscwp548", 
+      "cscwp412", 
+      "cscwp339", 
+      "cscwp297"
+    ], 
+    "time": "11:00 - 12:30"
+  }, 
+  "With_a_Little_Help_from_My_Friends_CAUTION_": {
+    "date": "Tuesday", 
+    "room": "Three Sisters", 
+    "s_title": "With a Little Help from My Friends... [CAUTION]", 
+    "submissions": [
+      "cscwp326", 
+      "cscwp676", 
+      "cscwp321", 
+      "cscwp250"
+    ], 
+    "time": "2:30 - 4:00"
+  }, 
+  "Work_Production_Practices": {
+    "date": "Tuesday", 
+    "room": "Mt. Bachelor", 
+    "s_title": "Work & Production Practices", 
+    "submissions": [
+      "cscwp530", 
+      "cscwp521", 
+      "cscwp581", 
+      "cscwp336"
+    ], 
+    "time": "9:00 - 10:30"
+  }, 
+  "Workers": {
+    "date": "Wednesday", 
+    "room": "Mt. St. Helens", 
+    "s_title": "Workers", 
+    "submissions": [
+      "cscwp389", 
+      "cscwp603", 
+      "cscwp290", 
+      "cscwp584"
+    ], 
+    "time": "9:00 - 10:30"
+  }
+}

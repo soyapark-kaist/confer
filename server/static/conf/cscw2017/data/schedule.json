@@ -1,0 +1,567 @@
+schedule=[
+  {
+    "date": "02/25/2016", 
+    "day": "Thursday", 
+    "slots": [
+      {
+        "sessions": [
+          {
+            "room": "Broadway/Wiedler", 
+            "session": "Doctoral_Colloquium"
+          }
+        ], 
+        "slot_class": "evening", 
+        "slot_id": "Saturday2_00_5_00", 
+        "time": "2:00 - 5:00"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Mt. St. Helens", 
+            "session": "Imagining_Intersectional_Futures_Feminist_approaches_in_CSCW"
+          }, 
+          {
+            "room": "Sellwood", 
+            "session": "Hacking_and_Making_at_Time_Bounded_Events_Current_Trends_and_Next_Steps_in_Research_and_Event_Design"
+          }, 
+          {
+            "room": "Hawthorne", 
+            "session": "Theory_Transfers_Social_Theory_and_CSCW_research"
+          }, 
+          {
+            "room": "Halsey", 
+            "session": "In_Whose_Best_Interest_Exploring_the_Real_Potential_and_Imagined_Ethical_Concerns_in_Privacy_Focused_Agendas"
+          }, 
+          {
+            "room": "Mt. Hood", 
+            "session": "CSCW_in_China_and_Beyond"
+          }, 
+          {
+            "room": "Morrison", 
+            "session": "Crowdsourcing_Law_and_Policy_A_Design_Thinking_Approach_to_Crowd_Civic_Systems"
+          }, 
+          {
+            "room": "Ross Island", 
+            "session": "15th_International_Workshop_on_Collaborative_Editing_Systems"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "Saturday9_00_5_00", 
+        "time": "9:00 - 5:00"
+      }
+    ]
+  }, 
+  {
+    "date": "02/26/2016", 
+    "day": "Friday", 
+    "slots": [
+      {
+        "sessions": [
+          {
+            "room": "Morrison", 
+            "session": "Robots_in_Groups_and_Teams"
+          }, 
+          {
+            "room": "Mt. St. Helens", 
+            "session": "Talking_with_Conversational_Agents_in_Collaborative_Action"
+          }, 
+          {
+            "room": "Halsey", 
+            "session": "Advancing_the_Open_Collaboration_Data_Exchange_OCDX_Building_a_Social_Computing_Infrastructure"
+          }, 
+          {
+            "room": "Mt. Hood", 
+            "session": "Conceptualizing_Creating_Controlling_Constructive_and_Controversial_Comments_A_CSCW_Research_athon"
+          }, 
+          {
+            "room": "Hawthorne", 
+            "session": "E_Infrastructures_for_Research_Collaboration_The_Case_of_the_Social_Sciences_and_Humanities"
+          }, 
+          {
+            "room": "Sellwood", 
+            "session": "Reflection_on_Design_Methods_for_Underserved_Communities"
+          }, 
+          {
+            "room": "Ross Island", 
+            "session": "The_Science_of_Citizen_Science_Theories_Methodologies_and_Platforms"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "Sunday9_00_5_00", 
+        "time": "9:00 - 5:00"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Multnomah/Holladay", 
+            "session": "Welcome_Reception"
+          }
+        ], 
+        "slot_class": "afternoon2", 
+        "slot_id": "Sunday5_00_7_00", 
+        "time": "5:00 - 7:00"
+      }
+    ]
+  }, 
+  {
+    "date": "02/27/2016", 
+    "day": "Saturday", 
+    "slots": [
+      {
+        "sessions": [
+          {
+            "room": "Multnomah/Holladay", 
+            "session": "Welcome_and_Opening_Keynote"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "Monday9_00_10_30", 
+        "time": "9:00 - 10:30"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Foyer", 
+            "session": "Monday_Morning_Coffee_Break"
+          }
+        ], 
+        "slot_class": "morning2", 
+        "slot_id": "Monday10_30_11_00", 
+        "time": "10:30 - 11:00"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Mt. Hood", 
+            "session": "Content_Quality_Chair_Haiyi_Zhu_University_of_Minnesota"
+          }, 
+          {
+            "room": "Hawthorne/Sellwood", 
+            "session": "Language_Matters_Chair_Brent_Hetcht"
+          }, 
+          {
+            "room": "Ross Island/Morrison", 
+            "session": "Creativity_Supporting_Collaboration_Chair_Amy_Bruckman_Georgia_Tech_University"
+          }, 
+          {
+            "room": "Mt. St. Helens", 
+            "session": "Agents_Robots_the_Wizard_of_Oz_Chair_Joel_Fischer_University_of_Nottingham"
+          }, 
+          {
+            "room": "Three Sisters", 
+            "session": "Locations_and_Relations_Chair_Mor_Naaman_Cornell_Tech"
+          }, 
+          {
+            "room": "Mt. Bachelor", 
+            "session": "Communication_Couples_Control_Chair_John_Thomas_Independent"
+          }
+        ], 
+        "slot_class": "morning2", 
+        "slot_id": "Monday11_00_12_30", 
+        "time": "11:00 - 12:30"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "", 
+            "session": "Monday_Lunch"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "Monday12_30_2_30", 
+        "time": "12:30 - 2:30"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Mt. Hood", 
+            "session": "Education_Games_Chair_Juho_Kim_KAIST"
+          }, 
+          {
+            "room": "Mt. St. Helens", 
+            "session": "Teens_Children"
+          }, 
+          {
+            "room": "Ross Island/Morrison", 
+            "session": "Leave_Me_Alone_Privacy_Notifications_Chair_Cristina_Garcia"
+          }, 
+          {
+            "room": "Mt. Bachelor", 
+            "session": "Politics_Party_Policy_Participation_Chair_Sean_Goggins_University_of_Missouri"
+          }, 
+          {
+            "room": "Hawthorne/Sellwood", 
+            "session": "Design_Supporting_Collaboration"
+          }, 
+          {
+            "room": "Three Sisters", 
+            "session": "Social_Media_the_Individual_Chair_Vivek_Singh_Rutgers_University"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "Monday2_30_4_00", 
+        "time": "2:30 - 4:00"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Hawthorne/Sellwood", 
+            "session": "What_Works_in_Crowd_Work_Chair_Chinmay_Kulkarni_Carnegie_Mellon_University"
+          }, 
+          {
+            "room": "Mt. Bachelor", 
+            "session": "The_Presentation_of_Self_in_Everyday_Media_Chair_Jed_Brubaker_University_of_Colorado"
+          }, 
+          {
+            "room": "Mt. Hood", 
+            "session": "Panel_Panel_Social_Justice_and_Design_Power_and_Oppression_in_Collaborative_Systems"
+          }, 
+          {
+            "room": "Mt. St. Helens", 
+            "session": "Viva_La_Video_Chair_Franklin_Bentley_Yahoo_"
+          }, 
+          {
+            "room": "Ross Island/Morrison", 
+            "session": "Data_Work_Chair_David_Ribes_University_of_Washington"
+          }, 
+          {
+            "room": "Three Sisters", 
+            "session": "Overcoming_Barriers_Chair_Gilly_Leshed_Cornell_University"
+          }
+        ], 
+        "slot_class": "afternoon2", 
+        "slot_id": "Monday4_30_6_00", 
+        "time": "4:30 - 6:00"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Foyer", 
+            "session": "Monday_Afternoon_Coffee_Break"
+          }
+        ], 
+        "slot_class": "afternoon2", 
+        "slot_id": "Monday4_00_4_30", 
+        "time": "4:00 - 4:30"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Multnomah/Holladay", 
+            "session": "Interactive_Posters"
+          }, 
+          {
+            "room": "Multnomah/Holladay", 
+            "session": "Poster_Demo_Reception"
+          }
+        ], 
+        "slot_class": "evening", 
+        "slot_id": "Monday6_00_8_00", 
+        "time": "6:00 - 8:00"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Multnomah/Holladay", 
+            "session": "Demos"
+          }
+        ], 
+        "slot_class": "evening", 
+        "slot_id": "Monday6_00_8_01", 
+        "time": "6:00 - 8:01"
+      }
+    ]
+  }, 
+  {
+    "date": "02/28/2016", 
+    "day": "Sunday", 
+    "slots": [
+      {
+        "sessions": [
+          {
+            "room": "Portland Art Museum", 
+            "session": "Conference_Banquet"
+          }
+        ], 
+        "slot_class": "evening", 
+        "slot_id": "Tuesday6_30_10_00", 
+        "time": "6:30 - 10:00"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Ross Island/Morrison", 
+            "session": "Gender_Death_Design_Chair_Morgan_Ames_University_of_California_Berkeley"
+          }, 
+          {
+            "room": "Hawthorne/Sellwood", 
+            "session": "Challenges_in_Sharing_Experiences"
+          }, 
+          {
+            "room": "Mt. Bachelor", 
+            "session": "Work_Production_Practices"
+          }, 
+          {
+            "room": "Mt. Hood", 
+            "session": "Panel_Panel_CSCW_Research_Ethics_Town_Hall_Working_Towards_Community_Norms"
+          }, 
+          {
+            "room": "Three Sisters", 
+            "session": "Emergency_Safety_Work_Collaboration_around"
+          }, 
+          {
+            "room": "Mt. St. Helens", 
+            "session": "Models_Language_in_Work_Investment"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "Tuesday9_00_10_30", 
+        "time": "9:00 - 10:30"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Foyer", 
+            "session": "Tuesday_Morning_Coffee_Break"
+          }
+        ], 
+        "slot_class": "morning2", 
+        "slot_id": "Tuesday10_30_11_00", 
+        "time": "10:30 - 11:00"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Ross Island/Morrison", 
+            "session": "Online_Movements"
+          }, 
+          {
+            "room": "Hawthorne/Sellwood", 
+            "session": "Ranking_Recommendation"
+          }, 
+          {
+            "room": "Mt. Bachelor", 
+            "session": "Crisis_Management"
+          }, 
+          {
+            "room": "Mt. St. Helens", 
+            "session": "Tracking_Activity_Health"
+          }, 
+          {
+            "room": "Three Sisters", 
+            "session": "Trolls_Harassment"
+          }
+        ], 
+        "slot_class": "morning2", 
+        "slot_id": "Tuesday11_00_12_30", 
+        "time": "11:00 - 12:30"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "", 
+            "session": "Tuesday_Lunch"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "Tuesday12_30_2_30", 
+        "time": "12:30 - 2:30"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Mt. Hood", 
+            "session": "ICT4D"
+          }, 
+          {
+            "room": "Ross Island/Morrison", 
+            "session": "Crowd_Processes"
+          }, 
+          {
+            "room": "Mt. St. Helens", 
+            "session": "Caregiving_Collaborative"
+          }, 
+          {
+            "room": "Three Sisters", 
+            "session": "With_a_Little_Help_from_My_Friends_CAUTION_"
+          }, 
+          {
+            "room": "Mt. Bachelor", 
+            "session": "On_New_Old_Research_Methods"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "Tuesday2_30_4_00", 
+        "time": "2:30 - 4:00"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Multnomah/Holladay", 
+            "session": "Lasting_Impact_Plenary_Session"
+          }
+        ], 
+        "slot_class": "afternoon2", 
+        "slot_id": "Tuesday4_30_5_30", 
+        "time": "4:30 - 5:30"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Foyer", 
+            "session": "Tuesday_Afternoon_Coffee_Break"
+          }
+        ], 
+        "slot_class": "afternoon2", 
+        "slot_id": "Tuesday4_00_4_30", 
+        "time": "4:00 - 4:30"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Multnomah/Holladay", 
+            "session": "Town_Hall_Meeting"
+          }
+        ], 
+        "slot_class": "afternoon2", 
+        "slot_id": "Tuesday5_30_6_15", 
+        "time": "5:30 - 6:15"
+      }
+    ]
+  }, 
+  {
+    "date": "03/01/2016", 
+    "day": "Tuesday", 
+    "slots": [
+      {
+        "sessions": [
+          {
+            "room": "Mt. Bachelor", 
+            "session": "Wikipedia"
+          }, 
+          {
+            "room": "Ross Island/Morrison", 
+            "session": "On_Mental_Models_Collaboration"
+          }, 
+          {
+            "room": "Mt. St. Helens", 
+            "session": "Workers"
+          }, 
+          {
+            "room": "Three Sisters", 
+            "session": "Illness_Digital_Data"
+          }, 
+          {
+            "room": "Mt. Hood", 
+            "session": "Digital_Memories_Creating"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "Wednesday9_00_10_30", 
+        "time": "9:00 - 10:30"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Foyer", 
+            "session": "Wednesday_Morning_Coffee_Break"
+          }
+        ], 
+        "slot_class": "morning2", 
+        "slot_id": "Wednesday10_30_11_00", 
+        "time": "10:30 - 11:00"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Mt. Bachelor", 
+            "session": "Wikipedia_More"
+          }, 
+          {
+            "room": "Mt. Hood", 
+            "session": "Citizen_Science"
+          }, 
+          {
+            "room": "Mt. St. Helens", 
+            "session": "Health_care_Data_Tracking_Triggers_in_Health_care_"
+          }, 
+          {
+            "room": "Ross Island/Morrison", 
+            "session": "Meetings_Collaboration_Support"
+          }, 
+          {
+            "room": "Three Sisters", 
+            "session": "Funding_Founders"
+          }
+        ], 
+        "slot_class": "morning2", 
+        "slot_id": "Wednesday11_00_12_30", 
+        "time": "11:00 - 12:30"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "", 
+            "session": "Wednesday_Lunch"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "Wednesday12_30_2_30", 
+        "time": "12:30 - 2:30"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Mt. Bachelor", 
+            "session": "Teamwork"
+          }, 
+          {
+            "room": "Three Sisters", 
+            "session": "Parenting"
+          }, 
+          {
+            "room": "Hawthorne/Sellwood", 
+            "session": "Programming"
+          }, 
+          {
+            "room": "Ross Island/Morrison", 
+            "session": "Data_Visualization_Gamification_Virtual_Worlds"
+          }, 
+          {
+            "room": "Mt. Hood", 
+            "session": "Panel_Panel_Perspectives_on_Live_Streaming_Apps_Users_and_Research"
+          }, 
+          {
+            "room": "Mt. St. Helens", 
+            "session": "All_About_Sharing"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "Wednesday2_30_4_00", 
+        "time": "2:30 - 4:00"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Multnomah/Holladay", 
+            "session": "Closing_Keynote"
+          }
+        ], 
+        "slot_class": "afternoon2", 
+        "slot_id": "Wednesday4_30_6_00", 
+        "time": "4:30 - 6:00"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Foyer", 
+            "session": "Wednesday_Afternoon_Coffee_Break"
+          }
+        ], 
+        "slot_class": "afternoon2", 
+        "slot_id": "Wednesday4_00_4_30", 
+        "time": "4:00 - 4:30"
+      }
+    ]
+  }
+]

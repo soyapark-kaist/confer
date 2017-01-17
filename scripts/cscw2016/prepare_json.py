@@ -35,16 +35,16 @@ def get_start_time(s_time):
   return s
 
 def get_date_time(s_date, dt_format='%m/%d/%Y'):
-  if s_date == "Monday":
-      return time.strptime('02/29/2016', dt_format)
-  if s_date == 'Tuesday':
-      return time.strptime('03/01/2016', dt_format)
-  if s_date == 'Wednesday':
-      return time.strptime('03/02/2016', dt_format) 
   if s_date == "Saturday":
-      return time.strptime('02/27/2016', dt_format)
-  if s_date == "Sunday":
-      return time.strptime('02/28/2016', dt_format)      
+      return time.strptime('02/25/2016', dt_format)
+  if s_date == 'Sunday':
+      return time.strptime('02/26/2016', dt_format)
+  if s_date == 'Monday':
+      return time.strptime('02/27/2016', dt_format) 
+  if s_date == "Tuesday":
+      return time.strptime('02/28/2016', dt_format)
+  if s_date == "Wednesday":
+      return time.strptime('03/01/2016', dt_format)      
   #time_struct = time.strptime(s_date, dt_format)
   #return time_struct
 
@@ -143,8 +143,10 @@ def prepare_data(data_file1):
         'hm': hm}
     
     papers[paper_id]['abstract'] = paper_abstract
-    papers[paper_id]['authors'] = [{'name': name.strip()} for name in paper_authors.strip('"').split(',')]
-
+    if ';' in paper_authors:
+        papers[paper_id]['authors'] = [{'name': name.strip()} for name in paper_authors.split(';') if name.strip() != '']
+    else:
+        papers[paper_id]['authors'] = [{'name': name.strip()} for name in paper_authors.split(',') if name.strip() != '']
     
     # prepare sessions data
     s_id = construct_id(session)
