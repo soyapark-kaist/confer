@@ -340,6 +340,20 @@
 	      "end_date": "2016-10-27",
 	      "admins": "[\"anantb@csail.mit.edu\", \"axz@mit.edu\", \"khanhd@chalmers.se\", \"khanh-duy.le@chalmers.se\", \"Pawel.Wozniak@vis.uni-stuttgart.de\"]"
 	  	}
+	},
+	{"model": "server.Conference",
+	    "pk": 25,
+	    "fields": {
+	      "unique_name": "cscw2017",
+	      "confer_name": "cscw2017",
+	      "title": "CSCW 2017 -  20th ACM Conference on Computer-Supported Cooperative Work and Social Computing ",
+	      "subtitle": "",
+	      "blurb": "CSCW is the premier venue for presenting research in the design and use of technologies that affect groups, organizations, communities, and networks. Bringing together top researchers and practitioners from academia and industry, CSCW explores the technical, social, material, and theoretical challenges of designing technology to support collaborative work and life activities.",
+	      "location": "Portland, Oregon, USA",
+	      "start_date": "2017-02-25",
+	      "end_date": "2017-03-01",
+	      "admins": "[\"anantb@csail.mit.edu\", \"axz@mit.edu\"]"
+	  	}
 	}
 ]
   
