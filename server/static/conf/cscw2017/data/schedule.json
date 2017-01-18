@@ -271,8 +271,8 @@ schedule=[
           }
         ], 
         "slot_class": "evening", 
-        "slot_id": "Monday6_00_8_01", 
-        "time": "6:00 - 8:01"
+        "slot_id": "Monday6_00_8_00", 
+        "time": "6:00 - 8:00"
       }
     ]
   }, 
