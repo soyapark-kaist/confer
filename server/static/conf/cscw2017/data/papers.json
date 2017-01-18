@@ -1,6 +1,6 @@
 entities={
   "1": {
-    "abstract": "", 
+    "abstract": "The Doctoral Colloquium is a forum in which Ph.D. students meet and discuss their work with each other and with a panel of experienced CSCW researchers and practitioners. Students are selected to participate in the colloquium through a competitive review process. The colloquium will begin Saturday afternoon and continue all day Sunday.", 
     "authors": [], 
     "award": false, 
     "hm": false, 
@@ -214,7 +214,7 @@ entities={
     "type": "poster"
   }, 
   "2": {
-    "abstract": "", 
+    "abstract": "The Doctoral Colloquium is a forum in which Ph.D. students meet and discuss their work with each other and with a panel of experienced CSCW researchers and practitioners. Students are selected to participate in the colloquium through a competitive review process. The colloquium will begin Saturday afternoon and continue all day Sunday.", 
     "authors": [], 
     "award": false, 
     "hm": false, 
@@ -648,7 +648,7 @@ entities={
     "type": "poster"
   }, 
   "4": {
-    "abstract": "How might bots and conversational intelligence change the way we work and socialize, and lead us to rethink the computing experience? Why now?<BR><BR>Inspired by online life in China and WeChat we have learned many lessons, both by building advanced bots such as Xiaoice/China, Rinna/Japan, and Tay-Zo/US, and by providing the Bot Framework and Cognitive Services to develop a conversational experience.  While it’s early days for AI, what are actionable challenges and opportunities in the area of conversational intelligence, and how can bots and language understanding help improve the way we collaborate and work together?<BR><BR>Lili Cheng is a Distinguished Engineer, and General Manager in Microsoft Artificial Intelligence and Research (AI&R), focusing on conversational experiences, bots, and intelligence systems.<BR><BR>Lili’s team is responsible for the Microsoft Bot Framework,  part of Cortana Intelligence, and bringing together community of bot creators, channels, tools and AI experts in events such as Botness, Microsoft Lili Cheng is a Distinguished Engineer, and General Manager in Microsoft Artificial Intelligence and Research (AI&R), focusing on conversational experiences, bots, and intelligence systems.<BR><BR>Previously, Lili was director of user experience for Microsoft Windows and also worked in Apple Computer’s Advanced Technology Group, on the User Interface research team, where she focused on Quicktime Conferencing and Quicktime VR. Lili is a registered architect; she worked in Tokyo and Los Angeles for Nihon Sekkei and Skidmore Owings and Merrill on commercial urban design and large-scale building projects. She has taught at NYU-Interactive Telecommunications as well as Harvard University. Lili was born in Tokyo, is married with three boys, and lives in Bellevue Washington.", 
+    "abstract": "How might bots and conversational intelligence change the way we work and socialize, and lead us to rethink the computing experience? Why now? Inspired by online life in China and WeChat we have learned many lessons, both by building advanced bots such as Xiaoice/China, Rinna/Japan, and Tay-Zo/US, and by providing the Bot Framework and Cognitive Services to develop a conversational experience.  While it’s early days for AI, what are actionable challenges and opportunities in the area of conversational intelligence, and how can bots and language understanding help improve the way we collaborate and work together?<BR><BR>Lili Cheng is a Distinguished Engineer, and General Manager in Microsoft Artificial Intelligence and Research (AI&R), focusing on conversational experiences, bots, and intelligence systems. Lili’s team is responsible for the Microsoft Bot Framework,  part of Cortana Intelligence, and bringing together community of bot creators, channels, tools and AI experts in events such as Botness, Microsoft Lili Cheng is a Distinguished Engineer, and General Manager in Microsoft Artificial Intelligence and Research (AI&R), focusing on conversational experiences, bots, and intelligence systems. Previously, Lili was director of user experience for Microsoft Windows and also worked in Apple Computer’s Advanced Technology Group, on the User Interface research team, where she focused on Quicktime Conferencing and Quicktime VR. Lili is a registered architect; she worked in Tokyo and Los Angeles for Nihon Sekkei and Skidmore Owings and Merrill on commercial urban design and large-scale building projects. She has taught at NYU-Interactive Telecommunications as well as Harvard University. Lili was born in Tokyo, is married with three boys, and lives in Bellevue Washington.", 
     "authors": [
       {
         "name": "Lili Cheng"

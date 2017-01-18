@@ -209,6 +209,17 @@ schedule=[
       {
         "sessions": [
           {
+            "room": "Foyer", 
+            "session": "Monday_Afternoon_Coffee_Break"
+          }
+        ], 
+        "slot_class": "afternoon2", 
+        "slot_id": "Monday4_00_4_30", 
+        "time": "4:00 - 4:30"
+      }, 
+      {
+        "sessions": [
+          {
             "room": "Hawthorne/Sellwood", 
             "session": "What_Works_in_Crowd_Work_Chair_Chinmay_Kulkarni_Carnegie_Mellon_University"
           }, 
@@ -236,17 +247,6 @@ schedule=[
         "slot_class": "afternoon2", 
         "slot_id": "Monday4_30_6_00", 
         "time": "4:30 - 6:00"
-      }, 
-      {
-        "sessions": [
-          {
-            "room": "Foyer", 
-            "session": "Monday_Afternoon_Coffee_Break"
-          }
-        ], 
-        "slot_class": "afternoon2", 
-        "slot_id": "Monday4_00_4_30", 
-        "time": "4:00 - 4:30"
       }, 
       {
         "sessions": [
@@ -401,17 +401,6 @@ schedule=[
       {
         "sessions": [
           {
-            "room": "Multnomah/Holladay", 
-            "session": "Lasting_Impact_Plenary_Session"
-          }
-        ], 
-        "slot_class": "afternoon2", 
-        "slot_id": "Tuesday4_30_5_30", 
-        "time": "4:30 - 5:30"
-      }, 
-      {
-        "sessions": [
-          {
             "room": "Foyer", 
             "session": "Tuesday_Afternoon_Coffee_Break"
           }
@@ -419,7 +408,18 @@ schedule=[
         "slot_class": "afternoon2", 
         "slot_id": "Tuesday4_00_4_30", 
         "time": "4:00 - 4:30"
-      }, 
+      },
+      {
+        "sessions": [
+          {
+            "room": "Multnomah/Holladay", 
+            "session": "Lasting_Impact_Plenary_Session"
+          }
+        ], 
+        "slot_class": "afternoon2", 
+        "slot_id": "Tuesday4_30_5_30", 
+        "time": "4:30 - 5:30"
+      },  
       {
         "sessions": [
           {
@@ -543,6 +543,17 @@ schedule=[
         "slot_class": "afternoon1", 
         "slot_id": "Wednesday2_30_4_00", 
         "time": "2:30 - 4:00"
+      },
+      {
+        "sessions": [
+          {
+            "room": "Foyer", 
+            "session": "Wednesday_Afternoon_Coffee_Break"
+          }
+        ], 
+        "slot_class": "afternoon2", 
+        "slot_id": "Wednesday4_00_4_30", 
+        "time": "4:00 - 4:30"
       }, 
       {
         "sessions": [
@@ -554,17 +565,6 @@ schedule=[
         "slot_class": "afternoon2", 
         "slot_id": "Wednesday4_30_6_00", 
         "time": "4:30 - 6:00"
-      }, 
-      {
-        "sessions": [
-          {
-            "room": "Foyer", 
-            "session": "Wednesday_Afternoon_Coffee_Break"
-          }
-        ], 
-        "slot_class": "afternoon2", 
-        "slot_id": "Wednesday4_00_4_30", 
-        "time": "4:00 - 4:30"
       }
     ]
   }
