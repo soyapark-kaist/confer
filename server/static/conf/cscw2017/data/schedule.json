@@ -257,14 +257,7 @@ schedule=[
           {
             "room": "Multnomah/Holladay", 
             "session": "Poster_Demo_Reception"
-          }
-        ], 
-        "slot_class": "evening", 
-        "slot_id": "Monday6_00_8_00", 
-        "time": "6:00 - 8:00"
-      }, 
-      {
-        "sessions": [
+          },
           {
             "room": "Multnomah/Holladay", 
             "session": "Demos"
