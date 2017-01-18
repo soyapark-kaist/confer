@@ -2,7 +2,7 @@ sessions={
   "15th_International_Workshop_on_Collaborative_Editing_Systems": {
     "date": "Saturday", 
     "room": "Ross Island", 
-    "s_title": "15th International Workshop on Collaborative Editing Systems", 
+    "s_title": "Workshop: 15th International Workshop on Collaborative Editing Systems", 
     "submissions": [
       "W1"
     ], 
@@ -11,7 +11,7 @@ sessions={
   "Advancing_the_Open_Collaboration_Data_Exchange_OCDX_Building_a_Social_Computing_Infrastructure": {
     "date": "Sunday", 
     "room": "Halsey", 
-    "s_title": "Advancing the Open Collaboration Data Exchange (OCDX): Building a Social Computing Infrastructure", 
+    "s_title": "Workshop: Advancing the Open Collaboration Data Exchange (OCDX): Building a Social Computing Infrastructure", 
     "submissions": [
       "W12"
     ], 
@@ -44,7 +44,7 @@ sessions={
   "CSCW_in_China_and_Beyond": {
     "date": "Saturday", 
     "room": "Mt. Hood", 
-    "s_title": "CSCW in China and Beyond", 
+    "s_title": "Workshop: CSCW in China and Beyond", 
     "submissions": [
       "W6"
     ], 
@@ -110,7 +110,7 @@ sessions={
   "Conceptualizing_Creating_Controlling_Constructive_and_Controversial_Comments_A_CSCW_Research_athon": {
     "date": "Sunday", 
     "room": "Mt. Hood", 
-    "s_title": "Conceptualizing, Creating, & Controlling Constructive and Controversial Comments: A CSCW Research-athon", 
+    "s_title": "Workshop: Conceptualizing, Creating, & Controlling Constructive and Controversial Comments: A CSCW Research-athon", 
     "submissions": [
       "W13"
     ], 
@@ -176,7 +176,7 @@ sessions={
   "Crowdsourcing_Law_and_Policy_A_Design_Thinking_Approach_to_Crowd_Civic_Systems": {
     "date": "Saturday", 
     "room": "Morrison", 
-    "s_title": "Crowdsourcing Law and Policy: A Design-Thinking Approach to Crowd-Civic Systems", 
+    "s_title": "Workshop: Crowdsourcing Law and Policy: A Design-Thinking Approach to Crowd-Civic Systems", 
     "submissions": [
       "W2"
     ], 
@@ -253,7 +253,7 @@ sessions={
   "E_Infrastructures_for_Research_Collaboration_The_Case_of_the_Social_Sciences_and_Humanities": {
     "date": "Sunday", 
     "room": "Hawthorne", 
-    "s_title": "E-Infrastructures for Research Collaboration: The Case of the Social Sciences and Humanities", 
+    "s_title": "Workshop: E-Infrastructures for Research Collaboration: The Case of the Social Sciences and Humanities", 
     "submissions": [
       "W11"
     ], 
@@ -310,7 +310,7 @@ sessions={
   "Hacking_and_Making_at_Time_Bounded_Events_Current_Trends_and_Next_Steps_in_Research_and_Event_Design": {
     "date": "Saturday", 
     "room": "Sellwood", 
-    "s_title": "Hacking and Making at Time-Bounded Events: Current Trends and Next Steps in Research and Event Design", 
+    "s_title": "Workshop: Hacking and Making at Time-Bounded Events: Current Trends and Next Steps in Research and Event Design", 
     "submissions": [
       "W3"
     ], 
@@ -354,7 +354,7 @@ sessions={
   "Imagining_Intersectional_Futures_Feminist_approaches_in_CSCW": {
     "date": "Saturday", 
     "room": "Mt. St. Helens", 
-    "s_title": "Imagining Intersectional Futures: Feminist approaches in CSCW", 
+    "s_title": "Workshop: Imagining Intersectional Futures: Feminist approaches in CSCW", 
     "submissions": [
       "W7"
     ], 
@@ -363,7 +363,7 @@ sessions={
   "In_Whose_Best_Interest_Exploring_the_Real_Potential_and_Imagined_Ethical_Concerns_in_Privacy_Focused_Agendas": {
     "date": "Saturday", 
     "room": "Halsey", 
-    "s_title": "In Whose Best Interest? Exploring the Real, Potential, and Imagined Ethical Concerns in Privacy-Focused Agendas", 
+    "s_title": "Workshop: In Whose Best Interest? Exploring the Real, Potential, and Imagined Ethical Concerns in Privacy-Focused Agendas", 
     "submissions": [
       "W5"
     ], 
@@ -580,7 +580,7 @@ sessions={
   "Panel_Panel_CSCW_Research_Ethics_Town_Hall_Working_Towards_Community_Norms": {
     "date": "Tuesday", 
     "room": "Mt. Hood", 
-    "s_title": "Panel: Panel: CSCW Research Ethics Town Hall: Working Towards Community Norms", 
+    "s_title": "Panel: CSCW Research Ethics Town Hall: Working Towards Community Norms", 
     "submissions": [
       "88"
     ], 
@@ -589,7 +589,7 @@ sessions={
   "Panel_Panel_Perspectives_on_Live_Streaming_Apps_Users_and_Research": {
     "date": "Wednesday", 
     "room": "Mt. Hood", 
-    "s_title": "Panel: Panel: Perspectives on Live Streaming: Apps, Users, and Research", 
+    "s_title": "Panel: Perspectives on Live Streaming: Apps, Users, and Research", 
     "submissions": [
       "89"
     ], 
@@ -598,7 +598,7 @@ sessions={
   "Panel_Panel_Social_Justice_and_Design_Power_and_Oppression_in_Collaborative_Systems": {
     "date": "Monday", 
     "room": "Mt. Hood", 
-    "s_title": "Panel: Panel: Social Justice and Design: Power and Oppression in Collaborative Systems", 
+    "s_title": "Panel: Social Justice and Design: Power and Oppression in Collaborative Systems", 
     "submissions": [
       "87"
     ], 
@@ -664,7 +664,7 @@ sessions={
   "Reflection_on_Design_Methods_for_Underserved_Communities": {
     "date": "Sunday", 
     "room": "Sellwood", 
-    "s_title": "Reflection on Design Methods for Underserved Communities", 
+    "s_title": "Workshop: Reflection on Design Methods for Underserved Communities", 
     "submissions": [
       "W10"
     ], 
@@ -673,7 +673,7 @@ sessions={
   "Robots_in_Groups_and_Teams": {
     "date": "Sunday", 
     "room": "Morrison", 
-    "s_title": "Robots in Groups and Teams", 
+    "s_title": "Workshop: Robots in Groups and Teams", 
     "submissions": [
       "W9"
     ], 
@@ -712,7 +712,7 @@ sessions={
   "Talking_with_Conversational_Agents_in_Collaborative_Action": {
     "date": "Sunday", 
     "room": "Mt. St. Helens", 
-    "s_title": "Talking with Conversational Agents in Collaborative Action", 
+    "s_title": "Workshop: Talking with Conversational Agents in Collaborative Action", 
     "submissions": [
       "W14"
     ], 
@@ -757,7 +757,7 @@ sessions={
   "The_Science_of_Citizen_Science_Theories_Methodologies_and_Platforms": {
     "date": "Sunday", 
     "room": "Ross Island", 
-    "s_title": "The Science of Citizen Science: Theories, Methodologies and Platforms", 
+    "s_title": "Workshop: The Science of Citizen Science: Theories, Methodologies and Platforms", 
     "submissions": [
       "W8"
     ], 
@@ -766,7 +766,7 @@ sessions={
   "Theory_Transfers_Social_Theory_and_CSCW_research": {
     "date": "Saturday", 
     "room": "Hawthorne", 
-    "s_title": "Theory Transfers? Social Theory and CSCW research", 
+    "s_title": "Workshop: Theory Transfers? Social Theory and CSCW research", 
     "submissions": [
       "W4"
     ], 

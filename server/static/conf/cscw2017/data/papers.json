@@ -1579,8 +1579,15 @@ entities={
     "type": "special"
   }, 
   "84": {
-    "abstract": "", 
-    "authors": [], 
+    "abstract": "This year’s CSCW Lasting Impact Award will be presented to Paul Luff and Christian Heath for their CSCW 1998 paper, \"Mobility in Collaboration.\"  By exploring three diverse work domains – healthcare, construction and the London Underground – this work illustrated the importance of understanding movement of participants, and influenced future research agendas on mobile computing. Paul Luff will accept the award, and with a panel of discussants will reflect on the importance of this piece of work to our field.", 
+    "authors": [
+      {
+        "name": "Paul Luff, Kings College London"
+      }, 
+      {
+        "name": "Christian Heath, Kings College London"
+      }
+    ], 
     "award": false, 
     "hm": false, 
     "subtype": "special", 
@@ -1588,7 +1595,7 @@ entities={
     "type": "special"
   }, 
   "85": {
-    "abstract": "", 
+    "abstract": "The CSCW Town Hall Meeting is a time dedicated for the SIGCHI CSCW Community steering committee to interact with attendees of CSCW 2017, harnessing their interests, and addressing their concerns about future directions of the CSCW conference series. Everyone is welcome to attend and participate.", 
     "authors": [], 
     "award": false, 
     "hm": false, 
