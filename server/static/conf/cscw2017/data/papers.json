@@ -2209,7 +2209,7 @@ entities={
       }
     ], 
     "award": false, 
-    "hm": false, 
+    "hm": true, 
     "subtype": "Paper", 
     "title": "#Indigenous: Tracking the Connective Actions of Native American Advocates on Twitter", 
     "type": "Paper"
@@ -2228,7 +2228,7 @@ entities={
       }
     ], 
     "award": false, 
-    "hm": false, 
+    "hm": true, 
     "subtype": "Paper", 
     "title": "Mosaic: Designing Online Creative Communities for Sharing Works-in-Progress", 
     "type": "Paper"
@@ -3943,7 +3943,7 @@ entities={
       }
     ], 
     "award": false, 
-    "hm": false, 
+    "hm": true, 
     "subtype": "Paper", 
     "title": "Going Gray, Failure to Hire, and the Ick Factor:  Analyzing How Older Bloggers Talk about Ageism", 
     "type": "Paper"
@@ -5397,7 +5397,7 @@ entities={
       }
     ], 
     "award": false, 
-    "hm": false, 
+    "hm": true, 
     "subtype": "Paper", 
     "title": "Constructing a Desiring User: Discourse, Rurality, and Design in Location-Based Social Networks", 
     "type": "Paper"
