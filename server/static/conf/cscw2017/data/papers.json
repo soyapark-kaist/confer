@@ -3144,7 +3144,7 @@ entities={
       }
     ], 
     "award": false, 
-    "hm": true, 
+    "hm": false, 
     "subtype": "Paper", 
     "title": "Wikum: Bridging Discussion Forums and Wikis Using Recursive Summarization", 
     "type": "Paper"
@@ -3918,7 +3918,7 @@ entities={
       }
     ], 
     "award": false, 
-    "hm": true, 
+    "hm": false, 
     "subtype": "Paper", 
     "title": "Problematizing and Addressing the Article-as-Concept Assumption in Wikipedia", 
     "type": "Paper"
