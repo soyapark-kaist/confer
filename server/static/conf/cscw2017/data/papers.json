@@ -1893,7 +1893,7 @@ entities={
     "abstract": "This paper describes the use of the Delphi method as a means of incorporating study participants into the processes of data analysis and interpretation. As a case study, it focuses on perceptions about use and non-use of the social media site Facebook. The work presented here involves three phases. First, a large survey included both a demographically representative sample and a convenience sample. Second, a smaller follow-up survey presented results from that survey back to survey respondents. Third, a series of qualitative member checking interviews with additional survey respondents served to validate the findings of the follow-up survey. This paper demonstrates the utility of Delphi by highlighting the ways that it enables us to synthesize across these three study phases, advancing understanding of perceptions about social media use and non-use. The paper concludes by discussing the broader applicability of the Delphi method across CSCW research.", 
     "authors": [
       {
-        "name": "Eric P. S. Baumer,"
+        "name": "Eric P. S. Baumer, Cornell University"
       }, 
       {
         "name": "Xiaotong Xu, Cornell University"
@@ -2168,22 +2168,19 @@ entities={
     "abstract": "This paper proposes a novel multi-task allocation framework, named PSAllocator, for participatory sensing (PS). Different from previous single-task oriented approaches, which select an optimal set of users for each single task independently, PSAllocator attempts to coordinate the allocation of multiple tasks to maximize the overall system utility on a multi-task PS platform. Furthermore, PSAllocator takes the maximum number of sensing tasks allowed for each participant and the sensor availability of each mobile device into consideration. PSAllocator utilizes a two-phase offline multi-task allocation approach to achieve the near-optimal goal. First, it predicts the participants' connections to cell towers and locations based on historical data from the telecom operator; Then, it converts the multi-task allocation problem into the representation of a bipartite graph, and employs an iterative greedy process to optimize the task allocation. Extensive evaluations based on real-world mobility traces show that PSAllocator outperforms the baseline methods under various settings. ", 
     "authors": [
       {
-        "name": "Jiangtao Wang, software institute"
+        "name": "Jiangtao Wang, Peking University"
       }, 
       {
-        "name": "Yasha WANG, Peking University"
+        "name": "Yasha Wang, Peking University"
       }, 
       {
-        "name": "Daqing Zhang,"
+        "name": "Feng Wang, Peking University"
       }, 
       {
-        "name": "feng wang, software institute"
+        "name": "Yuanduo He, Peking University"
       }, 
       {
-        "name": "Yuanduo He, Software Institution"
-      }, 
-      {
-        "name": "Liantao Ma, Peking university"
+        "name": "Liantao Ma, Peking University"
       }
     ], 
     "award": false, 
@@ -2619,7 +2616,7 @@ entities={
         "name": "Leysia Palen, University of Colorado Boulder"
       }, 
       {
-        "name": "Chris Bopp,"
+        "name": "Chris Bopp, University of Colorado Boulder"
       }
     ], 
     "award": false, 
@@ -2771,7 +2768,7 @@ entities={
         "name": "Wouter Eekhout, Leiden University"
       }, 
       {
-        "name": "Ren_ Clausen Nielsen, United Nations Global Pulse"
+        "name": "Ren\u00E9d Clausen Nielsen, United Nations Global Pulse"
       }
     ], 
     "award": true, 
@@ -2884,7 +2881,7 @@ entities={
         "name": "Boriana Koleva, University of Nottingham"
       }, 
       {
-        "name": "Holger M Schn_delbach, University of Nottingham"
+        "name": "Holger M Schn\u00E4delbach, University of Nottingham"
       }, 
       {
         "name": "Steve Benford, University of Nottingham"
@@ -3169,8 +3166,14 @@ entities={
         "name": "Sekandar Matin, University of Salford"
       },
       {
-        "name": "Akshansh Sinha, Maharaja Agrasen Institute of  Technology,New Delhi"
+        "name": "Akshansh Sinha, University of Salford"
       },
+       
+Sekandar Matin	sekandar.m@gmail.com	University of Salford
+Akshansh Sinha 	akshanshis@gmail.com	Maharaja Agrasen Institute of  Technology,New Delhi
+      
+      
+      
       {
         "name": "Rajan Vaish, Stanford University"
       }, 
@@ -3630,7 +3633,7 @@ entities={
         "name": "Erwan Le Merrer, Technicolor"
       }, 
       {
-        "name": "Gilles Tr_dan, CNRS"
+        "name": "Gilles Tr\u00E9dan, CNRS"
       }
     ], 
     "award": false, 
@@ -5655,7 +5658,7 @@ entities={
         "name": "Sun Young Park, University of Michigan"
       }, 
       {
-        "name": "Yunan Chen, Irvine"
+        "name": "Yunan Chen, University of California Irvine"
       }, 
       {
         "name": "Shriti Raj, University of Michigan"
