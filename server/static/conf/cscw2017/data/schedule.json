@@ -276,17 +276,6 @@ schedule=[
       {
         "sessions": [
           {
-            "room": "Portland Art Museum", 
-            "session": "Conference_Banquet"
-          }
-        ], 
-        "slot_class": "evening", 
-        "slot_id": "Tuesday6_30_10_00", 
-        "time": "6:30 - 10:00"
-      }, 
-      {
-        "sessions": [
-          {
             "room": "Ross Island/Morrison", 
             "session": "Gender_Death_Design_Chair_Morgan_Ames_University_of_California_Berkeley"
           }, 
@@ -423,7 +412,18 @@ schedule=[
         "slot_class": "afternoon2", 
         "slot_id": "Tuesday5_30_6_15", 
         "time": "5:30 - 6:15"
-      }
+      },
+      {
+        "sessions": [
+          {
+            "room": "Portland Art Museum", 
+            "session": "Conference_Banquet"
+          }
+        ], 
+        "slot_class": "evening", 
+        "slot_id": "Tuesday6_30_10_00", 
+        "time": "6:30 - 10:00"
+      } 
     ]
   }, 
   {
