@@ -32,7 +32,7 @@ sessions={
   "All_About_Sharing": {
     "date": "Wednesday", 
     "room": "Mt. St. Helens", 
-    "s_title": "All About Sharing", 
+    "s_title": "All About Sharing - Chair: Nat Poor, Underwood Institute", 
     "submissions": [
       "cscwp453", 
       "cscwp252", 
@@ -53,7 +53,7 @@ sessions={
   "Caregiving_Collaborative": {
     "date": "Tuesday", 
     "room": "Mt. St. Helens", 
-    "s_title": "Caregiving - Collaborative", 
+    "s_title": "Caregiving - Collaborative - Chair: Anne Marie  Piper, Northwestern University", 
     "submissions": [
       "cscwp186", 
       "cscwp533", 
@@ -65,7 +65,7 @@ sessions={
   "Challenges_in_Sharing_Experiences": {
     "date": "Tuesday", 
     "room": "Hawthorne/Sellwood", 
-    "s_title": "Challenges in Sharing Experiences", 
+    "s_title": "Challenges in Sharing Experiences - Chair: Susan Fussell, Cornell University", 
     "submissions": [
       "cscwp152", 
       "cscwp527", 
@@ -77,7 +77,7 @@ sessions={
   "Citizen_Science": {
     "date": "Wednesday", 
     "room": "Mt. Hood", 
-    "s_title": "Citizen Science", 
+    "s_title": "Citizen Science - Chair: Alyson Young, Indiana University and Purdue University", 
     "submissions": [
       "cscwp307", 
       "cscwp722", 
@@ -152,7 +152,7 @@ sessions={
   "Crisis_Management": {
     "date": "Tuesday", 
     "room": "Mt. Bachelor", 
-    "s_title": "Crisis Management", 
+    "s_title": "Crisis Management - Chair: Bryan Semaan, Syracuse University", 
     "submissions": [
       "cscwp482", 
       "cscwp206", 
@@ -164,7 +164,7 @@ sessions={
   "Crowd_Processes": {
     "date": "Tuesday", 
     "room": "Ross Island/Morrison", 
-    "s_title": "Crowd Processes", 
+    "s_title": "Crowd Processes - Chair: Loren Terveen, University of Minnesota", 
     "submissions": [
       "cscwp656", 
       "cscwp332", 
@@ -185,7 +185,7 @@ sessions={
   "Data_Visualization_Gamification_Virtual_Worlds": {
     "date": "Wednesday", 
     "room": "Ross Island/Morrison", 
-    "s_title": "Data Visualization, Gamification, & Virtual Worlds", 
+    "s_title": "Data Visualization, Gamification, & Virtual Worlds - Chair: Donny X McMillan, Mobile Life Centre", 
     "submissions": [
       "cscwp403", 
       "cscwp647", 
@@ -229,7 +229,7 @@ sessions={
   "Design_Supporting_Collaboration": {
     "date": "Monday", 
     "room": "Hawthorne/Sellwood", 
-    "s_title": "Design - Supporting Collaboration", 
+    "s_title": "Design - Supporting Collaboration - Chair: Heloisa Candello, IBM Research Brazil", 
     "submissions": [
       "cscwp196", 
       "cscwp183", 
@@ -241,7 +241,7 @@ sessions={
   "Digital_Memories_Creating": {
     "date": "Wednesday", 
     "room": "Mt. Hood", 
-    "s_title": "Digital Memories - Creating", 
+    "s_title": "Digital Memories - Creating - Chair: Meredith  Ringel  Morris, Microsoft Research", 
     "submissions": [
       "cscwp709", 
       "cscwp123", 
@@ -274,7 +274,7 @@ sessions={
   "Emergency_Safety_Work_Collaboration_around": {
     "date": "Tuesday", 
     "room": "Three Sisters", 
-    "s_title": "Emergency & Safety Work - Collaboration around", 
+    "s_title": "Emergency & Safety Work - Collaboration around - Chair: Kate Starbird, University of Washington", 
     "submissions": [
       "cscwp615", 
       "cscwp402", 
@@ -286,7 +286,7 @@ sessions={
   "Funding_Founders": {
     "date": "Wednesday", 
     "room": "Three Sisters", 
-    "s_title": "Funding & Founders", 
+    "s_title": "Funding & Founders - Chair: Michael Muller, IBM", 
     "submissions": [
       "cscwp187", 
       "cscwp325", 
@@ -319,7 +319,7 @@ sessions={
   "Health_care_Data_Tracking_Triggers_in_Health_care_": {
     "date": "Wednesday", 
     "room": "Mt. St. Helens", 
-    "s_title": "Health(care)- Data Tracking & Triggers in Health(care)", 
+    "s_title": "Health(care)- Data Tracking & Triggers in Health(care) - Chair: Aleksandra Sarcevic, Drexel University", 
     "submissions": [
       "cscwp475", 
       "cscwp614", 
@@ -331,7 +331,7 @@ sessions={
   "ICT4D": {
     "date": "Tuesday", 
     "room": "Mt. Hood", 
-    "s_title": "ICT4D", 
+    "s_title": "ICT4D - Chair: Ingrid Erickson, Syracuse University", 
     "submissions": [
       "cscwp320", 
       "cscwp300", 
@@ -342,7 +342,7 @@ sessions={
   "Illness_Digital_Data": {
     "date": "Wednesday", 
     "room": "Three Sisters", 
-    "s_title": "Illness & Digital Data", 
+    "s_title": "Illness & Digital Data - Chair: Claus Bossen, Aalborg University", 
     "submissions": [
       "cscwp420", 
       "cscwp715", 
@@ -436,7 +436,7 @@ sessions={
   "Language_Matters_Chair_Brent_Hetcht": {
     "date": "Monday", 
     "room": "Hawthorne/Sellwood", 
-    "s_title": "Language Matters - Chair: Brent Hetcht", 
+    "s_title": "Language Matters - Chair: Brent Hecht, Northwestern University", 
     "submissions": [
       "cscwp508", 
       "cscwp393", 
@@ -457,7 +457,7 @@ sessions={
   "Leave_Me_Alone_Privacy_Notifications_Chair_Cristina_Garcia": {
     "date": "Monday", 
     "room": "Ross Island/Morrison", 
-    "s_title": "Leave Me Alone: Privacy & Notifications - Chair: Cristina Garcia", 
+    "s_title": "Leave Me Alone: Privacy & Notifications - Chair: Cristina Garcia, Universidade Fedral Fluminense", 
     "submissions": [
       "cscwp134", 
       "cscwp451", 
@@ -481,7 +481,7 @@ sessions={
   "Meetings_Collaboration_Support": {
     "date": "Wednesday", 
     "room": "Ross Island/Morrison", 
-    "s_title": "Meetings & Collaboration Support", 
+    "s_title": "Meetings & Collaboration Support - Chair: Marcos Borges, Universidade Federal do Rio de Janeiro", 
     "submissions": [
       "cscwp621", 
       "cscwp258", 
@@ -493,7 +493,7 @@ sessions={
   "Models_Language_in_Work_Investment": {
     "date": "Tuesday", 
     "room": "Mt. St. Helens", 
-    "s_title": "Models & Language in Work & Investment", 
+    "s_title": "Models & Language in Work & Investment - Chair: Sadat Shami, IBM", 
     "submissions": [
       "cscwp555", 
       "cscwp269", 
@@ -532,7 +532,7 @@ sessions={
   "On_Mental_Models_Collaboration": {
     "date": "Wednesday", 
     "room": "Ross Island/Morrison", 
-    "s_title": "On Mental Models & Collaboration", 
+    "s_title": "On Mental Models & Collaboration - Chair: Jennifer Marlow, FXPAL", 
     "submissions": [
       "cscwp388", 
       "cscwp340", 
@@ -544,7 +544,7 @@ sessions={
   "On_New_Old_Research_Methods": {
     "date": "Tuesday", 
     "room": "Mt. Bachelor", 
-    "s_title": "On New & Old Research Methods", 
+    "s_title": "On New & Old Research Methods - Chair: Michael Bernstein, Stanford University", 
     "submissions": [
       "cscwp661", 
       "cscwp101", 
@@ -556,7 +556,7 @@ sessions={
   "Online_Movements": {
     "date": "Tuesday", 
     "room": "Ross Island/Morrison", 
-    "s_title": "Online Movements", 
+    "s_title": "Online Movements - Chair: Jofish Kaye, Mozilla", 
     "submissions": [
       "cscwp132", 
       "cscwp204", 
@@ -607,7 +607,7 @@ sessions={
   "Parenting": {
     "date": "Wednesday", 
     "room": "Three Sisters", 
-    "s_title": "Parenting", 
+    "s_title": "Parenting - Chair: Sukeshini Grandhi, Eastern Connecticut University", 
     "submissions": [
       "cscwp498", 
       "cscwp237", 
@@ -640,7 +640,7 @@ sessions={
   "Programming": {
     "date": "Wednesday", 
     "room": "Hawthorne/Sellwood", 
-    "s_title": "Programming", 
+    "s_title": "Programming - Chair: Pernille Bj\u00F8rn, University of Copenhagen", 
     "submissions": [
       "cscwp425", 
       "cscwp517", 
@@ -652,7 +652,7 @@ sessions={
   "Ranking_Recommendation": {
     "date": "Tuesday", 
     "room": "Hawthorne/Sellwood", 
-    "s_title": "Ranking & Recommendation", 
+    "s_title": "Ranking & Recommendation - Chair: Adriana Vivacqua, Universidade Federal do Rio de Janeiro", 
     "submissions": [
       "cscwp348", 
       "cscwp173", 
@@ -721,7 +721,7 @@ sessions={
   "Teamwork": {
     "date": "Wednesday", 
     "room": "Mt. Bachelor", 
-    "s_title": "Teamwork", 
+    "s_title": "Teamwork - Chair: Wendy Kellogg, Independent", 
     "submissions": [
       "cscwp112", 
       "cscwp566", 
@@ -733,7 +733,7 @@ sessions={
   "Teens_Children": {
     "date": "Monday", 
     "room": "Mt. St. Helens", 
-    "s_title": "Teens & Children", 
+    "s_title": "Teens & Children - Chair: Irina Shklovski, The IT University of Copenhagen", 
     "submissions": [
       "cscwp271", 
       "cscwp315", 
@@ -784,7 +784,7 @@ sessions={
   "Tracking_Activity_Health": {
     "date": "Tuesday", 
     "room": "Mt. St. Helens", 
-    "s_title": "Tracking Activity & Health", 
+    "s_title": "Tracking Activity & Health - Chair: Wendy Ju, Stanford University", 
     "submissions": [
       "cscwp638", 
       "cscwp626", 
@@ -796,7 +796,7 @@ sessions={
   "Trolls_Harassment": {
     "date": "Tuesday", 
     "room": "Three Sisters", 
-    "s_title": "Trolls & Harassment", 
+    "s_title": "Trolls & Harassment - Chair: Jeff Hancock, Stanford University", 
     "submissions": [
       "cscwp303", 
       "cscwp426", 
@@ -904,7 +904,7 @@ sessions={
   "Wikipedia": {
     "date": "Wednesday", 
     "room": "Mt. Bachelor", 
-    "s_title": "Wikipedia", 
+    "s_title": "Wikipedia - Chair: Brian Keegan, University of Colorado", 
     "submissions": [
       "cscwp259", 
       "cscwp516", 
@@ -916,7 +916,7 @@ sessions={
   "Wikipedia_More": {
     "date": "Wednesday", 
     "room": "Mt. Bachelor", 
-    "s_title": "Wikipedia & More", 
+    "s_title": "Wikipedia & More - Chair: Cliff Lampe, University of Michigan", 
     "submissions": [
       "cscwp548", 
       "cscwp412", 
@@ -928,7 +928,7 @@ sessions={
   "With_a_Little_Help_from_My_Friends_CAUTION_": {
     "date": "Tuesday", 
     "room": "Three Sisters", 
-    "s_title": "With a Little Help from My Friends... [CAUTION]", 
+    "s_title": "With a Little Help from My Friends... [CAUTION] - Chair: Andrew Miller, Indiana University and Purdue University", 
     "submissions": [
       "cscwp326", 
       "cscwp676", 
@@ -940,7 +940,7 @@ sessions={
   "Work_Production_Practices": {
     "date": "Tuesday", 
     "room": "Mt. Bachelor", 
-    "s_title": "Work & Production Practices", 
+    "s_title": "Work & Production Practices - Chair: Wayne Lutters, UMBC", 
     "submissions": [
       "cscwp530", 
       "cscwp521", 
@@ -952,7 +952,7 @@ sessions={
   "Workers": {
     "date": "Wednesday", 
     "room": "Mt. St. Helens", 
-    "s_title": "Workers", 
+    "s_title": "Workers - Chair: Susann Wagenknecht, University of Siegen", 
     "submissions": [
       "cscwp389", 
       "cscwp603", 
