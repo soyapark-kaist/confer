@@ -244,8 +244,8 @@ sessions={
     "s_title": "Digital Memories - Creating - Chair: Meredith  Ringel  Morris, Microsoft Research", 
     "submissions": [
       "cscwp709", 
-      "cscwp123", 
-      "cscwp675", 
+      "cscwp675",
+      "cscwp123",
       "TOCHI-2015-0108"
     ], 
     "time": "9:00 - 10:30"
@@ -345,9 +345,9 @@ sessions={
     "s_title": "Illness & Digital Data - Chair: Claus Bossen, Aalborg University", 
     "submissions": [
       "cscwp420", 
-      "cscwp715", 
       "cscwp677", 
-      "cscwp583"
+      "cscwp583",
+      "cscwp715"
     ], 
     "time": "9:00 - 10:30"
   }, 
