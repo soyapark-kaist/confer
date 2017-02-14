@@ -1,0 +1,2054 @@
+schedule=[
+    {
+        "day": "5/10/17",
+        "slots": [
+            {
+                "slot_id": "5/10/17_9_30",
+                "time": "9:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "paper_98",
+                        "room": "102/104"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/8/17_11_30",
+                "time": "11:30",
+                "slot_class": "morning2",
+                "sessions": [
+                    {
+                        "session": "panel_16",
+                        "room": "Four Seasons 2/3"
+                    },
+                    {
+                        "session": "sig_9",
+                        "room": "301"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_9_30",
+                "time": "9:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "panel_19",
+                        "room": "Four Seasons 2/3"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_14_30",
+                "time": "14:30",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "panel_21",
+                        "room": "Four Seasons 2/3"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_16_30",
+                "time": "16:30",
+                "slot_class": "afternoon2",
+                "sessions": [
+                    {
+                        "session": "panel_22",
+                        "room": "Four Seasons 2/3"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/10/17_9_30",
+                "time": "9:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "panel_23",
+                        "room": "Four Seasons 2/3"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/10/17_14_30",
+                "time": "14:30",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "panel_25",
+                        "room": "Four Seasons 2/3"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/10/17_16_30",
+                "time": "16:30",
+                "slot_class": "afternoon2",
+                "sessions": [
+                    {
+                        "session": "panel_26",
+                        "room": "Four Seasons 2/3"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/11/17_9_30",
+                "time": "9:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "panel_27",
+                        "room": "Four Seasons 2/3"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/11/17_14_30",
+                "time": "14:30",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "panel_29",
+                        "room": "Four Seasons 2/3"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_11_30",
+                "time": "11:30",
+                "slot_class": "morning2",
+                "sessions": [
+                    {
+                        "session": "panel_20",
+                        "room": "Four Seasons 2/3"
+                    },
+                    {
+                        "session": "panel_24",
+                        "room": "Four Seasons 2/3"
+                    },
+                    {
+                        "session": "panel_28",
+                        "room": "Four Seasons 2/3"
+                    },
+                    {
+                        "session": "paper_128",
+                        "room": "Four Seasons 1"
+                    },
+                    {
+                        "session": "sig_5",
+                        "room": "301"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/11/17_14_30",
+                "time": "14:30",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "sig_14",
+                        "room": "301"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_9_30",
+                "time": "9:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "panel_4",
+                        "room": "Four Seasons 1"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_14_30",
+                "time": "14:30",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "panel_6",
+                        "room": "Four Seasons 1"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_16_30",
+                "time": "16:30",
+                "slot_class": "afternoon2",
+                "sessions": [
+                    {
+                        "session": "panel_7",
+                        "room": "Four Seasons 1"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/10/17_9_30",
+                "time": "9:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "panel_8",
+                        "room": "Four Seasons 1"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/10/17_14_30",
+                "time": "14:30",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "panel_10",
+                        "room": "Four Seasons 1"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/10/17_16_30",
+                "time": "16:30",
+                "slot_class": "afternoon2",
+                "sessions": [
+                    {
+                        "session": "panel_11",
+                        "room": "Four Seasons 1"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/11/17_9_30",
+                "time": "9:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "panel_12",
+                        "room": "Four Seasons 1"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/11/17_14_30",
+                "time": "14:30",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "panel_14",
+                        "room": "Four Seasons 1"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_11_30",
+                "time": "11:30",
+                "slot_class": "morning2",
+                "sessions": [
+                    {
+                        "session": "panel_5",
+                        "room": "Four Seasons 1"
+                    },
+                    {
+                        "session": "panel_9",
+                        "room": "Four Seasons 1"
+                    },
+                    {
+                        "session": "panel_13",
+                        "room": "Four Seasons 1"
+                    },
+                    {
+                        "session": "paper_99",
+                        "room": "Four Seasons 4"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/11/17_9_30",
+                "time": "9:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "sig_12",
+                        "room": "301"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/10/17_16_30",
+                "time": "16:30",
+                "slot_class": "afternoon2",
+                "sessions": [
+                    {
+                        "session": "sig_11",
+                        "room": "301"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_9_30",
+                "time": "9:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "paper_48",
+                        "room": "Four Seasons 4"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_14_30",
+                "time": "14:30",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "paper_104",
+                        "room": "Four Seasons 4"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_16_30",
+                "time": "16:30",
+                "slot_class": "afternoon2",
+                "sessions": [
+                    {
+                        "session": "paper_148",
+                        "room": "Four Seasons 4"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/10/17_9_30",
+                "time": "9:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "paper_106",
+                        "room": "Four Seasons 4"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/10/17_14_30",
+                "time": "14:30",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "paper_39",
+                        "room": "Four Seasons 4"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/10/17_16_30",
+                "time": "16:30",
+                "slot_class": "afternoon2",
+                "sessions": [
+                    {
+                        "session": "paper_13",
+                        "room": "Four Seasons 4"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/11/17_9_30",
+                "time": "9:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "paper_110",
+                        "room": "Four Seasons 4"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/11/17_14_30",
+                "time": "14:30",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "paper_112",
+                        "room": "Four Seasons 4"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_11_30",
+                "time": "11:30",
+                "slot_class": "morning2",
+                "sessions": [
+                    {
+                        "session": "paper_103",
+                        "room": "Four Seasons 4"
+                    },
+                    {
+                        "session": "paper_107",
+                        "room": "Four Seasons 4"
+                    },
+                    {
+                        "session": "paper_111",
+                        "room": "Four Seasons 4"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/10/17_14_30",
+                "time": "14:30",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "sig_10",
+                        "room": "301"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/10/17_9_30",
+                "time": "9:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "sig_8",
+                        "room": "301"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_16_30",
+                "time": "16:30",
+                "slot_class": "afternoon2",
+                "sessions": [
+                    {
+                        "session": "sig_7",
+                        "room": "301"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_9_30",
+                "time": "9:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "paper_35",
+                        "room": "205"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_14_30",
+                "time": "14:30",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "paper_108",
+                        "room": "205"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_16_30",
+                "time": "16:30",
+                "slot_class": "afternoon2",
+                "sessions": [
+                    {
+                        "session": "paper_57",
+                        "room": "205"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/10/17_9_30",
+                "time": "9:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "paper_41",
+                        "room": "205"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/10/17_14_30",
+                "time": "14:30",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "paper_45",
+                        "room": "205"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/10/17_16_30",
+                "time": "16:30",
+                "slot_class": "afternoon2",
+                "sessions": [
+                    {
+                        "session": "paper_70",
+                        "room": "205"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/11/17_9_30",
+                "time": "9:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "paper_47",
+                        "room": "205"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/11/17_14_30",
+                "time": "14:30",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "paper_51",
+                        "room": "205"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_11_30",
+                "time": "11:30",
+                "slot_class": "morning2",
+                "sessions": [
+                    {
+                        "session": "paper_37",
+                        "room": "205"
+                    },
+                    {
+                        "session": "paper_56",
+                        "room": "205"
+                    },
+                    {
+                        "session": "paper_142",
+                        "room": "205"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_14_30",
+                "time": "14:30",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "sig_6",
+                        "room": "301"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_9_30",
+                "time": "9:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "sig_4",
+                        "room": "301"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/11/17_11_30",
+                "time": "11:30",
+                "slot_class": "morning2",
+                "sessions": [
+                    {
+                        "session": "courses_5",
+                        "room": "108"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_9_30",
+                "time": "9:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "paper_32",
+                        "room": "207"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_14_30",
+                "time": "14:30",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "paper_31",
+                        "room": "207"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_16_30",
+                "time": "16:30",
+                "slot_class": "afternoon2",
+                "sessions": [
+                    {
+                        "session": "paper_38",
+                        "room": "207"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/10/17_9_30",
+                "time": "9:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "paper_52",
+                        "room": "207"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/10/17_14_30",
+                "time": "14:30",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "paper_43",
+                        "room": "207"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/10/17_16_30",
+                "time": "16:30",
+                "slot_class": "afternoon2",
+                "sessions": [
+                    {
+                        "session": "paper_138",
+                        "room": "207"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/11/17_9_30",
+                "time": "9:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "paper_74",
+                        "room": "207"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/11/17_14_30",
+                "time": "14:30",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "paper_76",
+                        "room": "207"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_11_30",
+                "time": "11:30",
+                "slot_class": "morning2",
+                "sessions": [
+                    {
+                        "session": "paper_34",
+                        "room": "207"
+                    },
+                    {
+                        "session": "paper_54",
+                        "room": "207"
+                    },
+                    {
+                        "session": "paper_75",
+                        "room": "207"
+                    },
+                    {
+                        "session": "course_36",
+                        "room": "108"
+                    },
+                    {
+                        "session": "course_23",
+                        "room": "108"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/11/17_14_30",
+                "time": "14:30",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "courses_6",
+                        "room": "108"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_9_30",
+                "time": "9:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "paper_21",
+                        "room": "103/105"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_14_30",
+                "time": "14:30",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "paper_40",
+                        "room": "103/105"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_16_30",
+                "time": "16:30",
+                "slot_class": "afternoon2",
+                "sessions": [
+                    {
+                        "session": "paper_120",
+                        "room": "103/105"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/10/17_9_30",
+                "time": "9:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "paper_50",
+                        "room": "103/105"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/10/17_14_30",
+                "time": "14:30",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "paper_66",
+                        "room": "103/105"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/10/17_16_30",
+                "time": "16:30",
+                "slot_class": "afternoon2",
+                "sessions": [
+                    {
+                        "session": "paper_89",
+                        "room": "103/105"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/11/17_9_30",
+                "time": "9:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "paper_86",
+                        "room": "103/105"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/11/17_14_30",
+                "time": "14:30",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "paper_53",
+                        "room": "103/105"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_11_30",
+                "time": "11:30",
+                "slot_class": "morning2",
+                "sessions": [
+                    {
+                        "session": "paper_44",
+                        "room": "103/105"
+                    },
+                    {
+                        "session": "paper_65",
+                        "room": "103/105"
+                    },
+                    {
+                        "session": "paper_5",
+                        "room": "103/105"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/11/17_9_30",
+                "time": "9:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "courses_4",
+                        "room": "108"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/10/17_16_30",
+                "time": "16:30",
+                "slot_class": "afternoon2",
+                "sessions": [
+                    {
+                        "session": "course_44",
+                        "room": "108"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/10/17_14_30",
+                "time": "14:30",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "course_40",
+                        "room": "108"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_9_30",
+                "time": "9:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "paper_137",
+                        "room": "201"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_14_30",
+                "time": "14:30",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "paper_23",
+                        "room": "201"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_16_30",
+                "time": "16:30",
+                "slot_class": "afternoon2",
+                "sessions": [
+                    {
+                        "session": "paper_72",
+                        "room": "201"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/10/17_9_30",
+                "time": "9:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "paper_64",
+                        "room": "201"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/10/17_14_30",
+                "time": "14:30",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "paper_93",
+                        "room": "201"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/10/17_16_30",
+                "time": "16:30",
+                "slot_class": "afternoon2",
+                "sessions": [
+                    {
+                        "session": "paper_90",
+                        "room": "201"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/11/17_9_30",
+                "time": "9:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "paper_88",
+                        "room": "201"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/11/17_14_30",
+                "time": "14:30",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "paper_78",
+                        "room": "201"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_11_30",
+                "time": "11:30",
+                "slot_class": "morning2",
+                "sessions": [
+                    {
+                        "session": "paper_3",
+                        "room": "201"
+                    },
+                    {
+                        "session": "paper_73",
+                        "room": "201"
+                    },
+                    {
+                        "session": "paper_84",
+                        "room": "201"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/10/17_9_30",
+                "time": "9:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "course_32",
+                        "room": "108"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_16_30",
+                "time": "16:30",
+                "slot_class": "afternoon2",
+                "sessions": [
+                    {
+                        "session": "course_28",
+                        "room": "108"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_14_30",
+                "time": "14:30",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "course_24",
+                        "room": "108"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_9_30",
+                "time": "9:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "paper_67",
+                        "room": "203"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_14_30",
+                "time": "14:30",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "paper_7",
+                        "room": "203"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_16_30",
+                "time": "16:30",
+                "slot_class": "afternoon2",
+                "sessions": [
+                    {
+                        "session": "paper_62",
+                        "room": "203"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/10/17_9_30",
+                "time": "9:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "paper_85",
+                        "room": "203"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/10/17_14_30",
+                "time": "14:30",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "paper_97",
+                        "room": "203"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/10/17_16_30",
+                "time": "16:30",
+                "slot_class": "afternoon2",
+                "sessions": [
+                    {
+                        "session": "paper_91",
+                        "room": "203"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/11/17_9_30",
+                "time": "9:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "paper_87",
+                        "room": "203"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/11/17_14_30",
+                "time": "14:30",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "paper_80",
+                        "room": "203"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_11_30",
+                "time": "11:30",
+                "slot_class": "morning2",
+                "sessions": [
+                    {
+                        "session": "paper_28",
+                        "room": "203"
+                    },
+                    {
+                        "session": "paper_81",
+                        "room": "203"
+                    },
+                    {
+                        "session": "paper_83",
+                        "room": "203"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_9_30",
+                "time": "9:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "course_22",
+                        "room": "108"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/11/17_11_30",
+                "time": "11:30",
+                "slot_class": "morning2",
+                "sessions": [
+                    {
+                        "session": "courses_3",
+                        "room": "106"
+                    },
+                    {
+                        "session": "course_35",
+                        "room": "106"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_9_30",
+                "time": "9:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "paper_24",
+                        "room": "102/104"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_14_30",
+                "time": "14:30",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "paper_144",
+                        "room": "102/104"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_16_30",
+                "time": "16:30",
+                "slot_class": "afternoon2",
+                "sessions": [
+                    {
+                        "session": "paper_19",
+                        "room": "102/104"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_11_30",
+                "time": "11:30",
+                "slot_class": "morning2",
+                "sessions": [
+                    {
+                        "session": "course_15",
+                        "room": "106"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/10/17_14_30",
+                "time": "14:30",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "paper_95",
+                        "room": "102/104"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/10/17_16_30",
+                "time": "16:30",
+                "slot_class": "afternoon2",
+                "sessions": [
+                    {
+                        "session": "paper_92",
+                        "room": "102/104"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/11/17_9_30",
+                "time": "9:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "paper_141",
+                        "room": "102/104"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/11/17_14_30",
+                "time": "14:30",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "paper_79",
+                        "room": "102/104"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_11_30",
+                "time": "11:30",
+                "slot_class": "morning2",
+                "sessions": [
+                    {
+                        "session": "paper_30",
+                        "room": "102/104"
+                    },
+                    {
+                        "session": "paper_109",
+                        "room": "102/104"
+                    },
+                    {
+                        "session": "paper_94",
+                        "room": "102/104"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/11/17_14_30",
+                "time": "14:30",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "course_50",
+                        "room": "106"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/11/17_9_30",
+                "time": "9:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "courses",
+                        "room": "106"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/10/17_16_30",
+                "time": "16:30",
+                "slot_class": "afternoon2",
+                "sessions": [
+                    {
+                        "session": "course_43",
+                        "room": "106"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_9_30",
+                "time": "9:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "paper_2",
+                        "room": "107/109"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_14_30",
+                "time": "14:30",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "paper_6",
+                        "room": "107/109"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_16_30",
+                "time": "16:30",
+                "slot_class": "afternoon2",
+                "sessions": [
+                    {
+                        "session": "paper_146",
+                        "room": "107/109"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/10/17_9_30",
+                "time": "9:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "paper_10",
+                        "room": "107/109"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/10/17_14_30",
+                "time": "14:30",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "paper_14",
+                        "room": "107/109"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/10/17_16_30",
+                "time": "16:30",
+                "slot_class": "afternoon2",
+                "sessions": [
+                    {
+                        "session": "paper_16",
+                        "room": "107/109"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/11/17_9_30",
+                "time": "9:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "paper_18",
+                        "room": "107/109"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/11/17_14_30",
+                "time": "14:30",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "paper_63",
+                        "room": "107/109"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_11_30",
+                "time": "11:30",
+                "slot_class": "morning2",
+                "sessions": [
+                    {
+                        "session": "paper_4",
+                        "room": "107/109"
+                    },
+                    {
+                        "session": "paper_12",
+                        "room": "107/109"
+                    },
+                    {
+                        "session": "paper_20",
+                        "room": "107/109"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/10/17_14_30",
+                "time": "14:30",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "course_39",
+                        "room": "106"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/10/17_9_30",
+                "time": "9:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "course_31",
+                        "room": "106"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_16_30",
+                "time": "16:30",
+                "slot_class": "afternoon2",
+                "sessions": [
+                    {
+                        "session": "course_27",
+                        "room": "106"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_9_30",
+                "time": "9:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "paper_121",
+                        "room": "110/112"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_14_30",
+                "time": "14:30",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "paper_117",
+                        "room": "110/112"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_16_30",
+                "time": "16:30",
+                "slot_class": "afternoon2",
+                "sessions": [
+                    {
+                        "session": "paper_114",
+                        "room": "110/112"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/10/17_9_30",
+                "time": "9:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "paper_119",
+                        "room": "110/112"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/10/17_14_30",
+                "time": "14:30",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "paper_123",
+                        "room": "110/112"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/10/17_16_30",
+                "time": "16:30",
+                "slot_class": "afternoon2",
+                "sessions": [
+                    {
+                        "session": "paper_122",
+                        "room": "110/112"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/11/17_9_30",
+                "time": "9:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "paper_49",
+                        "room": "110/112"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/11/17_14_30",
+                "time": "14:30",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "paper_124",
+                        "room": "110/112"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_11_30",
+                "time": "11:30",
+                "slot_class": "morning2",
+                "sessions": [
+                    {
+                        "session": "paper_116",
+                        "room": "110/112"
+                    },
+                    {
+                        "session": "paper_59",
+                        "room": "110/112"
+                    },
+                    {
+                        "session": "paper_125",
+                        "room": "110/112"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_14_30",
+                "time": "14:30",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "course_18",
+                        "room": "106"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_9_30",
+                "time": "9:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "course_11",
+                        "room": "106"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/11/17_11_30",
+                "time": "11:30",
+                "slot_class": "morning2",
+                "sessions": [
+                    {
+                        "session": "courses_2",
+                        "room": "304"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_9_30",
+                "time": "9:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "paper_133",
+                        "room": "111/113"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_14_30",
+                "time": "14:30",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "paper_105",
+                        "room": "111/113"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_16_30",
+                "time": "16:30",
+                "slot_class": "afternoon2",
+                "sessions": [
+                    {
+                        "session": "paper_136",
+                        "room": "111/113"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/10/17_9_30",
+                "time": "9:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "paper_145",
+                        "room": "111/113"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/10/17_14_30",
+                "time": "14:30",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "paper_9",
+                        "room": "111/113"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/10/17_16_30",
+                "time": "16:30",
+                "slot_class": "afternoon2",
+                "sessions": [
+                    {
+                        "session": "paper_22",
+                        "room": "111/113"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/11/17_9_30",
+                "time": "9:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "paper",
+                        "room": "111/113"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/11/17_14_30",
+                "time": "14:30",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "paper_69",
+                        "room": "111/113"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_11_30",
+                "time": "11:30",
+                "slot_class": "morning2",
+                "sessions": [
+                    {
+                        "session": "paper_101",
+                        "room": "111/113"
+                    },
+                    {
+                        "session": "paper_27",
+                        "room": "111/113"
+                    },
+                    {
+                        "session": "paper_126",
+                        "room": "111/113"
+                    },
+                    {
+                        "session": "course_34",
+                        "room": "304"
+                    },
+                    {
+                        "session": "course_14",
+                        "room": "304"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/11/17_14_30",
+                "time": "14:30",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "course_49",
+                        "room": "304"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_9_30",
+                "time": "9:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "course_9",
+                        "room": "303"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_14_30",
+                "time": "14:30",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "course_16",
+                        "room": "303"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_16_30",
+                "time": "16:30",
+                "slot_class": "afternoon2",
+                "sessions": [
+                    {
+                        "session": "course_25",
+                        "room": "303"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/10/17_9_30",
+                "time": "9:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "course_29",
+                        "room": "303"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/10/17_14_30",
+                "time": "14:30",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "course_37",
+                        "room": "303"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/10/17_16_30",
+                "time": "16:30",
+                "slot_class": "afternoon2",
+                "sessions": [
+                    {
+                        "session": "course_41",
+                        "room": "303"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/11/17_9_30",
+                "time": "9:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "course_45",
+                        "room": "303"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_11_30",
+                "time": "11:30",
+                "slot_class": "morning2",
+                "sessions": [
+                    {
+                        "session": "course_12",
+                        "room": "303"
+                    },
+                    {
+                        "session": "course_33",
+                        "room": "303"
+                    },
+                    {
+                        "session": "course_46",
+                        "room": "303"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/11/17_9_30",
+                "time": "9:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "course_48",
+                        "room": "304"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/10/17_16_30",
+                "time": "16:30",
+                "slot_class": "afternoon2",
+                "sessions": [
+                    {
+                        "session": "paper_61",
+                        "room": "304"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/10/17_14_30",
+                "time": "14:30",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "paper_58",
+                        "room": "304"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_9_30",
+                "time": "9:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "course_13",
+                        "room": "304"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_14_30",
+                "time": "14:30",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "course_17",
+                        "room": "304"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/9/17_16_30",
+                "time": "16:30",
+                "slot_class": "afternoon2",
+                "sessions": [
+                    {
+                        "session": "course_26",
+                        "room": "304"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/10/17_9_30",
+                "time": "9:30",
+                "slot_class": "morning1",
+                "sessions": [
+                    {
+                        "session": "course_30",
+                        "room": "304"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/8/17_11_30",
+                "time": "11:30",
+                "slot_class": "morning2",
+                "sessions": [
+                    {
+                        "session": "paper_68",
+                        "room": "205"
+                    },
+                    {
+                        "session": "paper_36",
+                        "room": "207"
+                    },
+                    {
+                        "session": "paper_46",
+                        "room": "103/105"
+                    },
+                    {
+                        "session": "paper_11",
+                        "room": "201"
+                    },
+                    {
+                        "session": "paper_29",
+                        "room": "203"
+                    },
+                    {
+                        "session": "paper_15",
+                        "room": "102/104"
+                    },
+                    {
+                        "session": "paper_17",
+                        "room": "107/109"
+                    },
+                    {
+                        "session": "paper_113",
+                        "room": "110/112"
+                    },
+                    {
+                        "session": "paper_130",
+                        "room": "111/113"
+                    },
+                    {
+                        "session": "course",
+                        "room": "303"
+                    },
+                    {
+                        "session": "course_6",
+                        "room": "304"
+                    },
+                    {
+                        "session": "course_2",
+                        "room": "106"
+                    },
+                    {
+                        "session": "course_19",
+                        "room": "108"
+                    },
+                    {
+                        "session": "sig_2",
+                        "room": "301"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/8/17_14_30",
+                "time": "14:30",
+                "slot_class": "afternoon1",
+                "sessions": [
+                    {
+                        "session": "panel_17",
+                        "room": "Four Seasons 2/3"
+                    },
+                    {
+                        "session": "paper_100",
+                        "room": "Four Seasons 4"
+                    },
+                    {
+                        "session": "paper_127",
+                        "room": "Four Seasons 1"
+                    },
+                    {
+                        "session": "paper_26",
+                        "room": "205"
+                    },
+                    {
+                        "session": "paper_140",
+                        "room": "207"
+                    },
+                    {
+                        "session": "paper_143",
+                        "room": "103/105"
+                    },
+                    {
+                        "session": "paper_139",
+                        "room": "201"
+                    },
+                    {
+                        "session": "paper_25",
+                        "room": "203"
+                    },
+                    {
+                        "session": "paper_118",
+                        "room": "102/104"
+                    },
+                    {
+                        "session": "paper_132",
+                        "room": "107/109"
+                    },
+                    {
+                        "session": "paper_71",
+                        "room": "110/112"
+                    },
+                    {
+                        "session": "paper_131",
+                        "room": "111/113"
+                    },
+                    {
+                        "session": "course_3",
+                        "room": "303"
+                    },
+                    {
+                        "session": "course_4",
+                        "room": "304"
+                    },
+                    {
+                        "session": "course_5",
+                        "room": "106"
+                    },
+                    {
+                        "session": "course_20",
+                        "room": "108"
+                    },
+                    {
+                        "session": "sig_3",
+                        "room": "301"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/8/17_16_30",
+                "time": "16:30",
+                "slot_class": "afternoon2",
+                "sessions": [
+                    {
+                        "session": "panel_18",
+                        "room": "Four Seasons 2/3"
+                    },
+                    {
+                        "session": "paper_96",
+                        "room": "Four Seasons 4"
+                    },
+                    {
+                        "session": "paper_129",
+                        "room": "Four Seasons 1"
+                    },
+                    {
+                        "session": "paper_102",
+                        "room": "205"
+                    },
+                    {
+                        "session": "paper_82",
+                        "room": "207"
+                    },
+                    {
+                        "session": "paper_42",
+                        "room": "103/105"
+                    },
+                    {
+                        "session": "paper_33",
+                        "room": "201"
+                    },
+                    {
+                        "session": "paper_55",
+                        "room": "203"
+                    },
+                    {
+                        "session": "paper_60",
+                        "room": "102/104"
+                    },
+                    {
+                        "session": "paper_77",
+                        "room": "107/109"
+                    },
+                    {
+                        "session": "paper_115",
+                        "room": "110/112"
+                    },
+                    {
+                        "session": "paper_8",
+                        "room": "111/113"
+                    },
+                    {
+                        "session": "course_7",
+                        "room": "303"
+                    },
+                    {
+                        "session": "course_10",
+                        "room": "304"
+                    },
+                    {
+                        "session": "course_8",
+                        "room": "106"
+                    },
+                    {
+                        "session": "course_21",
+                        "room": "108"
+                    },
+                    {
+                        "session": "sig",
+                        "room": "301"
+                    }
+                ]
+            },
+            {
+                "slot_id": "5/11/17_11_30",
+                "time": "11:30",
+                "slot_class": "morning2",
+                "sessions": [
+                    {
+                        "session": "sig_13",
+                        "room": "301"
+                    }
+                ]
+            }
+        ]
+    }
+]

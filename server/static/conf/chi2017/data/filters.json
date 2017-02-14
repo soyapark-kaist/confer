@@ -1,0 +1,202 @@
+fb_comment = true
+s_filters=[
+    {
+        "label":"Session",
+        "vals":
+            [
+                {
+                    "data":"all",
+                    "class":"p_session filter active f_all",
+                    "type":"p_session",
+                    "label":"All"
+                },
+                {
+                    "data":"s_starred",
+                    "class":"p_session filter",
+                    "type":"p_session",
+                    "label":"Liked"
+                },
+                {
+                    "data":"s_recommended, .s_starred",
+                    "class":"p_session filter",
+                    "type":"p_session",
+                    "label":"Liked + Recommended"
+                },
+                {
+                    "data":"s_award, .s_nominated, .s_hm",
+                    "class":"p_session filter",
+                    "type":"p_session",
+                    "label":"Award"
+                }
+        ]
+    },
+    {
+        "label":"Venue",
+        "vals":
+            [
+                {
+                    "data":"all",
+                    "class":"venue filter active f_all",
+                    "type":"venue",
+                    "label":"All"
+                },
+                {
+                    "data":"paper",
+                    "class":"venue filter",
+                    "type":"venue",
+                    "label":"Paper"
+                },
+                {
+                    "data":"altchi",
+                    "class":"venue filter",
+                    "type":"venue",
+                    "label":"alt.chi"
+                },
+                {
+                    "data":"casestudy",
+                    "class":"venue filter",
+                    "type":"venue",
+                    "label":"Case Study"
+                },
+                {
+                    "data":"SIG",
+                    "class":"venue filter",
+                    "type":"venue",
+                    "label":"SIG"
+                },
+                {
+                    "data":"course",
+                    "class":"venue filter",
+                    "type":"venue",
+                    "label":"Course"
+                },
+                {
+                    "data":"panel",
+                    "class":"venue filter",
+                    "type":"venue",
+                    "label":"Panel"
+                },
+                {
+                    "data":"special",
+                    "class":"venue filter",
+                    "type":"venue",
+                    "label":"Special"
+                },
+
+                {
+                    "data":"journal",
+                    "class":"venue filter",
+                    "type":"venue",
+                    "label":"Journal"
+                }
+/*                {
+                    "data":"keynote",
+                    "class":"venue filter",
+                    "type":"venue",
+                    "label":"Keynote"
+                },
+                {
+                    "data":"wip",
+                    "class":"venue filter",
+                    "type":"venue",
+                    "label":"Work in Progress"
+                },
+                {
+                    "data":"interactivity",
+                    "class":"venue filter",
+                    "type":"venue",
+                    "label":"Interactivity Demos"
+                },
+                {
+                    "data":"breaks",
+                    "class":"venue filter",
+                    "type":"venue",
+                    "label":"Session Break"
+                }*/
+        ]
+    },
+    {
+        "label":"Day",
+        "vals":
+            [
+                {
+                    "data":"all",
+                    "class":"day filter active f_all",
+                    "type":"day",
+                    "label":"All"
+                },
+                {
+                    "data":"Saturday",
+                    "class":"day filter",
+                    "type":"day",
+                    "label":"Saturday"
+                },
+                {
+                    "data":"Sunday",
+                    "class":"day filter",
+                    "type":"day",
+                    "label":"Sunday"
+                },
+                {
+                    "data":"Monday",
+                    "class":"day filter",
+                    "type":"day",
+                    "label":"Monday"
+                },
+                {
+                    "data":"Tuesday",
+                    "class":"day filter",
+                    "type":"day",
+                    "label":"Tuesday"
+                },
+                {
+                    "data":"Wednesday",
+                    "class":"day filter",
+                    "type":"day",
+                    "label":"Wednesday"
+                },
+                {
+                    "data":"Thursday",
+                    "class":"day filter",
+                    "type":"day",
+                    "label":"Thursday"
+                }
+        ]
+    },
+    {
+        "label":"Time",
+        "vals":
+            [
+                {
+                    "data":"all",
+                    "class":"time filter active f_all",
+                    "type":"time",
+                    "label":"All"
+                },
+                {
+                    "data":"morning1",
+                    "class":"time filter",
+                    "type":"time",
+                    "label":"Early Morning"
+                },
+                {
+                    "data":"morning2",
+                    "class":"time filter",
+                    "type":"time",
+                    "label":"Late Morning"
+                },
+                {
+                    "data":"afternoon1",
+                    "class":"time filter",
+                    "type":"time",
+                    "label":"Early Afternoon"
+                },
+                {
+                    "data":"afternoon2",
+                    "class":"time filter",
+                    "type":"time",
+                    "label":"Late Afternoon"
+                }
+        ]
+    }
+]
