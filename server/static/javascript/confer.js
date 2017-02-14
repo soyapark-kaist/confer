@@ -900,10 +900,6 @@ function get_session_html(id, day, time, slot_class, room){
     var weight = []
     var sum = 0
     for(i=0; i<size; i++){
-  	  console.log(id);
-  	  console.log(i);
-      console.log(sessions[id]);
-      console.log(sessions[id].submissions[i]);
       if(entities[sessions[id].submissions[i]].subtype != null && entities[sessions[id].submissions[i]].subtype.toLowerCase() == 'note'){
         weight[i] = 0.5
       }else{
