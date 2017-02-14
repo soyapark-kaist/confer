@@ -1469,10 +1469,13 @@ entities={
     "abstract": "", 
     "authors": [
       {
-        "name": "Stephanie Wong, Simon Fraser"
-      }, 
+        "name": "Stephanie Wong, Simon Fraser University"
+      },
       {
-        "name": "Carman Neustaedter, Simon Fraser"
+        "name": "Samarth Singhal, Simon Fraser University"
+      },
+      {
+        "name": "Carman Neustaedter, Simon Fraser University"
       }
     ], 
     "award": false, 
