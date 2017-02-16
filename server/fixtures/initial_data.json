@@ -367,7 +367,7 @@
 	      "start_date": "2017-05-06",
 	      "end_date": "2017-05-11",
 	      "admins": "[\"anantb@csail.mit.edu\", \"axz@mit.edu\", \"confer.csail.mit.edu@thegreatmichael.com\"]",
-	      "visibility": "False"
+	      "visible": "False"
 	  	}
 	}
 ]
