@@ -62,10 +62,6 @@ schedule=[
       {
         "sessions": [
           {
-            "room": "Pascal", 
-            "session": "Inside_the_User_Experience_Chair_Olof_Torgersson"
-          }, 
-          {
             "room": "Hall", 
             "session": "Opening_keynote_Chair_Staffan_Bj_rk"
           }
@@ -231,6 +227,10 @@ schedule=[
     "slots": [
       {
         "sessions": [
+          {
+            "room": "Pascal", 
+            "session": "Inside_the_User_Experience_Chair_Olof_Torgersson"
+          }, 
           {
             "room": "Hall", 
             "session": "Learning_and_Playing_Chair_Marta_Larusdottir"
