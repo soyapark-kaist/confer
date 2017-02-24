@@ -185,7 +185,7 @@ sessions={
   "Data_Visualization_Gamification_Virtual_Worlds": {
     "date": "Wednesday", 
     "room": "Ross Island/Morrison", 
-    "s_title": "Data Visualization, Gamification, & Virtual Worlds - Chair: Donny X McMillan, Mobile Life Centre", 
+    "s_title": "Data Visualization, Gamification, & Virtual Worlds - Chair: Donny McMillan, Mobile Life Centre", 
     "submissions": [
       "cscwp403", 
       "cscwp647", 
@@ -262,7 +262,7 @@ sessions={
   "Education_Games_Chair_Juho_Kim_KAIST": {
     "date": "Monday", 
     "room": "Mt. Hood", 
-    "s_title": "Education & Games - Chair: Juho Kim, KAIST", 
+    "s_title": "Education & Games - Chair: Helena Mentis, UMBC", 
     "submissions": [
       "cscwp552", 
       "cscwp443", 
@@ -544,7 +544,7 @@ sessions={
   "On_New_Old_Research_Methods": {
     "date": "Tuesday", 
     "room": "Mt. Bachelor", 
-    "s_title": "On New & Old Research Methods - Chair: Michael Bernstein, Stanford University", 
+    "s_title": "On New & Old Research Methods - Chair: Munmun de Choudhury, Georgia Institute of Technology", 
     "submissions": [
       "cscwp661", 
       "cscwp101", 
@@ -607,7 +607,7 @@ sessions={
   "Parenting": {
     "date": "Wednesday", 
     "room": "Three Sisters", 
-    "s_title": "Parenting - Chair: Sukeshini Grandhi, Eastern Connecticut University", 
+    "s_title": "Parenting - Chair: Sukeshini Grandhi, Eastern Connecticut State University", 
     "submissions": [
       "cscwp498", 
       "cscwp237", 
@@ -835,7 +835,7 @@ sessions={
   "Viva_La_Video_Chair_Franklin_Bentley_Yahoo_": {
     "date": "Monday", 
     "room": "Mt. St. Helens", 
-    "s_title": "Viva La Video - Chair: Franklin Bentley, Yahoo!", 
+    "s_title": "Viva La Video - Chair: Frank Bentley, Yahoo!", 
     "submissions": [
       "cscwp267", 
       "cscwp346", 
