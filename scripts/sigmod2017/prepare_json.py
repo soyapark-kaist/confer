@@ -9,12 +9,15 @@ def prepare_papers(data_file):
 
   for row in reader:
     paper_id = unicode(row[0], "ISO-8859-1")
-    paper_title = unicode(row[2], "ISO-8859-1").strip()
+    if u'SIGMOD' in paper_id.strip():
+      paper_title = unicode(row[2], "ISO-8859-1").strip()
+      paper_authors = unicode(row[3], "ISO-8859-1")   
+    else:
+      paper_title = unicode(row[3], "ISO-8859-1").strip()
+      paper_authors = unicode(row[2], "ISO-8859-1")   
     #paper_type = unicode(row[2], "ISO-8859-1").split(' ', 1)[0].strip()
     paper_type = 'paper'
-    abstract = unicode(row[4], "ISO-8859-1")
-    paper_authors = unicode(row[3], "ISO-8859-1")   
-    
+    abstract = unicode(row[4], "ISO-8859-1")    
 
     # prepare papers data
     papers_dict[paper_id] = {

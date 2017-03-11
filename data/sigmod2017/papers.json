@@ -1,4 +1,25 @@
 {
+  "PODS104": {
+    "title": "2-3 Cuckoo Filters for Faster Triangle Listing and Set Intersection", 
+    "abstract": "We introduce new dynamic set intersection data structures,\nwhich we call 2-3 cuckoo filters and hash tables. These\nstructures differ from the standard cuckoo hash tables and\ncuckoo filters by choosing two out of three locations to store\neach item, instead of one out of two, ensuring that any\nitem in an intersection of two structures will have at least\none common location in both structures. We demonstrate\nthe utility of these structures by using them in improved\nalgorithms for listing triangles and answering set intersection\nqueries in internal or external memory. For a graph G of n\nvertices and m edges, our internal-memory triangle listing\nalgorithm runs in O(m(alpha(G) log w)/w + k) expected time,\nwhere alpha(G) is the arboricity of G, w is the number of bits in\na machine word, and k is the number of output triangles.\nOur external-memory algorithm uses O(sort(n alpha(G)) + sort(m(alpha(G) log w)/w) + sort(k)) expected number of I/Os.", 
+    "subtype": "paper", 
+    "authors": [
+      {
+        "name": "David Eppstein"
+      }, 
+      {
+        "name": "Michael Goodrich"
+      }, 
+      {
+        "name": "Michael Mitzenmacher"
+      }, 
+      {
+        "name": "Manuel Torres"
+      }
+    ], 
+    "type": "paper", 
+    "id": "PODS104"
+  }, 
   "SIGMOD567": {
     "title": "A Cost-based Optimizer for Gradient Descent Optimization", 
     "abstract": "Due to the increasing importance of machine learning (ML) in a large number of domains, there is an urgent need to free users from algorithm and system concerns. Ideally, one could replicate the success of relational database systems for ML applications, where an optimizer takes care of the ML algorithm selection. \nIn this paper, we go towards this direction and propose a cost-based optimizer for solving optimization problems using gradient descent algorithms. Our optimizer frees users from the burden of gradient descent algorithm selection and low-level implementation details. In particular, our optimizer uses a new abstraction that allows for easy parallelization of GD algorithms and further optimizations that lead to performance speedup. We implemented our optimizer in a prototype built on top of Spark and carry out an extensive evaluation using several real and synthetic datasets. The results show that our optimizer is able to always choose the best gradient descent algorithm, while our optimizations speeds-up our prototype by more than 2 orders of magnitude when comparing it with state-of-the-art ML systems on top of Spark.", 
@@ -56,6 +77,21 @@
     "type": "paper", 
     "id": "SIGMOD569"
   }, 
+  "PODS47": {
+    "title": "A Relational Framework for Classifier Engineering", 
+    "abstract": "In the design of analytical procedures and machine-learning solutions,\na critical and time-consuming task is that of feature engineering, for\nwhich various recipes and tooling approaches have been developed. In\nthis framework paper, we embark on the establishment of database\nfoundations for feature engineering. We propose a formal framework for\nclassification, in the context of a relational database, where the\nultimate goal is to assist developers with the task of feature\nengineering by utilizing the database's modeling and understanding of\ndata and queries, and by deploying the well studied principles of\ndatabase management.  We demonstrate the usefulness of this framework\nby formally defining three key algorithmic challenges. The first\nchallenge is that of separability, which is the problem of determining\nthe existence of feature queries that agree with the training\nexamples. The second is that of evaluating the VC dimension of the\nmodel class with respect to a given sequence of feature queries.  The\nthird challenge is identifiability, which is the task of testing for\nthe property of independence among features that are represented as\nqueries on entities. We give preliminary results on these challenges\nfor the case where features are defined by means of conjunctive\nqueries, and in particular study the implication of various\ntraditional syntactic restrictions on the inherent computational\ncomplexity.", 
+    "subtype": "paper", 
+    "authors": [
+      {
+        "name": "Benny Kimelfeld"
+      }, 
+      {
+        "name": "Christopher Re"
+      }
+    ], 
+    "type": "paper", 
+    "id": "PODS47"
+  }, 
   "SIGMOD384": {
     "title": "A Top-Down Approach to Achieving Performance Predictability in Database Systems", 
     "abstract": "While much of the research on transaction processing has focused on improving overall performance in terms of throughput and mean latency, surprisingly less attention has been given to performance predictability: how often individual transactions exhibit execution latency far from the mean. Performance predictability is increasingly important when transactions lie on the critical path of latency-sensitive applications, enterprise software, or interactive web services.\nIn this paper, we focus on understanding and mitigating the sources of performance unpredictability in today\u00cds transactional databases. First, we propose a profiling framework called VProfiler that, given the source code of a database system and programmer annotations indicating the start and end of a transaction, is able to identify the dominant sources of variance in transaction latency. Second, we conduct the first quantitative study of major sources of variance in MySQL and Postgres (two of the largest and most popular open-source products on the market), and VoltDB (a more modern database). Finally, based on our findings, we investigate alternative algorithms, implementations, and tuning strategies to reduce latency variance without compromising mean latency or throughput. Most notably, we propose a new lock scheduling algorithm, called VarianceAware Transaction Scheduling (VATS), and a lazy buffer pool replacement policy. In particular, our modified MySQL exhibits significantly lower variance and 99th percentile latencies by upto 5.6_ and 6.3_, respectively. Our proposal has been welcomed by the open-source community, and our VATS algorithm has already been adopted and made the default scheduling policy as of MySQL\u00cds 5.7.17 release (including MariaDB and Percona distributions).", 
@@ -76,6 +112,21 @@
     ], 
     "type": "paper", 
     "id": "SIGMOD384"
+  }, 
+  "PODS14": {
+    "title": "A Worst-Case Optimal Multi-Round Algorithm for Parallel Computation of Conjunctive Queries", 
+    "abstract": "We study the optimal communication cost for computing a full conjunctive query over p distributed servers. Two prior results were known. First, for one-round algorithms over skew-free data the optimal communication cost per server is M/p^tau*, where M is the size of the largest input relation, and tau_ is the fractional vertex covering number of the query hypergraph. Second, for multi-round algorithms and unrestricted database instances, it was shown that any algorithm requires at least M/p^rho* communication cost per server, where rho_ is the fractional edge covering number of the query hypergraph; but no matching algorithm were known for this case (except for two restricted queries: chains and cycles).\nIn this paper we describe a multi-round algorithm that computes any query with load M/p^rho_ per server, in the case when all input relations are binary. Thus, we prove this to be the optimal load for all queries over binary input relations. Our algorithm represents a non-trivial extension of previous algorithms for chains and cycles, and exploits some unique properties of graphs, which no longer hold for hypergraphs.", 
+    "subtype": "paper", 
+    "authors": [
+      {
+        "name": "Bas Ketsman"
+      }, 
+      {
+        "name": "Dan Suciu"
+      }
+    ], 
+    "type": "paper", 
+    "id": "PODS14"
   }, 
   "SIGMOD528": {
     "title": "ACIDRain: Concurrency-Related Attacks on Database-Backed Web Applications", 
@@ -167,18 +218,6 @@
     "type": "paper", 
     "id": "SIGMOD338"
   }, 
-  "PODS74": {
-    "title": "Andr_ Hernich, Carsten Lutz, Fabio Papacchini and Frank Wolter", 
-    "abstract": "We study the complexity of ontology-mediated querying when ontologies are formulated in the guarded fragment of first-order logic (GF). Our general aim is to classify the data complexity on the level of ontologies where query evaluation w.r.t. ontology T is considered to be in PTime if all (unions of conjunctive) queries\ncan be evaluated in PTime w.r.t. T and coNP-hard if at least one query is coNP-hard w.r.t. T. We identify several large and relevant fragments of GF that enjoy a dichotomy between PTime and coNP, some of them additionally admitting a form of\ncounting. In fact, almost all ontologies in the Bioportal repository fall into these fragments or can easily be rewritten to do so. We then extend Ladner's Theorem on the existence of NP-intermediate problems to uniform membership and use this result\nto show that for other fragments there is provably no such dichotomy. Again for other fragments (such as full GF), establishing a dichotomy would imply the Feder-Vardi conjecture on the complexity of constraint satisfaction problems. We also link\nthese results to Datalog-rewritability and study the decidability of whether a given ontology enjoys PTime query evaluation, presenting both positive and negative\nresults.", 
-    "subtype": "paper", 
-    "authors": [
-      {
-        "name": "Dichotomies in Ontology-Mediated Querying with the Guarded Fragment"
-      }
-    ], 
-    "type": "paper", 
-    "id": "PODS74"
-  }, 
   "SIGMOD42": {
     "title": "AnonSys: Analytic Monitoring for Internet of Things Data Streams", 
     "abstract": "An increasing proportion of data today is generated by automated processes, sensors, and devices---collectively, the Internet of Things (IoT). IoT applications' rising data volume, demands for time-sensitive analysis, and heterogeneity exacerbate the challenge of identifying and highlighting important trends in IoT deployments. In response, we present AnonSys, a data analytics engine that performs statistically-informed analytic monitoring of IoT data streams by identifying deviations within streams and generating potential explanations for each. AnonSys is the first analytics engine to combine streaming outlier detection and streaming explanation operators, allowing cross-layer optimizations that deliver order-of-magnitude speedups over existing, primarily non-streaming alternatives. As a result, AnonSys can deliver accurate results at speeds of up to 2M events per second per query on a single core. AnonSys has delivered meaningful analytic monitoring results in production at an IoT company monitoring hundreds of thousands of vehicles and at a web service with hundreds of millions of users.", 
@@ -206,17 +245,23 @@
     "type": "paper", 
     "id": "SIGMOD42"
   }, 
-  "PODS131": {
-    "title": "Antoine Amarilli, Mikael Monet and Pierre Senellart", 
-    "abstract": "Query evaluation over probabilistic databases is known to be intractable in many\ncases, even in data complexity, i.e., when the query is fixed. Although some\nrestrictions of the queries \\cite{dalvi2012dichotomy} and instances\n\\cite{amarilli2015provenance} have been proposed to lower the complexity, these\nknown tractable cases usually do not apply to combined complexity, i.e., when\nthe query is not fixed. This leaves open the question of which query and\ninstance languages ensure the tractability of probabilistic query evaluation in\ncombined complexity.\n\nThis paper proposes the first general study of the combined complexity of\nconjunctive query evaluation on probabilistic instances over binary signatures,\nwhich we can alternatively phrase as a probabilistic version of the graph\nhomomorphism problem, or of a constraint satisfaction problem (CSP) variant. We\nstudy the complexity of this problem depending on whether instances and queries\ncan use features such as edge labels, disconnectedness, branching, and edges in\nboth directions. We show that the complexity landscape is surprisingly rich,\nusing a variety of technical tools: automata-based compilation to d-DNNF\nlineages as in~\\cite{amarilli2015provenance}, $\\beta$-acyclic lineages\nusing~\\cite{brault2015understanding}, the $\\underline{X}$-property for tractable\nCSP from~\\cite{gutjahr1992polynomial}, graded DAGs~\\cite{odagiri2014greatest}\nand various coding techniques for hardness proofs.", 
+  "PODS27": {
+    "title": "Answering Conjunctive Queries under Updates", 
+    "abstract": "We consider the task of enumerating and counting answers to k-ary conjunctive queries against relational databases that may be updated\nby inserting or deleting tuples. We exhibit a new notion of q-hierarchical conjunctive queries and show that these can be\nmaintained efficiently in the following sense. During a linear time preprocessing phase, we can build a data structure that enables\nconstant delay enumeration of the query results; and when the database is updated, we can update the data structure and restart\nthe enumeration phase within constant time. For the special case of self-join free conjunctive queries we obtain a dichotomy: if a query\nis not q-hierarchical, then query enumeration with sublinear delay and sublinear update time (and arbitrary preprocessing time) is\nimpossible.\n\nFor Boolean conjunctive queries we obtain a complete dichotomy: if the query's homomorphic core is q-hierarchical, then the query result can\nbe computed in linear time and maintained with constant   update time; otherwise the query result cannot be maintained with\nsublinear update time.\n\nRegarding the problem of counting the number of solutions of a query, we obtain the following dichotomy for \nk-ary join queries: if the query is q-hierarchical, then the size of the query result can be computed in linear time and maintained with\nconstant update time. Otherwise,  the size of the query result cannot be maintained with sublinear update time.\n\nAll our lower bounds rely on the OMv-conjecture, a conjecture on the hardness of online matrix-vector multiplication that has recently\nemerged in the field of fine-grained complexity to characterize the hardness of dynamic problems.", 
     "subtype": "paper", 
     "authors": [
       {
-        "name": "Combined Tractability of Probabilistic Evaluation for Conjunctive Queries on Binary Signatures"
+        "name": "Christoph Berkholz"
+      }, 
+      {
+        "name": "Jens Keppeler"
+      }, 
+      {
+        "name": "Nicole Schweikardt"
       }
     ], 
     "type": "paper", 
-    "id": "PODS131"
+    "id": "PODS27"
   }, 
   "SIGMOD488": {
     "title": "Automatic Database Management System Tuning Through Large-scale Machine Learning", 
@@ -263,17 +308,32 @@
     "type": "paper", 
     "id": "SIGMOD519"
   }, 
-  "PODS14": {
-    "title": "Bas Ketsman and Dan Suciu", 
-    "abstract": "We study the optimal communication cost for computing a full conjunctive query over p distributed servers. Two prior results were known. First, for one-round algorithms over skew-free data the optimal communication cost per server is M/p^tau*, where M is the size of the largest input relation, and tau_ is the fractional vertex covering number of the query hypergraph. Second, for multi-round algorithms and unrestricted database instances, it was shown that any algorithm requires at least M/p^rho* communication cost per server, where rho_ is the fractional edge covering number of the query hypergraph; but no matching algorithm were known for this case (except for two restricted queries: chains and cycles).\nIn this paper we describe a multi-round algorithm that computes any query with load M/p^rho_ per server, in the case when all input relations are binary. Thus, we prove this to be the optimal load for all queries over binary input relations. Our algorithm represents a non-trivial extension of previous algorithms for chains and cycles, and exploits some unique properties of graphs, which no longer hold for hypergraphs.", 
+  "PODS49": {
+    "title": "BPTree: an L2 heavy hitters algorithm using constant memory", 
+    "abstract": "The task of finding heavy hitters is one of the best known and well studied problems in the area of data streams. In sub-polynomial space, the strongest guarantee available is the L2 guarantee, which requires finding all items that occur at least eps*||f||_2 times in the stream, where the ith coordinate of the\nvector f is the number of occurrences of i in the stream. The first algorithm to achieve the L2 guarantee was the CountSketch, which for constant eps requires O(log n) words of memory and O(log n) update time, and is known to be space-optimal if the stream allows for deletions. The recent work of Braverman, Chestnut, Ivkin and Woodruff (STOC 2016) gave an improved algorithm for insertion-only streams, using only O(log log n) words of memory. In this work, we give an algorithm BPTree for L2 heavy hitters in insertion-only streams that achieves O(1) words of memory and O(1) update time for constant eps, which is optimal. In addition, we describe an algorithm for tracking ||f||_2 at all times with O(1) memory and update time. Our analyses rely on bounding the expected supremum of a Bernoulli process involving Rademachers with limited independence, which we accomplish via a Dudley-like chaining argument that may have applications elsewhere.", 
     "subtype": "paper", 
     "authors": [
       {
-        "name": "A Worst-Case Optimal Multi-Round Algorithm for Parallel Computation of Conjunctive Queries"
+        "name": "Vladimir Braverman"
+      }, 
+      {
+        "name": "Stephen Chestnut"
+      }, 
+      {
+        "name": "Nikita Ivkin"
+      }, 
+      {
+        "name": "Jelani Nelson"
+      }, 
+      {
+        "name": "Zhengyu Wang"
+      }, 
+      {
+        "name": "David Woodruff"
       }
     ], 
     "type": "paper", 
-    "id": "PODS14"
+    "id": "PODS49"
   }, 
   "SIGMOD267": {
     "title": "BatchDB: Efficient Isolated Execution of Hybrid OLTP+OLAP Workloads", 
@@ -296,18 +356,6 @@
     "type": "paper", 
     "id": "SIGMOD267"
   }, 
-  "PODS94": {
-    "title": "Batya Kenig, Benny Kimelfeld, Haoyue Ping and Julia Stoyanovich", 
-    "abstract": "We propose a novel framework wherein probabilistic preferences can be naturally represented and analyzed in a probabilistic relational database. The framework augments the relational schema with a special type of a relation symbol -- a preference symbol. A deterministic instance of this symbol holds a collection of binary relations. Abstractly, the probabilistic variant is a probability space over databases of the augmented form (i.e., probabilistic database). Effectively, each instance of a preference symbol can be represented as a collection of parametric preference distributions such as Mallows. We establish positive and negative complexity results for evaluating Conjunctive Queries (CQs) over databases where preferences are represented in the Repeated Insertion Model (RIM), Mallows being a special case. We show how CQ evaluation reduces to a novel inference problem (of independent interest) over RIM, and devise a solver with polynomial data complexity.", 
-    "subtype": "paper", 
-    "authors": [
-      {
-        "name": "Querying Probabilistic Preferences in Databases"
-      }
-    ], 
-    "type": "paper", 
-    "id": "PODS94"
-  }, 
   "SIGMOD197": {
     "title": "BePI: Fast and Memory-Efficient Method for Billion-Scale Random Walk with Restart", 
     "abstract": "How can we measure similarity between nodes quickly and accurately on large graphs? Random walk with restart (RWR) provides a good measure, and has been used in various data mining applications including ranking, recommendation, link prediction and community detection. However, existing methods for computing RWR do not scale to large graphs containing billions of edges; iterative methods are slow in query time, and preprocessing methods require too much memory.\n\nIn this paper, we propose BePI, a fast, memory-efficient, and scalable method for computing RWR on billion-scale graphs. BePI exploits the best properties from both preprocessing methods and iterative methods. BePI uses a block elimination approach, which is a preprocessing method, to enable fast query time. Also, BePI uses a preconditioned iterative method to decrease memory requirement. The performance of BePI is further improved by decreasing non-zeros of the matrix for the iterative method. Through extensive experiments, we show that BePI processes 100 times larger graphs, and requires up to 80 times less memory space than other preprocessing methods. In the query phase, BePI computes RWR scores up to 7 times faster than existing methods.", 
@@ -329,17 +377,35 @@
     "type": "paper", 
     "id": "SIGMOD197"
   }, 
-  "PODS47": {
-    "title": "Benny Kimelfeld and Christopher Re", 
-    "abstract": "In the design of analytical procedures and machine-learning solutions,\na critical and time-consuming task is that of feature engineering, for\nwhich various recipes and tooling approaches have been developed. In\nthis framework paper, we embark on the establishment of database\nfoundations for feature engineering. We propose a formal framework for\nclassification, in the context of a relational database, where the\nultimate goal is to assist developers with the task of feature\nengineering by utilizing the database's modeling and understanding of\ndata and queries, and by deploying the well studied principles of\ndatabase management.  We demonstrate the usefulness of this framework\nby formally defining three key algorithmic challenges. The first\nchallenge is that of separability, which is the problem of determining\nthe existence of feature queries that agree with the training\nexamples. The second is that of evaluating the VC dimension of the\nmodel class with respect to a given sequence of feature queries.  The\nthird challenge is identifiability, which is the task of testing for\nthe property of independence among features that are represented as\nqueries on entities. We give preliminary results on these challenges\nfor the case where features are defined by means of conjunctive\nqueries, and in particular study the implication of various\ntraditional syntactic restrictions on the inherent computational\ncomplexity.", 
+  "PODS43": {
+    "title": "Benchmarking the chase", 
+    "abstract": "The chase is a family of algorithms proposed for use in a number of data\nmanagement tasks, such as data exchange, answering queries under dependencies,\nquery reformulation with constraints, and data cleaning. The chase is well\nestablished as a theoretical tool for understanding these tasks, and in\naddition a number of prototype implementations have appeared. While individual\nchase-based systems and particular optimizations of the chase have been\nexperimentally evaluated in the past, we provide the first comprehensive and\npublicly-available benchmark---test infrastructure and a set of test\nscenarios---for evaluating chase implementations across a wide range of\nassumptions about the constraints and the data. We apply our benchmarks to test\nchase implementations against one another for data exchange, both in terms of\ncorrectness and scalability. In addition, we extend our benchmark to support\ntesting query answering with dependencies. This allows us to not only compare\nchase implementations to one another, but also compare them with other\napproaches for query answering. Our evaluation provides us with a number of new\ninsights concerning the factors that impact the performance of chase\nimplementations.", 
     "subtype": "paper", 
     "authors": [
       {
-        "name": "A Relational Framework for Classifier Engineering"
+        "name": "Michael Benedikt"
+      }, 
+      {
+        "name": "George Konstantinidis"
+      }, 
+      {
+        "name": "Giansalvatore Mecca"
+      }, 
+      {
+        "name": "Boris Motik"
+      }, 
+      {
+        "name": "Paolo Papotti"
+      }, 
+      {
+        "name": "Donatello Santoro"
+      }, 
+      {
+        "name": "Efthymia Tsamoura"
       }
     ], 
     "type": "paper", 
-    "id": "PODS47"
+    "id": "PODS43"
   }, 
   "SIGMOD455": {
     "title": "Beta Probabilistic Databases: A Scalable Approach to Belief Updating and Parameter Learning", 
@@ -452,18 +518,6 @@
     "type": "paper", 
     "id": "SIGMOD526"
   }, 
-  "PODS27": {
-    "title": "Christoph Berkholz, Jens Keppeler and Nicole Schweikardt", 
-    "abstract": "We consider the task of enumerating and counting answers to k-ary conjunctive queries against relational databases that may be updated\nby inserting or deleting tuples. We exhibit a new notion of q-hierarchical conjunctive queries and show that these can be\nmaintained efficiently in the following sense. During a linear time preprocessing phase, we can build a data structure that enables\nconstant delay enumeration of the query results; and when the database is updated, we can update the data structure and restart\nthe enumeration phase within constant time. For the special case of self-join free conjunctive queries we obtain a dichotomy: if a query\nis not q-hierarchical, then query enumeration with sublinear delay and sublinear update time (and arbitrary preprocessing time) is\nimpossible.\n\nFor Boolean conjunctive queries we obtain a complete dichotomy: if the query's homomorphic core is q-hierarchical, then the query result can\nbe computed in linear time and maintained with constant   update time; otherwise the query result cannot be maintained with\nsublinear update time.\n\nRegarding the problem of counting the number of solutions of a query, we obtain the following dichotomy for \nk-ary join queries: if the query is q-hierarchical, then the size of the query result can be computed in linear time and maintained with\nconstant update time. Otherwise,  the size of the query result cannot be maintained with sublinear update time.\n\nAll our lower bounds rely on the OMv-conjecture, a conjecture on the hardness of online matrix-vector multiplication that has recently\nemerged in the field of fine-grained complexity to characterize the hardness of dynamic problems.", 
-    "subtype": "paper", 
-    "authors": [
-      {
-        "name": "Answering Conjunctive Queries under Updates"
-      }
-    ], 
-    "type": "paper", 
-    "id": "PODS27"
-  }, 
   "SIGMOD383": {
     "title": "Cicada: Dependably Fast Multi-Core In-Memory Transactions", 
     "abstract": "Multi-core in-memory databases promise high-speed online transaction processing.  However, the performance of individual designs suffers when the workload characteristics miss their small sweet spot of a desired contention level, read-write ratio, record size, processing rate, and so forth.\n\nCicada is a single-node multi-core in-memory transactional database with serializability.  To provide high performance under diverse workloads, Cicada reduces overhead and contention at several levels of the system by leveraging optimistic and multi-version concurrency control schemes and multiple loosely synchronized clocks while mitigating their drawbacks.  On the TPC-C and YCSB benchmarks, Cicada outperforms Silo, TicToc, FOEDUS, MOCC, two-phase locking, Hekaton, and ERMIA in most scenarios, achieving up to 3X higher throughput than the next fastest design.  It handles up to 2.07 M TPC-C transactions per second and 56.5 M YCSB transactions per second, and scans up to 356 M records per second on a single 28-core machine.", 
@@ -481,6 +535,21 @@
     ], 
     "type": "paper", 
     "id": "SIGMOD383"
+  }, 
+  "PODS10": {
+    "title": "Circuit Treewidth, Sentential Decision, and Query Compilation", 
+    "abstract": "The evaluation of a query over a probabilistic database consists of computing the probability of a suitable Boolean function, the lineage of the query over the database. The method of query compilation approaches the task in two stages: first, by implementing (compiling) the query lineage in a circuit form where probability computation is tractable; and second, by computing the desired probability over the compiled circuit. A basic theoretical quest in query compilation is to characterize classes of queries whose lineages admit compact representations over increasingly succinct, tractable circuit classes. \n\nFostering previous work by Jha and Suciu and Petke and Razgon, we focus on queries whose lineages admit circuit implementations of small treewidth, and investigate their compilability within tame classes of decision diagrams. In perfect analogy with the characterization of bounded circuit pathwidth by bounded OBDD width by Jha and Suciu, we show that a class of Boolean functions has bounded circuit treewidth if and only if it has bounded SDD width. Sentential decision diagrams (SDDs) are central in knowledge compilation, being essentially as tractable as OBDDs but exponentially more succinct. By incorporating constant width (linear size) SDDs and polynomial size SDDs in the picture, we refine the panorama of query compilation for unions of conjunctive queries with and without inequalities.", 
+    "subtype": "paper", 
+    "authors": [
+      {
+        "name": "Simone Bova"
+      }, 
+      {
+        "name": "Stefan Szeider"
+      }
+    ], 
+    "type": "paper", 
+    "id": "PODS10"
   }, 
   "SIGMOD577": {
     "title": "Coarsening Massive Influence Networks for Scalable Diffusion Analysis", 
@@ -502,6 +571,24 @@
     ], 
     "type": "paper", 
     "id": "SIGMOD577"
+  }, 
+  "PODS131": {
+    "title": "Combined Tractability of Probabilistic Evaluation for Conjunctive Queries on Binary Signatures", 
+    "abstract": "Query evaluation over probabilistic databases is known to be intractable in many\ncases, even in data complexity, i.e., when the query is fixed. Although some\nrestrictions of the queries \\cite{dalvi2012dichotomy} and instances\n\\cite{amarilli2015provenance} have been proposed to lower the complexity, these\nknown tractable cases usually do not apply to combined complexity, i.e., when\nthe query is not fixed. This leaves open the question of which query and\ninstance languages ensure the tractability of probabilistic query evaluation in\ncombined complexity.\n\nThis paper proposes the first general study of the combined complexity of\nconjunctive query evaluation on probabilistic instances over binary signatures,\nwhich we can alternatively phrase as a probabilistic version of the graph\nhomomorphism problem, or of a constraint satisfaction problem (CSP) variant. We\nstudy the complexity of this problem depending on whether instances and queries\ncan use features such as edge labels, disconnectedness, branching, and edges in\nboth directions. We show that the complexity landscape is surprisingly rich,\nusing a variety of technical tools: automata-based compilation to d-DNNF\nlineages as in~\\cite{amarilli2015provenance}, $\\beta$-acyclic lineages\nusing~\\cite{brault2015understanding}, the $\\underline{X}$-property for tractable\nCSP from~\\cite{gutjahr1992polynomial}, graded DAGs~\\cite{odagiri2014greatest}\nand various coding techniques for hardness proofs.", 
+    "subtype": "paper", 
+    "authors": [
+      {
+        "name": "Antoine Amarilli"
+      }, 
+      {
+        "name": "Mikael Monet"
+      }, 
+      {
+        "name": "Pierre Senellart"
+      }
+    ], 
+    "type": "paper", 
+    "id": "PODS131"
   }, 
   "SIGMOD165": {
     "title": "Complete Event Trend Detection in High-Rate Event Streams", 
@@ -598,6 +685,21 @@
     ], 
     "type": "paper", 
     "id": "SIGMOD408"
+  }, 
+  "PODS71": {
+    "title": "Counting and Enumerating (Preferred) Database Repairs", 
+    "abstract": "In the traditional sense, a subset repair of an inconsistent database refers to a consistent subset of facts (tuples) that is maximal under set containment. Preferences between pairs of facts allow to distinguish a set of preferred repairs based on relative reliability (source credibility, extraction quality, recency, etc.) of data items. Previous studies explored the problem of categoricity, where one aims to determine whether preferences suffice to repair the database unambiguously, or in other words, whether there is precisely one preferred repair. In this paper we study the ability to quantify ambiguity, by investigating two classes of problems. The first is that of counting the number of subset repairs, both preferred (under various common semantics) and traditional. We establish dichotomies in data complexity for the entire space of (sets of) functional dependencies. The second class of problems is that of enumerating the preferred repairs. We devise enumeration algorithms with efficiency guarantees on the delay between generated repairs, even for constraints represented as general conflict graphs or hypergraphs.", 
+    "subtype": "paper", 
+    "authors": [
+      {
+        "name": "Ester Livshits"
+      }, 
+      {
+        "name": "Benny Kimelfeld"
+      }
+    ], 
+    "type": "paper", 
+    "id": "PODS71"
   }, 
   "SIGMOD663": {
     "title": "CrowdDQS: Dynamic Question Selection in Crowdsourcing Systems", 
@@ -734,21 +836,6 @@
     "type": "paper", 
     "id": "SIGMOD378"
   }, 
-  "PODS104": {
-    "title": "David Eppstein, Michael Goodrich, Michael Mitzenmacher and Manuel Torres", 
-    "abstract": "We introduce new dynamic set intersection data structures,\nwhich we call 2-3 cuckoo filters and hash tables. These\nstructures differ from the standard cuckoo hash tables and\ncuckoo filters by choosing two out of three locations to store\neach item, instead of one out of two, ensuring that any\nitem in an intersection of two structures will have at least\none common location in both structures. We demonstrate\nthe utility of these structures by using them in improved\nalgorithms for listing triangles and answering set intersection\nqueries in internal or external memory. For a graph G of n\nvertices and m edges, our internal-memory triangle listing\nalgorithm runs in O(m(alpha(G) log w)/w + k) expected time,\nwhere alpha(G) is the arboricity of G, w is the number of bits in\na machine word, and k is the number of output triangles.\nOur external-memory algorithm uses O(sort(n alpha(G)) + sort(m(alpha(G) log w)/w) + sort(k)) expected number of I/Os.", 
-    "subtype": "paper", 
-    "authors": [
-      {
-        "name": "2-3 Cuckoo Filters for Faster Triangle Listing"
-      }, 
-      {
-        "name": "Set Intersection"
-      }
-    ], 
-    "type": "paper", 
-    "id": "PODS104"
-  }, 
   "SIGMOD29": {
     "title": "Debunking the Myths of Influence Maximization: An In-Depth Benchmarking Study", 
     "abstract": "Influence maximization (IM) on social networks is one of the most active areas of research in computer science. While the various IM techniques proposed over the last decade has definitely enriched the field, unfortunately, experimental reports on existing techniques fall short in validity and integrity since many comparisons are not based on a common platform or merely discussed in theory. In this paper, we perform an in-depth benchmarking study of IM techniques on social networks. Specifically, we design a benchmarking platform, which enables us to evaluate and compare the existing techniques systematically and thoroughly under identical experimental conditions. Our benchmarking results analyze and diagnose the inherent deficiencies of the existing approaches and surface the open challenges in IM even after a decade of research. More fundamentally, we unearth and debunk a series of incorrect claims made by highly cited papers in the field of IM. Overall, this study establishes that there is no single state-of-the-art technique in IM. At best, a technique is the state of the art on only a specific aspect.", 
@@ -766,6 +853,21 @@
     ], 
     "type": "paper", 
     "id": "SIGMOD29"
+  }, 
+  "PODS101": {
+    "title": "Dependencies for Graphs", 
+    "abstract": "This paper proposes a class of dependencies for graphs, referred\nto as graph entity dependencies (GEDs). A GED is defined as a \ncombination of a graph pattern and an attribute dependency.\nIn a uniform format, GEDs can express graph functional dependencies \nwith constant literals to catch inconsistencies, and keys carrying\nid literals to identify entities (vertices) in a graph.\n\nWe revise the chase for GEDs and prove its Church-Rosser property.\nWe provide characterizations for GED satisfiability and implication.\nWe establish the complexity of these problems and the validation \nproblem, in the presence and absence of id literals and constant \nliterals. We also develop a sound and complete finite axiom system \nfor finite implication of GEDs. In addition, we extend GEDs with\nbuilt-in predicates or disjunctions, to strike a balance between \nthe expressive power and complexity. We settle the complexity of \nthe satisfiability, implication and validation problems for these \nextensions.", 
+    "subtype": "paper", 
+    "authors": [
+      {
+        "name": "Wenfei Fan"
+      }, 
+      {
+        "name": "Ping Lu"
+      }
+    ], 
+    "type": "paper", 
+    "id": "PODS101"
   }, 
   "SIGMOD572": {
     "title": "Determining the Impact Regions of Competing Options in Preference Space", 
@@ -785,17 +887,26 @@
     "type": "paper", 
     "id": "SIGMOD572"
   }, 
-  "PODS38": {
-    "title": "Di Xiao, Yi Cui, Daren Cline and Dmitri Loguinov", 
-    "abstract": "Triangle listing has been a long-standing problem, with many heuristics,\nbounds, and experimental results, but not much\nasymptotically accurate complexity analysis. To address this issue, we\nintroduce a novel stochastic framework, based on Glivenko-Cantelli\nresults for functions of order statistics, that allows modeling cost of\nin-memory triangle enumeration in families of random graphs. Unlike prior\nwork that studies the O(.) notation, we derive the exact limits of CPU\ncomplexity of all vertex/edge iterators under arbitrary acyclic\norientations as graph size n\\to\\infty. These results are obtained in\nsimple closed form as functions of the degree distribution. This allows\nus to establish optimal orientations for all studied algorithms, compare\nthem to each other, and discover the best technique within each class.\n", 
+  "PODS74": {
+    "title": "Dichotomies in Ontology-Mediated Querying with the Guarded Fragment", 
+    "abstract": "We study the complexity of ontology-mediated querying when ontologies are formulated in the guarded fragment of first-order logic (GF). Our general aim is to classify the data complexity on the level of ontologies where query evaluation w.r.t. ontology T is considered to be in PTime if all (unions of conjunctive) queries\ncan be evaluated in PTime w.r.t. T and coNP-hard if at least one query is coNP-hard w.r.t. T. We identify several large and relevant fragments of GF that enjoy a dichotomy between PTime and coNP, some of them additionally admitting a form of\ncounting. In fact, almost all ontologies in the Bioportal repository fall into these fragments or can easily be rewritten to do so. We then extend Ladner's Theorem on the existence of NP-intermediate problems to uniform membership and use this result\nto show that for other fragments there is provably no such dichotomy. Again for other fragments (such as full GF), establishing a dichotomy would imply the Feder-Vardi conjecture on the complexity of constraint satisfaction problems. We also link\nthese results to Datalog-rewritability and study the decidability of whether a given ontology enjoys PTime query evaluation, presenting both positive and negative\nresults.", 
     "subtype": "paper", 
     "authors": [
       {
-        "name": "On Asymptotic Cost of Triangle Listing in Random Graphs"
+        "name": "Andr_ Hernich"
+      }, 
+      {
+        "name": "Carsten Lutz"
+      }, 
+      {
+        "name": "Fabio Papacchini"
+      }, 
+      {
+        "name": "Frank Wolter"
       }
     ], 
     "type": "paper", 
-    "id": "PODS38"
+    "id": "PODS74"
   }, 
   "SIGMOD604": {
     "title": "Differentially Private Stochastic Gradient Descent for in-RDBMS Analytics", 
@@ -992,6 +1103,60 @@
     "type": "paper", 
     "id": "SIGMOD514"
   }, 
+  "PODS129": {
+    "title": "Efficient Matrix Sketching over Distributed Data", 
+    "abstract": "A sketch or synopsis of a large dataset captures vital properties of the original\ndata while typically occupying much less space.\nIn this paper, we consider the problem of computing a sketch of a massive data matrix $A\\in\\real^{n\\times d}$, which is distributed across a large number of $s$ servers.  \nOur goal is to output a matrix $B\\in\\real^{\\ell\\times d}$ which is significantly smaller than but still approximates $A$ well in terms of \\emph{covariance error}, i.e., $\\norm{A^TA-B^TB}_2$. Here, for a matrix $A$, $\\norm{A}_2$ is the spectral norm of $A$, which is defined as the largest singular value of $A$. Following previous works, we call $B$ a covariance sketch of $A$.\nWe are mainly focused on minimizing the communication cost, which is arguably the most valuable resource in distributed computations. We show a gap between deterministic and randomized communication complexity for computing a covariance sketch. More specifically, we first prove a tight deterministic lower bound, then show how to bypass this lower bound using randomization. \nIn \\emph{Principle Component Analysis} (PCA), the goal is to find a low-dimensional\nsubspace that captures as much of the variance of a dataset as possible. \nBased on a well-known connection between covariance sketch and PCA, we give a new algorithm for distributed PCA with improved communication cost. Moreover, in our algorithms, each server only needs to make one pass over the data with limited working space.", 
+    "subtype": "paper", 
+    "authors": [
+      {
+        "name": "Zengfeng Huang"
+      }, 
+      {
+        "name": "Xuemin Lin"
+      }, 
+      {
+        "name": "Wenjie Zhang"
+      }, 
+      {
+        "name": "Ying Zhang"
+      }
+    ], 
+    "type": "paper", 
+    "id": "PODS129"
+  }, 
+  "PODS40": {
+    "title": "Efficient and Provable Multi-Query Optimization", 
+    "abstract": "Complex queries for massive data analysis jobs have become increasingly commonplace. Many such queries contain common subexpressions, either within a single query or among multiple queries submitted as a batch. Conventional query optimizers do not exploit these subexpressions and produce sub-optimal plans. The problem of multi-query optimization (MQO) is to generate an optimal combined evaluation plan by computing common subexpressions once and reusing them. Exhaustive algorithms for MQO explore an O(n^n) search space. Thus, this problem has primarily been tackled using various heuristic algorithms, without providing any theoretical guarantees on the quality of their solution.\nIn this paper, instead of the conventional cost minimization problem, we treat the problem as maximizing a linear transformation of the cost function. We propose a greedy algorithm for this transformed formulation of the problem, which under weak, intuitive assumptions that seem to hold in practice, provides an approximation factor guarantee for this formulation. We go on to show that this factor is optimal, unless P = NP. We also propose optimizations which can be used to improve the efficiency of our algorithm. Another noteworthy point about our algorithm is that it can be easily incorporated into existing transformation-based optimizers. Our experiments on benchmark datasets demonstrate that our algorithm performs comparable or superior to a popular algorithm for the problem.", 
+    "subtype": "paper", 
+    "authors": [
+      {
+        "name": "Tarun Kathuria"
+      }, 
+      {
+        "name": "S Sudarshan"
+      }
+    ], 
+    "type": "paper", 
+    "id": "PODS40"
+  }, 
+  "PODS83": {
+    "title": "Efficiently Enumerating Minimal Triangulations", 
+    "abstract": "We present an algorithm that enumerates all the minimal triangulations of a graph in incremental polynomial time. Consequently, we get an algorithm for enumerating all the proper tree decompositions, in incremental polynomial time, where \"proper\" means that the tree decomposition cannot be improved by removing or splitting a bag. The algorithm can incorporate any method for (ordinary, single result) triangulation or tree decomposition, and can serve as an anytime algorithm to improve such a method. We describe an extensive experimental study of an implementation on real data from different fields. Our experiments show that the algorithm improves upon central quality measures over the underlying tree decompositions, and is able to produce a large number of high-quality decompositions.", 
+    "subtype": "paper", 
+    "authors": [
+      {
+        "name": "Nofar Carmeli"
+      }, 
+      {
+        "name": "Batya Kenig"
+      }, 
+      {
+        "name": "Benny Kimelfeld"
+      }
+    ], 
+    "type": "paper", 
+    "id": "PODS83"
+  }, 
   "SIGMOD106": {
     "title": "Enabling Signal Processing over Data Streams", 
     "abstract": "Internet of Things applications analyze the data coming from large networks of sensor devices using relational and signal processing operations and running the same query logic over groups of sensor signals. To support such increasingly important scenarios, many data management systems integrate with numerical frameworks like R. Such solutions, however, incur significant performance penalties as relational data processing engines and numerical tools operate on fundamentally different data models with expensive inter-communication mechanisms. In addition, none of these solutions supports efficient real-time analysis.\n\nIn this paper, we advocate a deep integration of signal processing operations and general-purpose query processors. We aim to reconcile the disparate data models and provide a common query language that allows users to seamlessly interleave tempo-relational and signal operations for both online and offline processing. Our approach is extensible and offers frameworks for quick and easy integration of user-defined operations while supporting incremental computation. Our system that deeply integrates relational and signal operations, called SystemX, achieves up to 192x better performance than popular loosely-coupled data management systems on grouped signal processing workflows.", 
@@ -1009,21 +1174,6 @@
     ], 
     "type": "paper", 
     "id": "SIGMOD106"
-  }, 
-  "PODS71": {
-    "title": "Ester Livshits and Benny Kimelfeld", 
-    "abstract": "In the traditional sense, a subset repair of an inconsistent database refers to a consistent subset of facts (tuples) that is maximal under set containment. Preferences between pairs of facts allow to distinguish a set of preferred repairs based on relative reliability (source credibility, extraction quality, recency, etc.) of data items. Previous studies explored the problem of categoricity, where one aims to determine whether preferences suffice to repair the database unambiguously, or in other words, whether there is precisely one preferred repair. In this paper we study the ability to quantify ambiguity, by investigating two classes of problems. The first is that of counting the number of subset repairs, both preferred (under various common semantics) and traditional. We establish dichotomies in data complexity for the entire space of (sets of) functional dependencies. The second class of problems is that of enumerating the preferred repairs. We devise enumeration algorithms with efficiency guarantees on the delay between generated repairs, even for constraints represented as general conflict graphs or hypergraphs.", 
-    "subtype": "paper", 
-    "authors": [
-      {
-        "name": "Counting"
-      }, 
-      {
-        "name": "Enumerating (Preferred) Database Repairs"
-      }
-    ], 
-    "type": "paper", 
-    "id": "PODS71"
   }, 
   "SIGMOD244": {
     "title": "Exploiting Common Patterns for Tree-Structured Data", 
@@ -1277,6 +1427,21 @@
     "type": "paper", 
     "id": "SIGMOD91"
   }, 
+  "PODS50": {
+    "title": "How Fast can a Distributed Transaction Commit?", 
+    "abstract": "The atomic commit problem lies at the heart of distributed database systems. The problem consists for a set of processes to agree on whether to commit or abort a transaction (agreement property). The commit decision can only be taken if all processes are initially willing to commit, and this decision must be taken if all processes are willing to commit and there is no failure (validity property). An atomic commit protocol is said to be non-blocking if every correct process eventually reaches a decision (commit or abort) even if there are failures (termination property).\n\nSurprisingly, despite the importance of the atomic commit problem, little is known about its complexity. In this paper, we present for the first time a systematic study on the time and message complexity of the problem. We measure complexity in the executions that are considered the most frequent in practice, i.e., failure-free, with all processes willing to commit. In other words, we measure  \\emph{how fast a transaction can commit}. Not surprisingly, this complexity depends on robustness, i.e., on which property (agreement, termination, validity) we require  in which executions (e.g., executions where delays are unbounded and/or processes may crash). Through our systematic study, we close many open questions like the complexity of synchronous non-blocking atomic commit. We also present optimal protocols which may be of independent interest. In particular, we present an effective protocol which solves what we call indulgent atomic commit that tolerates empirical systems which are synchronous ``most of the time'' (i.e., tolerates inaccurate timeouts).", 
+    "subtype": "paper", 
+    "authors": [
+      {
+        "name": "Rachid Guerraoui"
+      }, 
+      {
+        "name": "Jingjing Wang"
+      }
+    ], 
+    "type": "paper", 
+    "id": "PODS50"
+  }, 
   "SIGMOD524": {
     "title": "IC2: Indexed Cutoffs for Kernel Density Classification", 
     "abstract": "Density estimation forms a critical component of many analytics tasks including outlier detection, spatial visualization, and bounding statistical quantities like the log-likelihood and hazard rate. In each of these, analysts seek to classify data into low and high-density regions of a probability distribution. Kernel Density Estimation (KDE) is a powerful technique for capturing these densities, offering excellent statistical accuracy but computationally intractable runtime at scale. In this paper, we introduce a simple technique for improving the performance of using a KDE to classify points by their density (density classification) by up to three orders of magnitude. This is done by combining a spatial index with predicate pushdown to aggressively prune unnecessary computation. Using the spatial index to group neighboring points, our proposed method, Indexed Cutoffs for Classification (IC2) is able to classify data points above or below a threshold early on during index traversal. We demonstrate substantial speedups over alternative algorithms, and show how density classification via IC2 is able to make traditionally expensive Kernel Density Estimators both accurate and performant for a variety of use cases.", 
@@ -1356,16 +1521,43 @@
     "id": "SIGMOD473"
   }, 
   "PODS64": {
-    "title": "Jan Hidders, Jan Paredaens and Jan Van den Bussche", 
+    "title": "J-Logic: Logical foundations for JSON querying", 
     "abstract": "We propose a logical framework, based on Datalog, to study the\nfoundations of querying JSON data.  The main feature of our\napproach, which we call J-Logic, is the emphasis on paths.  Paths\nare sequences of keys and are used to access the tree structure\nof nested JSON objects.  J-Logic also features \"packing'' as a\nmeans to generate a new key from a path or subpath.  J-Logic with\nrecursion is computationally complete, but many queries can be\nexpressed without recursion.  We give a necessary condition for\nqueries to be expressible without recursion.  Most of our results\nfocus on the deterministic nature of JSON objects as partial\nfunctions from keys to values.  Predicates defined by J-Logic\nprograms may not properly describe objects, however.\nNevertheless we show that every object-to-object transformation\nin J-Logic can be defined using only proper object descriptions\nin intermediate results.  Moreover we show that it is decidable\nwhether a positive, nonrecursive J-Logic program always returns a\nproper object description when given proper object descriptions\nas inputs.  Regarding packing, we show that packing is\nunnecessary if the output does not require new keys.  Finally, we\nshow the decidability of query containment for positive,\nnonrecursive J-Logic programs.", 
     "subtype": "paper", 
     "authors": [
       {
-        "name": "J-Logic: Logical foundations for JSON querying"
+        "name": "Jan Hidders"
+      }, 
+      {
+        "name": "Jan Paredaens"
+      }, 
+      {
+        "name": "Jan Van den Bussche"
       }
     ], 
     "type": "paper", 
     "id": "PODS64"
+  }, 
+  "PODS130": {
+    "title": "JSON: data model, query languages and schema specification", 
+    "abstract": "Despite the fact that JSON is currently one of the most popular formats for exchanging data on the Web, there are very few studies on this topic and no agreed upon theoretical framework for dealing with JSON. Therefore in this paper we propose a formal data model for JSON documents and, based on the common features present in available systems using JSON, define a lightweight query language allowing us to navigate through JSON documents. We also introduce a logic capturing the schema proposal for JSON and study the complexity of basic computational tasks associated with these two formalisms.", 
+    "subtype": "paper", 
+    "authors": [
+      {
+        "name": "Pierre Bourhis"
+      }, 
+      {
+        "name": "Juan L. Reutter"
+      }, 
+      {
+        "name": "Fernando Suarez"
+      }, 
+      {
+        "name": "Domagoj Vrgoc"
+      }
+    ], 
+    "type": "paper", 
+    "id": "PODS130"
   }, 
   "SIGMOD221": {
     "title": "Landmark indexing for scalable evaluation of label-constrained reachability queries", 
@@ -1427,39 +1619,6 @@
     "type": "paper", 
     "id": "SIGMOD580"
   }, 
-  "PODS55": {
-    "title": "Mahmoud Abo Khamis, Hung Ngo and Dan Suciu", 
-    "abstract": "Recent works on bounding the output size of a conjunctive query with\nfunctional dependencies and degree bounds have shown a deep connection between\nfundamental questions in information theory and database theory.\nWe prove analogous output bounds for disjunctive datalog queries, and\nanswer several open questions regarding the tightness and looseness of these\nbounds along the way.\nThe bounds are intimately related to Shannon-type information inequalities.\nWe devise the notion of a \"proof sequence\" of a specific class of\nShannon-type information inequalities called \"Shannon flow inequalities\". \nWe then show how the proof sequence can be used as symbolic instructions \nto guide an algorithm called \"PANDA\", which answers disjunctive datalog queries \nwithin the size bound predicted.\nWe show that PANDA can be used as a black-box to devise algorithms matching\nprecisely the fractional hypertree width and the submodular width runtimes\nfor queries with functional dependencies and degree bounds.\n\nOur results improve upon known results in three ways. First, our bounds and\nalgorithms are for the much more general class of disjunctive datalog queries, \nof which conjunctive queries are a special case. \nSecond, the runtime of PANDA matches precisely the submodular width bound, \nwhile the previous algorithm by Marx has a runtime that is polynomial in this bound.\nThird, our bounds and algorithms work for queries with input cardinality bounds, \nfunctional dependencies, and degree bounds.\n\nOverall, our results showed a deep connection between three seemingly\nunrelated lines of research; and, our results on proof sequences for Shannon\nflow inequalities might be of independent interest.", 
-    "subtype": "paper", 
-    "authors": [
-      {
-        "name": "What do Shannon-type inequalities"
-      }, 
-      {
-        "name": "submodular width"
-      }, 
-      {
-        "name": ""
-      }, 
-      {
-        "name": "disjunctive datalog have to do with one another?"
-      }
-    ], 
-    "type": "paper", 
-    "id": "PODS55"
-  }, 
-  "PODS41": {
-    "title": "Mario Alviano, Michael Morak and Andreas Pieris", 
-    "abstract": "Normal tuple-generating dependencies (NTGDs) are TGDs enriched with default negation, a.k.a. negation as failure. Query answering under NTGDs, where negation is interpreted according to the stable model semantics, is an intriguing new problem that gave rise to flourishing research activity in the database and KR communities. So far, all the existing works that investigate this problem, except for one recent paper by Baget et al., follow the so-called logic programming (LP) approach, that is, the existentially quantified variables are first eliminated via Skolemization, which leads to a normal logic program, and then the standard stable model semantics for normal logic programs is applied. However, as we thoroughly discuss in the paper, Skolemization is not appropriate in the presence of default negation since it fails to capture the intended meaning of NTGDs. This reveals the need to adopt an alternative approach to stable model semantics that is directly applicable to NTGDs with existentially quantified variables. As we explain in the paper, the semantics by Baget et al. inherits the limitations of the LP approach, and thus, it fails to capture the intended meaning of the existentially quantified variables.\n\nWe propose a new approach to stable model semantics, based on a recent characterization of stable models in terms of second-order logic, which overcomes the limitations of the LP approach. In particular, the stable models of a database and a set of NTGDs are defined as the classical models of a second-order formula, which encodes the vital properties of stable model semantics. We then perform an in-depth analysis of the complexity of conjunctive query answering under prominent classes of NTGDs based on the main decidability paradigms for TGDs, namely (weak-)acyclicity, guardedness and stickiness. For (weakly-)acyclic NTGDs we show that the problem remains decidable, and we establish complexity results ranging from coNP via \\Pi_{2}^{P} to coN2EXPTIME with an NP oracle, pointing out several interesting effects. In the case of guardedness and stickiness the problem becomes undecidable, which indicates that in the presence of default negation more refined notions are needed. Although for sticky NTGDs this was expected, for guarded NTGDs this is a surprising outcome. Finally, we show that weakly-acyclic NTGDs give rise to highly expressive query languages that express exactly the queries with \\Pi_{2}^{P} (resp., \\Sigma_{2}^{P}) data complexity when the cautious (resp., brave) semantics is adopted. Notably, these languages allow us to solve in a declarative way central problems that lie at the second level of the polynomial hierarchy, e.g., consistent query answering under weakly-acyclic TGDs w.r.t. set-based repairs.", 
-    "subtype": "paper", 
-    "authors": [
-      {
-        "name": "Stable Model Semantics for Tuple-Generating Dependencies Revisited"
-      }
-    ], 
-    "type": "paper", 
-    "id": "PODS41"
-  }, 
   "SIGMOD606": {
     "title": "Massively Parallel Processing of Whole Genome Sequence Data: An In-Depth Performance Study", 
     "abstract": "This paper presents a joint effort between a group of computer scientists and bioinformaticians to take an important step towards a general big data platform for genome analysis pipelines. The key goals of this study are to develop a thorough understanding of the strengths and limitations of big data technology for genomic data analysis, and to identify the key questions that the research community could address to realize the vision of personalized genomic medicine. Our platform, called System G, is based on the new \"Wrapper Technology\" that supports existing genomic data analysis programs in their native forms, without having to rewrite them. To do so, our system provides several layers of software, including a new Genome Data Parallel Toolkit (GDPT), which can be used to \"wrap\" existing data analysis programs. This platform offers a concrete context for evaluating big data technology for genomics: In particular, we report on super-linear speedup, sublinear speedup, and limited resource efficiency for various tasks, as well as the reasons why a data parallel program produces different results from those of a serial program. These results lead to key research questions that require a synergy between genomics scientists and computer scientists to find solutions.", 
@@ -1484,45 +1643,6 @@
     "type": "paper", 
     "id": "SIGMOD606"
   }, 
-  "PODS39": {
-    "title": "Meghyn Bienvenu, Stanislav Kikot, Roman Kontchakov, Vladimir Podolskii, Vladislav Ryzhikov and Michael Zakharyaschev", 
-    "abstract": "Our concern is the overhead of answering OWL 2 QL ontology-mediated queries (OMQs) in ontology-based data access compared to evaluating their underlying tree-shaped and bounded treewidth conjunctive queries (CQs). We show that OMQs with bounded-depth ontologies have nonrecursive datalog (NDL) rewritings that can be constructed and evaluated in LOGCFL for combined complexity, even in NL if their CQs are tree-shaped with a bounded number of leaves, and so incur no overhead in complexity-theoretic terms. For OMQs with arbitrary ontologies and bounded-leaf CQs, NDL-rewritings are constructed and evaluated in LOGCFL. We show experimentally feasibility and scalability of our rewritings compared to standard NDL-rewritings. On the negative side, we prove that answering OMQs with tree-shaped CQs is not _xed-parameter tractable if the ontology depth or the number of leaves in the CQs is regarded as the parameter, and that answering OMQs with a _xed ontology (of in_nite depth) is NP-complete for tree-shaped and LOGCFL for bounded-leaf CQs. ", 
-    "subtype": "paper", 
-    "authors": [
-      {
-        "name": "The Complexity of Ontology-Based Data Access with OWL2QL"
-      }, 
-      {
-        "name": "Bounded Treewidth Queries"
-      }
-    ], 
-    "type": "paper", 
-    "id": "PODS39"
-  }, 
-  "PODS118": {
-    "title": "Michael Bender, Martin Farach-Colton, Rob Johnson, Simon Mauras, Tyler Mayer, Cynthia Phillips and Helen Xu", 
-    "abstract": "The skip list is an elegant dictionary data structure that is commonly deployed\nin RAM-based systems.  A skip list with $N$ elements supports searches,\ninserts, and deletes in $O(\\log N)$ operations with high probability (w.h.p.)\nand range queries returning $K$ elements in $O(\\log N + K)$ operations w.h.p.\n\n\nA seemingly natural way generalize the skip list to external memory is to\n``promote'' with probability $1/B$ ($B$ is the block size), rather than $1/2$.\nHowever, there are practical and theoretical obstacles to getting the skip list\nto retain its high-probability guarantees, space bounds, and efficient\nperformance.  This paper explains how the theoretical approaches for retaining\nhigh-probability bounds in external memory can have additional performance\nbenefits.\n\n\nIn this paper, we give an external-memory skip list that achieves\nwrite-optimized bounds. That is, for $0 < \\varepsilon < 1$, range\nqueries take $O(\\log_{B^\\varepsilon} N + K/B)$ I/Os w.h.p. and insertions and\ndeletions take $O((\\log_{B^\\varepsilon} N) / B^{1-\\varepsilon})$ amortized I/Os\nw.h.p.\n\n\nOur write-optimized skip list inherits the virtue of simplicity from RAM skip\nlists. Moreover, it matches or beats the asymptotic bounds of prior write-optimized data\nstructures such as the $B^\\varepsilon$ tree or LSM trees, which have been successfully deployed in high-performance databases and file systems.\n \n\nThe structure has high probability search bounds  and high-probability\namortized insert/delete bounds.  To prove the insert/delete bounds, we\nestablish a strong lower bound on the number of root-to-leaf paths that are\ndisjoint outside of the cached region near the root.  The bound is general,\nholding as long as the cache is large enough to hold $\\Omega(1)$ levels of the\ndata structure.  We  use an  extremal-graph-coloring argument to show that\nthere is always a good partitioning of the paths into uncorrelated sets,\nregardless of the insertion and deletion pattern.", 
-    "subtype": "paper", 
-    "authors": [
-      {
-        "name": "Write-Optimized Skip Lists"
-      }
-    ], 
-    "type": "paper", 
-    "id": "PODS118"
-  }, 
-  "PODS43": {
-    "title": "Michael Benedikt, George Konstantinidis, Giansalvatore Mecca, Boris Motik, Paolo Papotti, Donatello Santoro and Efthymia Tsamoura", 
-    "abstract": "The chase is a family of algorithms proposed for use in a number of data\nmanagement tasks, such as data exchange, answering queries under dependencies,\nquery reformulation with constraints, and data cleaning. The chase is well\nestablished as a theoretical tool for understanding these tasks, and in\naddition a number of prototype implementations have appeared. While individual\nchase-based systems and particular optimizations of the chase have been\nexperimentally evaluated in the past, we provide the first comprehensive and\npublicly-available benchmark---test infrastructure and a set of test\nscenarios---for evaluating chase implementations across a wide range of\nassumptions about the constraints and the data. We apply our benchmarks to test\nchase implementations against one another for data exchange, both in terms of\ncorrectness and scalability. In addition, we extend our benchmark to support\ntesting query answering with dependencies. This allows us to not only compare\nchase implementations to one another, but also compare them with other\napproaches for query answering. Our evaluation provides us with a number of new\ninsights concerning the factors that impact the performance of chase\nimplementations.", 
-    "subtype": "paper", 
-    "authors": [
-      {
-        "name": "Benchmarking the chase"
-      }
-    ], 
-    "type": "paper", 
-    "id": "PODS43"
-  }, 
   "SIGMOD653": {
     "title": "Monkey: Optimal Navigable Key-Value Store", 
     "abstract": "The backbone of modern, persistent key-value stores is an LSM-tree. Modern applications require both efficient lookups and updates, and LSM-trees provide a good balance by buffering updates in main memory, flushing the buffer to persistent storage as a sorted run when it is full, and bounding lookup cost by (1) merging runs in the background and (2) using main memory-resident Bloom filters to probabilistically skip runs that do not contain a target key. In this paper, we show that key-value stores backed by an LSM-tree exhibit an intrinsic, trade-off between lookup cost, update cost, and main memory utilization, yet all existing designs enable a subopti- mal and difficult to tune trade-off among these metrics for all combinations of tunings and workloads. We pinpoint the problem to the fact that all modern key-value stores suboptimally co-tune the merge policy, the buffer size, and the different Bloom filters\u00cd false positive rates.\n\nWe present Monkey, an LSM-based key-value store that strikes the best possible balance between the costs of updates and lookups with any given main memory budget. The insight is that worst-case lookup cost is proportional to the sum of the false positive rates of the Bloom filters across all levels of the LSM-tree. Contrary to state-of-the-art key-value stores that assign a fixed number of bits-per-element to all Bloom filters, Monkey allocates memory to filters across different levels so as to minimize this sum. We implemented Monkey on top of LevelDB and we demonstrate that it reduces lookup cost by 50% _ 90% without losing anything. Furthermore, we map the LSM-tree design space onto a quick to compute closed-form model that enables co-tuning the merge policy, the buffer size and the filters\u00cd false positive rates to trade the gain in lookup cost for update cost and/or main memory utilization, depending on the workload (proportion of lookups and updates), the dataset (number and size of entries), and the underlying hardware (main memory available, disk vs. flash). We show how to use this model to answer what-if design questions about how changes in environmental parameters would impact performance and how to adapt the various LSM-tree design elements accordingly.", 
@@ -1541,30 +1661,6 @@
     "type": "paper", 
     "id": "SIGMOD653"
   }, 
-  "PODS98": {
-    "title": "Nadime Francis and Leonid Libkin", 
-    "abstract": "Schema mappings are a fundamental concept in data integration and\nexchange, and they have been thoroughly studied in different data\nmodels. For graph data, however, mappings have been studied in a very\nrestricted context that, unlike real-life graph databases, completely\ndisregards the data they store.  Our main goal is to understand query\nanswering under graph schema mappings - in particular, in exchange and\nintegration of graph data - for graph databases that mix graph\nstructure with data. We show that adding data querying alters the\npicture in a very significant way.\n\nAs the model, we use data graphs: a theoretical abstraction of\nproperty graphs employed by graph database implementations. We start\nby showing a very strong negative result: using the simplest form of\nnontrivial navigation in mappings makes answering even simple queries\nthat mix navigation and data undecidable. This result suggests that\nfor the purposes of integration and exchange, schema mappings ought to\nexclude recursively defined navigation over target data.  For such\nmappings and analogs of regular path queries that take data into\naccount, query answering becomes decidable, although intractable. To\nrestore tractability without imposing further restrictions on queries,\nwe propose a new approach based on the use of null values that\nresemble usual nulls of relational DBMSs, as opposed to marked nulls\none typically uses in integration and exchange tasks.  If one moves\naway from path queries and considers more complex patterns, query\nanswering becomes undecidable again, even for the simplest possible\nmappings.", 
-    "subtype": "paper", 
-    "authors": [
-      {
-        "name": "Schema Mappings for Data Graphs"
-      }
-    ], 
-    "type": "paper", 
-    "id": "PODS98"
-  }, 
-  "PODS83": {
-    "title": "Nofar Carmeli, Batya Kenig and Benny Kimelfeld", 
-    "abstract": "We present an algorithm that enumerates all the minimal triangulations of a graph in incremental polynomial time. Consequently, we get an algorithm for enumerating all the proper tree decompositions, in incremental polynomial time, where \"proper\" means that the tree decomposition cannot be improved by removing or splitting a bag. The algorithm can incorporate any method for (ordinary, single result) triangulation or tree decomposition, and can serve as an anytime algorithm to improve such a method. We describe an extensive experimental study of an implementation on real data from different fields. Our experiments show that the algorithm improves upon central quality measures over the underlying tree decompositions, and is able to produce a large number of high-quality decompositions.", 
-    "subtype": "paper", 
-    "authors": [
-      {
-        "name": "Efficiently Enumerating Minimal Triangulations"
-      }
-    ], 
-    "type": "paper", 
-    "id": "PODS83"
-  }, 
   "SIGMOD435": {
     "title": "OctopusFS: A Distributed File System with Tiered Storage Management", 
     "abstract": "The ever-growing data storage and I/O demands of modern large-scale data analytics are challenging the current distributed storage systems. A promising trend is to exploit the recent improvements in memory, storage media, and networks for sustaining high performance and low cost. While past work explores using memory or SSDs as local storage or combine local with network-attached storage in cluster computing, this work focuses on managing multiple storage tiers in a distributed setting. We present OctopusFS, a novel distributed file system that is aware of heterogeneous storage media (e.g., memory, SSDs, HDDs, NAS) with different capacities and performance characteristics. The system offers a variety of pluggable policies for automating data management across the storage tiers and cluster nodes. The policies employ multi-objective optimization techniques for making intelligent data management decisions based on the requirements of fault tolerance, data and load balancing, and throughput maximization. At the same time, the storage media are explicitly exposed to users and applications, allowing them to choose the distribution and placement of replicas in the cluster based on their own performance and fault tolerance requirements. Our extensive evaluation shows the immediate benefits of using OctopusFS with data-intensive processing systems such as Hadoop and Spark, both in terms of increased performance and better cluster utilization.", 
@@ -1579,6 +1675,27 @@
     ], 
     "type": "paper", 
     "id": "SIGMOD435"
+  }, 
+  "PODS38": {
+    "title": "On Asymptotic Cost of Triangle Listing in Random Graphs", 
+    "abstract": "Triangle listing has been a long-standing problem, with many heuristics,\nbounds, and experimental results, but not much\nasymptotically accurate complexity analysis. To address this issue, we\nintroduce a novel stochastic framework, based on Glivenko-Cantelli\nresults for functions of order statistics, that allows modeling cost of\nin-memory triangle enumeration in families of random graphs. Unlike prior\nwork that studies the O(.) notation, we derive the exact limits of CPU\ncomplexity of all vertex/edge iterators under arbitrary acyclic\norientations as graph size n\\to\\infty. These results are obtained in\nsimple closed form as functions of the degree distribution. This allows\nus to establish optimal orientations for all studied algorithms, compare\nthem to each other, and discover the best technique within each class.\n", 
+    "subtype": "paper", 
+    "authors": [
+      {
+        "name": "Di Xiao"
+      }, 
+      {
+        "name": "Yi Cui"
+      }, 
+      {
+        "name": "Daren Cline"
+      }, 
+      {
+        "name": "Dmitri Loguinov"
+      }
+    ], 
+    "type": "paper", 
+    "id": "PODS38"
   }, 
   "SIGMOD124": {
     "title": "Online Deduplication for Databases", 
@@ -1634,6 +1751,24 @@
     "type": "paper", 
     "id": "SIGMOD638"
   }, 
+  "PODS85": {
+    "title": "Output-optimal Parallel Algorithms for Similarity Joins", 
+    "abstract": "Parallel join algorithms have received much attention in the recent years, due to the rapid development of massively parallel systems such as MapReduce and Spark.  In the database theory community, most efforts have been focused on studying worst-optimal algorithms.  However, the worst-case optimality of these join algorithms relies on the hard instances having very large output sizes.  In the case of a two-relation join, the hard instance is just a Cartesian product, with an output size that is quadratic in the input size.\n\n  In practice, however, the output size is usually much smaller.  One recent parallel join algorithm by Beame et al. has achieved {\\em output-optimality}, i.e., its cost is optimal in terms of both the input size and the output size, but their algorithm only works for a 2-relation equi-join, and has some imperfections. In this paper, we first improve their algorithm to true optimality.  Then we design output-optimal algorithms for a large class of similarity joins.  Finally, we present a lower bound, which essentially eliminates the possibility of having output-optimal algorithms for any join on more than two relations.", 
+    "subtype": "paper", 
+    "authors": [
+      {
+        "name": "Xiao Hu"
+      }, 
+      {
+        "name": "Yufei Tao"
+      }, 
+      {
+        "name": "Ke Yi"
+      }
+    ], 
+    "type": "paper", 
+    "id": "PODS85"
+  }, 
   "SIGMOD138": {
     "title": "Parallelizing Sequential Graph Computations", 
     "abstract": "This paper presents GRAPE, a parallel system for graph computations. GRAPE differs from previous systems in its ability to automatically parallelize existing sequential graph algorithms, without the need for recasting the algorithms into a new model. Underlying GRAPE are a simple programming model and a principled approach, based on partial evaluation and incremental computation. We show that sequential graph algorithms can be ``plugged into'' GRAPE and get parallelized.  As long as the sequential algorithms are correct, their GRAPE parallelization guarantees to terminate with correct answers under a monotonic condition.  Moreover, we show that algorithms in MapReduce, BSP and PRAM can be optimally simulated on GRAPE. In addition to the ease of programming, we experimentally verify that GRAPE achieves comparable performance to the state-of-the-art graph systems, using real-life and synthetic graphs.", 
@@ -1667,35 +1802,23 @@
     "type": "paper", 
     "id": "SIGMOD138"
   }, 
-  "PODS130": {
-    "title": "Pierre Bourhis, Juan L. Reutter, Fernando Suarez and Domagoj Vrgoc", 
-    "abstract": "Despite the fact that JSON is currently one of the most popular formats for exchanging data on the Web, there are very few studies on this topic and no agreed upon theoretical framework for dealing with JSON. Therefore in this paper we propose a formal data model for JSON documents and, based on the common features present in available systems using JSON, define a lightweight query language allowing us to navigate through JSON documents. We also introduce a logic capturing the schema proposal for JSON and study the complexity of basic computational tasks associated with these two formalisms.", 
+  "PODS42": {
+    "title": "Private Incremental Regression", 
+    "abstract": "Data is continuously generated by modern data sources, and a recent challenge in machine learning has been to develop techniques that perform well in an incremental (streaming) setting. A variety of offline machine learning tasks are known to be feasible under differential privacy, where generic construction exist that, given a large enough input sample, perform tasks such as PAC learning, Empirical Risk Minimization (ERM), regression, etc. In this paper, we investigate the problem of private machine learning, where as often in practice, the data is not given at once, but rather arrives incrementally over time.\n\nWe introduce the problems of \u00f1private incremental ERM\u00ee and \u00f1private incremental regression\u00ee where the general goal is to always maintain a good empirical risk minimizer for the history observed. Our first contribution is a generic transformation of private batch ERM mechanisms into private incremental ERM mechanisms, based on a simple idea of invoking the private batch ERM procedure at some regular time intervals. We take this construction as a baseline for comparison. We then provide two mechanisms for the private incremental regression problem. Our first mechanism is based on privately constructing a noisy incremental gradient function, which is then used in a modified projected gradient procedure at every timestep. This mechanism has an excess empirical risk of d^{1/2}, where d is the dimensionality of the data. While from the results of Bassily et al. [FOCS 2014] this bound is tight in the worst-case, we show that certain geometric properties of the input and constraint set can be used to derive significantly better results for certain interesting regression problems. Our second mechanism which achieves this is based on the idea of projecting the data to a lower dimensional space using random projections, and then adding privacy noise in this low dimensional space. The mechanism overcomes the issues of adaptivity inherent with the use of random projections in online streams, and uses recent developments in high-dimensional estimation to achieve an excess risk bound of T^{1/3} W^{2/3}, where T is the length of the stream and W is the sum of the Gaussian widths of the input domain and the constraint set that we optimize over.", 
     "subtype": "paper", 
     "authors": [
       {
-        "name": "JSON: data model"
+        "name": "Shiva Kasiviswanathan"
       }, 
       {
-        "name": "query languages"
+        "name": "Kobbi Nissim"
       }, 
       {
-        "name": "schema specification"
+        "name": "Hongxia Jin"
       }
     ], 
     "type": "paper", 
-    "id": "PODS130"
-  }, 
-  "PODS126": {
-    "title": "Priya Govindan, Morteza Monemizadeh and S Muthukrishnan", 
-    "abstract": "We consider publication settings with positive user feedback, such as, users publishing tweets and other users retweeting them, friends posting photos and others liking them or even authors publishing research papers and others citing these publications. A well-accepted notion of \u00f1impact\u00ee for users in these settings is the H-Index, which is the largest k such that at least k publications have k or more (positive) feedback.\nWe study how to calculate H-index on large streams of user publications and feedback. If all the items can be stored, H-index of a user can be computed by sorting. We focus on the streaming setting where as is typical, we do not have space to store all the items.\nWe present the first known streaming algorithm for computing the H-index of a user in the cash register streaming model using space poly(1/_, log(1/_), log n); this algorithm provides an additive _ approximation. For the aggregated model where feedback for a publication is collated, we present streaming algorithms that use much less space, either only dependent on _ and even a small constant. We also address the problem of finding \u00f1heavy hitters\u00ee users in H-index without estimating everyones\u00cd H-index. We present randomized streaming algorithms for finding 1 + _ approximation to heavy hitters that uses space poly(1/_, log(1/_), log n) and succeeds with probability at least 1 _ _. Again, this is the first sublinear space algorithm for this problem, despite extensive research on heavy hitters in general. Our work initiates study of streaming algorithms for problems that estimate impact or identify impactful users.", 
-    "subtype": "paper", 
-    "authors": [
-      {
-        "name": "Streaming Algorithms for Measuring H-Impact"
-      }
-    ], 
-    "type": "paper", 
-    "id": "PODS126"
+    "id": "PODS42"
   }, 
   "SIGMOD452": {
     "title": "Pufferfish Privacy Mechanisms for Correlated Data", 
@@ -1814,6 +1937,27 @@
     "type": "paper", 
     "id": "SIGMOD630"
   }, 
+  "PODS94": {
+    "title": "Querying Probabilistic Preferences in Databases", 
+    "abstract": "We propose a novel framework wherein probabilistic preferences can be naturally represented and analyzed in a probabilistic relational database. The framework augments the relational schema with a special type of a relation symbol -- a preference symbol. A deterministic instance of this symbol holds a collection of binary relations. Abstractly, the probabilistic variant is a probability space over databases of the augmented form (i.e., probabilistic database). Effectively, each instance of a preference symbol can be represented as a collection of parametric preference distributions such as Mallows. We establish positive and negative complexity results for evaluating Conjunctive Queries (CQs) over databases where preferences are represented in the Repeated Insertion Model (RIM), Mallows being a special case. We show how CQ evaluation reduces to a novel inference problem (of independent interest) over RIM, and devise a solver with polynomial data complexity.", 
+    "subtype": "paper", 
+    "authors": [
+      {
+        "name": "Batya Kenig"
+      }, 
+      {
+        "name": "Benny Kimelfeld"
+      }, 
+      {
+        "name": "Haoyue Ping"
+      }, 
+      {
+        "name": "Julia Stoyanovich"
+      }
+    ], 
+    "type": "paper", 
+    "id": "PODS94"
+  }, 
   "SIGMOD407": {
     "title": "ROBUS: Fair Cache Allocation for Data-parallel Workloads", 
     "abstract": "Systems for processing big data---e.g., Hadoop, Spark, and massively parallel databases---need to run workloads on behalf of multiple tenants simultaneously. The abundant disk-based storage in these systems is usually complemented by a smaller, but much faster, {\\em cache}. Cache is a precious resource: Tenants who get to use the cache can see two orders of magnitude performance improvement. Cache is also a limited and hence shared resource: Unlike a resource like a CPU core which can be used by only one tenant at a time, a cached data item can be accessed by multiple tenants at the same time. Cache, therefore, has to be shared by a multi-tenancy-aware policy across tenants, each having a unique set of priorities and workload characteristics. \n\nIn this paper, we develop cache allocation strategies that speed up the overall workload while being {\\em fair} to each tenant. We build a novel fairness model targeted at the shared resource setting that incorporates not only the more standard concepts of Pareto-efficiency and sharing incentive, but we also define envy freeness via the notion of {\\em core} from cooperative game theory. Our cache management platform, ROBUS, uses randomization over small time batches, and we develop a proportionally fair allocation mechanism that satisfies the core property in expectation. We show that this algorithm and related fair algorithms can be approximated to arbitrary precision in polynomial time. We evaluate these algorithms on a ROBUS prototype implemented on Spark with RDD store used as cache. Our evaluation on an industry-standard workload shows that our algorithms score high on both performance and fairness metrics across a wide variety of practical multi-tenant setups.", 
@@ -1835,18 +1979,6 @@
     "type": "paper", 
     "id": "SIGMOD407"
   }, 
-  "PODS50": {
-    "title": "Rachid Guerraoui and Jingjing Wang", 
-    "abstract": "The atomic commit problem lies at the heart of distributed database systems. The problem consists for a set of processes to agree on whether to commit or abort a transaction (agreement property). The commit decision can only be taken if all processes are initially willing to commit, and this decision must be taken if all processes are willing to commit and there is no failure (validity property). An atomic commit protocol is said to be non-blocking if every correct process eventually reaches a decision (commit or abort) even if there are failures (termination property).\n\nSurprisingly, despite the importance of the atomic commit problem, little is known about its complexity. In this paper, we present for the first time a systematic study on the time and message complexity of the problem. We measure complexity in the executions that are considered the most frequent in practice, i.e., failure-free, with all processes willing to commit. In other words, we measure  \\emph{how fast a transaction can commit}. Not surprisingly, this complexity depends on robustness, i.e., on which property (agreement, termination, validity) we require  in which executions (e.g., executions where delays are unbounded and/or processes may crash). Through our systematic study, we close many open questions like the complexity of synchronous non-blocking atomic commit. We also present optimal protocols which may be of independent interest. In particular, we present an effective protocol which solves what we call indulgent atomic commit that tolerates empirical systems which are synchronous ``most of the time'' (i.e., tolerates inaccurate timeouts).", 
-    "subtype": "paper", 
-    "authors": [
-      {
-        "name": "How Fast can a Distributed Transaction Commit?"
-      }
-    ], 
-    "type": "paper", 
-    "id": "PODS50"
-  }, 
   "SIGMOD6": {
     "title": "Repairing Transaction Conflicts in Optimistic Multi-Version Concurrency Control", 
     "abstract": "The optimistic variants of Multi-Version Concurrency Control (MVCC) avoid blocking concurrent transactions at the cost of having a validation phase. Upon failure in the validation phase, the transaction is usually aborted and restarted from scratch. The \"abort and restart\" approach becomes a performance bottleneck for use cases with high contention objects or long running transactions. In addition, restarting from scratch creates a negative feedback loop in the system, because the system incurs additional overhead that may create even more conflicts.\n\nIn this paper, we propose a novel approach for conflict resolution in MVCC for in-memory databases. This low overhead approach summarizes the transaction programs in the form of a dependency graph. The dependency graph also contains the constructs used in the validation phase of the MVCC algorithm. Then, when encountering conflicts among transactions, our mechanism quickly detects the conflict locations in the program and partially re-executes the conflicting transactions. This approach maximizes the reuse of the computations done in the initial execution round, and increases the transaction processing throughput.", 
@@ -1867,6 +1999,21 @@
     ], 
     "type": "paper", 
     "id": "SIGMOD6"
+  }, 
+  "PODS96": {
+    "title": "Reverse Engineering SPJ-Queries from Examples", 
+    "abstract": "This paper investigates the problem of reverse engineering, i.e., learning, select-project-join  (SPJ) queries  from a user-provided example set, containing positive and negative tuples. The goal is then to determine whether there exists  a query returning all the positive tuples, but none of the negative tuples, and furthermore, to find such a query, if it exists. These are called the satisfiability and learning problems, respectively. The ability to solve these problems is an important step in simplifying the querying process for non-expert users. \n\nThis paper thoroughly investigates the satisfiability and learning problems in a variety of settings. In particular, we consider several classes of queries, which allow different combinations of the operators select, project and join. In addition, we compare the complexity of satisfiability and learning, when the query is, or is not, of bounded size. We note that bounded-size queries are of particular interest, as they can be used to avoid over-fitting. \n\nIn order to fully understand the underlying factors which make satisfiability and learning (in)tractable, we consider different components of the problem, namely, the size of a query to be learned, the size of the schema and the number of examples. We study the complexity of our problems, when considering these  as part of the input,  as constants or as parameters (i.e., as in parameterized complexity analysis). Depending on the setting, the complexity of satisfiability and learning can vary significantly. Among other results, our analysis also provides new problems that are complete for W[3], for which few natural problems are known. Finally, by considering a variety of settings, we derive insight on how the different facets of our problem interplay with the size of the database, thereby providing the theoretical foundations necessary for a future implementation of query learning from examples.", 
+    "subtype": "paper", 
+    "authors": [
+      {
+        "name": "Yaacov Y. Weiss"
+      }, 
+      {
+        "name": "Sara Cohen"
+      }
+    ], 
+    "type": "paper", 
+    "id": "PODS96"
   }, 
   "SIGMOD245": {
     "title": "Revisiting Reuse in Main Memory Database Systems", 
@@ -2000,50 +2147,20 @@
     "type": "paper", 
     "id": "SIGMOD28"
   }, 
-  "PODS105": {
-    "title": "Sepehr Assadi", 
-    "abstract": "We study the classic set cover problem in the streaming model: the sets that comprise the instance are revealed one by one in a stream and the goal is to solve the problem by making one or few passes over the stream while maintaining a sublinear space o(mn) in the input size; here m denotes the number of the sets and n is the universe size. Notice that in this model we are mainly concerned with the space requirement of the algorithms and do not restrict their computation time.\n\t\nOur main result is a resolution of the space-approximation tradeoff for the streaming set cover problem: we show that any \\alpha-approximation algorithm for the set cover problem requires \\Omega(mn^{1/\\alpha}) space, even if it is allowed \\polylog{(n)} passes over the stream, and even if the sets are arriving in a random order in the stream.  This space-approximation tradeoff matches the best known bounds achieved by the recent algorithm of Har-Peled etal (PODS 2016) that requires only O(\\alpha) passes over the stream in an adversarial order, hence settling the space complexity of approximating the set cover problem in data streams in a quite robust manner.  Additionally, our approach yields tight lower bounds for the space complexity of (1-\\eps)-approximating the streaming maximum coverage problem studied in several recent works.", 
+  "PODS98": {
+    "title": "Schema Mappings for Data Graphs", 
+    "abstract": "Schema mappings are a fundamental concept in data integration and\nexchange, and they have been thoroughly studied in different data\nmodels. For graph data, however, mappings have been studied in a very\nrestricted context that, unlike real-life graph databases, completely\ndisregards the data they store.  Our main goal is to understand query\nanswering under graph schema mappings - in particular, in exchange and\nintegration of graph data - for graph databases that mix graph\nstructure with data. We show that adding data querying alters the\npicture in a very significant way.\n\nAs the model, we use data graphs: a theoretical abstraction of\nproperty graphs employed by graph database implementations. We start\nby showing a very strong negative result: using the simplest form of\nnontrivial navigation in mappings makes answering even simple queries\nthat mix navigation and data undecidable. This result suggests that\nfor the purposes of integration and exchange, schema mappings ought to\nexclude recursively defined navigation over target data.  For such\nmappings and analogs of regular path queries that take data into\naccount, query answering becomes decidable, although intractable. To\nrestore tractability without imposing further restrictions on queries,\nwe propose a new approach based on the use of null values that\nresemble usual nulls of relational DBMSs, as opposed to marked nulls\none typically uses in integration and exchange tasks.  If one moves\naway from path queries and considers more complex patterns, query\nanswering becomes undecidable again, even for the simplest possible\nmappings.", 
     "subtype": "paper", 
     "authors": [
       {
-        "name": "Tight Space-Approximation Tradeoff for the Multi-Pass Streaming Set Cover Problem"
+        "name": "Nadime Francis"
+      }, 
+      {
+        "name": "Leonid Libkin"
       }
     ], 
     "type": "paper", 
-    "id": "PODS105"
-  }, 
-  "PODS42": {
-    "title": "Shiva Kasiviswanathan, Kobbi Nissim and Hongxia Jin", 
-    "abstract": "Data is continuously generated by modern data sources, and a recent challenge in machine learning has been to develop techniques that perform well in an incremental (streaming) setting. A variety of offline machine learning tasks are known to be feasible under differential privacy, where generic construction exist that, given a large enough input sample, perform tasks such as PAC learning, Empirical Risk Minimization (ERM), regression, etc. In this paper, we investigate the problem of private machine learning, where as often in practice, the data is not given at once, but rather arrives incrementally over time.\n\nWe introduce the problems of \u00f1private incremental ERM\u00ee and \u00f1private incremental regression\u00ee where the general goal is to always maintain a good empirical risk minimizer for the history observed. Our first contribution is a generic transformation of private batch ERM mechanisms into private incremental ERM mechanisms, based on a simple idea of invoking the private batch ERM procedure at some regular time intervals. We take this construction as a baseline for comparison. We then provide two mechanisms for the private incremental regression problem. Our first mechanism is based on privately constructing a noisy incremental gradient function, which is then used in a modified projected gradient procedure at every timestep. This mechanism has an excess empirical risk of d^{1/2}, where d is the dimensionality of the data. While from the results of Bassily et al. [FOCS 2014] this bound is tight in the worst-case, we show that certain geometric properties of the input and constraint set can be used to derive significantly better results for certain interesting regression problems. Our second mechanism which achieves this is based on the idea of projecting the data to a lower dimensional space using random projections, and then adding privacy noise in this low dimensional space. The mechanism overcomes the issues of adaptivity inherent with the use of random projections in online streams, and uses recent developments in high-dimensional estimation to achieve an excess risk bound of T^{1/3} W^{2/3}, where T is the length of the stream and W is the sum of the Gaussian widths of the input domain and the constraint set that we optimize over.", 
-    "subtype": "paper", 
-    "authors": [
-      {
-        "name": "Private Incremental Regression"
-      }
-    ], 
-    "type": "paper", 
-    "id": "PODS42"
-  }, 
-  "PODS10": {
-    "title": "Simone Bova and Stefan Szeider", 
-    "abstract": "The evaluation of a query over a probabilistic database consists of computing the probability of a suitable Boolean function, the lineage of the query over the database. The method of query compilation approaches the task in two stages: first, by implementing (compiling) the query lineage in a circuit form where probability computation is tractable; and second, by computing the desired probability over the compiled circuit. A basic theoretical quest in query compilation is to characterize classes of queries whose lineages admit compact representations over increasingly succinct, tractable circuit classes. \n\nFostering previous work by Jha and Suciu and Petke and Razgon, we focus on queries whose lineages admit circuit implementations of small treewidth, and investigate their compilability within tame classes of decision diagrams. In perfect analogy with the characterization of bounded circuit pathwidth by bounded OBDD width by Jha and Suciu, we show that a class of Boolean functions has bounded circuit treewidth if and only if it has bounded SDD width. Sentential decision diagrams (SDDs) are central in knowledge compilation, being essentially as tractable as OBDDs but exponentially more succinct. By incorporating constant width (linear size) SDDs and polynomial size SDDs in the picture, we refine the panorama of query compilation for unions of conjunctive queries with and without inequalities.", 
-    "subtype": "paper", 
-    "authors": [
-      {
-        "name": "Circuit Treewidth"
-      }, 
-      {
-        "name": "Sentential Decision"
-      }, 
-      {
-        "name": ""
-      }, 
-      {
-        "name": "Query Compilation"
-      }
-    ], 
-    "type": "paper", 
-    "id": "PODS10"
+    "id": "PODS98"
   }, 
   "SIGMOD534": {
     "title": "Solving the Join Ordering Problem via Mixed Integer Linear Programming", 
@@ -2059,6 +2176,24 @@
     ], 
     "type": "paper", 
     "id": "SIGMOD534"
+  }, 
+  "PODS41": {
+    "title": "Stable Model Semantics for Tuple-Generating Dependencies Revisited", 
+    "abstract": "Normal tuple-generating dependencies (NTGDs) are TGDs enriched with default negation, a.k.a. negation as failure. Query answering under NTGDs, where negation is interpreted according to the stable model semantics, is an intriguing new problem that gave rise to flourishing research activity in the database and KR communities. So far, all the existing works that investigate this problem, except for one recent paper by Baget et al., follow the so-called logic programming (LP) approach, that is, the existentially quantified variables are first eliminated via Skolemization, which leads to a normal logic program, and then the standard stable model semantics for normal logic programs is applied. However, as we thoroughly discuss in the paper, Skolemization is not appropriate in the presence of default negation since it fails to capture the intended meaning of NTGDs. This reveals the need to adopt an alternative approach to stable model semantics that is directly applicable to NTGDs with existentially quantified variables. As we explain in the paper, the semantics by Baget et al. inherits the limitations of the LP approach, and thus, it fails to capture the intended meaning of the existentially quantified variables.\n\nWe propose a new approach to stable model semantics, based on a recent characterization of stable models in terms of second-order logic, which overcomes the limitations of the LP approach. In particular, the stable models of a database and a set of NTGDs are defined as the classical models of a second-order formula, which encodes the vital properties of stable model semantics. We then perform an in-depth analysis of the complexity of conjunctive query answering under prominent classes of NTGDs based on the main decidability paradigms for TGDs, namely (weak-)acyclicity, guardedness and stickiness. For (weakly-)acyclic NTGDs we show that the problem remains decidable, and we establish complexity results ranging from coNP via \\Pi_{2}^{P} to coN2EXPTIME with an NP oracle, pointing out several interesting effects. In the case of guardedness and stickiness the problem becomes undecidable, which indicates that in the presence of default negation more refined notions are needed. Although for sticky NTGDs this was expected, for guarded NTGDs this is a surprising outcome. Finally, we show that weakly-acyclic NTGDs give rise to highly expressive query languages that express exactly the queries with \\Pi_{2}^{P} (resp., \\Sigma_{2}^{P}) data complexity when the cautious (resp., brave) semantics is adopted. Notably, these languages allow us to solve in a declarative way central problems that lie at the second level of the polynomial hierarchy, e.g., consistent query answering under weakly-acyclic TGDs w.r.t. set-based repairs.", 
+    "subtype": "paper", 
+    "authors": [
+      {
+        "name": "Mario Alviano"
+      }, 
+      {
+        "name": "Michael Morak"
+      }, 
+      {
+        "name": "Andreas Pieris"
+      }
+    ], 
+    "type": "paper", 
+    "id": "PODS41"
   }, 
   "SIGMOD133": {
     "title": "Staging User Feedback toward Rapid Conflict Resolution in Data Fusion", 
@@ -2078,6 +2213,24 @@
     "type": "paper", 
     "id": "SIGMOD133"
   }, 
+  "PODS126": {
+    "title": "Streaming Algorithms for Measuring H-Impact", 
+    "abstract": "We consider publication settings with positive user feedback, such as, users publishing tweets and other users retweeting them, friends posting photos and others liking them or even authors publishing research papers and others citing these publications. A well-accepted notion of \u00f1impact\u00ee for users in these settings is the H-Index, which is the largest k such that at least k publications have k or more (positive) feedback.\nWe study how to calculate H-index on large streams of user publications and feedback. If all the items can be stored, H-index of a user can be computed by sorting. We focus on the streaming setting where as is typical, we do not have space to store all the items.\nWe present the first known streaming algorithm for computing the H-index of a user in the cash register streaming model using space poly(1/_, log(1/_), log n); this algorithm provides an additive _ approximation. For the aggregated model where feedback for a publication is collated, we present streaming algorithms that use much less space, either only dependent on _ and even a small constant. We also address the problem of finding \u00f1heavy hitters\u00ee users in H-index without estimating everyones\u00cd H-index. We present randomized streaming algorithms for finding 1 + _ approximation to heavy hitters that uses space poly(1/_, log(1/_), log n) and succeeds with probability at least 1 _ _. Again, this is the first sublinear space algorithm for this problem, despite extensive research on heavy hitters in general. Our work initiates study of streaming algorithms for problems that estimate impact or identify impactful users.", 
+    "subtype": "paper", 
+    "authors": [
+      {
+        "name": "Priya Govindan"
+      }, 
+      {
+        "name": "Morteza Monemizadeh"
+      }, 
+      {
+        "name": "S Muthukrishnan"
+      }
+    ], 
+    "type": "paper", 
+    "id": "PODS126"
+  }, 
   "SIGMOD363": {
     "title": "Synthesizing Mapping Relationship Using Table Corpus", 
     "abstract": "Mapping relationships, such as (country, country-code) or (company, stock-ticker), are valuable data assets for an array of applications in data cleaning and data integration such as auto-correction and auto-join. However, today there is no good repository of mapping tables that can enable these intelligent applications.\n\nGiven a corpus of tables such as web tables or spreadsheet tables, we observe that values of such mapping often exist in two columns in same tables. Motivated by the broad applicability of mapping relationships, we study the problem of producing such relationships by synthesizing tables in a large corpus. Our synthesis process leverages compatibility based on co-occurrence statistics, as well as constraints such as functional dependency that are required for the resulting mapping relationships to ensure high quality. Experiment results using a corpus of web tables and a corpus of enterprise spreadsheets suggest that the proposed approach can synthesize high-quality mapping relationships.", 
@@ -2092,21 +2245,6 @@
     ], 
     "type": "paper", 
     "id": "SIGMOD363"
-  }, 
-  "PODS40": {
-    "title": "Tarun Kathuria and S Sudarshan", 
-    "abstract": "Complex queries for massive data analysis jobs have become increasingly commonplace. Many such queries contain common subexpressions, either within a single query or among multiple queries submitted as a batch. Conventional query optimizers do not exploit these subexpressions and produce sub-optimal plans. The problem of multi-query optimization (MQO) is to generate an optimal combined evaluation plan by computing common subexpressions once and reusing them. Exhaustive algorithms for MQO explore an O(n^n) search space. Thus, this problem has primarily been tackled using various heuristic algorithms, without providing any theoretical guarantees on the quality of their solution.\nIn this paper, instead of the conventional cost minimization problem, we treat the problem as maximizing a linear transformation of the cost function. We propose a greedy algorithm for this transformed formulation of the problem, which under weak, intuitive assumptions that seem to hold in practice, provides an approximation factor guarantee for this formulation. We go on to show that this factor is optimal, unless P = NP. We also propose optimizations which can be used to improve the efficiency of our algorithm. Another noteworthy point about our algorithm is that it can be easily incorporated into existing transformation-based optimizers. Our experiments on benchmark datasets demonstrate that our algorithm performs comparable or superior to a popular algorithm for the problem.", 
-    "subtype": "paper", 
-    "authors": [
-      {
-        "name": "Efficient"
-      }, 
-      {
-        "name": "Provable Multi-Query Optimization"
-      }
-    ], 
-    "type": "paper", 
-    "id": "PODS40"
   }, 
   "SIGMOD306": {
     "title": "Template Skycube Algorithms for Heterogeneous Parallelism on Multicore and GPU Architectures", 
@@ -2150,6 +2288,33 @@
     "type": "paper", 
     "id": "SIGMOD116"
   }, 
+  "PODS39": {
+    "title": "The Complexity of Ontology-Based Data Access with OWL2QL and Bounded Treewidth Queries", 
+    "abstract": "Our concern is the overhead of answering OWL 2 QL ontology-mediated queries (OMQs) in ontology-based data access compared to evaluating their underlying tree-shaped and bounded treewidth conjunctive queries (CQs). We show that OMQs with bounded-depth ontologies have nonrecursive datalog (NDL) rewritings that can be constructed and evaluated in LOGCFL for combined complexity, even in NL if their CQs are tree-shaped with a bounded number of leaves, and so incur no overhead in complexity-theoretic terms. For OMQs with arbitrary ontologies and bounded-leaf CQs, NDL-rewritings are constructed and evaluated in LOGCFL. We show experimentally feasibility and scalability of our rewritings compared to standard NDL-rewritings. On the negative side, we prove that answering OMQs with tree-shaped CQs is not _xed-parameter tractable if the ontology depth or the number of leaves in the CQs is regarded as the parameter, and that answering OMQs with a _xed ontology (of in_nite depth) is NP-complete for tree-shaped and LOGCFL for bounded-leaf CQs. ", 
+    "subtype": "paper", 
+    "authors": [
+      {
+        "name": "Meghyn Bienvenu"
+      }, 
+      {
+        "name": "Stanislav Kikot"
+      }, 
+      {
+        "name": "Roman Kontchakov"
+      }, 
+      {
+        "name": "Vladimir Podolskii"
+      }, 
+      {
+        "name": "Vladislav Ryzhikov"
+      }, 
+      {
+        "name": "Michael Zakharyaschev"
+      }
+    ], 
+    "type": "paper", 
+    "id": "PODS39"
+  }, 
   "SIGMOD471": {
     "title": "The Dynamic Yannakakis Algorithm: Compact and Efficient Query Processing Under Updates", 
     "abstract": "Modern computing tasks such as real-time analytics require constant refreshing of query results under high update rates. Incremental View Maintenance (IVM) approaches this problem by materializing results in order to avoid re-computations. IVM naturally induces a trade-off between the space needed to maintain the materialized results and the time used to process updates.\n\n\tIn this paper we show that the full materialization of results is a barrier for more general optimization strategies. In particular, we present a new approach for evaluating queries under updates by dropping the materialization of results. Instead, we require a data structure that features both efficient maintenance under updates and constant-delay enumeration of the output, while using only linear space in the size of the database. We call such a structure a Dynamic Constant-delay Linear Representation (DCLR). We show that DYN, a dynamic version of the Yannakakis algorithm, yields DCLRs for the class of free-connex acyclic aggregate join queries, and prove that it naturally generalizes known worst-case optimal static algorithms. In addition, we identify a sub-class of queries for which DYN features constant-time update per tuple. We introduce a cost model for DCLRs and describe an associated compilation algorithm for the more general class of acyclic aggregate join queries.\n\n\tFinally, using the industry-standard benchmarks TPC-H and TPC-DS, we present an experimental comparison between DYN and a higher-order IVM (HIVM) engine. HIVM aggressively maintains intermediate results, optimizing speed as much as possible at the expense of high memory consumption. The experiments show that our approach is not only more efficient in terms of memory consumption (as expected), but also up to one order of magnitude faster in processing updates.", 
@@ -2167,6 +2332,18 @@
     ], 
     "type": "paper", 
     "id": "SIGMOD471"
+  }, 
+  "PODS105": {
+    "title": "Tight Space-Approximation Tradeoff for the Multi-Pass Streaming Set Cover Problem", 
+    "abstract": "We study the classic set cover problem in the streaming model: the sets that comprise the instance are revealed one by one in a stream and the goal is to solve the problem by making one or few passes over the stream while maintaining a sublinear space o(mn) in the input size; here m denotes the number of the sets and n is the universe size. Notice that in this model we are mainly concerned with the space requirement of the algorithms and do not restrict their computation time.\n\t\nOur main result is a resolution of the space-approximation tradeoff for the streaming set cover problem: we show that any \\alpha-approximation algorithm for the set cover problem requires \\Omega(mn^{1/\\alpha}) space, even if it is allowed \\polylog{(n)} passes over the stream, and even if the sets are arriving in a random order in the stream.  This space-approximation tradeoff matches the best known bounds achieved by the recent algorithm of Har-Peled etal (PODS 2016) that requires only O(\\alpha) passes over the stream in an adversarial order, hence settling the space complexity of approximating the set cover problem in data streams in a quite robust manner.  Additionally, our approach yields tight lower bounds for the space complexity of (1-\\eps)-approximating the streaming maximum coverage problem studied in several recent works.", 
+    "subtype": "paper", 
+    "authors": [
+      {
+        "name": "Sepehr Assadi"
+      }
+    ], 
+    "type": "paper", 
+    "id": "PODS105"
   }, 
   "SIGMOD20": {
     "title": "Two-Level Sampling for Join Size Estimation", 
@@ -2252,18 +2429,6 @@
     "type": "paper", 
     "id": "SIGMOD356"
   }, 
-  "PODS49": {
-    "title": "Vladimir Braverman, Stephen Chestnut, Nikita Ivkin, Jelani Nelson, Zhengyu Wang and David Woodruff", 
-    "abstract": "The task of finding heavy hitters is one of the best known and well studied problems in the area of data streams. In sub-polynomial space, the strongest guarantee available is the L2 guarantee, which requires finding all items that occur at least eps*||f||_2 times in the stream, where the ith coordinate of the\nvector f is the number of occurrences of i in the stream. The first algorithm to achieve the L2 guarantee was the CountSketch, which for constant eps requires O(log n) words of memory and O(log n) update time, and is known to be space-optimal if the stream allows for deletions. The recent work of Braverman, Chestnut, Ivkin and Woodruff (STOC 2016) gave an improved algorithm for insertion-only streams, using only O(log log n) words of memory. In this work, we give an algorithm BPTree for L2 heavy hitters in insertion-only streams that achieves O(1) words of memory and O(1) update time for constant eps, which is optimal. In addition, we describe an algorithm for tracking ||f||_2 at all times with O(1) memory and update time. Our analyses rely on bounding the expected supremum of a Bernoulli process involving Rademachers with limited independence, which we accomplish via a Dudley-like chaining argument that may have applications elsewhere.", 
-    "subtype": "paper", 
-    "authors": [
-      {
-        "name": "BPTree: an L2 heavy hitters algorithm using constant memory"
-      }
-    ], 
-    "type": "paper", 
-    "id": "PODS49"
-  }, 
   "SIGMOD67": {
     "title": "Waldo: An Adaptive Human Interface for Crowd Entity Resolution", 
     "abstract": "In Entity Resolution, the objective is to find which records of a dataset refer to the same real-world entity. Crowd Entity Resolution uses humans, in addition to machine algorithms, to improve the quality of the outcome. We study a hybrid approach that combines two common interfaces for human tasks in Crowd Entity Resolution, taking into account key observations about the advantages and disadvantages of the two interfaces. We give a formal definition to the problem of human task selection and we derive algorithms with strong optimality guarantees. Our experiments with four real-world datasets show that our hybrid approach gives an improvement of 50% to 300% in the crowd cost to resolve a dataset, compared to using a single interface.", 
@@ -2282,53 +2447,53 @@
     "type": "paper", 
     "id": "SIGMOD67"
   }, 
-  "PODS101": {
-    "title": "Wenfei Fan and Ping Lu", 
-    "abstract": "This paper proposes a class of dependencies for graphs, referred\nto as graph entity dependencies (GEDs). A GED is defined as a \ncombination of a graph pattern and an attribute dependency.\nIn a uniform format, GEDs can express graph functional dependencies \nwith constant literals to catch inconsistencies, and keys carrying\nid literals to identify entities (vertices) in a graph.\n\nWe revise the chase for GEDs and prove its Church-Rosser property.\nWe provide characterizations for GED satisfiability and implication.\nWe establish the complexity of these problems and the validation \nproblem, in the presence and absence of id literals and constant \nliterals. We also develop a sound and complete finite axiom system \nfor finite implication of GEDs. In addition, we extend GEDs with\nbuilt-in predicates or disjunctions, to strike a balance between \nthe expressive power and complexity. We settle the complexity of \nthe satisfiability, implication and validation problems for these \nextensions.", 
+  "PODS55": {
+    "title": "What do Shannon-type inequalities, submodular width, and disjunctive datalog have to do with one another?", 
+    "abstract": "Recent works on bounding the output size of a conjunctive query with\nfunctional dependencies and degree bounds have shown a deep connection between\nfundamental questions in information theory and database theory.\nWe prove analogous output bounds for disjunctive datalog queries, and\nanswer several open questions regarding the tightness and looseness of these\nbounds along the way.\nThe bounds are intimately related to Shannon-type information inequalities.\nWe devise the notion of a \"proof sequence\" of a specific class of\nShannon-type information inequalities called \"Shannon flow inequalities\". \nWe then show how the proof sequence can be used as symbolic instructions \nto guide an algorithm called \"PANDA\", which answers disjunctive datalog queries \nwithin the size bound predicted.\nWe show that PANDA can be used as a black-box to devise algorithms matching\nprecisely the fractional hypertree width and the submodular width runtimes\nfor queries with functional dependencies and degree bounds.\n\nOur results improve upon known results in three ways. First, our bounds and\nalgorithms are for the much more general class of disjunctive datalog queries, \nof which conjunctive queries are a special case. \nSecond, the runtime of PANDA matches precisely the submodular width bound, \nwhile the previous algorithm by Marx has a runtime that is polynomial in this bound.\nThird, our bounds and algorithms work for queries with input cardinality bounds, \nfunctional dependencies, and degree bounds.\n\nOverall, our results showed a deep connection between three seemingly\nunrelated lines of research; and, our results on proof sequences for Shannon\nflow inequalities might be of independent interest.", 
     "subtype": "paper", 
     "authors": [
       {
-        "name": "Dependencies for Graphs"
+        "name": "Mahmoud Abo Khamis"
+      }, 
+      {
+        "name": "Hung Ngo"
+      }, 
+      {
+        "name": "Dan Suciu"
       }
     ], 
     "type": "paper", 
-    "id": "PODS101"
+    "id": "PODS55"
   }, 
-  "PODS85": {
-    "title": "Xiao Hu, Yufei Tao and Ke Yi", 
-    "abstract": "Parallel join algorithms have received much attention in the recent years, due to the rapid development of massively parallel systems such as MapReduce and Spark.  In the database theory community, most efforts have been focused on studying worst-optimal algorithms.  However, the worst-case optimality of these join algorithms relies on the hard instances having very large output sizes.  In the case of a two-relation join, the hard instance is just a Cartesian product, with an output size that is quadratic in the input size.\n\n  In practice, however, the output size is usually much smaller.  One recent parallel join algorithm by Beame et al. has achieved {\\em output-optimality}, i.e., its cost is optimal in terms of both the input size and the output size, but their algorithm only works for a 2-relation equi-join, and has some imperfections. In this paper, we first improve their algorithm to true optimality.  Then we design output-optimal algorithms for a large class of similarity joins.  Finally, we present a lower bound, which essentially eliminates the possibility of having output-optimal algorithms for any join on more than two relations.", 
+  "PODS118": {
+    "title": "Write-Optimized Skip Lists", 
+    "abstract": "The skip list is an elegant dictionary data structure that is commonly deployed\nin RAM-based systems.  A skip list with $N$ elements supports searches,\ninserts, and deletes in $O(\\log N)$ operations with high probability (w.h.p.)\nand range queries returning $K$ elements in $O(\\log N + K)$ operations w.h.p.\n\n\nA seemingly natural way generalize the skip list to external memory is to\n``promote'' with probability $1/B$ ($B$ is the block size), rather than $1/2$.\nHowever, there are practical and theoretical obstacles to getting the skip list\nto retain its high-probability guarantees, space bounds, and efficient\nperformance.  This paper explains how the theoretical approaches for retaining\nhigh-probability bounds in external memory can have additional performance\nbenefits.\n\n\nIn this paper, we give an external-memory skip list that achieves\nwrite-optimized bounds. That is, for $0 < \\varepsilon < 1$, range\nqueries take $O(\\log_{B^\\varepsilon} N + K/B)$ I/Os w.h.p. and insertions and\ndeletions take $O((\\log_{B^\\varepsilon} N) / B^{1-\\varepsilon})$ amortized I/Os\nw.h.p.\n\n\nOur write-optimized skip list inherits the virtue of simplicity from RAM skip\nlists. Moreover, it matches or beats the asymptotic bounds of prior write-optimized data\nstructures such as the $B^\\varepsilon$ tree or LSM trees, which have been successfully deployed in high-performance databases and file systems.\n \n\nThe structure has high probability search bounds  and high-probability\namortized insert/delete bounds.  To prove the insert/delete bounds, we\nestablish a strong lower bound on the number of root-to-leaf paths that are\ndisjoint outside of the cached region near the root.  The bound is general,\nholding as long as the cache is large enough to hold $\\Omega(1)$ levels of the\ndata structure.  We  use an  extremal-graph-coloring argument to show that\nthere is always a good partitioning of the paths into uncorrelated sets,\nregardless of the insertion and deletion pattern.", 
     "subtype": "paper", 
     "authors": [
       {
-        "name": "Output-optimal Parallel Algorithms for Similarity Joins"
-      }
-    ], 
-    "type": "paper", 
-    "id": "PODS85"
-  }, 
-  "PODS96": {
-    "title": "Yaacov Y. Weiss and Sara Cohen", 
-    "abstract": "This paper investigates the problem of reverse engineering, i.e., learning, select-project-join  (SPJ) queries  from a user-provided example set, containing positive and negative tuples. The goal is then to determine whether there exists  a query returning all the positive tuples, but none of the negative tuples, and furthermore, to find such a query, if it exists. These are called the satisfiability and learning problems, respectively. The ability to solve these problems is an important step in simplifying the querying process for non-expert users. \n\nThis paper thoroughly investigates the satisfiability and learning problems in a variety of settings. In particular, we consider several classes of queries, which allow different combinations of the operators select, project and join. In addition, we compare the complexity of satisfiability and learning, when the query is, or is not, of bounded size. We note that bounded-size queries are of particular interest, as they can be used to avoid over-fitting. \n\nIn order to fully understand the underlying factors which make satisfiability and learning (in)tractable, we consider different components of the problem, namely, the size of a query to be learned, the size of the schema and the number of examples. We study the complexity of our problems, when considering these  as part of the input,  as constants or as parameters (i.e., as in parameterized complexity analysis). Depending on the setting, the complexity of satisfiability and learning can vary significantly. Among other results, our analysis also provides new problems that are complete for W[3], for which few natural problems are known. Finally, by considering a variety of settings, we derive insight on how the different facets of our problem interplay with the size of the database, thereby providing the theoretical foundations necessary for a future implementation of query learning from examples.", 
-    "subtype": "paper", 
-    "authors": [
+        "name": "Michael Bender"
+      }, 
       {
-        "name": "Reverse Engineering SPJ-Queries from Examples"
-      }
-    ], 
-    "type": "paper", 
-    "id": "PODS96"
-  }, 
-  "PODS129": {
-    "title": "Zengfeng Huang, Xuemin Lin, Wenjie Zhang and Ying Zhang", 
-    "abstract": "A sketch or synopsis of a large dataset captures vital properties of the original\ndata while typically occupying much less space.\nIn this paper, we consider the problem of computing a sketch of a massive data matrix $A\\in\\real^{n\\times d}$, which is distributed across a large number of $s$ servers.  \nOur goal is to output a matrix $B\\in\\real^{\\ell\\times d}$ which is significantly smaller than but still approximates $A$ well in terms of \\emph{covariance error}, i.e., $\\norm{A^TA-B^TB}_2$. Here, for a matrix $A$, $\\norm{A}_2$ is the spectral norm of $A$, which is defined as the largest singular value of $A$. Following previous works, we call $B$ a covariance sketch of $A$.\nWe are mainly focused on minimizing the communication cost, which is arguably the most valuable resource in distributed computations. We show a gap between deterministic and randomized communication complexity for computing a covariance sketch. More specifically, we first prove a tight deterministic lower bound, then show how to bypass this lower bound using randomization. \nIn \\emph{Principle Component Analysis} (PCA), the goal is to find a low-dimensional\nsubspace that captures as much of the variance of a dataset as possible. \nBased on a well-known connection between covariance sketch and PCA, we give a new algorithm for distributed PCA with improved communication cost. Moreover, in our algorithms, each server only needs to make one pass over the data with limited working space.", 
-    "subtype": "paper", 
-    "authors": [
+        "name": "Martin Farach-Colton"
+      }, 
       {
-        "name": "Efficient Matrix Sketching over Distributed Data"
+        "name": "Rob Johnson"
+      }, 
+      {
+        "name": "Simon Mauras"
+      }, 
+      {
+        "name": "Tyler Mayer"
+      }, 
+      {
+        "name": "Cynthia Phillips"
+      }, 
+      {
+        "name": "Helen Xu"
       }
     ], 
     "type": "paper", 
-    "id": "PODS129"
+    "id": "PODS118"
   }, 
   "SIGMOD373": {
     "title": "ZipG: A Memory-efficient Graph Store for Interactive Queries", 
