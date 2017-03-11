@@ -368,6 +368,20 @@
 	      "end_date": "2017-05-11",
 	      "admins": "[\"anantb@csail.mit.edu\", \"axz@mit.edu\", \"confer.csail.mit.edu@thegreatmichael.com\"]"
 	  	}
+	},
+	{"model": "server.Conference",
+	    "pk": 27,
+	    "fields": {
+	      "unique_name": "sigmod2017",
+	      "confer_name": "sigmod2017",
+	      "title": "SIGMOD/PODS 2017 - ACM International Conference on Management of Data",
+	      "subtitle": "",
+	      "blurb": "The annual ACM SIGMOD/PODS Conference is a leading international forum for database researchers, practitioners, developers, and users to explore cutting-edge ideas and results, and to exchange techniques, tools, and experiences.",
+	      "location": "Chicago, IL, USA",
+	      "start_date": "2017-05-14",
+	      "end_date": "2017-05-19",
+	      "admins": "[\"anantb@csail.mit.edu\", \"axz@mit.edu\"]"
+	  	}
 	}
 ]
   
