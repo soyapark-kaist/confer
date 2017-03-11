@@ -11,12 +11,13 @@ def prepare_papers(data_file):
     paper_id = unicode(row[0], "ISO-8859-1")
     if u'SIGMOD' in paper_id.strip():
       paper_title = unicode(row[2], "ISO-8859-1").strip()
-      paper_authors = unicode(row[3], "ISO-8859-1")   
+      paper_authors = unicode(row[3], "ISO-8859-1") 
+      paper_type = 'sigmod [paper]'  
     else:
       paper_title = unicode(row[3], "ISO-8859-1").strip()
-      paper_authors = unicode(row[2], "ISO-8859-1")   
+      paper_authors = unicode(row[2], "ISO-8859-1")
+      paper_type = 'pods [paper]'
     #paper_type = unicode(row[2], "ISO-8859-1").split(' ', 1)[0].strip()
-    paper_type = 'paper'
     abstract = unicode(row[4], "ISO-8859-1")    
 
     # prepare papers data
