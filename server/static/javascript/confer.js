@@ -900,9 +900,6 @@ function get_session_html(id, day, time, slot_class, room){
     var weight = []
     var sum = 0
     for(i=0; i<size; i++){
-      console.log(id);
-      console.log(sessions[id]);
-      console.log(sessions[id].submissions[i]);
       if(entities[sessions[id].submissions[i]].subtype != null && entities[sessions[id].submissions[i]].subtype.toLowerCase() == 'note'){
         weight[i] = 0.5
       }else{
@@ -938,6 +935,7 @@ function get_session_html(id, day, time, slot_class, room){
 function get_selected_paper_html(id){
   if(entities[id] == null)
     return null
+  
   raw_html += '<tbody>'
   var raw_html = '<tr data= "' + id + '" class="paper ' + id
   if(exists(recommended, id)){
@@ -1011,6 +1009,21 @@ function get_selected_paper_html(id){
   }
   raw_html += '</li>'
   raw_html += '<hr />'
+  
+  session_id = entities[id]['session']
+  if (sessions[session_id] != null) {
+  	raw_html += '<li>';
+  	raw_html += 'Day: ' + sessions[session_id]['day'] + ' Time: ' + sessions[session_id]['time'] + '<BR>';
+  	raw_html += 'Session: ' + sessions[session_id]['s_title'];
+  	if (sessions[session_id]['chair']) {
+  		raw_html += ' Chair: ' + sessions[session_id]['chair'] + '<BR>';
+  	}
+  	if (sessions[session_id]['room']) {
+  		raw_html += 'Room: ' + sessions[session_id]['room'];
+  	}
+  	raw_html += '</li> <hr />';
+  }
+  
   if(entities[id].abstract != null && entities[id].abstract != ""){
     raw_html += '<li>' + entities[id].abstract + '</li>'
   }else{
