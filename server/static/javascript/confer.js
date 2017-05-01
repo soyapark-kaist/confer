@@ -1013,13 +1013,13 @@ function get_selected_paper_html(id){
   session_id = entities[id]['session']
   if (sessions[session_id] != null) {
   	raw_html += '<li>';
-  	raw_html += 'Day: ' + sessions[session_id]['day'] + ' Time: ' + sessions[session_id]['time'] + '<BR>';
-  	raw_html += 'Session: ' + sessions[session_id]['s_title'];
+  	raw_html += '<strong>Day:</strong> ' + sessions[session_id]['day'] + ' <strong>Time:</strong> ' + sessions[session_id]['time'] + '<BR>';
+  	raw_html += '<strong>Session:</strong> ' + sessions[session_id]['s_title'] + '<BR>';
   	if (sessions[session_id]['chair']) {
-  		raw_html += ' Chair: ' + sessions[session_id]['chair'] + '<BR>';
+  		raw_html += '<strong>Chair:</strong> ' + sessions[session_id]['chair'] + '<BR>';
   	}
   	if (sessions[session_id]['room']) {
-  		raw_html += 'Room: ' + sessions[session_id]['room'];
+  		raw_html += '<strong>Room:</strong> ' + sessions[session_id]['room'];
   	}
   	raw_html += '</li> <hr />';
   }
