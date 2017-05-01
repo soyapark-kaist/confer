@@ -1013,7 +1013,8 @@ function get_selected_paper_html(id){
   session_id = entities[id]['session']
   if (sessions[session_id] != null) {
   	raw_html += '<li>';
-  	raw_html += '<strong>Day:</strong> ' + sessions[session_id]['day'] + ' <strong>Time:</strong> ' + sessions[session_id]['time'] + '<BR>';
+  	raw_html += '<strong>Day:</strong> ' + sessions[session_id]['day'] + '<BR>';
+  	raw_html += '<strong>Time:</strong> ' + sessions[session_id]['time'] + '<BR>';
   	raw_html += '<strong>Session:</strong> ' + sessions[session_id]['s_title'] + '<BR>';
   	if (sessions[session_id]['chair']) {
   		raw_html += '<strong>Chair:</strong> ' + sessions[session_id]['chair'] + '<BR>';
