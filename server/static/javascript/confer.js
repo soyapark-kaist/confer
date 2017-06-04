@@ -1012,7 +1012,7 @@ function get_selected_paper_html(id){
   
   
   session_id = entities[id]['session']
-  if (sessions != null && sessions[session_id] != null) {
+  if (sessions && sessions[session_id] != null) {
   	raw_html += '<li>';
   	raw_html += '<strong>Day:</strong> ' + sessions[session_id]['day'] + '<BR>';
   	raw_html += '<strong>Time:</strong> ' + sessions[session_id]['time'] + '<BR>';
