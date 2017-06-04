@@ -159,7 +159,7 @@ public class Indexer {
     Gson gson = new Gson(); 
     String json = gson.toJson(similar_docs); 
     PrintWriter out = new PrintWriter(this.similarDocsPath);
-    out.println(json);
+    out.println("offline_recs=" + json);
     out.close();
   } 
 
