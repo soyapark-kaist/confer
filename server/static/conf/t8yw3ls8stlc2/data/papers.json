@@ -80,7 +80,7 @@ entities={
         "name": "Yongkun Li"
       }, 
       {
-        "affiliation": "Xi\u00eaan Jiaotong University", 
+        "affiliation": "Xi\u0090an Jiaotong University", 
         "name": "Pinghui Wang"
       }, 
       {
@@ -118,7 +118,7 @@ entities={
   }, 
   "research1304": {
     "title": "A holistic view of stream partitioning costs", 
-    "abstract": "Stream processing has become the dominant processing model for monitoring and real_time analytics. Modern Parallel Stream Processing Engines (pSPEs) have made it feasible to increase the performance in both monitoring and analytical queries by parallelizing a query\u00eas execution and distributing the load on multiple workers. A determining factor for the performance of a pSPE is the partitioning algorithm used to disseminate tuples to the workers. Until now, partitioning methods in pSPEs have been similar to the ones used in parallel databases and only recently load-aware algorithms have been employed to improve the effectiveness of parallel execution. We identify and demonstrate the need to incorporate aggregation costs in the partitioning model when executing stateful operations in parallel, in order to minimize the overall latency and/or throughput. Towards this, we propose new stream partitioning algorithms,that consider both tuple imbalance and aggregation cost. We evaluate our proposed algorithms and show that they can achieve up to an order of magnitude better performance, compared to the current state of the art.", 
+    "abstract": "Stream processing has become the dominant processing model for monitoring and real_time analytics. Modern Parallel Stream Processing Engines (pSPEs) have made it feasible to increase the performance in both monitoring and analytical queries by parallelizing a query\u0090s execution and distributing the load on multiple workers. A determining factor for the performance of a pSPE is the partitioning algorithm used to disseminate tuples to the workers. Until now, partitioning methods in pSPEs have been similar to the ones used in parallel databases and only recently load-aware algorithms have been employed to improve the effectiveness of parallel execution. We identify and demonstrate the need to incorporate aggregation costs in the partitioning model when executing stateful operations in parallel, in order to minimize the overall latency and/or throughput. Towards this, we propose new stream partitioning algorithms,that consider both tuple imbalance and aggregation cost. We evaluate our proposed algorithms and show that they can achieve up to an order of magnitude better performance, compared to the current state of the art.", 
     "subtype": "research", 
     "authors": [
       {
@@ -278,31 +278,6 @@ entities={
     "type": "research", 
     "id": "research602"
   }, 
-  "research1383": {
-    "title": "An Efficient Probabilistic Approach for Graph Similarity Search", 
-    "abstract": "Graph similarity search is a common and fundamental operation in graph databases. One of the most popular graph similarity measures is the Graph Edit Distance (GED) mainly because of its broad applicability and high interpretability. Despite its prevalence, exact GED computation is proved to be NP-hard, which could result in unsatisfactory computational efficiency on large graphs. However, exactly accurate search results are usually unnecessary for real-world applications especially when the responsiveness is far more important than the accuracy. Thus, in this paper, we propose a novel probabilistic approach to efficiently estimate GED, which is further leveraged for the graph similarity search. Specifically, we first take branches as elementary structures in graphs, and introduce a novel graph similarity measure by comparing branches between graphs, i.e., Graph Branch Distance (GBD), which can be efficiently calculated in polynomial time. Then, we formulate the relationship between GED and GBD by considering branch variations as the result ascribed to graph edit operations, and model this process by probabilistic approaches. By applying our model, the GED between any two graphs can be efficiently estimated by their GBD, and these estimations are finally utilized in the graph similarity search. Extensive experiments show that our approach has better accuracy, efficiency and scalability than other comparable methods in the graph similarity search over real and synthetic data sets.", 
-    "subtype": "research", 
-    "authors": [
-      {
-        "affiliation": "HKUST", 
-        "name": "Zijian Li"
-      }, 
-      {
-        "affiliation": "", 
-        "name": "Xun Jian"
-      }, 
-      {
-        "affiliation": "Kent State University", 
-        "name": "Xiang Lian"
-      }, 
-      {
-        "affiliation": "HKUST", 
-        "name": "Lei Chen"
-      }
-    ], 
-    "type": "research", 
-    "id": "research1383"
-  }, 
   "research609": {
     "title": "An Empirical Evaluation of In-Memory Multi-Version Concurrency Control", 
     "abstract": "Multi-version concurrency control (MVCC) is currently the most popular transaction management scheme in modern database management systems (DBMSs). Although MVCC was discovered in the late 1970s, it is used in almost every major relational DBMS released in the last decade. Maintaining multiple versions of data potentially increases parallelism without sacrificing serializability when processing transactions. But scaling MVCC in a multi-core and in-memory setting is non-trivial: when there are a large number of threads running in parallel, the synchronization overhead can outweigh the benefits of multi-versioning.  To understand how MVCC perform when processing transactions in modern hardware settings, we conduct an extensive study of the scheme's four key design decisions: concurrency control protocol, version storage, garbage collection, and index management. We implemented state-of-the-art variants of all of these in an in-memory DBMS and evaluated them using OLTP workloads. Our analysis identifies the fundamental bottlenecks of each design choice.", 
@@ -442,7 +417,7 @@ entities={
   }, 
   "research1371": {
     "title": "An Optimizable Query Language for Unified Scale-out Data Cleaning", 
-    "abstract": "Data cleaning has become an indispensable part of data analysis due to the increasing amount of dirty data. Data scientists spend most of their time preparing dirty data before it can be used for data analysis. At the same time, the existing tools that attempt to automate the data cleaning procedure typically focus on a specific use case and operation. Still, even such specialized tools exhibit long running times or fail to process large datasets. Therefore, from a user\u00eas perspective, one is forced to use a different, potentially inefficient tool for each category of errors. This paper addresses the coverage and efficiency problems of data cleaning. It introduces CleanM (pronounced clean\u00eaem), a language  which can express multiple types of cleaning operations. CleanM goes through a three-level translation process for optimization  purposes; a different family of optimizations is applied in each abstraction level. Thus, CleanM can express complex data cleaning tasks, optimize them in a unified way, and deploy them in a scale-out  fashion. We validate the applicability of CleanM by using it on top of CleanDB, a newly designed and implemented framework which can query heterogeneous data. When compared to existing data cleaning solutions, CleanDB a) covers more data corruption cases, b) is up to _ 2_ faster on average, scales better, and can handle cases for which its competitors are unable to terminate, and c) uses a single interface for querying and for data cleaning.", 
+    "abstract": "Data cleaning has become an indispensable part of data analysis due to the increasing amount of dirty data. Data scientists spend most of their time preparing dirty data before it can be used for data analysis. At the same time, the existing tools that attempt to automate the data cleaning procedure typically focus on a specific use case and operation. Still, even such specialized tools exhibit long running times or fail to process large datasets. Therefore, from a user\u0090s perspective, one is forced to use a different, potentially inefficient tool for each category of errors. This paper addresses the coverage and efficiency problems of data cleaning. It introduces CleanM (pronounced clean\u0090em), a language  which can express multiple types of cleaning operations. CleanM goes through a three-level translation process for optimization  purposes; a different family of optimizations is applied in each abstraction level. Thus, CleanM can express complex data cleaning tasks, optimize them in a unified way, and deploy them in a scale-out  fashion. We validate the applicability of CleanM by using it on top of CleanDB, a newly designed and implemented framework which can query heterogeneous data. When compared to existing data cleaning solutions, CleanDB a) covers more data corruption cases, b) is up to _ 2_ faster on average, scales better, and can handle cases for which its competitors are unable to terminate, and c) uses a single interface for querying and for data cleaning.", 
     "subtype": "research", 
     "authors": [
       {
@@ -543,39 +518,6 @@ entities={
     ], 
     "type": "research", 
     "id": "research679"
-  }, 
-  "research1389": {
-    "title": "Benchmarking Distributed Stream Processing Engines [Experiments and Analyses]", 
-    "abstract": "Over the last years, stream data processing has been gaining attention both in industry and in academia due to its wide range of applications. To fulfill the need for scalable and efficient stream analytics, numerous open source stream data processing systems (SDPSs) have been developed, with high throughput and low latency being their key performance targets. In this paper, we propose a framework to evaluate the performance of three SDPSs, namely Apache Storm, Apache Spark, and Apache Flink. Our evaluation focuses in particular on measuring the throughput and latency of windowed operations, such as windowed aggregation and join. For this benchmark, we design workloads based on real-life, industrial use-cases. The main contribution of this work is three-fold. First, we give a definition of latency and throughput for stateful operators. Second, we completely separate the system under test and driver, so that the measurement results are closer to actual system performance under real conditions. Third, we build the first driver to test the actual sustainable performance of a system under test. Our detailed evaluation shows that there is no single winner, but rather, each system shines in individual use-cases.", 
-    "subtype": "research", 
-    "authors": [
-      {
-        "affiliation": "DFKI", 
-        "name": "Jeyhun Karimov"
-      }, 
-      {
-        "affiliation": "TU Berlin", 
-        "name": "Tilmann Rabl"
-      }, 
-      {
-        "affiliation": "SAP Innovation Center", 
-        "name": "Asterios Katsifodimos"
-      }, 
-      {
-        "affiliation": "", 
-        "name": "Roman Samarev"
-      }, 
-      {
-        "affiliation": "", 
-        "name": "Henri Heiskanen"
-      }, 
-      {
-        "affiliation": "", 
-        "name": "Volker Markl"
-      }
-    ], 
-    "type": "research", 
-    "id": "research1389"
   }, 
   "research747": {
     "title": "Bias-Aware Sketches", 
@@ -773,7 +715,7 @@ entities={
   }, 
   "research507": {
     "title": "Clue-based Spatio-textual Query", 
-    "abstract": "Along with the proliferation of online digital map and location-based service, very large POI (point of interest) databases have been constructed where a record corresponds to a POI with information including name, category, address, geographical location and other features. A basic spatial query in POI database is POI retrieval. In many scenarios, a user cannot provide enough information to pinpoint the POI except some clue. For example, a user wants to identify a cafe in a city visited many years ago. He cannot remember the name and address but he still recalls that \u0096the cafe is about 200 meters away from a restaurant; and turning left at the restaurant there is a bakery 500 meters away, etc.\u0094. Intuitively, the clue, even partial and approximate, describes the spatio-textual context around the targeted POI. Motivated by this observation, this work investigates clue-based spatio-textual query which allows user providing clue, i.e., some nearby POIs and the spatial relationships between them, in POI retrieval. The objective is to retrieve k POIs from a POI database with the highest spatio-textual context similarities against the clue. This work has deliberately designed data-quality-tolerant spatio-textual context similarity metric to cope with various data quality problems in both the clue and the POI database. Through crossing valuation, the query accuracy is further enhanced by ensemble method. Also, this work has developed an index called roll-out-star R-tree (RSR-tree) to dramatically improve the query processing efficiency. The extensive tests on data sets from the real world have verified the superiority of our methods in all aspects.", 
+    "abstract": "Along with the proliferation of online digital map and location-based service, very large POI (point of interest) databases have been constructed where a record corresponds to a POI with information including name, category, address, geographical location and other features. A basic spatial query in POI database is POI retrieval. In many scenarios, a user cannot provide enough information to pinpoint the POI except some clue. For example, a user wants to identify a cafe in a city visited many years ago. He cannot remember the name and address but he still recalls that \u00d0the cafe is about 200 meters away from a restaurant; and turning left at the restaurant there is a bakery 500 meters away, etc.\u00d3. Intuitively, the clue, even partial and approximate, describes the spatio-textual context around the targeted POI. Motivated by this observation, this work investigates clue-based spatio-textual query which allows user providing clue, i.e., some nearby POIs and the spatial relationships between them, in POI retrieval. The objective is to retrieve k POIs from a POI database with the highest spatio-textual context similarities against the clue. This work has deliberately designed data-quality-tolerant spatio-textual context similarity metric to cope with various data quality problems in both the clue and the POI database. Through crossing valuation, the query accuracy is further enhanced by ensemble method. Also, this work has developed an index called roll-out-star R-tree (RSR-tree) to dramatically improve the query processing efficiency. The extensive tests on data sets from the real world have verified the superiority of our methods in all aspects.", 
     "subtype": "research", 
     "authors": [
       {
@@ -913,8 +855,8 @@ entities={
     "id": "research321"
   }, 
   "research678": {
-    "title": "C\u00f4m\u00f4l_n-D: Data Analytics in a Dynamic Spot Market", 
-    "abstract": "We present a system called C\u00f4m\u00f4l_n-D for matrix-based data analysis in a spot market of a public cloud.  Prices in such markets fluctuate over time: while users can acquire machines usually at a very low bid price, the cloud can terminate these machines as soon as the market price exceeds their bid price.  The distinguishing features of C\u00f4m\u00f4l_n-D include its continuous, proactive adaptation to the changing market, and its ability to quantify and control the monetary risk involved in paying for a workflow execution.  We solve the dynamic optimization problem in a principled manner with a Markov decision process, and account for practical details that are often ignored previously but nonetheless important to performance.  We evaluate C\u00f4m\u00f4l_n-D's effectiveness and advantages over previous approaches with experiments on Amazon EC2.", 
+    "title": "C\u0099m\u0099l_n-D: Data Analytics in a Dynamic Spot Market", 
+    "abstract": "We present a system called C\u0099m\u0099l_n-D for matrix-based data analysis in a spot market of a public cloud.  Prices in such markets fluctuate over time: while users can acquire machines usually at a very low bid price, the cloud can terminate these machines as soon as the market price exceeds their bid price.  The distinguishing features of C\u0099m\u0099l_n-D include its continuous, proactive adaptation to the changing market, and its ability to quantify and control the monetary risk involved in paying for a workflow execution.  We solve the dynamic optimization problem in a principled manner with a Markov decision process, and account for practical details that are often ignored previously but nonetheless important to performance.  We evaluate C\u0099m\u0099l_n-D's effectiveness and advantages over previous approaches with experiments on Amazon EC2.", 
     "subtype": "research", 
     "authors": [
       {
@@ -981,7 +923,7 @@ entities={
   }, 
   "research570": {
     "title": "Data Tweening: Incremental Visualization of Data Transforms", 
-    "abstract": "In the context of interactive query sessions, it is common to issue a succession of queries, transforming a dataset to the desired result. It is often difficult to comprehend a suc- cession of transformations, especially for complex queries. Thus, to facilitate understanding of each data transforma- tion and to provide continuous feedback, we introduce the concept of \u0096data tweening\u0094, i.e., interpolating between re- sultsets, presenting to the user a series of incremental visual representations of a resultset transformation. We present tweening methods that consider not just the changes in the result, but also the changes in the query. Through user stud- ies, we show that data tweening allows users to efficiently comprehend data transforms, and also enables them to gain a better understanding of the underlying query operations.", 
+    "abstract": "In the context of interactive query sessions, it is common to issue a succession of queries, transforming a dataset to the desired result. It is often difficult to comprehend a suc- cession of transformations, especially for complex queries. Thus, to facilitate understanding of each data transforma- tion and to provide continuous feedback, we introduce the concept of \u00d0data tweening\u00d3, i.e., interpolating between re- sultsets, presenting to the user a series of incremental visual representations of a resultset transformation. We present tweening methods that consider not just the changes in the result, but also the changes in the query. Through user stud- ies, we show that data tweening allows users to efficiently comprehend data transforms, and also enables them to gain a better understanding of the underlying query operations.", 
     "subtype": "research", 
     "authors": [
       {
@@ -1093,7 +1035,7 @@ entities={
         "name": "Guillaume Casanova"
       }, 
       {
-        "affiliation": "Ludwig-Maximilians-Universit_t M\u00f4nchen", 
+        "affiliation": "Ludwig-Maximilians-Universit_t M\u0099nchen", 
         "name": "Elias Englmeier"
       }, 
       {
@@ -1172,7 +1114,7 @@ entities={
       }, 
       {
         "affiliation": "ETH Zurich", 
-        "name": "Ingo M\u00f4ller"
+        "name": "Ingo M\u0099ller"
       }, 
       {
         "affiliation": "ETH Zurich", 
@@ -1226,7 +1168,7 @@ entities={
       }, 
       {
         "affiliation": "CWI", 
-        "name": "Hannes M\u00f4hleisen"
+        "name": "Hannes M\u0099hleisen"
       }, 
       {
         "affiliation": "", 
@@ -1541,7 +1483,7 @@ entities={
   }, 
   "research335": {
     "title": "Fast In-Memory SQL Analytics on Typed Graphs", 
-    "abstract": "We study a class of graph analytics SQL queries, which we call relationship queries. These queries involving aggregation, join, semijoin, intersection and selection are a wide superset of fixed-length graph reachability queries and of tree pattern queries. We present real-world OLAP scenarios, where efficient relationship queries are needed. However, row stores, column stores and graph databases are unacceptably slow in such OLAP scenarios.  We propose a GQ-Fast database, which is an indexed database that roughly corresponds to efficient encoding of annotated adjacency lists that combines salient features of column-based organization, indexing and compression. GQ-Fast uses a bottom-up fully pipelined query execution model, which enables (a) aggressive compression (e.g., compressed bitmaps and Huffman) and (b) avoids intermediate results that consist of row IDs (which are typical in column databases). GQ-Fast compiles query plans into executable C++ source code. Besides achieving runtime efficiency, GQ-Fast also reduces main memory requirements because, unlike column databases, GQ-Fast selectively allows dense forms of compression including heavy-weight compressions, which do not support random access.  We used GQ-Fast to accelerate queries for two OLAP dashboards in the biomedical field. GQ-Fast outperforms PostgreSQL by 2_4 orders of magnitude and MonetDB, Vertica and Neo4j by 1_3 orders of magnitude when all of them are running on RAM. Our experiments dissect GQ-Fast\u00eas advantage between (i) the use of compiled code, (ii) the bottom-up pipelining execution strategy, and (iii) the use of dense structures. Other analysis and experiments show the space savings of GQ-Fast due to the appropriate use of compression methods. We also show that the runtime penalty incurred by the dense compression methods decreases as the number of CPU cores increases.", 
+    "abstract": "We study a class of graph analytics SQL queries, which we call relationship queries. These queries involving aggregation, join, semijoin, intersection and selection are a wide superset of fixed-length graph reachability queries and of tree pattern queries. We present real-world OLAP scenarios, where efficient relationship queries are needed. However, row stores, column stores and graph databases are unacceptably slow in such OLAP scenarios.  We propose a GQ-Fast database, which is an indexed database that roughly corresponds to efficient encoding of annotated adjacency lists that combines salient features of column-based organization, indexing and compression. GQ-Fast uses a bottom-up fully pipelined query execution model, which enables (a) aggressive compression (e.g., compressed bitmaps and Huffman) and (b) avoids intermediate results that consist of row IDs (which are typical in column databases). GQ-Fast compiles query plans into executable C++ source code. Besides achieving runtime efficiency, GQ-Fast also reduces main memory requirements because, unlike column databases, GQ-Fast selectively allows dense forms of compression including heavy-weight compressions, which do not support random access.  We used GQ-Fast to accelerate queries for two OLAP dashboards in the biomedical field. GQ-Fast outperforms PostgreSQL by 2_4 orders of magnitude and MonetDB, Vertica and Neo4j by 1_3 orders of magnitude when all of them are running on RAM. Our experiments dissect GQ-Fast\u0090s advantage between (i) the use of compiled code, (ii) the bottom-up pipelining execution strategy, and (iii) the use of dense structures. Other analysis and experiments show the space savings of GQ-Fast due to the appropriate use of compression methods. We also show that the runtime penalty incurred by the dense compression methods decreases as the number of CPU cores increases.", 
     "subtype": "research", 
     "authors": [
       {
@@ -1583,7 +1525,7 @@ entities={
       }, 
       {
         "affiliation": "ETH Zurich", 
-        "name": "Renato Marroqu\u00cdn"
+        "name": "Renato Marroqu\u00ean"
       }, 
       {
         "affiliation": "ETH Zurich", 
@@ -1595,7 +1537,7 @@ entities={
   }, 
   "research1401": {
     "title": "Fast and Adaptive Indexing of Multi-Dimensional Observational Data", 
-    "abstract": " Tremendous amounts of data are being generated by sensing devices each day, which include large quantities of multi-dimensional measurements. These data are expected to be immediately available for real-time analytics as they are streamed into storage. Such scenarios pose challenges to state-of-the-art indexing methods, as they must not only support efficient queries but also frequent updates. In this paper, we propose a novel indexing method that ingests multi-dimensional observational data in real time. This method primarily guarantees extremely high throughput for data ingestion, while it can be continuously refined in the background to improve query efficiency. Instead of representing collections of points using Minimal Bounding Boxes as in conventional indexes, we model sets of successive points as line segments in hyperspaces, by exploiting the intrinsic value continuity in observational data. Such a representation reduces the number of index entries and drastically reduces \u00f1over-coverage\u00ee by entries. Our experimental results show that our proposed approach handles real-world workloads gracefully, providing both low-overhead indexing and excellent query efficiency.  ", 
+    "abstract": " Tremendous amounts of data are being generated by sensing devices each day, which include large quantities of multi-dimensional measurements. These data are expected to be immediately available for real-time analytics as they are streamed into storage. Such scenarios pose challenges to state-of-the-art indexing methods, as they must not only support efficient queries but also frequent updates. In this paper, we propose a novel indexing method that ingests multi-dimensional observational data in real time. This method primarily guarantees extremely high throughput for data ingestion, while it can be continuously refined in the background to improve query efficiency. Instead of representing collections of points using Minimal Bounding Boxes as in conventional indexes, we model sets of successive points as line segments in hyperspaces, by exploiting the intrinsic value continuity in observational data. Such a representation reduces the number of index entries and drastically reduces \u0096over-coverage\u0094 by entries. Our experimental results show that our proposed approach handles real-world workloads gracefully, providing both low-overhead indexing and excellent query efficiency.  ", 
     "subtype": "research", 
     "authors": [
       {
@@ -1653,7 +1595,7 @@ entities={
       }, 
       {
         "affiliation": "Huawei", 
-        "name": "Michael M\u00f4ller"
+        "name": "Michael M\u0099ller"
       }, 
       {
         "affiliation": "Huawei", 
@@ -1764,7 +1706,7 @@ entities={
   }, 
   "research1319": {
     "title": "Flexible Online Task Assignment in Real-Time Spatial Data", 
-    "abstract": "The popularity of Online To Offline (O2O) service platforms has spurred the need for effective online task assignment in real-time spatial data, where streams of spatially distributed tasks and workers are matched in real time such that the total number of assigned pairs is maximized. Existing online task assignment models assume that each worker is either assigned a task immediately or waits for a subsequent task at a fixed location once she/he appears on the platform. However, in practice, a worker may actively move around rather than passively wait at the same location if no task is assigned. If the workers guided effectively, the platform can increase the total number of assigned worker-task pairs, which is overlooked in previous works. In this paper, we define a new problem Flexible Two-sided Online task Assignment (FTOA). To address the FTOA problem, we face two challenges: (i) How to leverage the prediction of the spatiotemporal distribution of tasks and workers to effectively generate guidance for idle workers? (ii) How to leverage the guide of worker\u00eas movement to optimize the online task assignment? To this end, we propose a novel two-step framework, which integrates offline prediction and online task assignment. Specifically, the offline prediction component estimates the distributions of tasks and workers per time slot and per unit area, based on which we develop an online task assignment algorithm, Prediction-oriented Online task Assignment in Real-time spatial data (POLAR). POLAR-OP not only yields a 0.5-competitive ratio,  which is nearly twice better than that of the state-of-the-art, but also makes the time complexity of processing each newly-arrived task/worker to O(1). We verify the effectiveness and efficiency of our methods through extensive experiments on both synthetic datasets and a large-scale real-time taxi-calling platform.", 
+    "abstract": "The popularity of Online To Offline (O2O) service platforms has spurred the need for effective online task assignment in real-time spatial data, where streams of spatially distributed tasks and workers are matched in real time such that the total number of assigned pairs is maximized. Existing online task assignment models assume that each worker is either assigned a task immediately or waits for a subsequent task at a fixed location once she/he appears on the platform. However, in practice, a worker may actively move around rather than passively wait at the same location if no task is assigned. If the workers guided effectively, the platform can increase the total number of assigned worker-task pairs, which is overlooked in previous works. In this paper, we define a new problem Flexible Two-sided Online task Assignment (FTOA). To address the FTOA problem, we face two challenges: (i) How to leverage the prediction of the spatiotemporal distribution of tasks and workers to effectively generate guidance for idle workers? (ii) How to leverage the guide of worker\u0090s movement to optimize the online task assignment? To this end, we propose a novel two-step framework, which integrates offline prediction and online task assignment. Specifically, the offline prediction component estimates the distributions of tasks and workers per time slot and per unit area, based on which we develop an online task assignment algorithm, Prediction-oriented Online task Assignment in Real-time spatial data (POLAR). POLAR-OP not only yields a 0.5-competitive ratio,  which is nearly twice better than that of the state-of-the-art, but also makes the time complexity of processing each newly-arrived task/worker to O(1). We verify the effectiveness and efficiency of our methods through extensive experiments on both synthetic datasets and a large-scale real-time taxi-calling platform.", 
     "subtype": "research", 
     "authors": [
       {
@@ -2070,8 +2012,8 @@ entities={
     "id": "research319"
   }, 
   "research1293": {
-    "title": "I\u00eave Seen \u0096Enough\u0094: Incrementally Improving Visualizations to Support Rapid Decision Making", 
-    "abstract": "Data visualization is an effective mechanism for identifying trends, insights, and anomalies in data. On large datasets, however, generating visualizations can take a long time, delaying the extraction of insights, hampering decision making, and reducing exploration time. One solution is to use online sampling-based schemes to generate visualizations faster while improving the displayed estimates incrementally, eventually converging to the exact visualization computed on the entire data. However, the intermediate visualizations are approximate, and often fluctuate drastically, leading to potentially incorrect decisions. In this paper, we propose sampling-based incremental visualization algorithms that reveal the \u0096salient\u0094 features of the eventual visualization quickly\u00e3with a 46_ speedup relative to baselines\u00e3while minimizing error, thus enabling rapid and error-free decision making. We demonstrate that these algorithms are optimal in terms of sample complexity, in that given the level of interactivity, they generate approximations that take as few samples as possible to incrementally improve the accuracy. We have developed the algorithms in the context of an incremental visualization tool, titled INCVISAGE, for trendline and heatmap visualizations. We evaluate the usability of INCVISAGE via a full- fledged user study and demonstrate that users are able to make effective decisions with incrementally improving visualizations.", 
+    "title": "I\u0090ve Seen \u00d0Enough\u00d3: Incrementally Improving Visualizations to Support Rapid Decision Making", 
+    "abstract": "Data visualization is an effective mechanism for identifying trends, insights, and anomalies in data. On large datasets, however, generating visualizations can take a long time, delaying the extraction of insights, hampering decision making, and reducing exploration time. One solution is to use online sampling-based schemes to generate visualizations faster while improving the displayed estimates incrementally, eventually converging to the exact visualization computed on the entire data. However, the intermediate visualizations are approximate, and often fluctuate drastically, leading to potentially incorrect decisions. In this paper, we propose sampling-based incremental visualization algorithms that reveal the \u00d0salient\u00d3 features of the eventual visualization quickly\u008bwith a 46_ speedup relative to baselines\u008bwhile minimizing error, thus enabling rapid and error-free decision making. We demonstrate that these algorithms are optimal in terms of sample complexity, in that given the level of interactivity, they generate approximations that take as few samples as possible to incrementally improve the accuracy. We have developed the algorithms in the context of an incremental visualization tool, titled INCVISAGE, for trendline and heatmap visualizations. We evaluate the usability of INCVISAGE via a full- fledged user study and demonstrate that users are able to make effective decisions with incrementally improving visualizations.", 
     "subtype": "research", 
     "authors": [
       {
@@ -2195,7 +2137,7 @@ entities={
   }, 
   "research1363": {
     "title": "LDA*: A Robust and Large-scale Topic Modeling System", 
-    "abstract": "We present LDA*, a system that has been deployed in one of the largest Internet companies to fulfil their requirements of \u0096topic modeling as an internal service\u0094\u00e3relying on thousands of machines,engineers in different sectors submit their data, some are as large as 1.8TB, to LDA* and get results back in hours. LDA* is motivated by the observation that none of the existing topic modeling systems is robust enough\u00e3Each of these existing systems is designed for a specific point in the trade-off space that can be suboptimal, sometimes by up to 10_, across workloads.  Our first contribution is a systematic study of all recently proposed samplers: AliasLDA, F+LDA, LightLDA, and WarpLDA. We discovered a novel system trade-off among these samplers. Each sampler has different sampling complexity and performs differently, sometimes by 5_, on documents with different lengths. Based on this trade-off, we further developed a hybrid sampler that uses different samplers for different types of documents. This hybrid approach works across a wide range of workloads and outperforms the existing samplers by up to 2_. We then focused on distributed environments in which thousands of workers, each with different performance (due to virtualization and resource sharing), coordinate to train a topic model. Our second contribution is an asymmetric parameter server architecture that pushes some computation to the parameter server side. This architecture is motivated by the skew of the word frequency distribution and a novel trade-off we discovered between communication and computation. With this architecture, we outperform the traditional, symmetric architecture by up to 2_.  With these two contributions, together with a carefully engineered implementation, our system is able to outperform existing systems by up to 10_ and has already been running to provide topic modeling services for more than six months.", 
+    "abstract": "We present LDA*, a system that has been deployed in one of the largest Internet companies to fulfil their requirements of \u00d0topic modeling as an internal service\u00d3\u008brelying on thousands of machines,engineers in different sectors submit their data, some are as large as 1.8TB, to LDA* and get results back in hours. LDA* is motivated by the observation that none of the existing topic modeling systems is robust enough\u008bEach of these existing systems is designed for a specific point in the trade-off space that can be suboptimal, sometimes by up to 10_, across workloads.  Our first contribution is a systematic study of all recently proposed samplers: AliasLDA, F+LDA, LightLDA, and WarpLDA. We discovered a novel system trade-off among these samplers. Each sampler has different sampling complexity and performs differently, sometimes by 5_, on documents with different lengths. Based on this trade-off, we further developed a hybrid sampler that uses different samplers for different types of documents. This hybrid approach works across a wide range of workloads and outperforms the existing samplers by up to 2_. We then focused on distributed environments in which thousands of workers, each with different performance (due to virtualization and resource sharing), coordinate to train a topic model. Our second contribution is an asymmetric parameter server architecture that pushes some computation to the parameter server side. This architecture is motivated by the skew of the word frequency distribution and a novel trade-off we discovered between communication and computation. With this architecture, we outperform the traditional, symmetric architecture by up to 2_.  With these two contributions, together with a carefully engineered implementation, our system is able to outperform existing systems by up to 10_ and has already been running to provide topic modeling services for more than six months.", 
     "subtype": "research", 
     "authors": [
       {
@@ -2294,7 +2236,7 @@ entities={
   }, 
   "research427": {
     "title": "Lifting the Haze off the Cloud: A Consumer-Centric Market for Database Computation in the Cloud", 
-    "abstract": "The availability of public computing resources in the cloud has revolutionized data analysis, but requesting cloud resources often involves complex decisions for consumers. Estimating the completion time and cost of a computation and requesting the appropriate cloud resources are challenging tasks even for an expert user. We propose a new market-based framework for pricing computational tasks in the cloud. Our framework introduces an agent between consumers and cloud providers. The agent takes data and computational tasks from users, estimates time and cost for evaluating the tasks, and returns to consumers contracts that specify the price and completion time. Our framework can be applied directly to existing cloud markets without altering the way cloud providers offer and price services. In addition, it simplifies cloud use for consumers by allowing them to compare contracts, rather than choose resources directly. We present design, analytical, and algorithmic contributions focusing on pricing computation contracts, analyzing their properties, and optimizing them in complex workflows. We conduct an experimental evaluation of our market framework over a real-world cloud service and demonstrate empirically that our market ensures three key properties: (a) that consumers benefit from using the market due to competitiveness among agents, (b) that agents have incentive to price contracts fairly, and (c) that inaccuracies in estimates do not pose a significant risk to agents\u00ea profits. Finally, we present a fine-grained pricing mechanism for complex workflows and show that it can increase agent profits by more than an order of magnitude in some cases.", 
+    "abstract": "The availability of public computing resources in the cloud has revolutionized data analysis, but requesting cloud resources often involves complex decisions for consumers. Estimating the completion time and cost of a computation and requesting the appropriate cloud resources are challenging tasks even for an expert user. We propose a new market-based framework for pricing computational tasks in the cloud. Our framework introduces an agent between consumers and cloud providers. The agent takes data and computational tasks from users, estimates time and cost for evaluating the tasks, and returns to consumers contracts that specify the price and completion time. Our framework can be applied directly to existing cloud markets without altering the way cloud providers offer and price services. In addition, it simplifies cloud use for consumers by allowing them to compare contracts, rather than choose resources directly. We present design, analytical, and algorithmic contributions focusing on pricing computation contracts, analyzing their properties, and optimizing them in complex workflows. We conduct an experimental evaluation of our market framework over a real-world cloud service and demonstrate empirically that our market ensures three key properties: (a) that consumers benefit from using the market due to competitiveness among agents, (b) that agents have incentive to price contracts fairly, and (c) that inaccuracies in estimates do not pose a significant risk to agents\u0090 profits. Finally, we present a fine-grained pricing mechanism for complex workflows and show that it can increase agent profits by more than an order of magnitude in some cases.", 
     "subtype": "research", 
     "authors": [
       {
@@ -2374,31 +2316,6 @@ entities={
     ], 
     "type": "research", 
     "id": "research680"
-  }, 
-  "research1387": {
-    "title": "MGTag: a Multi-Dimensional Graph Labeling Scheme for Fast Reachability Queries", 
-    "abstract": "Reachability queries ask whether a vertex can reach another vertex on large directed graphs. It is one of the most fundamental graph operators and has attracted researchers in both academics and industry to study it. The main technical challenge is to support fast reachability queries by efficient managing the three main costs: the index construction time, the index size and the query processing time on large and dense graphs. As real world graphs grow bigger in size, these problems remain open challenges that demand high performance solutions. In this paper, we propose a Multi-Dimensional Graph Labeling approach (called MGTag) to supporting fast reachability queries. Our MGTag approach is novel in three aspects. First, it iteratively partitions a graph into multiple subgraphs with disjoint vertex sets, called non-shared graphs, and several inter-partition edges, called cross-edges. Second, we build a four-dimensional label for each vertex, which helps tagging each vertex by its layer, the non-shared graph it belongs to, and the source dimension and destination dimension interval for each vertex. With the layer label and the non-shared graph label, we can determine the topological positions in terms of non-shared graphs for any two vertices in the input graph. With the two dimensional interval label, we can efficiently answer the reachability queries for vertex pairs in the same non-shared graph. Finally, we design the MGTag algorithms to answer reachability queries efficiently and we build two directional labels - up and down labels to quickly filter irrelevant vertices and further speed up the processing of reachability queries. We evaluate MGTag by conducting extensive experiments on 28 large/small and dense/sparse graphs. We show that MGTag can build the multi-dimensional graph label index efficiently with the competitive index size, compared with most of the state-of-the-art approaches, and MGTag is highly scalable and more efficient than the state-of-the-art approaches in answering reachability queries.", 
-    "subtype": "research", 
-    "authors": [
-      {
-        "affiliation": "HUST", 
-        "name": "Shuang Zhou"
-      }, 
-      {
-        "affiliation": "HUST", 
-        "name": "Pingpeng Yuan"
-      }, 
-      {
-        "affiliation": "Georgia Institute of Technology", 
-        "name": "Ling Liu"
-      }, 
-      {
-        "affiliation": "", 
-        "name": "Hai Jin"
-      }
-    ], 
-    "type": "research", 
-    "id": "research1387"
   }, 
   "research677": {
     "title": "MILC: Inverted List Compression in Memory", 
@@ -2584,7 +2501,7 @@ entities={
   }, 
   "research139": {
     "title": "Mostly-Optimistic Concurrency Control for Highly Contended Dynamic Workloads on a Thousand Cores", 
-    "abstract": "Future servers will be equipped with thousands of CPU cores and deep memory hierarchies. Traditional concurrency control (CC) schemes\u00e3both optimistic and pessimistic\u00e3slow down orders of magnitude in such environments for highly contended workloads. Optimistic CC (OCC) scales the best for workloads with few conflicts, but suffers from clobbered reads for high conflict workloads. Although pessimistic locking can protect reads, it floods cache-coherence backbones in deep memory hierarchies and can also cause numerous deadlock aborts.  This paper proposes a new CC scheme, mostly-optimistic concurrency control (MOCC), to address these problems. MOCC achieves orders of magnitude higher performance for dynamic workloads on modern servers. The key objective of MOCC is to avoid clobbered reads for high conflict workloads, without any centralized mechanisms or heavyweight interthread communication. To satisfy such needs, we devise a native, cancellable reader-writer spinlock and a serializable protocol that can acquire, release and re-acquire locks in any order without expensive interthread communication. For low conflict workloads, MOCC maintains OCC\u00eas high performance without taking read locks.  Our experiments with high conflict YCSB workloads on a 288-core server reveal that MOCC performs 8_ and 23_ faster than OCC and pessimistic locking, respectively. It achieves 17 million TPS for TPC-C and more than 110 million TPS for YCSB without conflicts, 170_ faster than pessimistic methods.", 
+    "abstract": "Future servers will be equipped with thousands of CPU cores and deep memory hierarchies. Traditional concurrency control (CC) schemes\u008bboth optimistic and pessimistic\u008bslow down orders of magnitude in such environments for highly contended workloads. Optimistic CC (OCC) scales the best for workloads with few conflicts, but suffers from clobbered reads for high conflict workloads. Although pessimistic locking can protect reads, it floods cache-coherence backbones in deep memory hierarchies and can also cause numerous deadlock aborts.  This paper proposes a new CC scheme, mostly-optimistic concurrency control (MOCC), to address these problems. MOCC achieves orders of magnitude higher performance for dynamic workloads on modern servers. The key objective of MOCC is to avoid clobbered reads for high conflict workloads, without any centralized mechanisms or heavyweight interthread communication. To satisfy such needs, we devise a native, cancellable reader-writer spinlock and a serializable protocol that can acquire, release and re-acquire locks in any order without expensive interthread communication. For low conflict workloads, MOCC maintains OCC\u0090s high performance without taking read locks.  Our experiments with high conflict YCSB workloads on a 288-core server reveal that MOCC performs 8_ and 23_ faster than OCC and pessimistic locking, respectively. It achieves 17 million TPS for TPC-C and more than 110 million TPS for YCSB without conflicts, 170_ faster than pessimistic methods.", 
     "subtype": "research", 
     "authors": [
       {
@@ -2651,7 +2568,7 @@ entities={
   }, 
   "research318": {
     "title": "NG-DBSCAN: Scalable Density-Based Clustering for Arbitrary Data", 
-    "abstract": "We present NG-DBSCAN, an approximate density-based clustering algorithm that operates on arbitrary data and any symmetric distance measure. The distributed design of our algorithm makes it scalable to very large datasets; its approximate nature makes it fast, yet capable of producing high quality clustering results. We provide a detailed overview of the steps of NG-DBSCAN, together with their analysis. Our results, obtained through an extensive experimental campaign with real and synthetic data, substantiate our claims about NG-DBSCAN\u00eas performance and scalability.", 
+    "abstract": "We present NG-DBSCAN, an approximate density-based clustering algorithm that operates on arbitrary data and any symmetric distance measure. The distributed design of our algorithm makes it scalable to very large datasets; its approximate nature makes it fast, yet capable of producing high quality clustering results. We provide a detailed overview of the steps of NG-DBSCAN, together with their analysis. Our results, obtained through an extensive experimental campaign with real and synthetic data, substantiate our claims about NG-DBSCAN\u0090s performance and scalability.", 
     "subtype": "research", 
     "authors": [
       {
@@ -2842,7 +2759,7 @@ entities={
   }, 
   "research1069": {
     "title": "OrpheusDB: Bolt-on Versioning for Relational Databases", 
-    "abstract": "Data science teams often collaboratively analyze datasets, generating dataset versions at each stage of iterative exploration and analysis. There is a pressing need for a system that can support dataset versioning, enabling such teams to efficiently store, track, and query across dataset versions. We introduce OrpheusDB, a dataset version control system that \u0096bolts on\u0094 versioning capabilities to a traditional relational database system, thereby gaining the analytics capabilities of the database \u0096for free\u0094. We develop and evaluate multiple data models for representing versioned data, as well as a light-weight partitioning scheme, LyreSplit, to further optimize the models for reduced query latencies. With LyreSplit, OrpheusDB is on average 1000x faster in finding effective (and better) partitionings than competing approaches, while also reducing the latency of version retrieval by up to 20x relative to schemes without partitioning. LyreSplit can be applied in an online fashion as new versions are added, alongside an intelligent migration scheme that reduces migration time by 10x on average.", 
+    "abstract": "Data science teams often collaboratively analyze datasets, generating dataset versions at each stage of iterative exploration and analysis. There is a pressing need for a system that can support dataset versioning, enabling such teams to efficiently store, track, and query across dataset versions. We introduce OrpheusDB, a dataset version control system that \u00d0bolts on\u00d3 versioning capabilities to a traditional relational database system, thereby gaining the analytics capabilities of the database \u00d0for free\u00d3. We develop and evaluate multiple data models for representing versioned data, as well as a light-weight partitioning scheme, LyreSplit, to further optimize the models for reduced query latencies. With LyreSplit, OrpheusDB is on average 1000x faster in finding effective (and better) partitionings than competing approaches, while also reducing the latency of version retrieval by up to 20x relative to schemes without partitioning. LyreSplit can be applied in an online fashion as new versions are added, alongside an intelligent migration scheme that reduces migration time by 10x on average.", 
     "subtype": "research", 
     "authors": [
       {
@@ -3102,7 +3019,7 @@ entities={
   }, 
   "research1402": {
     "title": "Price-Optimal Querying with Data APIs", 
-    "abstract": "Data is increasingly being purchased online in data markets and REST APIs have emerged as a favored method to acquire such data. Typically, sellers charge buyers based on how much data they purchase. In many scenarios, buyers need to make repeated calls to the seller\u00cds API. The challenge is then for buyers to keep track of the data they purchase and avoid purchasing the same data twice. In this paper, we propose lightweight modifications to data APIs to achieve optimal history-aware pricing so that buyers are only charged once for data that they have purchased and that has not been updated. The key idea behind our approach is the notion of refunds: buyers buy data as needed but have the ability to ask for refunds of data that they had already purchased before. We show that our techniques can provide significant data cost savings while reducing overheads by two orders of magnitude as compared to the state-of-the-art competing approaches.   ", 
+    "abstract": "Data is increasingly being purchased online in data markets and REST APIs have emerged as a favored method to acquire such data. Typically, sellers charge buyers based on how much data they purchase. In many scenarios, buyers need to make repeated calls to the seller\u00eas API. The challenge is then for buyers to keep track of the data they purchase and avoid purchasing the same data twice. In this paper, we propose lightweight modifications to data APIs to achieve optimal history-aware pricing so that buyers are only charged once for data that they have purchased and that has not been updated. The key idea behind our approach is the notion of refunds: buyers buy data as needed but have the ability to ask for refunds of data that they had already purchased before. We show that our techniques can provide significant data cost savings while reducing overheads by two orders of magnitude as compared to the state-of-the-art competing approaches.   ", 
     "subtype": "research", 
     "authors": [
       {
@@ -3338,7 +3255,7 @@ entities={
   }, 
   "industrial887": {
     "title": "Query-able Kafka: An agile data analytics pipeline for mobile wireless networks", 
-    "abstract": "Due to their promise of delivering real-time network insights, today\u00eas streaming analytics platforms are increasingly be- ing used in the communications networks where the impact of the insights go beyond sentiment and trend analysis to include real-time detection of security attacks and predic- tion of network state (i.e., is the network transitioning to- wards an outage). Current streaming analytics platforms operate under the assumption that arriving traffic is to the order of kilobytes produced at very high frequencies. How- ever, communications networks, especially the telecommu- nication networks, challenge this assumption because some of the arriving traffic in these networks is to the order of gigabytes, but produced at medium to low velocities. Fur- thermore, these large datasets may need to be ingested in their entirety to render network insights in real-time. Our interest is to subject today\u00eas streaming analytics platforms \u00e3 constructed from state-of-the art software components (Kafka, Spark, HDFS, ElasticSearch) \u00e3 to traffic densities observed in such communications networks. We find that filtering on such large datasets is best done in a common upstream point instead of being pushed to, and repeated, in downstream components. To demonstrate the advantages of such an approach, we modify Apache Kafka to perform limited native data transformation and filtering, relieving the downstream Spark application from doing this. Our approach outperforms four prevalent analytics pipeline ar- chitectures with negligible overhead compared to standard Kafka. (Our modifications to Apache Kafka are publicly available at https://github.com/Esquive/queryable-kafka.git)", 
+    "abstract": "Due to their promise of delivering real-time network insights, today\u0090s streaming analytics platforms are increasingly be- ing used in the communications networks where the impact of the insights go beyond sentiment and trend analysis to include real-time detection of security attacks and predic- tion of network state (i.e., is the network transitioning to- wards an outage). Current streaming analytics platforms operate under the assumption that arriving traffic is to the order of kilobytes produced at very high frequencies. How- ever, communications networks, especially the telecommu- nication networks, challenge this assumption because some of the arriving traffic in these networks is to the order of gigabytes, but produced at medium to low velocities. Fur- thermore, these large datasets may need to be ingested in their entirety to render network insights in real-time. Our interest is to subject today\u0090s streaming analytics platforms \u008b constructed from state-of-the art software components (Kafka, Spark, HDFS, ElasticSearch) \u008b to traffic densities observed in such communications networks. We find that filtering on such large datasets is best done in a common upstream point instead of being pushed to, and repeated, in downstream components. To demonstrate the advantages of such an approach, we modify Apache Kafka to perform limited native data transformation and filtering, relieving the downstream Spark application from doing this. Our approach outperforms four prevalent analytics pipeline ar- chitectures with negligible overhead compared to standard Kafka. (Our modifications to Apache Kafka are publicly available at https://github.com/Esquive/queryable-kafka.git)", 
     "subtype": "industrial", 
     "authors": [
       {
@@ -3450,11 +3367,11 @@ entities={
   }, 
   "research1370": {
     "title": "Reconciling Skyline and Ranking Queries", 
-    "abstract": "Traditionally, skyline and ranking queries have been treated separately as alternative ways of discovering interesting data in potentially large datasets. While ranking queries adopt a specific scoring function to rank tuples, skyline queries return the set of non-dominated tuples and are independent of attribute scales and scoring functions. Ranking queries are thus less general but usually cheaper to compute and widely used in data management systems. We propose a framework to seamlessly integrate these two approaches by introducing the notion of restricted skyline queries (R-skylines). We propose R-skyline operators that generalize both skyline and ranking queries by applying the notion of dominance to a set of scoring functions of interest. Such sets can be characterized, e.g., by imposing constraints on the function\u00eas parameters, such as the weights in a linear scoring function. We discuss the formal properties of these new operators, show how to implement them efficiently, and evaluate them on both synthetic and real datasets.", 
+    "abstract": "Traditionally, skyline and ranking queries have been treated separately as alternative ways of discovering interesting data in potentially large datasets. While ranking queries adopt a specific scoring function to rank tuples, skyline queries return the set of non-dominated tuples and are independent of attribute scales and scoring functions. Ranking queries are thus less general but usually cheaper to compute and widely used in data management systems. We propose a framework to seamlessly integrate these two approaches by introducing the notion of restricted skyline queries (R-skylines). We propose R-skyline operators that generalize both skyline and ranking queries by applying the notion of dominance to a set of scoring functions of interest. Such sets can be characterized, e.g., by imposing constraints on the function\u0090s parameters, such as the weights in a linear scoring function. We discuss the formal properties of these new operators, show how to implement them efficiently, and evaluate them on both synthetic and real datasets.", 
     "subtype": "research", 
     "authors": [
       {
-        "affiliation": "Universit\u009a di Bologna", 
+        "affiliation": "Universit_ di Bologna", 
         "name": "Paolo Ciaccia"
       }, 
       {
@@ -3525,7 +3442,7 @@ entities={
   }, 
   "industrial1085": {
     "title": "Resumable Online Index Rebuild in SQL Server", 
-    "abstract": "Azure SQL Database and the upcoming release of SQL Server enhance Online Index Rebuild to provide fault-tolerance and allow index rebuild operations to resume after a system failure or a user-initiated pause. SQL Server is the first commercial DBMS to support pause and resume functionality for index rebuilds. This is achieved by splitting the operation into incremental units of work and persisting the required state so that it can be resumed later with minimal loss of progress. At the same time, the proposed technology minimizes the log space required for the operation to succeed, making it possible to rebuild large indexes using only a small, constant amount of log space. These capabilities are critical to guarantee the reliability of these operations in an environment where a) the database sizes are increasing at a much faster pace compared to the available hardware, b) system failures are frequent in Cloud architectures using commodity hardware, c) software upgrades and other maintenance tasks are automatically handled by the Cloud platforms, introducing further unexpected failures for the users and d) most modern applications need to be available 24/7 and have very tight maintenance windows. This paper describes the design of \u0096Resumable Online Index Rebuild\u0094 and discusses how this technology can be extended to cover more schema management operations in the future.", 
+    "abstract": "Azure SQL Database and the upcoming release of SQL Server enhance Online Index Rebuild to provide fault-tolerance and allow index rebuild operations to resume after a system failure or a user-initiated pause. SQL Server is the first commercial DBMS to support pause and resume functionality for index rebuilds. This is achieved by splitting the operation into incremental units of work and persisting the required state so that it can be resumed later with minimal loss of progress. At the same time, the proposed technology minimizes the log space required for the operation to succeed, making it possible to rebuild large indexes using only a small, constant amount of log space. These capabilities are critical to guarantee the reliability of these operations in an environment where a) the database sizes are increasing at a much faster pace compared to the available hardware, b) system failures are frequent in Cloud architectures using commodity hardware, c) software upgrades and other maintenance tasks are automatically handled by the Cloud platforms, introducing further unexpected failures for the users and d) most modern applications need to be available 24/7 and have very tight maintenance windows. This paper describes the design of \u00d0Resumable Online Index Rebuild\u00d3 and discusses how this technology can be extended to cover more schema management operations in the future.", 
     "subtype": "industrial", 
     "authors": [
       {
@@ -3712,7 +3629,7 @@ entities={
       }, 
       {
         "affiliation": "SAP", 
-        "name": "G\u00f4nter Radestock"
+        "name": "G\u0099nter Radestock"
       }, 
       {
         "affiliation": "SAP", 
@@ -3776,7 +3693,7 @@ entities={
   }, 
   "research571": {
     "title": "SMCQL: Secure Querying for Federated Databases", 
-    "abstract": "People and machines are collecting data at an unprecedented rate. Despite this newfound abundance of data, progress has been slow in sharing it for open science, business, and other data-intensive endeavors. Many such efforts are stymied by privacy concerns and regulatory compliance issues. For example, many hospitals are interested in pooling their medical records for research, but none may disclose arbitrary patient records to researchers or other healthcare providers. In this context we propose the Private Data Network (PDN), a federated database for querying over the collective data of mutually distrustful parties. In a PDN, each member database does not reveal its tuples to its peers nor to the query writer. Instead, the user submits a query to an honest broker that plans and coordinates its execution over multiple private databases using secure multiparty computation (SMC). Here, each database\u00eas query execution is oblivious, and its program counters and memory traces are agnostic to the inputs of others.  We introduce a framework for executing PDN queries named SMCQL. This system translates SQL statements into SMC primitives to compute query results over the union of its source databases without revealing sensitive information about individual tuples to peer data providers or the honest broker. Only the honest broker and the querier receive the results of a PDN query. For fast secure query evaluation, we explore a heuristics-driven optimizer that minimizes the PDN\u00eas use of secure computation and partitions its query evaluation into scalable slices.", 
+    "abstract": "People and machines are collecting data at an unprecedented rate. Despite this newfound abundance of data, progress has been slow in sharing it for open science, business, and other data-intensive endeavors. Many such efforts are stymied by privacy concerns and regulatory compliance issues. For example, many hospitals are interested in pooling their medical records for research, but none may disclose arbitrary patient records to researchers or other healthcare providers. In this context we propose the Private Data Network (PDN), a federated database for querying over the collective data of mutually distrustful parties. In a PDN, each member database does not reveal its tuples to its peers nor to the query writer. Instead, the user submits a query to an honest broker that plans and coordinates its execution over multiple private databases using secure multiparty computation (SMC). Here, each database\u0090s query execution is oblivious, and its program counters and memory traces are agnostic to the inputs of others.  We introduce a framework for executing PDN queries named SMCQL. This system translates SQL statements into SMC primitives to compute query results over the union of its source databases without revealing sensitive information about individual tuples to peer data providers or the honest broker. Only the honest broker and the querier receive the results of a PDN query. For fast secure query evaluation, we explore a heuristics-driven optimizer that minimizes the PDN\u0090s use of secure computation and partitions its query evaluation into scalable slices.", 
     "subtype": "research", 
     "authors": [
       {
@@ -3943,30 +3860,9 @@ entities={
     "type": "research", 
     "id": "research330"
   }, 
-  "research1362": {
-    "title": "Scalable and robust set similarity join", 
-    "abstract": "Set similarity join is a fundamental and well-studied database operator. It is usually studied in the exact setting where the goal is to compute all pairs of sets that exceed a given level of similarity (measured e.g. as Jaccard similarity). But set similarity join is often used in settings where 100% recall may not be important --- indeed, where the exact set similarity join is itself only an approximation of the desired result set.  We present a new randomized algorithm for set similarity join that can achieve any desired recall up to 100%,  and show theoretically and empirically that it significantly outperforms state-of-the-art implementations of exact methods, and improves on existing approximate methods. Our experiments on benchmark data sets show that speedups of more than 1 order of magnitude is possible on real data, while keeping the recall above 90%. Our algorithm makes use of recent theoretical advances in high-dimensional sketching and indexing that we believe to be of wider relevance to the database community.", 
-    "subtype": "research", 
-    "authors": [
-      {
-        "affiliation": "IT University of Copenhagen", 
-        "name": "Tobias Christiani"
-      }, 
-      {
-        "affiliation": "IT University of Copenhagen", 
-        "name": "Rasmus Pagh"
-      }, 
-      {
-        "affiliation": "IT University of Copenhagen", 
-        "name": "Johan Sivertsen"
-      }
-    ], 
-    "type": "research", 
-    "id": "research1362"
-  }, 
   "research505": {
     "title": "Shrink - Prescribing Resiliency Solutions for Streaming", 
-    "abstract": "Streaming query deployments make up a vital part of cloud oriented applications. They vary widely in their data, logic, and statefulness, and are typically executed in multi-tenant distributed environments with varying uptime SLAs. In order to achieve these SLAs, one of a number of proposed resiliency strategies is employed to protect against failure. This paper has introduced the first, comprehensive, cloud friendly comparison between different resiliency techniques for streaming queries. In this paper, we introduce models which capture the costs associated with different resiliency strategies, and through a series of experiments which implement and validate these models, show that (1) there is no single resiliency strategy which efficiently handles most streaming scenarios; (2) the optimization space is too complex for a person to employ a \u0096rules of thumb\u0094 approach; and (3) there exists a clear generalization of periodic checkpointing that is worth considering in many cases. Finally, the models presented in this paper can be adapted to fit a wide variety of resiliency strategies, and likely have important consequences for cloud services beyond those that are obviously streaming.", 
+    "abstract": "Streaming query deployments make up a vital part of cloud oriented applications. They vary widely in their data, logic, and statefulness, and are typically executed in multi-tenant distributed environments with varying uptime SLAs. In order to achieve these SLAs, one of a number of proposed resiliency strategies is employed to protect against failure. This paper has introduced the first, comprehensive, cloud friendly comparison between different resiliency techniques for streaming queries. In this paper, we introduce models which capture the costs associated with different resiliency strategies, and through a series of experiments which implement and validate these models, show that (1) there is no single resiliency strategy which efficiently handles most streaming scenarios; (2) the optimization space is too complex for a person to employ a \u00d0rules of thumb\u00d3 approach; and (3) there exists a clear generalization of periodic checkpointing that is worth considering in many cases. Finally, the models presented in this paper can be adapted to fit a wide variety of resiliency strategies, and likely have important consequences for cloud services beyond those that are obviously streaming.", 
     "subtype": "research", 
     "authors": [
       {
@@ -4160,7 +4056,7 @@ entities={
     "id": "research1292"
   }, 
   "industrial1041": {
-    "title": "State Management in Apache Flink\u00c2: Consistent Stateful Distributed Stream Processing", 
+    "title": "State Management in Apache Flink\u00e5: Consistent Stateful Distributed Stream Processing", 
     "abstract": "Stream processors are emerging in industry as an apparatus that drives analytical but also mission critical services handling the core of persistent application logic. Thus, apart from scalability and low-latency, a rising system need is first-class support for application state together with strong consistency guarantees, and adaptivity to cluster reconfigurations, software patches and partial failures. Although prior systems research has addressed some of these specific problems, the practical challenge lies on how such guarantees can be materialized in a transparent, non-intrusive manner that relieves the user from unnecessary constraints. Such needs served as the main design principles of state management in Apache Flink, an open source, scalable stream processor.   We present Flink's core pipelined, in-flight mechanism which guarantees the creation of lightweight, consistent, distributed snapshots of application state, progressively, without impacting continuous execution. Consistent snapshots cover all needs for system reconfiguration, fault tolerance and version management through coarse grained rollback recovery. Application state is declared explicitly to the system, allowing efficient partitioning and transparent commits to persistent storage. We further present Flink's backend implementations and mechanisms for high availability, external state queries and output commit. Finally, we demonstrate how these mechanisms behave in practice with metrics and large-deployment insights exhibiting the low performance trade-offs of our approach and the general benefits of exploiting asynchrony in continuous, yet sustainable system deployments.", 
     "subtype": "industrial", 
     "authors": [
@@ -4174,7 +4070,7 @@ entities={
       }, 
       {
         "affiliation": "King Digital Entertainment Limited", 
-        "name": "Gyula F\u0084ra"
+        "name": "Gyula F\u00e3ra"
       }, 
       {
         "affiliation": "KTH", 
@@ -4239,7 +4135,7 @@ entities={
   }, 
   "research1376": {
     "title": "Stitching Web Tables for Improving Matching Quality [Experiments and Analyses]", 
-    "abstract": "Tables on web pages (\u0096web tables\u0094) cover a diversity of topics and can be a source of information for different tasks such as knowledge base augmentation or the ad-hoc extension of datasets. However, to use this information, the tables must first be integrated, either with each other or into existing data sources. The challenges that matching methods for this purpose have to overcome are the high heterogeneity and the small size of the tables. Though it is known that the majority of web tables in currently available corpora are very small, most of the existing methods do not recognise this fact as a problem for the matching process. In this experimental paper, we evaluate T2K Match, an existing web table to knowledge base matching method, and COMA, a standard schema matching tool, on a sample of web tables that is more realistic than the gold standards that are often used to compare matching systems, drawn from a corpus of 5 million web tables. We find that the methods fail to produce a correct result for many of the very small tables in this sample. As a remedy, we propose to stitch the many small web tables into larger ones. For this stitching process, we experimentally evaluate several standard schema matching methods in combination with holistic schema matching. Limiting this procedure to web tables from the same web site decreases the heterogeneity and we can perform this stitching at very high precision. Our experiments show that we improve the results for the original task by 0.38 in F1-Measure for T2K Match and by 0.14 for COMA when applying the stitching method. Stitching the tables further allows us to reduce the amount of tables in the corpus from 5 million original web tables to as few as 100,000 stitched tables.", 
+    "abstract": "Tables on web pages (\u00d0web tables\u00d3) cover a diversity of topics and can be a source of information for different tasks such as knowledge base augmentation or the ad-hoc extension of datasets. However, to use this information, the tables must first be integrated, either with each other or into existing data sources. The challenges that matching methods for this purpose have to overcome are the high heterogeneity and the small size of the tables. Though it is known that the majority of web tables in currently available corpora are very small, most of the existing methods do not recognise this fact as a problem for the matching process. In this experimental paper, we evaluate T2K Match, an existing web table to knowledge base matching method, and COMA, a standard schema matching tool, on a sample of web tables that is more realistic than the gold standards that are often used to compare matching systems, drawn from a corpus of 5 million web tables. We find that the methods fail to produce a correct result for many of the very small tables in this sample. As a remedy, we propose to stitch the many small web tables into larger ones. For this stitching process, we experimentally evaluate several standard schema matching methods in combination with holistic schema matching. Limiting this procedure to web tables from the same web site decreases the heterogeneity and we can perform this stitching at very high precision. Our experiments show that we improve the results for the original task by 0.38 in F1-Measure for T2K Match and by 0.14 for COMA when applying the stitching method. Stitching the tables further allows us to reduce the amount of tables in the corpus from 5 million original web tables to as few as 100,000 stitched tables.", 
     "subtype": "research", 
     "authors": [
       {
@@ -4274,27 +4170,6 @@ entities={
     ], 
     "type": "research", 
     "id": "research337"
-  }, 
-  "research1372": {
-    "title": "TPStream: Low-Latency Temporal Pattern Matching on Event Streams", 
-    "abstract": "Complex Event Processing (CEP) has emerged as the state-of-the-art technology for continuously monitoring and analyzing streams of events in time-critical applications. The key feature in CEP is sequential pattern matching to detect a user-defined sequence of conditions on event streams. However, many CEP applications are not restricted to events only, but require native support for situations (aggregated event data lasting periods of time) and expressive temporal pattern matching among these situations. These important requirements regarding situations are not sufficiently addressed in the CEP literature so far.  In this paper we present TPStream, a novel event-processing operator for both deriving situations from event streams and detecting temporal patterns among situations. First, we provide a formal foundation of situations and TPStream. Then, we propose a low-latency algorithm for TPStream that delivers situations and temporal matches at the earliest possible point in time. Furthermore, we utilize a simple, yet effective cost model in order to adapt to changing workloads on the fly and with negligible cost for migrating operator states. The results of our exhaustive experimental evaluation show that TPStream is capable of processing high-volume event streams with low latency and outperforms applicable CEP solutions from academia and industry.", 
-    "subtype": "research", 
-    "authors": [
-      {
-        "affiliation": "Philipps University Marburg", 
-        "name": "Michael K_rber"
-      }, 
-      {
-        "affiliation": "Philipps University Marburg", 
-        "name": "Nikolaus Glombiewski"
-      }, 
-      {
-        "affiliation": "University of Marburg", 
-        "name": "Bernhard Seeger"
-      }
-    ], 
-    "type": "research", 
-    "id": "research1372"
   }, 
   "research572": {
     "title": "The End of a Myth: Distributed Transaction Can Scale", 
@@ -4647,7 +4522,7 @@ entities={
   }, 
   "research1403": {
     "title": "Voodoo - A Vector Algebra for Portable Database Performance on Modern Hardware", 
-    "abstract": "In-memory databases require careful tuning and many engineering tricks to achieve good performance. This kind of database performance engineering is hard: a plethora of both data and hardware-dependent optimization techniques create a design space that is hard for a skilled database engineer _ much less a query compiler _ to navigate. To facilitate performance-oriented design exploration and query plan compilation, we propose and present Voodoo, a declarative intermediate algebra that abstracts the detailed architectural properties of the hardware, such as multi- or many-core architectures, hierarchical caches and SIMD registers, without losing the ability generate highly tuned code. Because consists of a collection of declarative, vector-oriented operations, Voodoo is easier to reason about and tune than low-level C and related hardware-focused extensions (i.e., Vector Intrinsics, OpenCL, CUDA, etc.). This enables our Voodoo compiler (which actually generates OpenCL) to produce code that rivals and even outperforms the fastest state-of-the-art in memory databases for both GPUs and CPUs. In addition, Voodoo makes it possible to to express techniques as diverse as cache-conscious processing, predication and SIMD (again on both GPUs and CPUs) to be expressed with just a few lines of code. Central to our approach is a novel idea we call control vectors, which allow programmers to expose parallelism to the Voodoo compiler in a highly abstracted manner that is largely agnostic to the targeted hardware, enabling portable performance across different hardware platforms. We used Voodoo to build an alternative backend for MonetDB, a popular open-source in-memory database. Our backend allows MonetDB to perform at the same level as highly tuned in-memory databases, including HyPeR and Ocelot. We also demonstrate Voodoo\u00cds usefulness when investigating hardware conscious tuning techniques, assessing their performance on different queries, devices and data.  ", 
+    "abstract": "In-memory databases require careful tuning and many engineering tricks to achieve good performance. This kind of database performance engineering is hard: a plethora of both data and hardware-dependent optimization techniques create a design space that is hard for a skilled database engineer _ much less a query compiler _ to navigate. To facilitate performance-oriented design exploration and query plan compilation, we propose and present Voodoo, a declarative intermediate algebra that abstracts the detailed architectural properties of the hardware, such as multi- or many-core architectures, hierarchical caches and SIMD registers, without losing the ability generate highly tuned code. Because consists of a collection of declarative, vector-oriented operations, Voodoo is easier to reason about and tune than low-level C and related hardware-focused extensions (i.e., Vector Intrinsics, OpenCL, CUDA, etc.). This enables our Voodoo compiler (which actually generates OpenCL) to produce code that rivals and even outperforms the fastest state-of-the-art in memory databases for both GPUs and CPUs. In addition, Voodoo makes it possible to to express techniques as diverse as cache-conscious processing, predication and SIMD (again on both GPUs and CPUs) to be expressed with just a few lines of code. Central to our approach is a novel idea we call control vectors, which allow programmers to expose parallelism to the Voodoo compiler in a highly abstracted manner that is largely agnostic to the targeted hardware, enabling portable performance across different hardware platforms. We used Voodoo to build an alternative backend for MonetDB, a popular open-source in-memory database. Our backend allows MonetDB to perform at the same level as highly tuned in-memory databases, including HyPeR and Ocelot. We also demonstrate Voodoo\u00eas usefulness when investigating hardware conscious tuning techniques, assessing their performance on different queries, devices and data.  ", 
     "subtype": "research", 
     "authors": [
       {
