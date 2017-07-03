@@ -1,4 +1,0 @@
-nav_hide=["nav_schedule", "nav_meetups"]
-config_params = {
-	"display_all": true
-}
