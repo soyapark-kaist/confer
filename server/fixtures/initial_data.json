@@ -386,7 +386,6 @@
 	{"model": "server.Conference",
 	    "pk": 28,
 	    "fields": {
-	      "hidden": true,
 	      "unique_name": "vldb2017",
 	      "confer_name": "vldb2017",
 	      "title": "VLDB 2017 - 43rd International Conference on Very Large Data Bases",
