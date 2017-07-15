@@ -1,0 +1,561 @@
+sessions={
+
+  "Demo Group A": {
+    "day": "Tuesday and Wednesday",
+    "s_title": "Demo Group A",
+    "submissions": [
+      "demo1120",
+      "demo1224",
+      "demo1261",
+      "demo918",
+      "demo919",
+      "demo928",
+      "demo951",
+      "demo965",
+      "demo996"
+    ]
+  },
+  "Demo Group B": {
+    "day": "Tuesday and Thursday",
+    "s_title": "Demo Group B",
+    "submissions": [
+      "demo1141",
+      "demo1144",
+      "demo1146",
+      "demo1189",
+      "demo1256",
+      "demo1259",
+      "demo1270",
+      "demo960"
+    ]
+  },
+  "Demo Group C": {
+    "day": "Tuesday and Wednesday",
+    "s_title": "Demo Group C",
+    "submissions": [
+      "demo1060",
+      "demo1063",
+      "demo1086",
+      "demo1116",
+      "demo1129",
+      "demo1154",
+      "demo956",
+      "demo974"
+    ]
+  },
+  "Demo Group D": {
+    "day": "Wednesday and Thursday",
+    "s_title": "Demo Group D",
+    "submissions": [
+      "demo1081",
+      "demo1112",
+      "demo1161",
+      "demo1173",
+      "demo1214",
+      "demo1222",
+      "demo939",
+      "demo948",
+      "demo976"
+    ]
+  },
+  "Session 6a": {
+    "day": "Wednesday",
+    "s_title": "Concurrency Control",
+    "submissions": [
+      "research139",
+      "research509",
+      "research609"
+    ]
+  },
+  "Session 3a": {
+    "day": "Tuesday",
+    "s_title": "Transactions",
+    "submissions": [
+      "research1069",
+      "research514",
+      "research572"
+    ]
+  },
+  "Session 7a": {
+    "day": "Thursday",
+    "s_title": "Transactions and Persistence",
+    "submissions": [
+      "industrial778",
+      "research415",
+      "research430"
+    ]
+  },
+  "Session 9a": {
+    "day": "Thursday",
+    "s_title": "DB Engines 2",
+    "submissions": [
+      "industrial1091",
+      "research1278",
+      "research428"
+    ]
+  },
+  "Session 5a": {
+    "day": "Wednesday",
+    "s_title": "Scalable Storage",
+    "submissions": [
+      "research1286",
+      "industrial1072",
+      "research1380",
+      "research423"
+    ]
+  },
+  "Session 8a": {
+    "day": "Thursday",
+    "s_title": "Data Partitioning",
+    "submissions": [
+      "research116",
+      "research433",
+      "research500",
+      "research512"
+    ]
+  },
+  "Session 2a": {
+    "day": "Tuesday",
+    "s_title": "Query Processing and Optimization",
+    "submissions": [
+      "research1287",
+      "research506",
+      "research602",
+      "research679"
+    ]
+  },
+  "Session 4a": {
+    "day": "Wednesday",
+    "s_title": "High Performance Query Processing",
+    "submissions": [
+      "research1398",
+      "research1403",
+      "research335",
+      "research682"
+    ]
+  },
+  "Session 7b": {
+    "day": "Thursday",
+    "s_title": "Data Access",
+    "submissions": [
+      "research1320",
+      "research431",
+      "research932"
+    ]
+  },
+  "Session 7c": {
+    "day": "Thursday",
+    "s_title": "Data Statistics",
+    "submissions": [
+      "research747",
+      "industrial1212",
+      "industrial910"
+    ]
+  },
+  "Session 9c": {
+    "day": "Thursday",
+    "s_title": "Text and Semi-Structured",
+    "submissions": [
+      "research323",
+      "research510",
+      "research511",
+      "research860"
+    ]
+  },
+  "Session 3b": {
+    "day": "Tuesday",
+    "s_title": "Spatial Data management 2",
+    "submissions": [
+      "research1279",
+      "research1374",
+      "research144",
+      "research507"
+    ]
+  },
+  "Session 1b": {
+    "day": "Tuesday",
+    "s_title": "DB Engines 1",
+    "submissions": [
+      "research1396",
+      "industrial1085",
+      "research409",
+      "industrial915"
+    ]
+  },
+  "Session 6c": {
+    "day": "Wednesday",
+    "s_title": "Specialized Data Management",
+    "submissions": [
+      "research1290",
+      "research1386",
+      "research1401",
+      "research318"
+    ]
+  },
+  "Session 4b": {
+    "day": "Wednesday",
+    "s_title": "Recommendations and Skylines",
+    "submissions": [
+      "research1370",
+      "research610",
+      "research851",
+      "research857"
+    ]
+  },
+  "Session 5b": {
+    "day": "Wednesday",
+    "s_title": "Crowdsourcing",
+    "submissions": [
+      "research426",
+      "research508",
+      "research613",
+      "research863"
+    ]
+  },
+  "Session 5c": {
+    "day": "Wednesday",
+    "s_title": "Stream Processing 3",
+    "submissions": [
+      "research130",
+      "industrial1097",
+      "research1304",
+      "research429"
+    ]
+  },
+  "Session 2b": {
+    "day": "Tuesday",
+    "s_title": "Stream Processing 1",
+    "submissions": [
+      "research314",
+      "industrial1041",
+      "industrial1218",
+      "industrial875"
+    ]
+  },
+  "Session 8b": {
+    "day": "Thursday",
+    "s_title": "Graphs and Networks 5",
+    "submissions": [
+      "research329",
+      "research333",
+      "research513",
+      "research77"
+    ]
+  },
+  "Session 8c": {
+    "day": "Thursday",
+    "s_title": "Visualization",
+    "submissions": [
+      "research1293",
+      "research1321",
+      "research435",
+      "research570"
+    ]
+  },
+  "Session 1c": {
+    "day": "Tuesday",
+    "s_title": "Data Cleaning",
+    "submissions": [
+      "research1283",
+      "research1371",
+      "research517",
+      "research855"
+    ]
+  },
+  "Session 6b": {
+    "day": "Wednesday",
+    "s_title": "Query Optimization",
+    "submissions": [
+      "research1310",
+      "research1375",
+      "research1399",
+      "research680"
+    ]
+  },
+  "Session 3c": {
+    "day": "Tuesday",
+    "s_title": "Graphs and Networks 2",
+    "submissions": [
+      "research1365",
+      "research1381",
+      "research235",
+      "research742"
+    ]
+  },
+  "Session 4c": {
+    "day": "Wednesday",
+    "s_title": "Approximation Structures",
+    "submissions": [
+      "research1133",
+      "research1243",
+      "research1377",
+      "research754"
+    ]
+  },
+  "Session 9b": {
+    "day": "Thursday",
+    "s_title": "Query Processing",
+    "submissions": [
+      "research1292",
+      "research1331",
+      "research738",
+      "research853"
+    ]
+  },
+  "Session 2c": {
+    "day": "Tuesday",
+    "s_title": "Data Formats",
+    "submissions": [
+      "research1053",
+      "industrial1131",
+      "research677",
+      "research852"
+    ]
+  },
+  "Panel": {
+    "day": "Tuesday",
+    "s_title": "Panel",
+    "submissions": [
+      "panel1"
+    ]
+  },
+  "keynote 1": {
+    "day": "Tuesday",
+    "s_title": "Welcomes + PC Chairs + W. Lehner keynote",
+    "submissions": [
+      "keynote1"
+    ]
+  },
+  "keynote 2": {
+    "day": "Wednesday",
+    "s_title": "VLDB Awards + M. Franklin keynote",
+    "submissions": [
+      "keynote2"
+    ]
+  },
+  "plenary 3": {
+    "day": "Thursday",
+    "s_title": "Endowment Awards + J. Dittrich plenary",
+    "submissions": [
+      "awards1",
+      "awards2",
+      "awards3",
+      "plenary3"
+    ]
+  },
+  "Session 9d": {
+    "day": "Thursday",
+    "s_title": "Spatial Data Management 3",
+    "submissions": [
+      "research1297",
+      "research411",
+      "research607",
+      "research856"
+    ]
+  },
+  "Session 3d": {
+    "day": "Tuesday",
+    "s_title": "Information Integration",
+    "submissions": [
+      "research1317",
+      "research1327",
+      "research1363",
+      "research1376"
+    ]
+  },
+  "Session 4d": {
+    "day": "Wednesday",
+    "s_title": "Stream Processing 2",
+    "submissions": [
+      "research213",
+      "industrial1028",
+      "research384",
+      "research505"
+    ]
+  },
+  "Session 8e": {
+    "day": "Thursday",
+    "s_title": "Estimation and Approximation",
+    "submissions": [
+      "research1366",
+      "research223",
+      "research432",
+      "research600"
+    ]
+  },
+  "Session 5e": {
+    "day": "Wednesday",
+    "s_title": "Social Network Analysis",
+    "submissions": [
+      "research332",
+      "research565",
+      "research611",
+      "research737"
+    ]
+  },
+  "Session 1e": {
+    "day": "Tuesday",
+    "s_title": "Graphs and Networks 1",
+    "submissions": [
+      "research219",
+      "research330",
+      "research331",
+      "research850"
+    ]
+  },
+  "Session 9e": {
+    "day": "Thursday",
+    "s_title": "Distributed Systems and Cloud 2",
+    "submissions": [
+      "research427",
+      "industrial887",
+      "research1402",
+      "research678"
+    ]
+  },
+  "Session 6e": {
+    "day": "Wednesday",
+    "s_title": "Data Mining and Analytics",
+    "submissions": [
+      "research1291",
+      "research319",
+      "research489",
+      "research606"
+    ]
+  },
+  "Session 5d": {
+    "day": "Wednesday",
+    "s_title": "Graphs and Networks 3",
+    "submissions": [
+      "research1330",
+      "research1364",
+      "research573",
+      "research741"
+    ]
+  },
+  "Session 1d": {
+    "day": "Tuesday",
+    "s_title": "Spatial Data Management 1",
+    "submissions": [
+      "research1319",
+      "research218",
+      "research413",
+      "research616"
+    ]
+  },
+  "Session 2d": {
+    "day": "Tuesday",
+    "s_title": "Privacy and Security",
+    "submissions": [
+      "research1382",
+      "research499",
+      "research558",
+      "research571"
+    ]
+  },
+  "Session 2e": {
+    "day": "Tuesday",
+    "s_title": "Event Processing",
+    "submissions": [
+      "research138",
+      "research1384",
+      "research321",
+      "research337"
+    ]
+  },
+  "Session 3e": {
+    "day": "Tuesday",
+    "s_title": "Applications",
+    "submissions": [
+      "industrial1190",
+      "industrial1203",
+      "industrial825",
+      "industrial975"
+    ]
+  },
+  "Session 8d": {
+    "day": "Thursday",
+    "s_title": "Distributed Systems and Cloud 1",
+    "submissions": [
+      "research603",
+      "industrial843",
+      "research845",
+      "industrial927"
+    ]
+  },
+  "Session 6d": {
+    "day": "Wednesday",
+    "s_title": "Graphs and Networks 4",
+    "submissions": [
+      "research1307",
+      "research306",
+      "research574",
+      "research612"
+    ]
+  },
+  "Session 7d": {
+    "day": "Thursday",
+    "s_title": "Potpourri",
+    "submissions": [
+      "research1385",
+      "research1397",
+      "research1400"
+    ]
+  },
+  "Tutorial 1": {
+    "day": "Tuesday",
+    "s_title": "Tutorial 1",
+    "submissions": [
+      "tutorial1276"
+    ]
+  },
+  "Tutorial 2": {
+    "day": "Tuesday",
+    "s_title": "Tutorial 2",
+    "submissions": [
+      "tutorial907"
+    ]
+  },
+  "Tutorial 3": {
+    "day": "Tuesday",
+    "s_title": "Tutorial 3",
+    "submissions": [
+      "tutorial1272"
+    ]
+  },
+  "Tutorial 4": {
+    "day": "Wednesday",
+    "s_title": "Tutorial 4",
+    "submissions": [
+      "tutorial893"
+    ]
+  },
+  "Tutorial 5": {
+    "day": "Wednesday",
+    "s_title": "Tutorial 5",
+    "submissions": [
+      "tutorial1125"
+    ]
+  },
+  "Tutorial 6": {
+    "day": "Wednesday",
+    "s_title": "Tutorial 6",
+    "submissions": [
+      "tutorial1179"
+    ]
+  },
+  "Tutorial 7": {
+    "day": "Thursday",
+    "s_title": "Tutorial 7",
+    "submissions": [
+      "tutorial1198"
+    ]
+  },
+  "Tutorial 8": {
+    "day": "Thursday",
+    "s_title": "Tutorial 8",
+    "submissions": [
+      "tutorial1271"
+    ]
+  }
+}
