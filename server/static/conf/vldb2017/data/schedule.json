@@ -312,6 +312,41 @@ schedule=[
         "slot_class": "afternoon1", 
         "slot_id": "8", 
         "time": "13:30-15:00"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Audimax", 
+            "session": "Session 9a"
+          }, 
+          {
+            "room": "Auditorium 602", 
+            "session": "Session 9b"
+          }, 
+          {
+            "room": "Auditorium 606", 
+            "session": "Session 9c"
+          },
+          {
+            "room": "Auditorium 601", 
+            "session": "Session 9d"
+          },
+          {
+            "room": "Auditorium 670", 
+            "session": "Session 9e"
+          },
+          {
+            "room": "Auditorium 1601", 
+            "session": "Tutorial 8"
+          },
+          {
+            "room": "Classrooms 2601, 2605, 2607", 
+            "session": "Demo Group B"
+          }
+        ], 
+        "slot_class": "afternoon2", 
+        "slot_id": "9", 
+        "time": "15:30-17:00"
       }
     ]
   }
