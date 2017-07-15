@@ -119,17 +119,6 @@ schedule=[
         "slot_class": "late afternoon", 
         "slot_id": "3", 
         "time": "15:30-17:00"
-      },
-      {
-        "sessions": [
-          {
-            "room": "Audimax Foyer", 
-            "session": "Poster Reception"
-          } 
-        ], 
-        "slot_class": "poster reception", 
-        "slot_id": "3+", 
-        "time": "17:00-18:00"
       }
     ]
   }, 
@@ -248,29 +237,7 @@ schedule=[
         "slot_class": "late afternoon", 
         "slot_id": "6", 
         "time": "15:30-17:00"
-      },
-      {
-        "sessions": [
-          {
-            "room": "Audimax Foyer", 
-            "session": "Poster Reception"
-          } 
-        ], 
-        "slot_class": "poster reception", 
-        "slot_id": "6+", 
-        "time": "17:00-18:00"
-      }, 
-      {
-        "sessions": [
-          {
-            "room": "Hofbräuhaus", 
-            "session": "VLDB Octoberfest"
-          } 
-        ], 
-        "slot_class": "dinner", 
-        "slot_id": "6++", 
-        "time": "19:00-23:00"
-      } 
+      }
     ]
   }, 
   {

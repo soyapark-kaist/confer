@@ -1,7 +1,7 @@
 sessions={
 
   "Demo Group A": {
-    "day": "Tuesday and Wednesday",
+    "day": "Tuesday Wednesday",
     "s_title": "Demo Group A",
     "submissions": [
       "demo1120",
@@ -16,7 +16,7 @@ sessions={
     ]
   },
   "Demo Group B": {
-    "day": "Tuesday and Thursday",
+    "day": "Tuesday Thursday",
     "s_title": "Demo Group B",
     "submissions": [
       "demo1141",
@@ -30,7 +30,7 @@ sessions={
     ]
   },
   "Demo Group C": {
-    "day": "Tuesday and Wednesday",
+    "day": "Tuesday Wednesday",
     "s_title": "Demo Group C",
     "submissions": [
       "demo1060",
@@ -44,7 +44,7 @@ sessions={
     ]
   },
   "Demo Group D": {
-    "day": "Wednesday and Thursday",
+    "day": "Wednesday Thursday",
     "s_title": "Demo Group D",
     "submissions": [
       "demo1081",
