@@ -1,5 +1,4 @@
 entities={
-
   "demo918": {
     "title": "Interactive Navigation of Open Data Linkages",
     "abstract": "We developed Toronto Open Data Search to support the ad hoc, interactive discovery of connections or linkages between datasets. It can be used to efficiently navigate through the open data cloud. Our system consists of three parts: a user-interface provided by a Web application; a scalable backend infrastructure that supports navigational queries; and a dynamic repository of open data tables. Our system uses LSH Ensemble, an efficient index structure, to compute linkages (attributes in two datasets with high containment score) in real time at Internet scale. Our application allows users to navigate along these linkages by joining datasets. LSH Ensemble is scalable, providing millisecond response times for linkage discovery queries even over millions of datasets. Our system offers users a highly interactive experience making unrelated (and unlinked) dynamic collections of datasets appear as a richly connected cloud of data that can be navigated and combined easily in real time.",
@@ -1819,7 +1818,7 @@ entities={
   },
   "keynote1": {
     "title": "Keynote Talk",
-    "abstract": ""
+    "abstract": "",
     "subtype": "keynote",
     "authors": [
       {
