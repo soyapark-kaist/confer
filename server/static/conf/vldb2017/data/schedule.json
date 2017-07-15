@@ -13,18 +13,7 @@ schedule=[
         "slot_class": "plenary", 
         "slot_id": "plenary 1", 
         "time": "08:30-10:00"
-      }, 
-      {
-        "sessions": [
-          {
-            "room": "", 
-            "session": "morning break"
-          } 
-        ], 
-        "slot_class": "morning break", 
-        "slot_id": "plenary-1", 
-        "time": "10:00-10:30"
-      }, 
+      },
       {
         "sessions": [
           {
@@ -106,17 +95,7 @@ schedule=[
         "slot_id": "2", 
         "time": "13:30-15:00"
       },
-      {
-        "sessions": [
-          {
-            "room": "", 
-            "session": "afternoon break"
-          } 
-        ], 
-        "slot_class": "break", 
-        "slot_id": "2-3", 
-        "time": "15:00-15:30"
-      }, 
+
       {
         "sessions": [
           {
@@ -179,18 +158,7 @@ schedule=[
         "slot_class": "plenary", 
         "slot_id": "plenary 2", 
         "time": "08:30-10:00"
-      }, 
-      {
-        "sessions": [
-          {
-            "room": "", 
-            "session": "morning break"
-          } 
-        ], 
-        "slot_class": "morning break", 
-        "slot_id": "plenary-4", 
-        "time": "10:00-10:30"
-      }, 
+      },
       {
         "sessions": [
           {
@@ -271,17 +239,6 @@ schedule=[
       {
         "sessions": [
           {
-            "room": "", 
-            "session": "afternoon break"
-          } 
-        ], 
-        "slot_class": "break", 
-        "slot_id": "5-6", 
-        "time": "15:00-15:30"
-      }, 
-      {
-        "sessions": [
-          {
             "room": "Audimax", 
             "session": "Session 6a"
           }, 
@@ -352,18 +309,7 @@ schedule=[
         "slot_class": "plenary", 
         "slot_id": "plenary 3", 
         "time": "08:30-10:00"
-      }, 
-      {
-        "sessions": [
-          {
-            "room": "", 
-            "session": "morning break"
-          } 
-        ], 
-        "slot_class": "morning break", 
-        "slot_id": "plenary-7", 
-        "time": "10:00-10:30"
-      }, 
+      },
       {
         "sessions": [
           {
@@ -432,17 +378,6 @@ schedule=[
         "slot_class": "early afternoon", 
         "slot_id": "8", 
         "time": "13:30-15:00"
-      },
-      {
-        "sessions": [
-          {
-            "room": "", 
-            "session": "afternoon break"
-          }
-        ], 
-        "slot_class": "break", 
-        "slot_id": "8-9", 
-        "time": "15:00-15:30"
       }
     ]
   }
