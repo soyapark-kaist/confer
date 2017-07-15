@@ -10,7 +10,7 @@ schedule=[
             "session": "keynote 1"
           } 
         ], 
-        "slot_class": "plenary", 
+        "slot_class": "plenary morning1", 
         "slot_id": "plenary 1", 
         "time": "08:30-10:00"
       },
@@ -45,7 +45,7 @@ schedule=[
             "session": "Demo Group A"
           }
         ], 
-        "slot_class": "morning", 
+        "slot_class": "morning2", 
         "slot_id": "1", 
         "time": "10:30-12:00"
       },
@@ -80,7 +80,7 @@ schedule=[
             "session": "Demo Group B"
           }
         ], 
-        "slot_class": "early afternoon", 
+        "slot_class": "afternoon1", 
         "slot_id": "2", 
         "time": "13:30-15:00"
       },
@@ -116,7 +116,7 @@ schedule=[
             "session": "Demo Group C"
           }
         ], 
-        "slot_class": "late afternoon", 
+        "slot_class": "afternoon2", 
         "slot_id": "3", 
         "time": "15:30-17:00"
       }
@@ -133,7 +133,7 @@ schedule=[
             "session": "keynote 2"
           }
         ], 
-        "slot_class": "plenary", 
+        "slot_class": "plenary morning1", 
         "slot_id": "plenary 2", 
         "time": "08:30-10:00"
       },
@@ -164,7 +164,7 @@ schedule=[
             "session": "Demo Group D"
           }
         ], 
-        "slot_class": "morning", 
+        "slot_class": "morning2", 
         "slot_id": "4", 
         "time": "10:30-12:00"
       },
@@ -199,7 +199,7 @@ schedule=[
             "session": "Demo Group C"
           }
         ], 
-        "slot_class": "early afternoon", 
+        "slot_class": "afternoon1", 
         "slot_id": "5", 
         "time": "13:30-15:00"
       },
@@ -234,7 +234,7 @@ schedule=[
             "session": "Demo Group A"
           }
         ], 
-        "slot_class": "late afternoon", 
+        "slot_class": "afternoon2", 
         "slot_id": "6", 
         "time": "15:30-17:00"
       }
@@ -251,7 +251,7 @@ schedule=[
             "session": "plenary 3"
           } 
         ], 
-        "slot_class": "plenary", 
+        "slot_class": "plenary morning1", 
         "slot_id": "plenary 3", 
         "time": "08:30-10:00"
       },
@@ -274,7 +274,7 @@ schedule=[
             "session": "Session 7d"
           }
         ], 
-        "slot_class": "morning", 
+        "slot_class": "morning2", 
         "slot_id": "7", 
         "time": "10:30-12:00"
       },
@@ -309,7 +309,7 @@ schedule=[
             "session": "Demo Group D"
           }
         ], 
-        "slot_class": "early afternoon", 
+        "slot_class": "afternoon1", 
         "slot_id": "8", 
         "time": "13:30-15:00"
       }
