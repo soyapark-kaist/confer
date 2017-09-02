@@ -16,7 +16,7 @@ def get_start_time(s_time):
 
 def get_date_time(s_date, dt_format='%m/%d'):
   s_date = s_date + '/2017'
-  return time.strptime('10/25/2017', '%m/%d/%Y')
+  return time.strptime(s_date, '%m/%d/%Y')
 
 def get_day(time_struct):
   return time.strftime("%A", time_struct)

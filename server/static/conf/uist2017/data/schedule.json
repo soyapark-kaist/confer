@@ -1,49 +1,52 @@
 schedule=[
   {
-    "date": "10/25", 
-    "day": "Wednesday", 
+    "date": "10/23", 
+    "day": "Monday", 
     "slots": [
       {
         "sessions": [
           {
-            "session": "Flexible_Sensing"
+            "session": "Creativity_Support_Tools"
           }, 
           {
-            "session": "Displays"
+            "session": "Touch"
           }
         ], 
         "slot_class": "morning2", 
-        "slot_id": "10_2510_40_00_AM", 
-        "time": "10:40:00 AM"
+        "slot_id": "10_2311_40_00_AM", 
+        "time": "11:40:00 AM"
       }, 
       {
         "sessions": [
           {
-            "session": "Code_education"
+            "session": "Haptics"
           }, 
           {
-            "session": "VR_AR"
+            "session": "Eye_Tracking"
           }
         ], 
         "slot_class": "afternoon1", 
-        "slot_id": "10_251_30_00_PM", 
-        "time": "1:30:00 PM"
+        "slot_id": "10_232_30_00_PM", 
+        "time": "2:30:00 PM"
       }, 
       {
         "sessions": [
           {
-            "session": "Crowd"
+            "session": "360_Video"
+          }, 
+          {
+            "session": "Physical_Interfaces"
           }
         ], 
         "slot_class": "afternoon2", 
-        "slot_id": "10_253_40_00_PM", 
-        "time": "3:40:00 PM"
+        "slot_id": "10_234_20_00_PM", 
+        "time": "4:20:00 PM"
       }
     ]
   }, 
   {
-    "date": "10/25", 
-    "day": "Wednesday", 
+    "date": "10/24", 
+    "day": "Tuesday", 
     "slots": [
       {
         "sessions": [
@@ -93,41 +96,38 @@ schedule=[
       {
         "sessions": [
           {
-            "session": "Creativity_Support_Tools"
+            "session": "Flexible_Sensing"
           }, 
           {
-            "session": "Touch"
+            "session": "Displays"
           }
         ], 
         "slot_class": "morning2", 
-        "slot_id": "10_2311_40_00_AM", 
-        "time": "11:40:00 AM"
+        "slot_id": "10_2510_40_00_AM", 
+        "time": "10:40:00 AM"
       }, 
       {
         "sessions": [
           {
-            "session": "Haptics"
+            "session": "Code_education"
           }, 
           {
-            "session": "Eye_Tracking"
+            "session": "VR_AR"
           }
         ], 
         "slot_class": "afternoon1", 
-        "slot_id": "10_232_30_00_PM", 
-        "time": "2:30:00 PM"
+        "slot_id": "10_251_30_00_PM", 
+        "time": "1:30:00 PM"
       }, 
       {
         "sessions": [
           {
-            "session": "360_Video"
-          }, 
-          {
-            "session": "Physical_Interfaces"
+            "session": "Crowd"
           }
         ], 
         "slot_class": "afternoon2", 
-        "slot_id": "10_234_20_00_PM", 
-        "time": "4:20:00 PM"
+        "slot_id": "10_253_40_00_PM", 
+        "time": "3:40:00 PM"
       }
     ]
   }
