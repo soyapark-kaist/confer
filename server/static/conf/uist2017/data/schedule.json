@@ -1,0 +1,134 @@
+schedule=[
+  {
+    "date": "10/25", 
+    "day": "Wednesday", 
+    "slots": [
+      {
+        "sessions": [
+          {
+            "session": "Flexible_Sensing"
+          }, 
+          {
+            "session": "Displays"
+          }
+        ], 
+        "slot_class": "morning2", 
+        "slot_id": "10_2510_40_00_AM", 
+        "time": "10:40:00 AM"
+      }, 
+      {
+        "sessions": [
+          {
+            "session": "Code_education"
+          }, 
+          {
+            "session": "VR_AR"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "10_251_30_00_PM", 
+        "time": "1:30:00 PM"
+      }, 
+      {
+        "sessions": [
+          {
+            "session": "Crowd"
+          }
+        ], 
+        "slot_class": "afternoon2", 
+        "slot_id": "10_253_40_00_PM", 
+        "time": "3:40:00 PM"
+      }
+    ]
+  }, 
+  {
+    "date": "10/25", 
+    "day": "Wednesday", 
+    "slots": [
+      {
+        "sessions": [
+          {
+            "session": "Circuits"
+          }, 
+          {
+            "session": "Pointing_Pens_Text"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "10_249_00_00_AM", 
+        "time": "9:00:00 AM"
+      }, 
+      {
+        "sessions": [
+          {
+            "session": "3D_Sketching"
+          }, 
+          {
+            "session": "Fabrication"
+          }
+        ], 
+        "slot_class": "morning2", 
+        "slot_id": "10_2411_00_00_AM", 
+        "time": "11:00:00 AM"
+      }, 
+      {
+        "sessions": [
+          {
+            "session": "Phones_Watches"
+          }, 
+          {
+            "session": "Alt_Modalities"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "10_242_00_00_PM", 
+        "time": "2:00:00 PM"
+      }
+    ]
+  }, 
+  {
+    "date": "10/25", 
+    "day": "Wednesday", 
+    "slots": [
+      {
+        "sessions": [
+          {
+            "session": "Creativity_Support_Tools"
+          }, 
+          {
+            "session": "Touch"
+          }
+        ], 
+        "slot_class": "morning2", 
+        "slot_id": "10_2311_40_00_AM", 
+        "time": "11:40:00 AM"
+      }, 
+      {
+        "sessions": [
+          {
+            "session": "Haptics"
+          }, 
+          {
+            "session": "Eye_Tracking"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "10_232_30_00_PM", 
+        "time": "2:30:00 PM"
+      }, 
+      {
+        "sessions": [
+          {
+            "session": "360_Video"
+          }, 
+          {
+            "session": "Physical_Interfaces"
+          }
+        ], 
+        "slot_class": "afternoon2", 
+        "slot_id": "10_234_20_00_PM", 
+        "time": "4:20:00 PM"
+      }
+    ]
+  }
+]

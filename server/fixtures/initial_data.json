@@ -396,6 +396,20 @@
 	      "end_date": "2017-09-01",
 	      "admins": "[\"anantb@csail.mit.edu\", \"boncz@cwi.nl\", \"axz@mit.edu\"]"
 	  	}
+	},
+	{"model": "server.Conference",
+	    "pk": 29,
+	    "fields": {
+	      "unique_name": "uist2017",
+	      "confer_name": "uist2017",
+	      "title": "UIST 2017 - 30th ACM Symposium on User Interface Software and Technology",
+	      "subtitle": "",
+	      "blurb": "The ACM Symposium on User Interface Software and Technology (UIST) is the premier forum for innovations in Human-Computer Interfaces. Sponsored by ACM Special Interest Groups on Computer-Human Interaction (SIGCHI) and Computer Graphics (SIGGRAPH), UIST brings together people from diverse areas including graphical & web user interfaces, tangible & ubiquitous computing, virtual & augmented reality, multimedia, new input & output devices, and CSCW.",
+	      "location": "Quebec City, Canada",
+	      "start_date": "2017-10-22",
+	      "end_date": "2017-10-25",
+	      "admins": "[\"anantb@csail.mit.edu\", \"axz@mit.edu\"]"
+	  	}
 	}
 ]
   

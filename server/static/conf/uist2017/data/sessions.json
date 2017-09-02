@@ -1,0 +1,195 @@
+sessions={
+  "360_Video": {
+    "date": "10/23", 
+    "s_title": "360 Video", 
+    "submissions": [
+      "uistf4474", 
+      "uistf4597", 
+      "uistf2291", 
+      "uistf3506"
+    ], 
+    "time": "4:20:00 PM"
+  }, 
+  "3D_Sketching": {
+    "date": "10/24", 
+    "s_title": "3D Sketching", 
+    "submissions": [
+      "uistf1973", 
+      "uistf4637", 
+      "uistf3196", 
+      "uistf1384"
+    ], 
+    "time": "11:00:00 AM"
+  }, 
+  "Alt_Modalities": {
+    "date": "10/24", 
+    "s_title": "Alt.Modalities", 
+    "submissions": [
+      "uistf4607", 
+      "uistf4174", 
+      "uistf3835", 
+      "uistf4499", 
+      "uistf4623"
+    ], 
+    "time": "2:00:00 PM"
+  }, 
+  "Circuits": {
+    "date": "10/24", 
+    "s_title": "Circuits", 
+    "submissions": [
+      "uistf4553", 
+      "uistf3450", 
+      "uistf2357", 
+      "uistf3567", 
+      "uistf3948"
+    ], 
+    "time": "9:00:00 AM"
+  }, 
+  "Code_education": {
+    "date": "10/25", 
+    "s_title": "Code/education", 
+    "submissions": [
+      "uistf4658", 
+      "uistf3019", 
+      "uistf3771", 
+      "uistf3971", 
+      "uistf3396"
+    ], 
+    "time": "1:30:00 PM"
+  }, 
+  "Creativity_Support_Tools": {
+    "date": "10/23", 
+    "s_title": "Creativity Support Tools", 
+    "submissions": [
+      "uistf4298", 
+      "uistf2024", 
+      "uistf1143", 
+      "uistf3763"
+    ], 
+    "time": "11:40:00 AM"
+  }, 
+  "Crowd": {
+    "date": "10/25", 
+    "s_title": "Crowd", 
+    "submissions": [
+      "uistf1526", 
+      "uistf1006", 
+      "uistf4070", 
+      "uistf4234"
+    ], 
+    "time": "3:40:00 PM"
+  }, 
+  "Displays": {
+    "date": "10/25", 
+    "s_title": "Displays", 
+    "submissions": [
+      "uistf1723", 
+      "uistf2588", 
+      "uistf1491", 
+      "uistf3335"
+    ], 
+    "time": "10:40:00 AM"
+  }, 
+  "Eye_Tracking": {
+    "date": "10/23", 
+    "s_title": "Eye Tracking", 
+    "submissions": [
+      "uistf3285", 
+      "uistf2241", 
+      "uistf2925", 
+      "uistf2052"
+    ], 
+    "time": "2:30:00 PM"
+  }, 
+  "Fabrication": {
+    "date": "10/24", 
+    "s_title": "Fabrication", 
+    "submissions": [
+      "uistf4937", 
+      "uistf3497", 
+      "uistf2860", 
+      "uistf3775"
+    ], 
+    "time": "11:00:00 AM"
+  }, 
+  "Flexible_Sensing": {
+    "date": "10/25", 
+    "s_title": "Flexible Sensing", 
+    "submissions": [
+      "uistf2895", 
+      "uistf2447", 
+      "uistf4355", 
+      "uistf4170"
+    ], 
+    "time": "10:40:00 AM"
+  }, 
+  "Haptics": {
+    "date": "10/23", 
+    "s_title": "Haptics", 
+    "submissions": [
+      "uistf1201", 
+      "uistf1335", 
+      "uistf2681", 
+      "uistf1814"
+    ], 
+    "time": "2:30:00 PM"
+  }, 
+  "Phones_Watches": {
+    "date": "10/24", 
+    "s_title": "Phones & Watches", 
+    "submissions": [
+      "uistf1910", 
+      "uistf2235", 
+      "uistf4289", 
+      "uistf2014", 
+      "uistf1660"
+    ], 
+    "time": "2:00:00 PM"
+  }, 
+  "Physical_Interfaces": {
+    "date": "10/23", 
+    "s_title": "Physical Interfaces", 
+    "submissions": [
+      "uistf3412", 
+      "uistf1785", 
+      "uistf4432", 
+      "uistf1353"
+    ], 
+    "time": "4:20:00 PM"
+  }, 
+  "Pointing_Pens_Text": {
+    "date": "10/24", 
+    "s_title": "Pointing, Pens & Text", 
+    "submissions": [
+      "uistf4922", 
+      "uistf4706", 
+      "uistf1172", 
+      "TOCHI 0014.R2"
+    ], 
+    "time": "9:00:00 AM"
+  }, 
+  "Touch": {
+    "date": "10/23", 
+    "s_title": "Touch", 
+    "submissions": [
+      "uistf2935", 
+      "uistf3598", 
+      "uistf1706", 
+      "uistf2440", 
+      "uistf2786"
+    ], 
+    "time": "11:40:00 AM"
+  }, 
+  "VR_AR": {
+    "date": "10/25", 
+    "s_title": "VR/AR", 
+    "submissions": [
+      "uistf3858", 
+      "uistf1663", 
+      "uistf3635", 
+      "uistf3584", 
+      "uistf4994"
+    ], 
+    "time": "1:30:00 PM"
+  }
+}
