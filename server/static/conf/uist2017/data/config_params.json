@@ -1,3 +1,5 @@
 config_params = {
 	"display_all": true
 }
+
+$('head').append('<link rel="stylesheet" type="text/css" href="https://uist.acm.org/uist2017/css/confer.css">');
