@@ -14,7 +14,7 @@ window.applicationCache.addEventListener('updateready', function(){
 }, false);
 
 
-// try to first load the data from localStorage 
+// try to first load the data from localStorage
 
 /* Global Data */
 
@@ -44,7 +44,7 @@ function get_all_votes(_async_) {
     dataType: "json",
     url: 'http://confapp.from.so/vote.php?id=' + user_voter_id + '&command=get_votes',
     success: function(res) {
-      if (res.result == 'ok') {          
+      if (res.result == 'ok') {
         besttalks = res.value.split(',')
       }
     }
@@ -61,15 +61,15 @@ function get_paper_schedule (id) {
       }
     });
   }
-  
+
   return res
 }
 
 /*
 function handle_vote(event) {
   if (user_voter_id == null) {
-    persistent_alert('You haven\'t set your voter id. <a class="blue bold" href="settings?redirect_url='+ encodeURIComponent(window.location.pathname + window.location.hash) + '"> Click Here</a> to set your voter id.'); 
-    
+    persistent_alert('You haven\'t set your voter id. <a class="blue bold" href="settings?redirect_url='+ encodeURIComponent(window.location.pathname + window.location.hash) + '"> Click Here</a> to set your voter id.');
+
     event.stopPropagation();
     return
   }
@@ -112,17 +112,17 @@ function refresh(_async_){
     async: _async_,
     url: '/data',
     cache: false,
-    success: function(res) {            
-      console.log("synced") 
+    success: function(res) {
+      console.log("synced")
 
       login_id = res.login_id
-      localStorage.setItem('login_id', login_id)  
+      localStorage.setItem('login_id', login_id)
 
-      login_name = res.login_name 
+      login_name = res.login_name
       localStorage.setItem('login_name', login_name)
 
       //user_voter_id = res.user_voter_id
-      //localStorage.setItem('user_voter_id', user_voter_id)                     
+      //localStorage.setItem('user_voter_id', user_voter_id)
 
       if(res.likes != null){
         starred = res.likes
@@ -132,7 +132,7 @@ function refresh(_async_){
       if(res.recs != null){
         compute_recs(res.recs)
       }
-        
+
       if(res.error){
         console.log('refresh/error')
       }
@@ -164,7 +164,7 @@ function refresh_pending(){
     localStorage.setItem('unstar_pending', JSON.stringify(unstar_pending))
   }
 
-  
+
 }
 
 
@@ -181,7 +181,7 @@ window.addEventListener("online", function() {
   refresh()
 }, true);
 
- 
+
 window.addEventListener("offline", function() {
   enable_alert('You are offline. Any activities on this device would be synced when you come online.')
 }, true);
@@ -190,7 +190,7 @@ window.addEventListener("offline", function() {
 function log(page){
   $.ajax({
     type:'GET',
-    url:'/log/'+page, 
+    url:'/log/'+page,
   });
 
 }
@@ -199,13 +199,13 @@ function log(page){
 function sync(){
   var star_pending = JSON.parse(localStorage.getItem('star_pending'))
   var unstar_pending = JSON.parse(localStorage.getItem('unstar_pending'))
-   
+
   $.ajax({
     type:'POST',
     url:'/like/star',
-    async: false, 
+    async: false,
     cache: false,
-    data:{'papers': JSON.stringify(star_pending)}, 
+    data:{'papers': JSON.stringify(star_pending)},
     success: function(res) {
 
       console.log(res)
@@ -217,20 +217,20 @@ function sync(){
       */
       if(starred!= null)
         localStorage.setItem('starred', JSON.stringify(starred))
-       
-      star_pending = []    
-      
+
+      star_pending = []
+
       localStorage.setItem('star_pending', JSON.stringify(star_pending))
-      
+
     }
   });
 
   $.ajax({
     type:'POST',
     url:'/like/unstar',
-    async: false, 
+    async: false,
     cache: false,
-    data:{'papers': JSON.stringify(unstar_pending)}, 
+    data:{'papers': JSON.stringify(unstar_pending)},
     success: function(res) {
       console.log(res)
       //recommended = res.recs
@@ -243,12 +243,12 @@ function sync(){
         localStorage.setItem('starred', JSON.stringify(starred))
       unstar_pending = []
       s_unstar_pending = []
-      localStorage.setItem('unstar_pending', JSON.stringify(unstar_pending))    
-      
+      localStorage.setItem('unstar_pending', JSON.stringify(unstar_pending))
+
     }
   });
 
-  
+
 }
 
 
@@ -395,7 +395,7 @@ function bind_events(){
       disable_loading();
     });
 
-  
+
   $("#refresh_recommendations").off('click')
   $("#refresh_recommendations").on('click', function(event){
     event.stopImmediatePropagation();
@@ -403,8 +403,8 @@ function bind_events(){
     refresh_recommendations()
   })
 
-   
-  
+
+
   if(detect_mobile()){
     $("body").addClass("touch-device");
 
@@ -416,7 +416,7 @@ function bind_events(){
       }else{
         $('#show_papers').hide();
       }
-      
+
     });
 
 
@@ -441,7 +441,7 @@ function bind_events(){
       delay('simple_search_papers("'+str+'");', 0);
     });
 
-    
+
   }else{
     $("body").addClass("no-touch-device");
     $('#search_session').keyup(function(event){
@@ -459,7 +459,7 @@ function bind_events(){
       }
       delay('search_papers("'+str+'");', 300);
     });
-    
+
 
     $('#search_sessions_btn').off('click')
     $('#search_sessions_btn').on('click', function(event){
@@ -473,7 +473,7 @@ function bind_events(){
       var str = $('#search_papers').val()
       delay('search_papers("'+str+'");', 0);
     });
-    
+
 
   }
 
@@ -485,31 +485,31 @@ function bind_events(){
         $("#likes tr").show()
         $("#show_likes").html('Show Less')
     }
-    update_likes_count();         
+    update_likes_count();
   });
-  
+
 
   $('#show_recs').on('click', function(){
     var n = $('#recs tr:visible').length
     if((n+5) < $("#recs tr").length){
-      $('#recs tr:lt('+(n+5)+')').show()               
+      $('#recs tr:lt('+(n+5)+')').show()
     }else{
       $("#recs tr").show()
       $("#show_recs").hide()
     }
-    update_recs_count();         
+    update_recs_count();
   });
-  
+
 
   $('#show_papers').on('click', function(){
     var n = $('#all_papers tr:visible').length
     if((n+25) < $("#all_papers tr").length){
-      $('#all_papers tr:lt('+(n+25)+')').show()               
+      $('#all_papers tr:lt('+(n+25)+')').show()
     }else{
       $("#all_papers tr").show()
       $("#show_papers").hide()
     }
-    update_papers_count();         
+    update_papers_count();
   });
 
   $('#show_filters').on('click', function(){
@@ -543,7 +543,7 @@ function search_session(str){
   //$('.f_all').addClass('active')
   reset_sessions()
   apply_filters()
-  if(str=="" || str == $('#search_session').attr("title")){        
+  if(str=="" || str == $('#search_session').attr("title")){
     return
   }
   var regex_str = ''
@@ -556,15 +556,15 @@ function search_session(str){
     $(this).parent().prev().hide()
   });
 
-    
+
   $('.session:visible').each(function(){
     if(s.test($(this).text())){
-      $(this).show()   
+      $(this).show()
       var p = $(this).attr("data")
       $("#"+p).show()
       $(this).find('.arrow').removeClass("arrow-right").addClass("arrow-down");
       $(this).highlight(str);
-      //$(this).text().indexOf(str)        
+      //$(this).text().indexOf(str)
     }else{
       $(this).hide()
       var p = $(this).attr("data")
@@ -577,11 +577,11 @@ function search_session(str){
 
   $('.session:visible').each(function(){
     $(this).parent().prev().show()
-    
+
   });
-  
-  update_sessions_count(); 
-  
+
+  update_sessions_count();
+
 }
 
 
@@ -589,18 +589,18 @@ function simple_search_session(str){
 
   reset_sessions()
   apply_filters()
-  if(str=="" || str == $('#search_session').attr("title")){        
+  if(str=="" || str == $('#search_session').attr("title")){
     return
   }
-  
+
   $('.session:visible').each(function(){
     $(this).parent().prev().hide()
   });
 
-     
+
   $('.session').each(function(){
     if($(this).text().toLowerCase().indexOf(str.toLowerCase())!=-1){
-      $(this).show()            
+      $(this).show()
     }else{
       $(this).hide()
     }
@@ -611,8 +611,8 @@ function simple_search_session(str){
     $(this).parent().prev().show()
     $('.session .paper').show()
   });
-  update_sessions_count(); 
-  
+  update_sessions_count();
+
 }
 
 function search_papers(str){
@@ -626,41 +626,41 @@ function search_papers(str){
     regex_str += '(?=.*\\b'+words[i]+'.*\\b)'
   }
   var s =  new RegExp(regex_str , 'i')
-  
+
   //console.log(s)
-     
+
   $('#all_papers .paper').each(function(){
     if(s.test($(this).text())){
       $(this).show()
-      
+
     }else{
       $(this).hide()
     }
 
   });
-  
-  
-  update_papers_visible_count(); 
+
+
+  update_papers_visible_count();
 }
 
 
 function simple_search_papers(str){
-   
-     
+
+
   $('#all_papers .paper').each(function(){
     if($(this).text().toLowerCase().indexOf(str.toLowerCase())!= -1){
       $(this).show()
-      
+
     }else{
       $(this).hide()
     }
 
   });
-  
 
-   
 
-  update_papers_visible_count(); 
+
+
+  update_papers_visible_count();
 }
 
 
@@ -695,7 +695,7 @@ function get_paper_html(id){
   if (id == null) {
     return ''
   }
-  
+
   if(entities[id] == null) {
     return ''
   }
@@ -720,21 +720,21 @@ function get_paper_html(id){
   }
 
   raw_html += '">'
-    
-  raw_html += '<td class="metadata">'   
+
+  raw_html += '<td class="metadata">'
   if(starred.indexOf(id) == -1){
-    raw_html += '<div class="star star-open p_star" data="'+ id + '" onclick="handle_star(event);"></div>'        
+    raw_html += '<div class="star star-open p_star" data="'+ id + '" onclick="handle_star(event);"></div>'
   }else{
-    raw_html += '<div class="star star-filled p_star" data="'+ id + '" onclick="handle_star(event);"></div>'       
-  }  
-  
+    raw_html += '<div class="star star-filled p_star" data="'+ id + '" onclick="handle_star(event);"></div>'
+  }
+
   raw_html += '</td>'
-  
-  raw_html += '<td class="content">'    
+
+  raw_html += '<td class="content">'
   raw_html += '<ul>'
 
   raw_html += '<li class="paper-title"><h3><span class="link" onclick=select_paper("'+id+'")>'+ entities[id].title +'</span>'
-  
+
   if(entities[id].subtype != null){
     raw_html += '<span class="paper-subtype">' + ' - ' + entities[id].subtype + '</span>'
   }
@@ -764,19 +764,19 @@ function get_paper_html(id){
   }
   raw_html += '</li>'
 
-  
+
   if(entities[id].abstract != null && entities[id].abstract != ""){
     raw_html += '<li class="paper-cb">'+ entities[id].abstract.slice(0,350) + '...</li>'
   }else{
     raw_html += '<li class="paper-cb">abstract not available.</li>'
   }
-  
+
   if(entities[id].keywords != null && entities[id].keywords != '' && entities[id].keywords != 'null'){
     raw_html += '<li class="paper-keywords">' + entities[id].keywords.toString().split(new RegExp(",|;", 'g')).join(", ") + '</li>'
   }
   raw_html += '</ul>'
   raw_html += '</td>'
-  
+
   raw_html += '</tr>'
 
   return raw_html
@@ -821,7 +821,7 @@ function get_session_html(id, day, time, slot_class, room){
   var award_type = get_award_type(sessions[id])
   var award = ''
   var venues = ''
-  
+
   if(award_type == 'award'){
     award += ' s_award'
   }
@@ -840,18 +840,18 @@ function get_session_html(id, day, time, slot_class, room){
   var raw_html = '<div class="session ' + award +  ' ' + venues +  ' ' + id  + ' ' + day + ' ' + slot_class + ' '
         + ' ' + room + '" data="' + id + '">'
   raw_html += '<table class="session-container session-collapsible" data="' + id + '"><tr class="clickable">'
-  
+
   raw_html += '<td class="metadata">'
-  if (sessions[id].submissions && sessions[id].submissions.length > 0) {  
+  if (sessions[id].submissions && sessions[id].submissions.length > 0) {
     raw_html += '<div class="star star-open s_star" data="'+ id + '" onclick="handle_session_star(event);">'
     raw_html += '</div>'
-  }      
+  }
   raw_html += '</td>'
-  
-  raw_html += '<td class="content">'  
+
+  raw_html += '<td class="content">'
   raw_html += '<ul>'
   raw_html += '<li><h3>'
-  if (sessions[id].submissions && sessions[id].submissions.length > 0) {  
+  if (sessions[id].submissions && sessions[id].submissions.length > 0) {
     raw_html += '<span class="arrow arrow-right"></span>'
   }
   raw_html += '<span class="session-title">'+ sessions[id].s_title + '</span>'
@@ -866,7 +866,7 @@ function get_session_html(id, day, time, slot_class, room){
     raw_html += '<span class="tag-icon ' + v + '">' + v + '</span>'
     });
   }
-  
+
   if (room == null) {
     room = 'TBD'
   }
@@ -884,7 +884,7 @@ function get_session_html(id, day, time, slot_class, room){
 
   var size = 0
   if (sessions[id].submissions && sessions[id].submissions.length > 0) {
-    size = sessions[id].submissions.length    
+    size = sessions[id].submissions.length
     raw_html += '<div class="timeline">'
     var weight = []
     var sum = 0
@@ -897,7 +897,7 @@ function get_session_html(id, day, time, slot_class, room){
 
       sum += weight[i]
     }
-    
+
     for(var i=0; i< size; i++){
       var w = 100*(weight[i]/sum)
       raw_html += '<div style="width:' + w + '%;"></div>'
@@ -905,13 +905,13 @@ function get_session_html(id, day, time, slot_class, room){
     raw_html += '</div>'
   }
   raw_html += '</td>'
-  
+
   raw_html += '</tr>'
   raw_html += '</table>'
-  if (sessions[id].submissions && sessions[id].submissions.length > 0) {  
+  if (sessions[id].submissions && sessions[id].submissions.length > 0) {
     raw_html += '<table id="' +id +'" class="paper-container" style="display:none; padding-left:20px;">'
-    for(var i in sessions[id].submissions){        
-      raw_html += get_paper_html(sessions[id].submissions[i]);        
+    for(var i in sessions[id].submissions){
+      raw_html += get_paper_html(sessions[id].submissions[i]);
     }
     raw_html += '</table>'
   }
@@ -924,7 +924,7 @@ function get_session_html(id, day, time, slot_class, room){
 function get_selected_paper_html(id){
   if(entities[id] == null)
     return null
-  
+
   raw_html += '<tbody>'
   var raw_html = '<tr data= "' + id + '" class="paper ' + id
   if(exists(recommended, id)){
@@ -942,17 +942,17 @@ function get_selected_paper_html(id){
   raw_html += '">'
 
 
-  raw_html += '<td class="metadata">'   
+  raw_html += '<td class="metadata">'
   if(starred.indexOf(id) == -1){
-    raw_html += '<div class="star star-open p_star" data="'+ id + '" onclick="handle_star(event);">'        
+    raw_html += '<div class="star star-open p_star" data="'+ id + '" onclick="handle_star(event);">'
   }else{
-    raw_html += '<div class="star star-filled p_star" data="'+ id + '" onclick="handle_star(event);">'       
+    raw_html += '<div class="star star-filled p_star" data="'+ id + '" onclick="handle_star(event);">'
   }
   raw_html += '</div>'
-  
+
   raw_html += '</td>'
-  
-  raw_html += '<td class="content">'    
+
+  raw_html += '<td class="content">'
   raw_html += '<ul>'
 
 
@@ -965,7 +965,7 @@ function get_selected_paper_html(id){
   if(entities[id].hm){
     raw_html += '<span class="hm-icon"></span>'
   }
-  
+
   if(entities[id].subtype != null){
     raw_html += '<span class="paper-subtype"> [' + entities[id].subtype + ']</span>'
   }
@@ -977,29 +977,29 @@ function get_selected_paper_html(id){
 
   if (entities[id].date != null && entities[id].start_time != null && entities[id].end_time != null) {
     raw_html += '<span class="paper-subtype"> [' + entities[id].date + '&nbsp;&nbsp;' + entities[id].start_time + '-' + entities[id].end_time + ']' + '</span>'
-  }  
-  
+  }
+
   raw_html += '</h3>';
 
   raw_html += '<li class="paper-authors">'
   for(var author in entities[id].authors){
-    
-     raw_html += '<span class="author"><span class="author-name">' 
-        + entities[id].authors[author].name 
+
+     raw_html += '<span class="author"><span class="author-name">'
+        + entities[id].authors[author].name
         + '</span>';
     if(entities[id].authors[author].affiliation != null){
       raw_html += '<span class="author-affiliation">' + entities[id].authors[author].affiliation;
       if(entities[id].authors[author].location !=null) {
-        raw_html += ', ' + entities[id].authors[author].location 
+        raw_html += ', ' + entities[id].authors[author].location
       }
       raw_html += '</span>';
     }
-    
+
   }
   raw_html += '</li>'
   raw_html += '<hr />'
-  
-  
+
+
   session_id = entities[id]['session']
   if (typeof sessions != "undefined" && sessions != null && sessions[session_id] != null) {
   	raw_html += '<li>';
@@ -1014,7 +1014,7 @@ function get_selected_paper_html(id){
   	}
   	raw_html += '</li> <hr />';
   }
-  
+
   if(entities[id].abstract != null && entities[id].abstract != ""){
     raw_html += '<li>' + entities[id].abstract + '</li>'
   }else{
@@ -1038,9 +1038,9 @@ function update_session_view(){
       if($(this).hasClass('star-filled')){
         session.find('.timeline').children("div").eq(p_index).addClass("filled_yellow");
       }else{
-        session.find('.timeline').children("div").eq(p_index).removeClass("filled_yellow");                  
+        session.find('.timeline').children("div").eq(p_index).removeClass("filled_yellow");
       }
-            
+
 
     });
 
@@ -1048,14 +1048,14 @@ function update_session_view(){
       if($(this).hasClass('recommended')){
         session.addClass('s_recommended')
         session.find('.timeline').children("div").eq(p_index).addClass("filled_blue");
-      }else{                
+      }else{
         session.find('.timeline').children("div").eq(p_index).removeClass("filled_blue");
-      }               
+      }
 
     });
 
-    
-    
+
+
     if($(this).find('.paper-container').find('.recommended').length > 0){
       $(this).find('.session-container').find('tr').addClass('recommended')
       session.addClass('s_recommended')
@@ -1063,7 +1063,7 @@ function update_session_view(){
       $(this).find('.session-container').find('tr').removeClass('recommended')
       session.removeClass('s_recommended')
     }
-     
+
     if($(this).find('.paper-container').find('.star-filled').length > 0){
         $(this).find('.session-container').find('.star').removeClass('star-open').addClass('star-filled')
         $(this).find('.session-container').find('tr').addClass('highlight')
@@ -1073,8 +1073,8 @@ function update_session_view(){
       $(this).find('.session-container').find('tr').removeClass('highlight')
       session.removeClass('s_starred')
     }
-    
-  });   
+
+  });
 
   update_sessions_count();
 }
@@ -1123,11 +1123,11 @@ function add_pending_star(paper_id){
 
 function handle_session_star(event){
   if (login_id == null) {
-    persistent_alert('You are not logged in. Please <a class="blue bold" href="/login?redirect_url='+ encodeURIComponent(window.location.pathname + window.location.hash) + '"> Log In</a> to star a session.'); 
+    persistent_alert('You are not logged in. Please <a class="blue bold" href="/login?redirect_url='+ encodeURIComponent(window.location.pathname + window.location.hash) + '"> Log In</a> to star a session.');
     event.stopPropagation();
     return
   }
-  enable_alert("updating information..."); 
+  enable_alert("updating information...");
   event.stopPropagation();
   var obj = $(event.target).parents("td:first").find('.s_star')
   var session_id = obj.attr("data")
@@ -1144,7 +1144,7 @@ function handle_session_star(event){
         var i =  starred.indexOf(papers[paper_id])
         starred.splice(i, 1)
         add_pending_unstar(papers[paper_id])
-      }            
+      }
       localStorage.setItem('starred', JSON.stringify(starred))
       update_session_view()
       apply_filters()
@@ -1152,7 +1152,7 @@ function handle_session_star(event){
       $.post('/like/unstar', {'papers': JSON.stringify(papers), 'session': JSON.stringify([session_id])}, function(res) {
         for(var paper_id in papers){
           var i =  starred.indexOf(papers[paper_id])
-          starred.splice(i, 1)                    
+          starred.splice(i, 1)
         }
         $('.'+obj.attr('data')).each(function(){
           $(this).find('.p_star').removeClass('star-filled').addClass('star-open')
@@ -1170,7 +1170,7 @@ function handle_session_star(event){
         enable_alert("You unliked a session.");
       });
     }
-     
+
   }else{
     $('.'+obj.attr('data')).each(function(){
       $(this).find('.p_star').removeClass('star-open').addClass('star-filled')
@@ -1206,9 +1206,9 @@ function handle_session_star(event){
         enable_alert("You liked a session.");
       });
     }
-    
+
   }
-  
+
 
 
 }
@@ -1238,7 +1238,7 @@ function compute_recs(recs) {
 
   starred.forEach(function (p){
     var p_recs = offline_recs[p]
-    if (p_recs != null) {        
+    if (p_recs != null) {
       p_recs.forEach(function(p_rec){
         var p_id = Object.keys(p_rec)[0]
         if(! exists(t_recs, p_id) && starred.indexOf(p_id) == -1){
@@ -1300,7 +1300,7 @@ function create_person_html(p, email, button_filled) {
     }
   }
 
-  
+
   raw_html += '</ul>'
   raw_html += '</td>'
   raw_html += '</tr>'
@@ -1360,11 +1360,11 @@ function highlight_favorite(){
 function handle_person_star(event){
   var obj = $(event.target)
   var user_id = obj.attr("data")
- 
+
   if(obj.hasClass('button-filled')){
     $.post('/person_like/unstar', {'person': obj.attr("data")}, function(res) {
-      people_you_favorited = res.people_you_favorited   
-      people_favorited_you = res.people_favorited_you   
+      people_you_favorited = res.people_you_favorited
+      people_favorited_you = res.people_favorited_you
     })
     .done(function(){
       populate_people_you_favorited()
@@ -1373,11 +1373,11 @@ function handle_person_star(event){
       highlight_favorite()
       enable_alert("You un-favorited a person.");
     });
-    
+
   }else{
     $.post('/person_like/star', {'person': obj.attr("data")}, function(res) {
-      people_you_favorited = res.people_you_favorited   
-      people_favorited_you = res.people_favorited_you 
+      people_you_favorited = res.people_you_favorited
+      people_favorited_you = res.people_favorited_you
     })
     .done(function(){
       populate_people_you_favorited()
@@ -1390,15 +1390,15 @@ function handle_person_star(event){
 }
 
 
-function handle_star(event){ 
+function handle_star(event){
   if (login_id == null) {
-    persistent_alert('You are not logged in. Please <a class="blue bold" href="/login?redirect_url='+ encodeURIComponent(window.location.pathname + window.location.hash) + '"> Log In</a> to star a paper.'); 
-    
+    persistent_alert('You are not logged in. Please <a class="blue bold" href="/login?redirect_url='+ encodeURIComponent(window.location.pathname + window.location.hash) + '"> Log In</a> to star a paper.');
+
     event.stopPropagation();
     return
   }
   //$("#refresh_recommendations").show();
-  enable_alert("updating information..."); 
+  enable_alert("updating information...");
   var obj = $(event.target).parents("td:first").find('.p_star')
   var paper_id = obj.attr("data")
   //console.log($(window).scrollTop(), $(event.target).parents("td:first").position().top);
@@ -1431,7 +1431,7 @@ function handle_star(event){
         compute_recs(res.recs)
         localStorage.setItem('starred', JSON.stringify(starred))
         //localStorage.setItem('recommended', JSON.stringify(recommended))
-        
+
         if($("#recs tr").length == 0){
           populate_recs()
         }else{
@@ -1473,15 +1473,15 @@ function handle_star(event){
         compute_recs(res.recs)
         localStorage.setItem('starred', JSON.stringify(starred))
         //localStorage.setItem('recommended', JSON.stringify(recommended))
-        
+
         if($("#recs tr").length == 0){
           populate_recs()
-        }else{            
+        }else{
           append_recs()
         }
         update_recs()
         update_session_view()
-        
+
         }
       })
 
@@ -1517,11 +1517,11 @@ function load_paper(){
   $('#paper_comments').html('<div class="fb-comments" data-href="' + window.location.href + '" data-numposts="1" data-colorscheme="light" data-width="1024px"></div>');
   var recs = offline_recs[paper_id]
   var raw_html = ''
-  for(var i = 0; i< recs.length; i++){        
-  raw_html += get_paper_html(Object.keys(recs[i])[0])            
-  } 
+  for(var i = 0; i< recs.length; i++){
+  raw_html += get_paper_html(Object.keys(recs[i])[0])
+  }
   $('#similar_papers').html(raw_html)
-} 
+}
 
 
 
@@ -1530,7 +1530,7 @@ function update_papers_count(){
 }
 
 function update_papers_count_async(){
-  $("#papers_toggle .count").text("(" + $("#all_papers tr").length + ")");  
+  $("#papers_toggle .count").text("(" + $("#all_papers tr").length + ")");
 }
 
 function update_papers_visible_count(){
@@ -1538,7 +1538,7 @@ function update_papers_visible_count(){
 }
 
 function update_papers_visible_count_async(){
-  $("#papers_toggle .count").text("(" + $("#all_papers tr:visible").length + ")");  
+  $("#papers_toggle .count").text("(" + $("#all_papers tr:visible").length + ")");
 }
 
 function update_recs_count(){
@@ -1546,7 +1546,7 @@ function update_recs_count(){
 }
 
 function update_recs_count_async(){
-  $("#recs_toggle .count").text("(" + $("#recs tr:visible").length + ")");  
+  $("#recs_toggle .count").text("(" + $("#recs tr:visible").length + ")");
 }
 
 function update_likes_count(){
@@ -1554,7 +1554,7 @@ function update_likes_count(){
 }
 
 function update_likes_count_async(){
-  $("#likes_toggle .count").text("(" + $("#likes tr").length + ")");  
+  $("#likes_toggle .count").text("(" + $("#likes tr").length + ")");
 }
 
 function update_sessions_count(){
@@ -1565,7 +1565,7 @@ function update_sessions_count_async(){
   if ($("#program .session").length == $("#program .session:visible").length)
   $("#search-results .count").text("all");
   else
-  $("#search-results .count").text($("#program .session:visible").length);  
+  $("#search-results .count").text($("#program .session:visible").length);
 }
 
 
@@ -1573,14 +1573,14 @@ function update_sessions_count_async(){
 function reset_all_papers(){
   $("#all_papers tr").show()
   if (config_params['display_all'] != true) {
-    $("#all_papers tr:gt(24)").hide() 
+    $("#all_papers tr:gt(24)").hide()
   }
 
   if($("#all_papers tr:visible").length == $("#all_papers tr").length){
     $('#show_papers').hide();
   }else{
     $('#show_papers').show();
-  }         
+  }
   update_papers_count();
 }
 
@@ -1590,26 +1590,26 @@ function reset_sessions(){
   $('.session').removeHighlight()
   $('.session-timeslot').each(function(){
   $(this).prev().hide()
-  });  
+  });
 
   $('.session').each(function(){
   $(this).parent().prev().show()
   var p = $(this).attr("data")
   $("#"+p).hide()
   $(this).find('.arrow').removeClass("arrow-down").addClass("arrow-right");
-  
+
   });
-  update_sessions_count(); 
+  update_sessions_count();
 }
 
-function append_recs(){  
+function append_recs(){
   var visible_recs = []
   $("#recs tr:visible").each(function(){
   var d = $(this).attr("data")
   visible_recs.push(d)
   })
   var n = $("#recs tr:visible").length
-  $("#recs tr:hidden").remove()  
+  $("#recs tr:hidden").remove()
   var raw_html = ''
   for(var r in recommended){
   if(visible_recs.indexOf(recommended[r].id) == -1){
@@ -1617,12 +1617,12 @@ function append_recs(){
   }
   }
   $("#recs").append($(raw_html))
-  $("#recs tr:gt("+(n-1)+")").hide() 
+  $("#recs tr:gt("+(n-1)+")").hide()
   if($("#recs tr:visible").length == $("#recs tr").length){
   $('#show_recs').hide();
   }else{
   $('#show_recs').show();
-  }     
+  }
 }
 
 
@@ -1649,7 +1649,7 @@ function populate_papers(){
         }
     })
   }
-  
+
   for(var e in entities_keys){
     raw_html += get_paper_html(entities_keys[e])
   }
@@ -1662,7 +1662,7 @@ function populate_papers(){
     $('#show_papers').hide();
   }else{
     $('#show_papers').show();
-  }         
+  }
   update_papers_count();
 }
 
@@ -1677,21 +1677,21 @@ function populate_recs(){
   return
   }
 
-  var raw_html = ''   
+  var raw_html = ''
   for(var r in recommended){
   raw_html += get_paper_html(recommended[r]['id'])
   }
   $("#recs").html(raw_html)
 
-  $("#recs tr:gt(4)").hide()  
+  $("#recs tr:gt(4)").hide()
 
   if($("#recs tr:visible").length == $("#recs tr").length){
   $('#show_recs').hide();
   }else{
   $('#show_recs').show();
-  }         
-  
-  update_recs_count(); 
+  }
+
+  update_recs_count();
 }
 
 
@@ -1704,7 +1704,7 @@ function populate_likes(){
   console.log("Error fetching entities.")
   return
   }
-  var raw_html = '' 
+  var raw_html = ''
   for(var i = starred.length; i>=0 ; i--){
   raw_html += get_paper_html(starred[i])
   }
@@ -1714,9 +1714,9 @@ function populate_likes(){
   }else{
   $('#show_likes').show()
   if($('#show_likes').html() == 'Show All'){
-    $("#likes tr:gt(1)").hide()           
+    $("#likes tr:gt(1)").hide()
   }
-  }  
+  }
   update_likes_count();
 }
 
@@ -1735,17 +1735,17 @@ function populate_schedule(){
   for(slot in schedule[day].slots){
     raw_html += '<h3 class="collapsible-title collapsible" \
       data="'+schedule[day].slots[slot].slot_id+'"> \
-      <span class="arrow arrow-down"></span>'+ schedule[day].day + ', ' + 
+      <span class="arrow arrow-down"></span>'+ schedule[day].day + ', ' +
       schedule[day].slots[slot].time + '</h3>'
     raw_html += '<div id = "'+schedule[day].slots[slot].slot_id+'" class="session-timeslot">'
     for(session in schedule[day].slots[slot].sessions){
-    raw_html += get_session_html(schedule[day].slots[slot].sessions[session].session, 
-      schedule[day].day, schedule[day].slots[slot].time, schedule[day].slots[slot].slot_class, 
+    raw_html += get_session_html(schedule[day].slots[slot].sessions[session].session,
+      schedule[day].day, schedule[day].slots[slot].time, schedule[day].slots[slot].slot_class,
       schedule[day].slots[slot].sessions[session].room)
     }
     raw_html += '</div>'
   }
-  $("#program").append(raw_html)        
+  $("#program").append(raw_html)
   }
   update_recs()
   update_session_view()
@@ -1782,29 +1782,29 @@ function apply_filters(){
   var time_classes = '.'+$('.time.active').attr("data")
   var papers_classes = '.'+$('.p_session.active').attr("data")
   var venue_classes = '.'+$('.venue.active').attr("data")
-  
+
 
   var select_class = $('.session')
-  
+
   if(day_classes != '.all' && day_classes != '.undefined'){
     select_class = select_class.filter(day_classes)
   }
-  
-  if(time_classes != '.all' && time_classes != '.undefined'){               
-    select_class = select_class.filter(time_classes)                
+
+  if(time_classes != '.all' && time_classes != '.undefined'){
+    select_class = select_class.filter(time_classes)
   }
 
-  if(papers_classes != '.all' && papers_classes != '.undefined'){             
-    select_class = select_class.filter(papers_classes)              
+  if(papers_classes != '.all' && papers_classes != '.undefined'){
+    select_class = select_class.filter(papers_classes)
   }
 
-  if(venue_classes != '.all' && venue_classes != '.undefined'){             
-    select_class = select_class.filter(venue_classes)              
+  if(venue_classes != '.all' && venue_classes != '.undefined'){
+    select_class = select_class.filter(venue_classes)
   }
 
 
   $('.session').hide();
-  
+
   $('.session-timeslot').each(function(){
     $(this).prev().hide()
   });
@@ -1814,20 +1814,20 @@ function apply_filters(){
   $(this).parent().prev().show()
   });
 
- update_sessions_count(); 
+ update_sessions_count();
 }
 
 
 
 function setup_filters(){
   $('.filter').off('click')
-  $('.filter').on('click', function(){       
+  $('.filter').on('click', function(){
   var attr = $(this).attr("type")
   $('.'+attr).removeClass('active')
 
   $(this).addClass('active')
   $('#search_sessions_btn').click()
-    
+
   });
 }
 
