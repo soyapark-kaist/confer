@@ -12,7 +12,9 @@ def construct_id(s):
 def get_start_time(s_time):
   date = time.strptime(s_time, '%I:%M:%S %p')
   s = time.strftime("%H", date)
-  return int(s)
+  t = time.strftime("%M", date)
+  val = float(s + '.' + t)
+  return val
 
 def get_date_time(s_date, dt_format='%m/%d'):
   s_date = s_date + '/2017'
@@ -80,7 +82,59 @@ def prepare_data(data_file1):
         continue
     
     paper_abstract = unicode(row[269], "ISO-8859-1")
-    paper_authors = unicode(row[27], "ISO-8859-1")
+    paper_abstract = re.sub('\\\\', '', paper_abstract)
+    
+    paper_authors = ''
+    for i in range(29,269,15):
+        if row[i]:
+            first_name = row[i+1].title()
+            middle = row[i+2].title()
+            last = row[i+3].title()
+            aff = row[i+6]
+            if aff.lower() == "graduate school" or aff == "University" or aff == "4-21-1,Nakano,":
+                aff = row[i+5]
+            if aff == "Massachusetts Institute of Technology":
+                aff = "MIT"
+            if aff == "University of California, San Diego":
+                aff = "UC San Diego"
+            if aff == "KYUNG HEE UNIVERSITY":
+                aff = "Kyung Hee University"
+            if aff == "Palo Alto":
+                aff = "Stanford University"
+            if aff == "Boston":
+                aff = "Wentworth Institute of Technology"
+            if aff == "Montreal":
+                aff = "McGill University"
+            if aff == "Computer Scienve and Technology":
+                aff = "Zhejiang University"
+            if aff == "West Lafayette":
+                aff = "Purdue University"
+            if aff == "Daejeon":
+                aff = "KAIST"
+            if 'Telecom ParisTech' in aff:
+                aff = "Telecom ParisTech"
+            if aff == "CSAIL":
+                aff = "MIT"
+            if aff == "Stanford":
+                aff = "Stanford University"
+            if aff == "Los Angeles":
+                aff = "I.AM+"
+            if "Adobe" in aff:
+                aff = "Adobe Research"
+            if "TSUKUBA" in aff:
+                aff = "University of Tsukuba"
+            if aff == "KAIST (Korea Advanced Institute of Science and Technology)":
+                aff = 'KAIST'
+            
+            
+            if aff:
+                paper_authors += first_name + ' ' + middle + ' ' + last + ', ' + aff + '\t'
+            else:
+                paper_authors += first_name + ' ' + middle + ' ' + last + '\t'
+        else:
+            break
+    
+
     type = "paper"
     
     award_s = unicode(row[14], "ISO-8859-1")
@@ -95,25 +149,34 @@ def prepare_data(data_file1):
  
     paper_title = unicode(row[18], "ISO-8859-1")
 
-    # prepare papers data
-    papers[paper_id] = {
-        'title': paper_title,
-        'subtype':type,
-        'type': type,
-        'award': award,
-        'hm': hm}
-    
-    papers[paper_id]['abstract'] = paper_abstract
-    papers[paper_id]['authors'] = [{'name': name.strip()} for name in paper_authors.strip('"').split(',') if name.strip() != '']
-    print papers[paper_id]['authors']
+    if paper_title:
+        # prepare papers data
+        papers[paper_id] = {
+            'title': paper_title,
+            'subtype':type,
+            'type': type,
+            'award': award,
+            'hm': hm}
+        
+        papers[paper_id]['abstract'] = paper_abstract
+        papers[paper_id]['authors'] = [{'name': name.strip()} for name in paper_authors.split('\t') if name.strip() != '']
+        print papers[paper_id]['authors']
     
     # prepare sessions data
-    s_id = construct_id(session)
-    if(s_id in sessions):
-      sessions[s_id]['submissions'].append(paper_id)
+    s_id = row[2]
+    if not s_id:
+        s_id = row[0]
+        #s_id = construct_id(session)
+        if(s_id not in sessions):
+          sessions[s_id] = {
+              'submissions': [], 's_title': session, 'time': s_time, 'date': s_date}
+        
     else:
-      sessions[s_id] = {
-          'submissions': [paper_id], 's_title': session, 'time': s_time, 'date': s_date}
+        if(s_id in sessions):
+          sessions[s_id]['submissions'].append(paper_id)
+        else:
+          sessions[s_id] = {
+              'submissions': [paper_id], 's_title': session, 'time': s_time, 'date': s_date}
 
     p_id += 1
 

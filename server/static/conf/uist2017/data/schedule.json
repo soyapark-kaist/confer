@@ -1,15 +1,91 @@
 schedule=[
   {
+    "date": "10/22", 
+    "day": "Sunday", 
+    "slots": [
+      {
+        "sessions": [
+          {
+            "session": "np_reg0"
+          }
+        ], 
+        "slot_class": "afternoon2", 
+        "slot_id": "10_225_00_00_PM", 
+        "time": "5:00:00 PM"
+      }, 
+      {
+        "sessions": [
+          {
+            "session": "np_welcome"
+          }
+        ], 
+        "slot_class": "evening", 
+        "slot_id": "10_226_00_00_PM", 
+        "time": "6:00:00 PM"
+      }
+    ]
+  }, 
+  {
     "date": "10/23", 
     "day": "Monday", 
     "slots": [
       {
         "sessions": [
           {
-            "session": "Creativity_Support_Tools"
+            "session": "np_reg1"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "10_238_00_00_AM", 
+        "time": "8:00:00 AM"
+      }, 
+      {
+        "sessions": [
+          {
+            "session": "np_opening"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "10_239_00_00_AM", 
+        "time": "9:00:00 AM"
+      }, 
+      {
+        "sessions": [
+          {
+            "session": "np_keynote1"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "10_239_30_00_AM", 
+        "time": "9:30:00 AM"
+      }, 
+      {
+        "sessions": [
+          {
+            "session": "np_awards"
+          }
+        ], 
+        "slot_class": "morning2", 
+        "slot_id": "10_2310_30_00_AM", 
+        "time": "10:30:00 AM"
+      }, 
+      {
+        "sessions": [
+          {
+            "session": "np_break1"
+          }
+        ], 
+        "slot_class": "morning2", 
+        "slot_id": "10_2311_00_00_AM", 
+        "time": "11:00:00 AM"
+      }, 
+      {
+        "sessions": [
+          {
+            "session": "1"
           }, 
           {
-            "session": "Touch"
+            "session": "2"
           }
         ], 
         "slot_class": "morning2", 
@@ -19,10 +95,20 @@ schedule=[
       {
         "sessions": [
           {
-            "session": "Haptics"
+            "session": "np_lunch1"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "10_231_00_00_PM", 
+        "time": "1:00:00 PM"
+      }, 
+      {
+        "sessions": [
+          {
+            "session": "3"
           }, 
           {
-            "session": "Eye_Tracking"
+            "session": "4"
           }
         ], 
         "slot_class": "afternoon1", 
@@ -32,15 +118,38 @@ schedule=[
       {
         "sessions": [
           {
-            "session": "360_Video"
+            "session": "np_break2"
+          }
+        ], 
+        "slot_class": "afternoon2", 
+        "slot_id": "10_233_50_00_PM", 
+        "time": "3:50:00 PM"
+      }, 
+      {
+        "sessions": [
+          {
+            "session": "5"
           }, 
           {
-            "session": "Physical_Interfaces"
+            "session": "6"
           }
         ], 
         "slot_class": "afternoon2", 
         "slot_id": "10_234_20_00_PM", 
         "time": "4:20:00 PM"
+      }, 
+      {
+        "sessions": [
+          {
+            "session": "np_demorec"
+          }, 
+          {
+            "session": "19"
+          }
+        ], 
+        "slot_class": "evening", 
+        "slot_id": "10_236_00_00_PM", 
+        "time": "6:00:00 PM"
       }
     ]
   }, 
@@ -51,10 +160,13 @@ schedule=[
       {
         "sessions": [
           {
-            "session": "Circuits"
+            "session": "np_reg2"
           }, 
           {
-            "session": "Pointing_Pens_Text"
+            "session": "7"
+          }, 
+          {
+            "session": "8"
           }
         ], 
         "slot_class": "morning1", 
@@ -64,10 +176,20 @@ schedule=[
       {
         "sessions": [
           {
-            "session": "3D_Sketching"
+            "session": "np_break3"
+          }
+        ], 
+        "slot_class": "morning2", 
+        "slot_id": "10_2410_30_00_AM", 
+        "time": "10:30:00 AM"
+      }, 
+      {
+        "sessions": [
+          {
+            "session": "9"
           }, 
           {
-            "session": "Fabrication"
+            "session": "10"
           }
         ], 
         "slot_class": "morning2", 
@@ -77,15 +199,68 @@ schedule=[
       {
         "sessions": [
           {
-            "session": "Phones_Watches"
+            "session": "np_lunch2"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "10_2412_10_00_PM", 
+        "time": "12:10:00 PM"
+      }, 
+      {
+        "sessions": [
+          {
+            "session": "11"
           }, 
           {
-            "session": "Alt_Modalities"
+            "session": "12"
+          }, 
+          {
+            "session": "18"
           }
         ], 
         "slot_class": "afternoon1", 
         "slot_id": "10_242_00_00_PM", 
         "time": "2:00:00 PM"
+      }, 
+      {
+        "sessions": [
+          {
+            "session": "np_break4"
+          }
+        ], 
+        "slot_class": "afternoon2", 
+        "slot_id": "10_243_30_00_PM", 
+        "time": "3:30:00 PM"
+      }, 
+      {
+        "sessions": [
+          {
+            "session": "np_townhall"
+          }
+        ], 
+        "slot_class": "afternoon2", 
+        "slot_id": "10_245_00_00_PM", 
+        "time": "5:00:00 PM"
+      }, 
+      {
+        "sessions": [
+          {
+            "session": "np_banquet"
+          }
+        ], 
+        "slot_class": "evening", 
+        "slot_id": "10_246_00_00_PM", 
+        "time": "6:00:00 PM"
+      }, 
+      {
+        "sessions": [
+          {
+            "session": "np_scommittee"
+          }
+        ], 
+        "slot_class": "evening", 
+        "slot_id": "10_249_30_00_PM", 
+        "time": "9:30:00 PM"
       }
     ]
   }, 
@@ -96,10 +271,43 @@ schedule=[
       {
         "sessions": [
           {
-            "session": "Flexible_Sensing"
+            "session": "np_hcompwelcome"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "10_258_45_00_AM", 
+        "time": "8:45:00 AM"
+      }, 
+      {
+        "sessions": [
+          {
+            "session": "np_keynote2"
           }, 
           {
-            "session": "Displays"
+            "session": "np_reg3"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "10_259_00_00_AM", 
+        "time": "9:00:00 AM"
+      }, 
+      {
+        "sessions": [
+          {
+            "session": "np_break5"
+          }
+        ], 
+        "slot_class": "morning2", 
+        "slot_id": "10_2510_00_00_AM", 
+        "time": "10:00:00 AM"
+      }, 
+      {
+        "sessions": [
+          {
+            "session": "13"
+          }, 
+          {
+            "session": "14"
           }
         ], 
         "slot_class": "morning2", 
@@ -109,10 +317,10 @@ schedule=[
       {
         "sessions": [
           {
-            "session": "Code_education"
+            "session": "15"
           }, 
           {
-            "session": "VR_AR"
+            "session": "16"
           }
         ], 
         "slot_class": "afternoon1", 
@@ -122,12 +330,32 @@ schedule=[
       {
         "sessions": [
           {
-            "session": "Crowd"
+            "session": "np_break6"
+          }
+        ], 
+        "slot_class": "afternoon2", 
+        "slot_id": "10_253_00_00_PM", 
+        "time": "3:00:00 PM"
+      }, 
+      {
+        "sessions": [
+          {
+            "session": "17"
           }
         ], 
         "slot_class": "afternoon2", 
         "slot_id": "10_253_40_00_PM", 
         "time": "3:40:00 PM"
+      }, 
+      {
+        "sessions": [
+          {
+            "session": "np_closing"
+          }
+        ], 
+        "slot_class": "afternoon2", 
+        "slot_id": "10_254_50_00_PM", 
+        "time": "4:50:00 PM"
       }
     ]
   }
