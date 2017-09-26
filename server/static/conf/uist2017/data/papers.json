@@ -1,21 +1,36 @@
 entities={
   "TOCHI 0014.R2": {
     "abstract": "Abstract: Emoji, a set of pictographic Unicode characters, have seen strong uptake over the last couple of years. All common mobile platforms and many desktop systems now support emoji entry and users have embraced their use. Yet, we currently know very little about what makes for good emoji entry. While soft keyboards for text entry are well optimized, based on language and touch models, no such information exists to guide the design of emoji keyboards. In this article, we investigate of the problem of emoji entry, starting with a study of the current state of the emoji keyboard implementation in Android. To enable moving forward to novel emoji keyboard designs, we then explore a model for emoji similarity that is able to inform such designs. This semantic model is based on data from 21 million collected tweets containing emoji. We compare this model against a solely description-based model of emoji in a crowdsourced study. Our model shows good performance in capturing detailed relationships between emoji.\n", 
-    "authors": [], 
+    "authors": [
+      {
+        "name": "Henning Pohl"
+      }, 
+      {
+        "name": "Christian Domin"
+      }, 
+      {
+        "name": "Micheal Leibniz Rohs"
+      }
+    ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Emoji", 
+      " mobile text entry", 
+      " emoticons"
+    ], 
     "subtype": "paper", 
     "title": "TOCHI 0014.R2 Beyond Just Text: Semantic Emoji Similarity Modeling to Support Expressive Communication", 
     "type": "paper"
   }, 
   "uistde102": {
-    "abstract": "The computer keyboard is a widely used input device to operate computers, such as text entry and command execution. Typically, keystrokes are detected as binary states (e.g. \u00c3\u00a2\u00e2\u0082\u00ac\u00c5\u0093pressed\u00c3\u00a2\u00e2\u0082\u00ac\u00c2\u009d vs. \u00c3\u00a2\u00e2\u0082\u00ac\u00c5\u0093not pressed\u00c3\u00a2\u00e2\u0082\u00ac\u00c2\u009d). Due to this, more complex input commands need multiple key presses that could go up to pressing four keys at the same time, such as pressing \u00c3\u00a2\u00e2\u0082\u00ac\u00c5\u0093Cmd + Shift + Opt + 4\u00c3\u00a2\u00e2\u0082\u00ac\u00c2\u009d to take a screenshot to the clipboard on macOS. We present GestAKey, a technique to enable multifunctional keystrokes on a single key, providing new interaction possibilities on the familiar keyboards. The system consists of touch sensitive keycaps and a software backend that recognizes micro-gestures performed on individual keys to perform system commands or input special characters. In this demo, attendees will get the chance to interact with several GestAKey-enabled proof-of-concept applications.", 
+    "abstract": "The computer keyboard is a widely used input device to operate computers, such as text entry and command execution. Typically, keystrokes are detected as binary states (e.g. \"pressed\" vs. \"not pressed\"). Due to this, more complex input commands need multiple key presses that could go up to pressing four keys at the same time, such as pressing \"Cmd + Shift + Opt + 4\" to take a screenshot to the clipboard on macOS. We present GestAKey, a technique to enable multifunctional keystrokes on a single key, providing new interaction possibilities on the familiar keyboards. The system consists of touch sensitive keycaps and a software backend that recognizes micro-gestures performed on individual keys to perform system commands or input special characters. In this demo, attendees will get the chance to interact with several GestAKey-enabled proof-of-concept applications.", 
     "authors": [
       {
         "name": "Yilei  Shi, Singapore University of Technology and Design"
       }, 
       {
-        "name": "Tom\u00c3\u00a1S  Vega G\u00c3\u00a1Lvez, Singapore University of Technology and Design"
+        "name": "Tom\u00e1S  Vega G\u00e1Lvez, Singapore University of Technology and Design"
       }, 
       {
         "name": "Haimo  Zhang, Singapore University of Technology and Design"
@@ -26,12 +41,17 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Keyboard", 
+      " Microgesture", 
+      " Multifunctional Keystroke"
+    ], 
     "subtype": "paper", 
     "title": "GestAKey: Get More Done with Just-a-Key on a Keyboard", 
     "type": "paper"
   }, 
   "uistde106": {
-    "abstract": "Human actuation is the idea of using people to provide large-scale force feedback to users. The Haptic Turk system, for example, used four human actuators to lift and push a virtual reality user; TurkDeck used ten human actuators to place and animate props for a single user. While the experience of human actuators was decent, it was still inferior to the experience these people could have had, had they participated as a user. In this paper, we address this issue by making everyone a user. We introduce mutual human actuation, a version of human actuation that works without dedicated human actuators. The key idea is to run pairs of users at the same time and have them provide human actuation to each other. Our system, Mutual Turk, achieves this by (1)\u00c3\u0082 offering shared props through which users can exchange forces while obscuring the fact that there is a human on the other side, and (2)\u00c3\u0082 synchronizing the two users\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2 timelines such that their way of manipulating the shared props is consistent across both virtual worlds. We demonstrate mutual human actuation with an example experience in which users pilot kites though storms, tug fish out of ponds, are pummeled by hail, battle monsters, hop across chasms, push loaded carts, and ride in moving vehicles. ", 
+    "abstract": "Human actuation is the idea of using people to provide large-scale force feedback to users. The Haptic Turk system, for example, used four human actuators to lift and push a virtual reality user; TurkDeck used ten human actuators to place and animate props for a single user. While the experience of human actuators was decent, it was still inferior to the experience these people could have had, had they participated as a user. In this paper, we address this issue by making everyone a user. We introduce mutual human actuation, a version of human actuation that works without dedicated human actuators. The key idea is to run pairs of users at the same time and have them provide human actuation to each other. Our system, Mutual Turk, achieves this by (1) offering shared props through which users can exchange forces while obscuring the fact that there is a human on the other side, and (2) synchronizing the two users' timelines such that their way of manipulating the shared props is consistent across both virtual worlds. We demonstrate mutual human actuation with an example experience in which users pilot kites though storms, tug fish out of ponds, are pummeled by hail, battle monsters, hop across chasms, push loaded carts, and ride in moving vehicles. ", 
     "authors": [
       {
         "name": "Lung-Pan  Cheng, Hasso Plattner Institute"
@@ -45,12 +65,18 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Virtual reality", 
+      " haptics", 
+      " immersion", 
+      " Haptic Turk"
+    ], 
     "subtype": "paper", 
     "title": "Mutual Human Actuation", 
     "type": "paper"
   }, 
   "uistde107": {
-    "abstract": "We propose the concept of the \u00c3\u00a2\u00e2\u0082\u00ac\u00c5\u0093Internet of Haptics\u00c3\u00a2\u00e2\u0082\u00ac\u00c2\u009d (IoH) that enables sharing experiences of others with the sense of touch. IoH allows to multicast haptic sensation from one Sensor-Node (Inter-Node) to multiple Actuator-Node (Ceive-Node) and to multicast from multiple Inter-Node to multiple Ceive-Node via the Internet. As a proof of concept, we developed the \u00c3\u00a2\u00e2\u0082\u00ac\u00c5\u0093HaptI/O\u00c3\u00a2\u00e2\u0082\u00ac\u00c2\u009d device which is a physical network node that can perform as a gateway to input or output the haptic information to/from the human body or tangible objects. We use the WebRTC as the baseline protocol for communication. Users can gain access IoH Web using a smartphone or PC and experience the haptic sensation by selecting the Inter-Node and Ceive-Node from a web browser. Multiple HaptI/O would be connected on the IoH server and transmit the haptic information from one node to multiple nodes as well as one to one mutual connection so that HaptI/O enables us to share our experiences with the sense of touch.", 
+    "abstract": "We propose the concept of the \"Internet of Haptics\" (IoH) that enables sharing experiences of others with the sense of touch. IoH allows to multicast haptic sensation from one Sensor-Node (Inter-Node) to multiple Actuator-Node (Ceive-Node) and to multicast from multiple Inter-Node to multiple Ceive-Node via the Internet. As a proof of concept, we developed the \"HaptI/O\" device which is a physical network node that can perform as a gateway to input or output the haptic information to/from the human body or tangible objects. We use the WebRTC as the baseline protocol for communication. Users can gain access IoH Web using a smartphone or PC and experience the haptic sensation by selecting the Inter-Node and Ceive-Node from a web browser. Multiple HaptI/O would be connected on the IoH server and transmit the haptic information from one node to multiple nodes as well as one to one mutual connection so that HaptI/O enables us to share our experiences with the sense of touch.", 
     "authors": [
       {
         "name": "Satoshi  Matsuzono, Keio University Graduate School of Media Design"
@@ -70,6 +96,11 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Haptics", 
+      " Internet of Things", 
+      " Embodied Media"
+    ], 
     "subtype": "paper", 
     "title": "HaptI/O: Physical Node for the Internet of Haptics", 
     "type": "paper"
@@ -92,12 +123,20 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Tactile Display", 
+      " electrostatic force", 
+      " electro stimulus", 
+      " conductive ink", 
+      " inkjet printer", 
+      " flexible device"
+    ], 
     "subtype": "paper", 
     "title": "Tactile Element with Double-sided Inkjet Printing to Generate Electrostatic Forces and Electrostimuli", 
     "type": "paper"
   }, 
   "uistde110": {
-    "abstract": "We propose a new type of printing system that incorporates sensors in a handheld printer to reflect in real time user intent in the results of printing on paper. This system achieves two key functions: \u00c3\u00a2\u00e2\u0082\u00ac\u00c5\u0093real-time embellishment\u00c3\u00a2\u00e2\u0082\u00ac\u00c2\u009d for altering printed content by reading user hand movements by pressure and optical sensors, and \u00c3\u00a2\u00e2\u0082\u00ac\u00c5\u0093local transcription\u00c3\u00a2\u00e2\u0082\u00ac\u00c2\u009d for selecting content to be output by tracing existing content on paper with a linear camera. We performed experiments to measure the accuracy of both techniques and evaluate their usefulness.", 
+    "abstract": "We propose a new type of printing system that incorporates sensors in a handheld printer to reflect in real time user intent in the results of printing on paper. This system achieves two key functions: \"real-time embellishment\" for altering printed content by reading user hand movements by pressure and optical sensors, and \"local transcription\" for selecting content to be output by tracing existing content on paper with a linear camera. We performed experiments to measure the accuracy of both techniques and evaluate their usefulness.", 
     "authors": [
       {
         "name": "Yuya  Kitazawa, Waseda University"
@@ -108,8 +147,13 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "printer", 
+      " real-time embellishment", 
+      " local transcription"
+    ], 
     "subtype": "paper", 
-    "title": "Printing System Reflecting User\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2s Intent in Real Time Using a Handheld Printer", 
+    "title": "Printing System Reflecting User's Intent in Real Time Using a Handheld Printer", 
     "type": "paper"
   }, 
   "uistde112": {
@@ -133,6 +177,12 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "feedback", 
+      " critique", 
+      " real-time classification", 
+      " educational technology"
+    ], 
     "subtype": "paper", 
     "title": "CritiqueKit: A Mixed-Initiative, Real-Time Interface For Improving Feedback", 
     "type": "paper"
@@ -161,6 +211,11 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Tangible User Interfaces", 
+      " Shape Displays", 
+      " Interactive Tabletop"
+    ], 
     "subtype": "paper", 
     "title": "shapeShift: A Mobile Tabletop Shape Display for Tangible and Haptic Interaction", 
     "type": "paper"
@@ -192,12 +247,22 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Shape-changing Interface", 
+      " Tactile Display", 
+      " Liquid-metal", 
+      " Gallium Indium Eutectic", 
+      " Bipolar Electrochemistry", 
+      " Electric-field Control", 
+      " Janus Particle", 
+      " Micro Robot"
+    ], 
     "subtype": "paper", 
     "title": "JDLED: Towards Visio-Tactile Displays based on Electrochemical Locomotion of Liquid-Metal Janus Droplets", 
     "type": "paper"
   }, 
   "uistde122": {
-    "abstract": "Multiplanes is a virtual reality (VR) drawing system that provides users with the flexibility of freehand drawing and the ability to draw perfect shapes. Through the combination of both beautified and 2D drawing, Multiplanes addresses challenges in creating 3D VR drawings. To achieve this, the system beautifies user\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2s strokes based on the most probable, intended shapes while the user is drawing them. It also automatically generates snapping planes and beautification trigger points based on previous and current strokes and the current controller pose. Based on geometrical relationships to previous strokes, beautification trigger points act as guides inside the virtual environment. Users can hit these points to (explicitly) trigger a stroke beautification. In contrast to other systems, when using Multiplanes, users do not need to manually set or do any kind of special gesture to activate, such guides allowing the user to focus on the creative process.", 
+    "abstract": "Multiplanes is a virtual reality (VR) drawing system that provides users with the flexibility of freehand drawing and the ability to draw perfect shapes. Through the combination of both beautified and 2D drawing, Multiplanes addresses challenges in creating 3D VR drawings. To achieve this, the system beautifies user's strokes based on the most probable, intended shapes while the user is drawing them. It also automatically generates snapping planes and beautification trigger points based on previous and current strokes and the current controller pose. Based on geometrical relationships to previous strokes, beautification trigger points act as guides inside the virtual environment. Users can hit these points to (explicitly) trigger a stroke beautification. In contrast to other systems, when using Multiplanes, users do not need to manually set or do any kind of special gesture to activate, such guides allowing the user to focus on the creative process.", 
     "authors": [
       {
         "name": "Mayra Donaji  Barrera Machuca"
@@ -217,6 +282,11 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Virtual Reality Drawing", 
+      " Sketching", 
+      " 3D User Interfaces"
+    ], 
     "subtype": "paper", 
     "title": "Multiplanes: Assisted Freehand VR Drawing", 
     "type": "paper"
@@ -236,6 +306,12 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Virtual Reality", 
+      " Haptic User Interfaces", 
+      " Robots", 
+      ""
+    ], 
     "subtype": "paper", 
     "title": "PhyShare: Sharing Physical Interaction in Virtual Reality", 
     "type": "paper"
@@ -261,6 +337,12 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Skin", 
+      " robotics", 
+      " wearable devices", 
+      " telemedicine"
+    ], 
     "subtype": "paper", 
     "title": "SkinBot: A Wearable Skin Climbing Robot", 
     "type": "paper"
@@ -277,6 +359,11 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Smart string", 
+      " interactive string", 
+      " digital textile."
+    ], 
     "subtype": "paper", 
     "title": "Filum: A Sewing Technique to Alter Textile Shapes", 
     "type": "paper"
@@ -299,6 +386,13 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Body Channel Communication", 
+      " Capacitive Coupling", 
+      " Human-Computer Interaction", 
+      " Wearable", 
+      " Smart Floor"
+    ], 
     "subtype": "paper", 
     "title": "Playful Interactions with Body Channel Communication: Conquer it!", 
     "type": "paper"
@@ -307,7 +401,7 @@ entities={
     "abstract": "We present MagTics, a novel flexible and wearable haptic interface based on magnetically actuated bi-directional tactile pixels (taxels). MagTics' thin form-factor and flexibility allows for rich haptic feedback in mobile settings.  We propose a novel actuation mechanism based on bi-stable electromagnetic latching that combines high framerate and holding force with low energy consumption and a soft and flexible form-factor.  We overcome limitations of traditional soft-actuators by placing several hard actuation cells, driven by flexible printed electronics, in a soft 3D printed case. A novel EM-shielding prevents magnet-magnet interactions and allows for high actuator densities. A prototypical implementation comprising of 4 actuated pins on a 1.7 cm pitch, with 2 mm travel, and generating 160 mN to 200 mN of latching force is used to implement a number of compelling application scenarios.", 
     "authors": [
       {
-        "name": "Juan  Zarate, \u00c3\u2030cole polytechnique f\u00c3\u00a9d\u00c3\u00a9rale de Lausanne (EPFL)"
+        "name": "Juan  Zarate, \u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne (EPFL)"
       }, 
       {
         "name": "Fabrizio  Pece, ETH Zurich"
@@ -316,16 +410,16 @@ entities={
         "name": "Velko  Vechev, Chalmers University of Technology"
       }, 
       {
-        "name": "Nadine  Besse, \u00c3\u2030cole polytechnique f\u00c3\u00a9d\u00c3\u00a9rale de Lausanne"
+        "name": "Nadine  Besse, \u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne (EPFL)"
       }, 
       {
-        "name": "Olexandr  Gudozhnik, \u00c3\u2030cole polytechnique f\u00c3\u00a9d\u00c3\u00a9rale de Lausanne (EPFL)"
+        "name": "Olexandr  Gudozhnik, \u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne (EPFL)"
       }, 
       {
-        "name": "Ronan  Hinchet, \u00c3\u2030cole Polytechnique F\u00c3\u00a9d\u00c3\u00a9rale de Lausanne"
+        "name": "Ronan  Hinchet, \u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne (EPFL)"
       }, 
       {
-        "name": "Herbert  Shea, \u00c3\u2030cole polytechnique f\u00c3\u00a9d\u00c3\u00a9rale de Lausanne (EPFL)"
+        "name": "Herbert  Shea, \u00c9cole Polytechnique F\u00e9d\u00e9rale de Lausanne (EPFL)"
       }, 
       {
         "name": "Otmar  Hilliges, ETH Zurich"
@@ -333,6 +427,9 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      ""
+    ], 
     "subtype": "paper", 
     "title": "MagTics: Flexible and Thin Form Factor Magnetic Actuators for Dynamic and Wearable Haptic Feedback", 
     "type": "paper"
@@ -367,6 +464,15 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Vibrotactile feedback", 
+      " printed electronics", 
+      " printed actuators", 
+      " printed sensors", 
+      " widgets", 
+      " piezoelectric ink", 
+      " thin-film actuators"
+    ], 
     "subtype": "paper", 
     "title": "Designing Vibrotactile Widgets with Printed Actuators and Sensors", 
     "type": "paper"
@@ -395,12 +501,17 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Ultrasonic", 
+      " Ultrasound", 
+      " stirring"
+    ], 
     "subtype": "paper", 
     "title": "Ultrasonic Cuisine: Proposal of ultrasonic non-contact stirring methods", 
     "type": "paper"
   }, 
   "uistde133": {
-    "abstract": "We demonstrate TrussFab\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2s editor for creating large-scale structures that are sturdy enough to carry human weight. TrussFab achieves the large scale by using plastic bottles as beams that form structurally sound node-link structures, also known as trusses, allowing it to handle the forces resulting from scale and load. During this hands-on demo at UIST, attendees will use the TrussFab software to design their own structures, validate their design using integrated structural analysis, and export their designs for 3D printing.", 
+    "abstract": "We demonstrate TrussFab's editor for creating large-scale structures that are sturdy enough to carry human weight. TrussFab achieves the large scale by using plastic bottles as beams that form structurally sound node-link structures, also known as trusses, allowing it to handle the forces resulting from scale and load. During this hands-on demo at UIST, attendees will use the TrussFab software to design their own structures, validate their design using integrated structural analysis, and export their designs for 3D printing.", 
     "authors": [
       {
         "name": "Robert  Kovacs, Hasso Plattner Institute"
@@ -415,7 +526,7 @@ entities={
         "name": "Hsiang-Ting  Chen, Hasso Plattner Institute"
       }, 
       {
-        "name": "Willi  M\u00c3\u00bcLler, Hasso Plattner Institute"
+        "name": "Willi  M\u00fcLler, Hasso Plattner Institute"
       }, 
       {
         "name": "Florian  Meinel, Hasso Plattner Institute"
@@ -424,7 +535,7 @@ entities={
         "name": "Yannis  Kommana, Hasso Plattner Institute"
       }, 
       {
-        "name": "Thomas  Bl\u00c3\u00a4Sius"
+        "name": "Thomas  Bl\u00e4Sius"
       }, 
       {
         "name": "Thijs Jan Roumen, Hasso Plattner Institute"
@@ -438,6 +549,11 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Fabrication", 
+      " 3D printing", 
+      " truss structure"
+    ], 
     "subtype": "paper", 
     "title": "Demonstrating TrussFab's Editor: Designing Sturdy Large-Scale Structures", 
     "type": "paper"
@@ -451,6 +567,11 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Brain-computer interface", 
+      " media art", 
+      " contemporary dance"
+    ], 
     "subtype": "paper", 
     "title": "Mobile Brain-Computer Interface for Dance and Somatic Practice", 
     "type": "paper"
@@ -467,6 +588,13 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Force input", 
+      " tangential force", 
+      " compliance illusion", 
+      " haptic illusion", 
+      " tactile display."
+    ], 
     "subtype": "paper", 
     "title": "Creating Haptic Illusion of Compliance for Tangential Force Input using Vibrotactile Actuator", 
     "type": "paper"
@@ -486,6 +614,11 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Synergistic Interaction", 
+      " Human Augmentation", 
+      " Wearable Robotics"
+    ], 
     "subtype": "paper", 
     "title": "Hand Development Kit: Soft Robotic Fingers as Prosthetic Augmentation of the Hand", 
     "type": "paper"
@@ -502,6 +635,12 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Electrical Muscle Stimulation", 
+      " wearable", 
+      " haptics", 
+      " body I/O"
+    ], 
     "subtype": "paper", 
     "title": "Demonstrating Interactive Systems based on Electrical Muscle Stimulation", 
     "type": "paper"
@@ -530,6 +669,13 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Ultrasound beams", 
+      " Parametric Speaker", 
+      " Acoustic Field Generation", 
+      " Acoustic Simulation", 
+      " Ray Tracing Method."
+    ], 
     "subtype": "paper", 
     "title": "Sonoliards: Rendering audible sound spots by reflecting the ultrasound beams", 
     "type": "paper"
@@ -549,6 +695,13 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "RFID", 
+      " High-function RFID", 
+      " contactless IC card", 
+      " battery free", 
+      " gesture"
+    ], 
     "subtype": "paper", 
     "title": "AccelTag: A Passive Smart ID Tag with Acceleration Sensor for Interactive Applications", 
     "type": "paper"
@@ -568,6 +721,12 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Mobile HMD", 
+      " Eye Tracking", 
+      " Virtual Reality", 
+      ""
+    ], 
     "subtype": "paper", 
     "title": "Eye Tracking Using Built-in Camera for Smartphone-based HMD", 
     "type": "paper"
@@ -587,6 +746,12 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Smartphone", 
+      " Back-of-device", 
+      " Physical input", 
+      " Mirror"
+    ], 
     "subtype": "paper", 
     "title": "Attaching Objects to Smartphones Back Side for a Modular Interface", 
     "type": "paper"
@@ -612,6 +777,10 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Haptic I/O", 
+      " Interaction styles"
+    ], 
     "subtype": "paper", 
     "title": "Feeling Fireworks", 
     "type": "paper"
@@ -628,6 +797,11 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Information visualization", 
+      " types", 
+      " type systems"
+    ], 
     "subtype": "paper", 
     "title": "Atypical: A Type System for Live Performances", 
     "type": "paper"
@@ -656,6 +830,11 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Crowdsourcing", 
+      " Prototyping/Implementation", 
+      " Animation"
+    ], 
     "subtype": "paper", 
     "title": "SketchExpress: Remixing Animations for More Effective Crowd-Powered Prototyping of Interactive Interfaces", 
     "type": "paper"
@@ -678,6 +857,10 @@ entities={
     ], 
     "award": true, 
     "hm": false, 
+    "keywords": [
+      "2D animation", 
+      " live performance"
+    ], 
     "subtype": "paper", 
     "title": "Triggering Artwork Swaps for Live Animation", 
     "type": "paper"
@@ -697,6 +880,14 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Pen interaction", 
+      " input technique", 
+      " bending", 
+      " deformation", 
+      " augmented stylus", 
+      " HCI"
+    ], 
     "subtype": "paper", 
     "title": "FlexStylus: Leveraging Bend Input for Pen Interaction", 
     "type": "paper"
@@ -716,6 +907,13 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Haptics", 
+      " Squeezing", 
+      " Wrist", 
+      " Wearable", 
+      " Compression"
+    ], 
     "subtype": "paper", 
     "title": "HapticClench: Investigating Squeeze Sensations using Memory Alloys", 
     "type": "paper"
@@ -741,6 +939,13 @@ entities={
     ], 
     "award": true, 
     "hm": false, 
+    "keywords": [
+      "Haptics", 
+      " Virtual Reality", 
+      " Mass Perception", 
+      " Weight Force", 
+      " Grasp"
+    ], 
     "subtype": "paper", 
     "title": "Grabity: A Wearable Haptic Interface for Simulating Weight and Grasping in Virtual Reality", 
     "type": "paper"
@@ -772,6 +977,13 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "personalized cast", 
+      " thermal-comfort", 
+      " 3D printing", 
+      " pattern optimization", 
+      " structural analysis"
+    ], 
     "subtype": "paper", 
     "title": "Thermal-Comfort Design of Personalized Casts", 
     "type": "paper"
@@ -794,6 +1006,11 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Mixed reality", 
+      " enhanced experience", 
+      " scene editing"
+    ], 
     "subtype": "paper", 
     "title": "SceneCtrl: Mixed Reality Enhancement via Efficient Scene Editing", 
     "type": "paper"
@@ -813,6 +1030,12 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "3D Displays", 
+      " Pepper's Ghost", 
+      " Computer Graphics", 
+      " Augmented Reality"
+    ], 
     "subtype": "paper", 
     "title": "Pepper's Cone: An Inexpensive Do-It-Yourself 3D Display", 
     "type": "paper"
@@ -847,6 +1070,12 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Wearables", 
+      " Email", 
+      " Crowdsourcing", 
+      " Information Extraction"
+    ], 
     "subtype": "paper", 
     "title": "WearMail: On-the-Go Access to Information in Your Email with a Privacy-Preserving Human Computation Workflow", 
     "type": "paper"
@@ -866,6 +1095,11 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Gesture recognition", 
+      " Wearables", 
+      " Infrared"
+    ], 
     "subtype": "paper", 
     "title": "SensIR: Detecting Hand Gestures with a Wearable Bracelet using Infrared Transmission and Reflection", 
     "type": "paper"
@@ -885,6 +1119,11 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Virtual reality", 
+      " ergonomics", 
+      " optimization"
+    ], 
     "subtype": "paper", 
     "title": "Erg-O: Ergonomic Optimization of Immersive Virtual Environments", 
     "type": "paper"
@@ -913,6 +1152,13 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "latency", 
+      " lag", 
+      " measure", 
+      " toolkits", 
+      " measurement tools"
+    ], 
     "subtype": "paper", 
     "title": "Characterizing Latency in Touch and Button-Equipped Interactive Systems", 
     "type": "paper"
@@ -935,6 +1181,12 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Interactive display", 
+      " Spherical display", 
+      " Ball display", 
+      " Entertainment"
+    ], 
     "subtype": "paper", 
     "title": "Qoom: An Interactive Omnidirectional Ball Display", 
     "type": "paper"
@@ -963,6 +1215,13 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Animatronics", 
+      " puppet", 
+      " telepresence", 
+      " head-mounted display", 
+      ""
+    ], 
     "subtype": "paper", 
     "title": "You as a Puppet: Evaluation of Telepresence User Interface for Puppetry", 
     "type": "paper"
@@ -994,6 +1253,11 @@ entities={
     ], 
     "award": false, 
     "hm": true, 
+    "keywords": [
+      "Mobile Haptics", 
+      " Tactile Displays", 
+      " Wearable Computing"
+    ], 
     "subtype": "paper", 
     "title": "MagTics: Flexible and Thin Form Factor Magnetic Actuators for Dynamic and Wearable Haptic Feedback", 
     "type": "paper"
@@ -1025,6 +1289,12 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Mobile haptics", 
+      " Shape-changing display", 
+      " Taxel", 
+      " Smartwatch"
+    ], 
     "subtype": "paper", 
     "title": "RetroShape: Leveraging Rear-Surface Shape Displays for 2.5D Interaction on Smartwatches", 
     "type": "paper"
@@ -1050,6 +1320,11 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Sketch-based modeling", 
+      " modeling in context", 
+      " swept surfaces"
+    ], 
     "subtype": "paper", 
     "title": "SweepCanvas: Sketch-based 3D Prototyping on an RGB-D Image", 
     "type": "paper"
@@ -1075,6 +1350,12 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Microphone Array Processing", 
+      " Smartwatch Spatial Input", 
+      " Acoustic Signatures", 
+      " Classification and Localization"
+    ], 
     "subtype": "paper", 
     "title": "SoundCraft: Enabling Spatial Interactions on Smartwatches using Hand Generated Acoustics", 
     "type": "paper"
@@ -1100,6 +1381,14 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Information Visualization", 
+      " Virtual Reality", 
+      " Multidimensional Data Visualization", 
+      " Immersion", 
+      " Immersive Visualization", 
+      " Immersive Analytics"
+    ], 
     "subtype": "paper", 
     "title": "ImAxes: Immersive Axes as Embodied Affordances for Interactive Multivariate Data Visualisation", 
     "type": "paper"
@@ -1119,6 +1408,12 @@ entities={
     ], 
     "award": false, 
     "hm": true, 
+    "keywords": [
+      "Eye Contact", 
+      " Appearance-Based Gaze Estimation", 
+      " Attentive User Interfaces", 
+      " Social Signal Processing"
+    ], 
     "subtype": "paper", 
     "title": "Everyday Eye Contact Detection Using Unsupervised Gaze Target Discovery", 
     "type": "paper"
@@ -1141,6 +1436,12 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Micro thumb-tip gesture", 
+      " PIR", 
+      " pyroelectric", 
+      " wearable"
+    ], 
     "subtype": "paper", 
     "title": "Pyro: Thumb-Tip Gesture Recognition Using Pyroelectric Infrared Sensing", 
     "type": "paper"
@@ -1169,6 +1470,16 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Wearable computing", 
+      " eye tracking", 
+      " augmented reality", 
+      " AR", 
+      " input technique", 
+      " smooth pursuits", 
+      " motion matching", 
+      " HMD"
+    ], 
     "subtype": "paper", 
     "title": "SmoothMoves: Smooth Pursuits Head Movements for Augmented Reality", 
     "type": "paper"
@@ -1185,6 +1496,10 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Virtual Reality", 
+      " Gigapixel Resolution"
+    ], 
     "subtype": "paper", 
     "title": "Panning and Zooming High-Resolution Panoramas in Virtual Reality Devices", 
     "type": "paper"
@@ -1204,6 +1519,18 @@ entities={
     ], 
     "award": false, 
     "hm": true, 
+    "keywords": [
+      "Scanalog", 
+      " Scanalogue", 
+      " design tools", 
+      " debugging", 
+      " analog circuits", 
+      " electronics", 
+      " prototyping", 
+      " FPAA", 
+      " Field Programmable Analog Array", 
+      " programmable analog hardware"
+    ], 
     "subtype": "paper", 
     "title": "Scanalog: Interactive Design and Debugging of Analog Circuits with Programmable Hardware", 
     "type": "paper"
@@ -1226,6 +1553,11 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "finger identification", 
+      " touch interaction", 
+      " vibration sensor"
+    ], 
     "subtype": "paper", 
     "title": "WhichFingers: Identifying Fingers on Touch Surfaces and Keyboards Using Vibration Sensors", 
     "type": "paper"
@@ -1242,6 +1574,14 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Smart fabrics", 
+      " E-textiles", 
+      " Wearables computing", 
+      " Conductive thread", 
+      " Gesture interaction", 
+      " Data storage"
+    ], 
     "subtype": "paper", 
     "title": "Data Storage and Interaction using Magnetized Fabric", 
     "type": "paper"
@@ -1267,6 +1607,11 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Multi-display environments", 
+      " display placement", 
+      " analyzing user behavior"
+    ], 
     "subtype": "paper", 
     "title": "HeatSpace: Automatic Placement of Displays by Empirical Analysis of User Behavior", 
     "type": "paper"
@@ -1295,6 +1640,12 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Haptics", 
+      " Ring", 
+      " Wearable", 
+      " Passive Kinesthetic Force Feedback"
+    ], 
     "subtype": "paper", 
     "title": "Frictio: Passive Kinesthetic Force Feedback for Smart Ring Output", 
     "type": "paper"
@@ -1320,6 +1671,13 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Driver detection", 
+      " Vehicle infotainment", 
+      " Capacitive sensing", 
+      " Touch", 
+      " Driver assistance"
+    ], 
     "subtype": "paper", 
     "title": "Carpacio: Repurposing Capacitive Sensors to Distinguish Driver and Passenger Touches on In-Vehicle Screens", 
     "type": "paper"
@@ -1339,6 +1697,12 @@ entities={
     ], 
     "award": false, 
     "hm": true, 
+    "keywords": [
+      "Fabrication", 
+      " Prototyping/Implementation", 
+      " Creativity Support", 
+      " Smart materials."
+    ], 
     "subtype": "paper", 
     "title": "BlowFab: Rapid Prototyping for Rigid and Reusable Objects using Inflation of Laser-cut Surfaces", 
     "type": "paper"
@@ -1355,6 +1719,15 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Touch sensing", 
+      " capacitive", 
+      " series-connected", 
+      " multi-touch", 
+      " wire", 
+      " paper", 
+      " prototyping"
+    ], 
     "subtype": "paper", 
     "title": "A Capacitive Touch Sensing Technique with Series-connected Sensing Electrodes", 
     "type": "paper"
@@ -1371,6 +1744,17 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "User input", 
+      " Input techniques", 
+      " Motion-matching", 
+      " Pointing", 
+      " Gesture input", 
+      " Touchless input", 
+      " Bodily interaction", 
+      " Vison-based interfaces", 
+      " Computer vision"
+    ], 
     "subtype": "paper", 
     "title": "MatchPoint: Spontaneous Spatial Coupling of Body Movement for Touchless Pointing", 
     "type": "paper"
@@ -1393,6 +1777,19 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Dwell", 
+      " Touch", 
+      " Vibrotactile Feedback", 
+      " Numerosity Perception", 
+      " Haptically-augmented Input", 
+      " Touchscreen", 
+      " Input Modality", 
+      " Finger", 
+      " Smartwatch", 
+      " Stylus", 
+      " Experiment"
+    ], 
     "subtype": "paper", 
     "title": "Dwell+: Multi-Level Mode Selection Using Vibrotactile Cues", 
     "type": "paper"
@@ -1409,6 +1806,11 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "tutorial generation", 
+      " mixed-media tutorials", 
+      " software tutorials"
+    ], 
     "subtype": "paper", 
     "title": "Torta: Generating Mixed-Media GUI and Command-Line App Tutorials Using Operating-System-Wide Activity Tracing", 
     "type": "paper"
@@ -1425,6 +1827,17 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Design", 
+      " Human Factors", 
+      " 3D Modeling", 
+      " CAD", 
+      " Interactive Modeling", 
+      " Mobile", 
+      " Augmented Reality", 
+      " User Study", 
+      ""
+    ], 
     "subtype": "paper", 
     "title": "Interactive Room Capture on 3D-Aware Mobile Devices", 
     "type": "paper"
@@ -1453,6 +1866,11 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Gaze Estimation", 
+      " Body Tracking", 
+      " Gaze-enabled Displays"
+    ], 
     "subtype": "paper", 
     "title": "EyeScout: Active Eye Tracking for Position and Movement Independent Gaze Interaction with Large Public Displays", 
     "type": "paper"
@@ -1475,6 +1893,12 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Tangible User Interfaces", 
+      " Drone", 
+      " Persistence of Vision", 
+      " Spherical Display"
+    ], 
     "subtype": "paper", 
     "title": "iSphere: Self-Luminous Spherical Drone Display", 
     "type": "paper"
@@ -1491,6 +1915,10 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "live programming", 
+      " always-on visualizations"
+    ], 
     "subtype": "paper", 
     "title": "Omnicode: A Novice-Oriented Live Programming Environment with Always-On Run-Time Value Visualizations", 
     "type": "paper"
@@ -1510,6 +1938,11 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Smartphone", 
+      " Lending smartphone", 
+      " Modular smartphone"
+    ], 
     "subtype": "paper", 
     "title": "A Modular Smartphone for Lending", 
     "type": "paper"
@@ -1550,6 +1983,11 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Electric Circuits", 
+      " Component Recognition", 
+      " Circuit Virtualization"
+    ], 
     "subtype": "paper", 
     "title": "CircuitSense: Automatic Sensing of Physical Circuits and Generation of Virtual Circuits to Support Software Tools.", 
     "type": "paper"
@@ -1572,6 +2010,13 @@ entities={
     ], 
     "award": true, 
     "hm": false, 
+    "keywords": [
+      "digital fabrication", 
+      " 3D printing", 
+      " unobtrusive tags", 
+      " air pockets", 
+      " sensing"
+    ], 
     "subtype": "paper", 
     "title": "AirCode: Unobtrusive Physical Tags for Digital Fabrication", 
     "type": "paper"
@@ -1591,6 +2036,10 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "360 video", 
+      " cinematography"
+    ], 
     "subtype": "paper", 
     "title": "Shot Orientation Controls for Interactive Cinematography with 360 Video", 
     "type": "paper"
@@ -1610,6 +2059,12 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Prototyping", 
+      " Circuitry", 
+      " Generative Design", 
+      " Circuit Generation"
+    ], 
     "subtype": "paper", 
     "title": "Trigger-Action-Circuits: Leveraging Generative Design to Enable Novices to Design and Build Circuitry", 
     "type": "paper"
@@ -1626,6 +2081,15 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Augmented Reality", 
+      " Mixed Reality", 
+      " Spatial Augmented Reality", 
+      " Virtual Reality", 
+      " Through-the-lens Technique", 
+      " Tangible User Interfaces", 
+      " Organic User Interfaces"
+    ], 
     "subtype": "paper", 
     "title": "One Reality: Augmenting How the Physical World is Experienced by combining Multiple Mixed Reality Modalities", 
     "type": "paper"
@@ -1648,6 +2112,12 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Gesture Shortcuts", 
+      " Gesture Typing", 
+      " Mobile", 
+      " Soft keyboards"
+    ], 
     "subtype": "paper", 
     "title": "CommandBoard: Creating a General-Purpose Command Gesture Input Space for Soft Keyboard", 
     "type": "paper"
@@ -1670,6 +2140,15 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Facial expression recognition", 
+      " virtual humans", 
+      " 3D modeling", 
+      " avatars", 
+      " affective computing", 
+      " natural language processing", 
+      " social signal processing"
+    ], 
     "subtype": "paper", 
     "title": "More than a Feeling: The MiFace Framework for Defining Facial Communication Mappings", 
     "type": "paper"
@@ -1695,6 +2174,13 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "secondary motion", 
+      " live performance", 
+      " 2D animation", 
+      " plausible physics", 
+      " constrained dynamics"
+    ], 
     "subtype": "paper", 
     "title": "Secondary Motion for Performed 2D Animation", 
     "type": "paper"
@@ -1720,6 +2206,13 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Literate programming", 
+      " literate computing", 
+      " interactive notebooks", 
+      " real-time collaboration", 
+      " reprogrammable systems"
+    ], 
     "subtype": "paper", 
     "title": "Codestrates: Literate Computing with Webstrates", 
     "type": "paper"
@@ -1739,6 +2232,12 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Tangible Modeling", 
+      " Construction Kit", 
+      " 3D Modeling", 
+      " Personal/Digital Fabrication"
+    ], 
     "subtype": "paper", 
     "title": "StrutModeling: A Low-Fidelity Construction Kit to Iteratively Model, Test, and Adapt 3D Objects", 
     "type": "paper"
@@ -1761,6 +2260,13 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Virtual Sonic Environments", 
+      " 3D Audio", 
+      " Virtual Reality", 
+      " Design Environment", 
+      " Browser-based Interface"
+    ], 
     "subtype": "paper", 
     "title": "INVISO: A Cross-platform User Interface for Creating Virtual Sonic Environments", 
     "type": "paper"
@@ -1789,6 +2295,11 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Virtual Reality", 
+      " Navigation techniques", 
+      " Navigation fields"
+    ], 
     "subtype": "paper", 
     "title": "NaviFields: Relevance fields for adaptive VR navigation", 
     "type": "paper"
@@ -1826,6 +2337,13 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Electric Current", 
+      " Breadboarded Circuit", 
+      " Debugging", 
+      " Visualization", 
+      ""
+    ], 
     "subtype": "paper", 
     "title": "CurrentViz: Sensing and Visualizing Electric Current of Breadboarded Circuits", 
     "type": "paper"
@@ -1854,6 +2372,12 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "App design", 
+      " design support tools", 
+      " zero-integration performance testing", 
+      ""
+    ], 
     "subtype": "paper", 
     "title": "ZIPT: Zero-Integration Performance Testing of Mobile App Designs", 
     "type": "paper"
@@ -1900,6 +2424,11 @@ entities={
     ], 
     "award": false, 
     "hm": true, 
+    "keywords": [
+      "Crowdsourcing", 
+      " citizen science", 
+      " crowd research"
+    ], 
     "subtype": "paper", 
     "title": "Crowd Research: Open and Scalable University Laboratories", 
     "type": "paper"
@@ -1922,6 +2451,18 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Jaw movement", 
+      " mouth movement", 
+      " facial movement", 
+      " head movement", 
+      " barometer", 
+      " hands-free", 
+      " eyes-free", 
+      " earphones", 
+      " outer ear interface", 
+      " wearable computing"
+    ], 
     "subtype": "paper", 
     "title": "CanalSense: Face-Related Movement Recognition System based on Sensing Air Pressure in Ear Canals", 
     "type": "paper"
@@ -1941,6 +2482,11 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Visual impairments", 
+      " 3D models", 
+      " computer vision "
+    ], 
     "subtype": "paper", 
     "title": "Markit and Talkit: A Low-Barrier Toolkit to Augment 3D Printed Models with Audio Annotations", 
     "type": "paper"
@@ -1975,6 +2521,13 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Mobile App Design", 
+      " Design Mining", 
+      " Design Search", 
+      " App Dataset", 
+      ""
+    ], 
     "subtype": "paper", 
     "title": "RICO: A Mobile App Dataset for Building Data-Driven Design Applications", 
     "type": "paper"
@@ -2003,6 +2556,11 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Smart Textile", 
+      " Deformation Gestures", 
+      " Surface Gestures"
+    ], 
     "subtype": "paper", 
     "title": "SmartSleeve: Real-time Sensing of Surface and Deformation Gestures on Flexible, Interactive Textiles, using a Hybrid Gesture Detection Pipeline", 
     "type": "paper"
@@ -2040,6 +2598,16 @@ entities={
     ], 
     "award": false, 
     "hm": true, 
+    "keywords": [
+      "Saliency", 
+      " Computer Vision", 
+      " Machine Learning", 
+      " Eye Tracking", 
+      " Visualization", 
+      " Graphic Design", 
+      " Deep Learning", 
+      " Retargeting"
+    ], 
     "subtype": "paper", 
     "title": "Learning Visual Importance for Graphic Designs and Data Visualizations", 
     "type": "paper"
@@ -2071,6 +2639,13 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Wearables", 
+      " Soft Sensor", 
+      " Sensing Technique", 
+      " Input Device", 
+      " Customization"
+    ], 
     "subtype": "paper", 
     "title": "iSoft: A Customizable Soft Sensor with Real-time Continuous Contact and Stretching Sensing", 
     "type": "paper"
@@ -2093,6 +2668,12 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Transforming Steering Wheel", 
+      " Autonomous Vehicles", 
+      " Transition of Control", 
+      " Human Machine Interaction. "
+    ], 
     "subtype": "paper", 
     "title": "Reinventing the Wheel: Transforming Steering Wheel Systems for Autonomous Vehicles", 
     "type": "paper"
@@ -2121,6 +2702,13 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "360 Video", 
+      " Telepresence", 
+      " Picture-in-picture", 
+      " Off-screen Targets", 
+      ""
+    ], 
     "subtype": "paper", 
     "title": "Outside-In: Visualizing Out-of-Sight Regions-of-Interest in a 360 Video Using Spatial Picture-in-Picture Previews", 
     "type": "paper"
@@ -2140,6 +2728,12 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "User Experience", 
+      " Aesthetics", 
+      " Usability", 
+      " fMRI"
+    ], 
     "subtype": "paper", 
     "title": "Neuroanatomical Correlates of Perceived Usability", 
     "type": "paper"
@@ -2171,8 +2765,14 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "embedded systems", 
+      " debugging", 
+      " IDE", 
+      " visualization"
+    ], 
     "subtype": "paper", 
-    "title": "Bifr\u00c3\u00b6st : Visualizing and Checking Behavior of Embedded Systems across Hardware and Software", 
+    "title": "Bifr\u00f6st : Visualizing and Checking Behavior of Embedded Systems across Hardware and Software", 
     "type": "paper"
   }, 
   "uistf4597": {
@@ -2193,6 +2793,12 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Virtual reality", 
+      " collaboration", 
+      " video reviewing", 
+      " video editing"
+    ], 
     "subtype": "paper", 
     "title": "CollaVR: Collaborative In-Headset Review for VR Video", 
     "type": "paper"
@@ -2218,6 +2824,14 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Fonts", 
+      " Reading", 
+      " Learning", 
+      " Scripts", 
+      " Low-vision", 
+      " Accessibility."
+    ], 
     "subtype": "paper", 
     "title": "Designing and Evaluating Livefonts", 
     "type": "paper"
@@ -2237,6 +2851,12 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Redubbing", 
+      " Voiceover", 
+      " Overdub", 
+      " Dynamic time warping"
+    ], 
     "subtype": "paper", 
     "title": "AutoDub: Automatic Redubbing for Voiceover Editing", 
     "type": "paper"
@@ -2262,6 +2882,13 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Sketching", 
+      " 3D design", 
+      " generative design", 
+      " ambiguity", 
+      " CAD"
+    ], 
     "subtype": "paper", 
     "title": "DreamSketch: Early Stage 3D Design Explorations with Sketching and Generative Design", 
     "type": "paper"
@@ -2278,6 +2905,11 @@ entities={
     ], 
     "award": false, 
     "hm": true, 
+    "keywords": [
+      "data science", 
+      " live programming", 
+      " novice programmers"
+    ], 
     "subtype": "paper", 
     "title": "DS.js: Turn Any Webpage into an Example-Centric Live Programming Environment for Learning Data Science", 
     "type": "paper"
@@ -2309,6 +2941,11 @@ entities={
     ], 
     "award": false, 
     "hm": true, 
+    "keywords": [
+      "6DoF pose tracking", 
+      " binary square markers", 
+      " mixed reality"
+    ], 
     "subtype": "paper", 
     "title": "DodecaPen: Accurate 6DoF Tracking of a Passive Stylus", 
     "type": "paper"
@@ -2331,6 +2968,15 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Direct input", 
+      " onscreen reflection", 
+      " distance independence", 
+      " private pointing", 
+      " shoulder surfing", 
+      " touch screen", 
+      " eye tracking"
+    ], 
     "subtype": "paper", 
     "title": "Reflector: Distance-Independent, Private Pointing on a Reflective Screen", 
     "type": "paper"
@@ -2353,6 +2999,11 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Soft sensor", 
+      " Design Process", 
+      " Tangible User Interface "
+    ], 
     "subtype": "paper", 
     "title": "FoamSense: Design of three dimensional soft sensors with porous materials", 
     "type": "paper"
@@ -2372,12 +3023,18 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Virtual reality", 
+      " haptics", 
+      " immersion", 
+      " Haptic Turk"
+    ], 
     "subtype": "paper", 
     "title": "Mutual Human Actuation", 
     "type": "paper"
   }, 
   "uistpp111": {
-    "abstract": "Children with ASD (Autism Spectrum Disorder) have social communication difficulties partly due to their abnormal avoidance of eye contact on human faces, yet they have a normal visual processing strategy on cartoon face. In this paper, we present KinToon, a face-to-face communication enhancement system to help ASD children in their training lessons. Our system use Kinect to scan human face and extract key points from facial contour, and match them to corresponding key points of a cartoon face. A modified cartoon face is projected to the communicator\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2s face to achieve the effect of dynamic \u00c3\u00a2\u00e2\u0082\u00ac\u00c5\u0093makeup\u00c3\u00a2\u00e2\u0082\u00ac\u00c2\u009d. ASD children will finally talk to the communicator with dynamic cartoon makeup, which would reduce their stress of interacting with people and make them easier to understand emotions. The interactive devices were applied to an ASD training lesson, and our creative approach was examined to be relatively effective in encouraging ASD children to fetch more emotional information and have more eye contact with people by eye tracking.", 
+    "abstract": "Children with ASD (Autism Spectrum Disorder) have social communication difficulties partly due to their abnormal avoidance of eye contact on human faces, yet they have a normal visual processing strategy on cartoon face. In this paper, we present KinToon, a face-to-face communication enhancement system to help ASD children in their training lessons. Our system use Kinect to scan human face and extract key points from facial contour, and match them to corresponding key points of a cartoon face. A modified cartoon face is projected to the communicator's face to achieve the effect of dynamic \"makeup\". ASD children will finally talk to the communicator with dynamic cartoon makeup, which would reduce their stress of interacting with people and make them easier to understand emotions. The interactive devices were applied to an ASD training lesson, and our creative approach was examined to be relatively effective in encouraging ASD children to fetch more emotional information and have more eye contact with people by eye tracking.", 
     "authors": [
       {
         "name": "Cheng  Zheng, Zhejiang University"
@@ -2409,6 +3066,13 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Facial Projector", 
+      " Kinect", 
+      " Mixed Reality", 
+      " ASD Children", 
+      " Communication Enhancement"
+    ], 
     "subtype": "paper", 
     "title": "KinToon: A Kinect Facial Projector for Communication Enhancement for ASD Children", 
     "type": "paper"
@@ -2428,6 +3092,11 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Thermal", 
+      " Perceptual illusion", 
+      " Intermanual"
+    ], 
     "subtype": "paper", 
     "title": "Towards Intermanual Apparent Motion of Thermal Pulses", 
     "type": "paper"
@@ -2444,6 +3113,11 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Augmented Reality", 
+      " Diminished Reality", 
+      " Visibility of visual information"
+    ], 
     "subtype": "paper", 
     "title": "Information Identification Support Method for Areas with Densely Located Signboards", 
     "type": "paper"
@@ -2466,12 +3140,17 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Augmented reality", 
+      " virtual reality", 
+      " 3D windows management."
+    ], 
     "subtype": "paper", 
     "title": "Projective Windows: Arranging Windows in Space Using Projective Geometry", 
     "type": "paper"
   }, 
   "uistpp128": {
-    "abstract": "In Japan, the necessity of saving energy is rising due to the nuclear accident caused by the Great East Japan Earthquake that occurred on March 11, 2011. Reduction of energy usage is required due to rapid increases in electricity consumption due to the scorching summer heat in recent years. The common ways to provide information on energy consumption mainly occur through \u00c3\u00a2\u00e2\u0082\u00ac\u00c5\u0093visualization\u00c3\u00a2\u00e2\u0082\u00ac\u00c2\u009d of information. On the contrary, olfactory stimulation can be performed while working, and it is effective also when the degree of arousal is low. This study considers applications on the basis of the concept of \u00c3\u00a2\u00e2\u0082\u00ac\u00c5\u0093smellization\u00c3\u00a2\u00e2\u0082\u00ac\u00c2\u009d of information using olfactive stimulation. In this paper, we introduce the configuration and operation examples of a system developed for evoking public energy conservation behavior using smell.", 
+    "abstract": "In Japan, the necessity of saving energy is rising due to the nuclear accident caused by the Great East Japan Earthquake that occurred on March 11, 2011. Reduction of energy usage is required due to rapid increases in electricity consumption due to the scorching summer heat in recent years. The common ways to provide information on energy consumption mainly occur through \"visualization\" of information. On the contrary, olfactory stimulation can be performed while working, and it is effective also when the degree of arousal is low. This study considers applications on the basis of the concept of \"smellization\" of information using olfactive stimulation. In this paper, we introduce the configuration and operation examples of a system developed for evoking public energy conservation behavior using smell.", 
     "authors": [
       {
         "name": "Tsutomu  Miyasato"
@@ -2479,8 +3158,14 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Olfactory display", 
+      " energy saving behavior", 
+      " information presentation using smell", 
+      " \"smellization"
+    ], 
     "subtype": "paper", 
-    "title": "Smellization\u00c2\u009d of Warnings against Overuse Power used to Promote Energy Saving Behavior", 
+    "title": "Smellization\u009d of Warnings against Overuse Power used to Promote Energy Saving Behavior", 
     "type": "paper"
   }, 
   "uistpp133": {
@@ -2498,6 +3183,11 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Podcasts", 
+      " Travelogues", 
+      " Visualization"
+    ], 
     "subtype": "paper", 
     "title": "Automatically Visualizing Audio Travel Podcasts", 
     "type": "paper"
@@ -2517,6 +3207,12 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "thermal haptics", 
+      " wearable device", 
+      " haptic illusion", 
+      " Embodied Media"
+    ], 
     "subtype": "paper", 
     "title": "Exploring of Simulating Passing through Feeling on the Wrist: Using thermal feedback", 
     "type": "paper"
@@ -2536,6 +3232,11 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Multi-user environment", 
+      " tabletop systems", 
+      " application classification."
+    ], 
     "subtype": "paper", 
     "title": "Grouping Applications Using Geometrical Information of Applications on Tabletop Systems", 
     "type": "paper"
@@ -2561,12 +3262,19 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Haptics", 
+      " Virtual Reality", 
+      " Kinesthetic", 
+      " Encountered", 
+      " Drone"
+    ], 
     "subtype": "paper", 
     "title": "HapticDrone - An Encountered-Type Kinesthetic Haptic Interface with Controllable Force Feedback: Initial Example for 1D Haptic Feedback", 
     "type": "paper"
   }, 
   "uistpp138": {
-    "abstract": "\u00c3\u00a2\u00e2\u0082\u00ac\u00c5\u0093Walk-In Music\u00c3\u00a2\u00e2\u0082\u00ac\u00c2\u009d is a system that provides a new walking experience through synchronized music and pseudo-gravity. This system synchronizes each step with the music being listened to and creates a feeling of generating music through walking. It creates a Walk-In state where music and walking are consistent at all times. In this state, when changing the speed of music, the pedestrian may feel pseudo-gravity based on pseudo-haptics. Our results indicate that by changing the speed of music during the Walk-In state, the walking speed became faster and slower. We call this a Walk-Shift. This demonstrated the possibility of controlling personal walking by music. Walk-In Music has created a pleasant experience by music, and proposed a new relationship between people and music that leads to behavior changes. ", 
+    "abstract": "\"Walk-In Music\"\u00c2\u009d is a system that provides a new walking experience through synchronized music and pseudo-gravity. This system synchronizes each step with the music being listened to and creates a feeling of generating music through walking. It creates a Walk-In state where music and walking are consistent at all times. In this state, when changing the speed of music, the pedestrian may feel pseudo-gravity based on pseudo-haptics. Our results indicate that by changing the speed of music during the Walk-In state, the walking speed became faster and slower. We call this a Walk-Shift. This demonstrated the possibility of controlling personal walking by music. Walk-In Music has created a pleasant experience by music, and proposed a new relationship between people and music that leads to behavior changes. ", 
     "authors": [
       {
         "name": "Haruto  Murata, Keio Graduate School of Media Design"
@@ -2583,6 +3291,11 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Embodied interaction", 
+      " Generate music", 
+      " Induce"
+    ], 
     "subtype": "paper", 
     "title": "Walk-In Music : Walking experience with synchronized music and its effect of pseudo-gravity", 
     "type": "paper"
@@ -2605,6 +3318,11 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "crowdsourcing", 
+      " crowd-powered system", 
+      " conversational agent"
+    ], 
     "subtype": "paper", 
     "title": "Evorus: A Crowd-powered Conversational Assistant That Automates Itself Over Time", 
     "type": "paper"
@@ -2627,6 +3345,12 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Haptics", 
+      " Tactile Display", 
+      " Virtual Reality", 
+      " Universal Design"
+    ], 
     "subtype": "paper", 
     "title": "GraspForm: Shape and Hardness Rendering on Handheld Device toward Universal Interface for 3D Haptic TV", 
     "type": "paper"
@@ -2646,12 +3370,19 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Haptic", 
+      " Thermal", 
+      " Environmental information", 
+      " Virtual Reality", 
+      " VR"
+    ], 
     "subtype": "paper", 
     "title": "A Thermally Enhanced Weather Checking System in VR", 
     "type": "paper"
   }, 
   "uistpp153": {
-    "abstract": "Global Positioning System (GPS) technology is widely used for outdoor navigation, but it is still challenging to apply this technology to a mid-scale or indoor environment. Using GPS in this way raises issues, such as reliability, deployment cost, and maintenance. Recently, companies like Google have begun to provide accurate indoor mapping. However, current implementations rely on both Wi-Fi and cellular technologies which have a hard time identifying the user\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2s exact location in an indoor environment. There are two research questions in this paper: (1) How do we design a flexible and cost efficient indoor navigation system for organizations? (2) How to find an optimized path in a mid-scale/local environment. Here we propose Jaguar, which is a novel navigation system that utilizes a customized KML map with NFC technologies to address above questions. Our system includes an Android mobile application, a web-based map authoring tool and an implementation of a Cartesian plane based path finding algorithm. The initial testing of the system shows successful adaptation for a school campus environment.", 
+    "abstract": "Global Positioning System (GPS) technology is widely used for outdoor navigation, but it is still challenging to apply this technology to a mid-scale or indoor environment. Using GPS in this way raises issues, such as reliability, deployment cost, and maintenance. Recently, companies like Google have begun to provide accurate indoor mapping. However, current implementations rely on both Wi-Fi and cellular technologies which have a hard time identifying the user's exact location in an indoor environment. There are two research questions in this paper: (1) How do we design a flexible and cost efficient indoor navigation system for organizations? (2) How to find an optimized path in a mid-scale/local environment. Here we propose Jaguar, which is a novel navigation system that utilizes a customized KML map with NFC technologies to address above questions. Our system includes an Android mobile application, a web-based map authoring tool and an implementation of a Cartesian plane based path finding algorithm. The initial testing of the system shows successful adaptation for a school campus environment.", 
     "authors": [
       {
         "name": "Brandon  Dalton, Wentworth Institute of Technology"
@@ -2665,6 +3396,10 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Mid-scale Navigation", 
+      " Near-field Communication (NFC)"
+    ], 
     "subtype": "paper", 
     "title": "Jaguar: Indoor Navigation System for Organizations", 
     "type": "paper"
@@ -2690,6 +3425,13 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Older adults", 
+      " Participatory design", 
+      " Communication technologies", 
+      " Digital pen", 
+      " Pen and paper interaction"
+    ], 
     "subtype": "paper", 
     "title": "A Digital Pen and Paper Email System for Older Adults", 
     "type": "paper"
@@ -2709,6 +3451,11 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "thermal interface", 
+      " electrical muscle stimulation", 
+      " perception"
+    ], 
     "subtype": "paper", 
     "title": "Raising the Heat : Electrical Muscle Stimulation for Simulated Heat Withdrawal Response", 
     "type": "paper"
@@ -2725,6 +3472,11 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Active acoustic sensing", 
+      "Grip force", 
+      "Vibration"
+    ], 
     "subtype": "paper", 
     "title": "Grip Force Estimation by Emitting Vibration", 
     "type": "paper"
@@ -2747,6 +3499,15 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Interaction Design", 
+      " Presbyopia", 
+      " Harmon Distance", 
+      " Behavior Change", 
+      " User Test", 
+      " User-Experience Design", 
+      ""
+    ], 
     "subtype": "paper", 
     "title": "EYE DEAR : Smartphone text resizing interaction for the eye health of the presbyopia population", 
     "type": "paper"
@@ -2766,12 +3527,18 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Selective history rewriting", 
+      " Document history", 
+      " History editing", 
+      " Screencast"
+    ], 
     "subtype": "paper", 
     "title": "Non-Linear Editor for Text-Based Screencast", 
     "type": "paper"
   }, 
   "uistpp168": {
-    "abstract": "Children with ASD (Autism Spectrum Disorder) have difficulties in expressing their feelings and needs, their teachers have to be very familiar with them to adjust teaching contents in related training lessons. In this paper, we present an adaptive training system with EEG (Electroencephalogram) devices for autistic children. We designed an EEG helmet to monitor children\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2s attention levels, and a video chat system with virtual cartoon faces covered on teacher\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2s face. Cartoon faces are synchronized with the performer\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2s facial movements to help trainers express themselves in an exaggerated way. When the attention reduction is detected by the EEG helmet, cartoon face will adjust automatically, and try to draw their attention back through changing cartoon types, colors, brightness, etc. Each change and feedback from children will be traced by the helmet and analyzed for improvements. By continuous iterative learning, the system will become smarter in avoiding children\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2s physical exhaustion. The system was introduced in the form of a specific training lesson to an ASD school, and preliminary experiment has indicated an encouraging result.", 
+    "abstract": "Children with ASD (Autism Spectrum Disorder) have difficulties in expressing their feelings and needs, their teachers have to be very familiar with them to adjust teaching contents in related training lessons. In this paper, we present an adaptive training system with EEG (Electroencephalogram) devices for autistic children. We designed an EEG helmet to monitor children's attention levels, and a video chat system with virtual cartoon faces covered on teacher's face. Cartoon faces are synchronized with the performer's facial movements to help trainers express themselves in an exaggerated way. When the attention reduction is detected by the EEG helmet, cartoon face will adjust automatically, and try to draw their attention back through changing cartoon types, colors, brightness, etc. Each change and feedback from children will be traced by the helmet and analyzed for improvements. By continuous iterative learning, the system will become smarter in avoiding children's physical exhaustion. The system was introduced in the form of a specific training lesson to an ASD school, and preliminary experiment has indicated an encouraging result.", 
     "authors": [
       {
         "name": "Cheng  Zheng, Zhejiang University"
@@ -2803,6 +3570,13 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "EEG", 
+      " ASD", 
+      " Children Education", 
+      " Augmented Reality", 
+      " Iterative Learning"
+    ], 
     "subtype": "paper", 
     "title": "An EEG-based Adaptive Training System for ASD Children", 
     "type": "paper"
@@ -2828,12 +3602,17 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "DIY robot kit", 
+      " Mixed-reality interaction", 
+      " User interface."
+    ], 
     "subtype": "paper", 
     "title": "Ani-Bot: A Mixed-Reality Modular Robotics System", 
     "type": "paper"
   }, 
   "uistpp172": {
-    "abstract": "The emergence of social reading services has enabled readers to participate actively in reading activities by means of sharing and feedback. Readers can state their opinion on a book by providing feedback. However, because current e-books are published with fixed, unchangeable content, it is difficult to reflect the reader's feedback on them. In this paper, we propose a system for an adaptive e-book that dynamically updates itself on user participation. To achieve this, we designed a Feedback Block Model and a Feedback Engine. In the Feedback Block Model, at the time of publication, the author defines the type of feedback expected from readers. After publication, the Feedback Engine collects and aggregates the readers\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2 feedback. The Feedback Engine can be configured with drag-and-drop block programming, and hence, even authors inexperienced in programming can create an adaptive e-book.", 
+    "abstract": "The emergence of social reading services has enabled readers to participate actively in reading activities by means of sharing and feedback. Readers can state their opinion on a book by providing feedback. However, because current e-books are published with fixed, unchangeable content, it is difficult to reflect the reader's feedback on them. In this paper, we propose a system for an adaptive e-book that dynamically updates itself on user participation. To achieve this, we designed a Feedback Block Model and a Feedback Engine. In the Feedback Block Model, at the time of publication, the author defines the type of feedback expected from readers. After publication, the Feedback Engine collects and aggregates the readers' feedback. The Feedback Engine can be configured with drag-and-drop block programming, and hence, even authors inexperienced in programming can create an adaptive e-book.", 
     "authors": [
       {
         "name": "Ja-Ryoung  Choi, KAIST"
@@ -2847,6 +3626,12 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "E-book", 
+      " Feedback", 
+      " Dynamic updates", 
+      " Adaptive contents"
+    ], 
     "subtype": "paper", 
     "title": "The Feedback Block Model for an Adaptive E-Book", 
     "type": "paper"
@@ -2866,6 +3651,11 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Voice User Interface", 
+      " Text-to-Speech", 
+      " Audio Production Workflow"
+    ], 
     "subtype": "paper", 
     "title": "Contour: An Efficient Voice-enabled Workflow for Producing Text-to-Speech Content", 
     "type": "paper"
@@ -2891,12 +3681,19 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "3D Printing", 
+      " Fabrication", 
+      " Deformation Behaviors", 
+      " Design Space", 
+      " Mechanical Spring."
+    ], 
     "subtype": "paper", 
     "title": "Designing 3D-Printed Deformation Behaviors Using Spring-Based Structures: An Initial Investigation", 
     "type": "paper"
   }, 
   "uistpp183": {
-    "abstract": "Blind users browse the web using screen readers. Screen readers read the content on a web page sequentially via synthesized speech. The linear nature of this process makes it difficult to obtain an overview of the web page, which creates navigation challenges. To alleviate this problem, we have developed ScreenTrack, a browser extension that summarizes a web page\u00c3\u00a2\u00e2\u0082\u00ac\u00e2\u0084\u00a2s accessibility features into a short, dynamically generated soundtrack. Users can quickly gain an overview of the presence of web elements useful for navigation on a web page. Here we describe ScreenTrack and discuss future research plans.", 
+    "abstract": "Blind users browse the web using screen readers. Screen readers read the content on a web page sequentially via synthesized speech. The linear nature of this process makes it difficult to obtain an overview of the web page, which creates navigation challenges. To alleviate this problem, we have developed ScreenTrack, a browser extension that summarizes a web page's accessibility features into a short, dynamically generated soundtrack. Users can quickly gain an overview of the presence of web elements useful for navigation on a web page. Here we describe ScreenTrack and discuss future research plans.", 
     "authors": [
       {
         "name": "Tao  Wang, UC Irvine"
@@ -2907,6 +3704,13 @@ entities={
     ], 
     "award": false, 
     "hm": false, 
+    "keywords": [
+      "Web accessibility", 
+      " Web Audio API", 
+      " spatial audio", 
+      " 3D audio", 
+      " auditory overview"
+    ], 
     "subtype": "paper", 
     "title": "Auditory Overview of Web Pages for Screen Reader Users", 
     "type": "paper"

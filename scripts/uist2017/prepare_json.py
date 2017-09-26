@@ -84,6 +84,12 @@ def prepare_data(data_file1):
     paper_abstract = unicode(row[269], "ISO-8859-1")
     paper_abstract = re.sub('\\\\', '', paper_abstract)
     
+    if ';' in row[272]:
+        keywords = row[272].strip('"').split(';')
+    else:
+        keywords = row[272].strip('"').split(',')
+    
+    
     paper_authors = ''
     for i in range(29,269,15):
         if row[i]:
@@ -134,6 +140,8 @@ def prepare_data(data_file1):
         else:
             break
     
+    if not paper_authors:
+        paper_authors = '\t'.join(row[27].split(','))
 
     type = "paper"
     
@@ -147,7 +155,7 @@ def prepare_data(data_file1):
     if award_s.lower() == "best paper":
         award = True 
  
-    paper_title = unicode(row[18], "ISO-8859-1")
+    paper_title = row[18]
 
     if paper_title:
         # prepare papers data
@@ -156,11 +164,12 @@ def prepare_data(data_file1):
             'subtype':type,
             'type': type,
             'award': award,
+            'keywords': keywords,
             'hm': hm}
         
         papers[paper_id]['abstract'] = paper_abstract
         papers[paper_id]['authors'] = [{'name': name.strip()} for name in paper_authors.split('\t') if name.strip() != '']
-        print papers[paper_id]['authors']
+        #print papers[paper_id]['authors']
     
     # prepare sessions data
     s_id = row[2]
