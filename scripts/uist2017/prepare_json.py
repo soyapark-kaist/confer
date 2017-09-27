@@ -10,7 +10,7 @@ def construct_id(s):
   return re.sub(r'\W+', '_', s)
 
 def get_start_time(s_time):
-  date = time.strptime(s_time, '%I:%M:%S %p')
+  date = time.strptime(s_time, '%I:%M %p')
   s = time.strftime("%H", date)
   t = time.strftime("%M", date)
   val = float(s + '.' + t)
@@ -194,6 +194,10 @@ def prepare_data(data_file1):
     s_info = sessions[session]
     s_date = s_info['date']
     s_time = s_info['time']
+    
+    t = s_time.split(':')
+    e = t[-1].split(' ')
+    s_time = t[0] + ':' + t[1] + ' ' + e[1]
     s_data = {'session': session}
     if s_date in t_schedule:
       if s_time in t_schedule[s_date]:

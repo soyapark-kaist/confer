@@ -10,8 +10,8 @@ schedule=[
           }
         ], 
         "slot_class": "afternoon2", 
-        "slot_id": "10_225_00_00_PM", 
-        "time": "5:00:00 PM"
+        "slot_id": "10_225_00_PM", 
+        "time": "5:00 PM"
       }, 
       {
         "sessions": [
@@ -20,8 +20,8 @@ schedule=[
           }
         ], 
         "slot_class": "evening", 
-        "slot_id": "10_226_00_00_PM", 
-        "time": "6:00:00 PM"
+        "slot_id": "10_226_00_PM", 
+        "time": "6:00 PM"
       }
     ]
   }, 
@@ -36,8 +36,8 @@ schedule=[
           }
         ], 
         "slot_class": "morning1", 
-        "slot_id": "10_238_00_00_AM", 
-        "time": "8:00:00 AM"
+        "slot_id": "10_238_00_AM", 
+        "time": "8:00 AM"
       }, 
       {
         "sessions": [
@@ -46,8 +46,8 @@ schedule=[
           }
         ], 
         "slot_class": "morning1", 
-        "slot_id": "10_239_00_00_AM", 
-        "time": "9:00:00 AM"
+        "slot_id": "10_239_00_AM", 
+        "time": "9:00 AM"
       }, 
       {
         "sessions": [
@@ -56,8 +56,8 @@ schedule=[
           }
         ], 
         "slot_class": "morning1", 
-        "slot_id": "10_239_30_00_AM", 
-        "time": "9:30:00 AM"
+        "slot_id": "10_239_30_AM", 
+        "time": "9:30 AM"
       }, 
       {
         "sessions": [
@@ -66,8 +66,8 @@ schedule=[
           }
         ], 
         "slot_class": "morning2", 
-        "slot_id": "10_2310_30_00_AM", 
-        "time": "10:30:00 AM"
+        "slot_id": "10_2310_30_AM", 
+        "time": "10:30 AM"
       }, 
       {
         "sessions": [
@@ -76,8 +76,8 @@ schedule=[
           }
         ], 
         "slot_class": "morning2", 
-        "slot_id": "10_2311_00_00_AM", 
-        "time": "11:00:00 AM"
+        "slot_id": "10_2311_00_AM", 
+        "time": "11:00 AM"
       }, 
       {
         "sessions": [
@@ -89,8 +89,8 @@ schedule=[
           }
         ], 
         "slot_class": "morning2", 
-        "slot_id": "10_2311_40_00_AM", 
-        "time": "11:40:00 AM"
+        "slot_id": "10_2311_40_AM", 
+        "time": "11:40 AM"
       }, 
       {
         "sessions": [
@@ -99,8 +99,8 @@ schedule=[
           }
         ], 
         "slot_class": "afternoon1", 
-        "slot_id": "10_231_00_00_PM", 
-        "time": "1:00:00 PM"
+        "slot_id": "10_231_00_PM", 
+        "time": "1:00 PM"
       }, 
       {
         "sessions": [
@@ -112,8 +112,8 @@ schedule=[
           }
         ], 
         "slot_class": "afternoon1", 
-        "slot_id": "10_232_30_00_PM", 
-        "time": "2:30:00 PM"
+        "slot_id": "10_232_30_PM", 
+        "time": "2:30 PM"
       }, 
       {
         "sessions": [
@@ -122,8 +122,8 @@ schedule=[
           }
         ], 
         "slot_class": "afternoon2", 
-        "slot_id": "10_233_50_00_PM", 
-        "time": "3:50:00 PM"
+        "slot_id": "10_233_50_PM", 
+        "time": "3:50 PM"
       }, 
       {
         "sessions": [
@@ -135,8 +135,8 @@ schedule=[
           }
         ], 
         "slot_class": "afternoon2", 
-        "slot_id": "10_234_20_00_PM", 
-        "time": "4:20:00 PM"
+        "slot_id": "10_234_20_PM", 
+        "time": "4:20 PM"
       }, 
       {
         "sessions": [
@@ -148,8 +148,8 @@ schedule=[
           }
         ], 
         "slot_class": "evening", 
-        "slot_id": "10_236_00_00_PM", 
-        "time": "6:00:00 PM"
+        "slot_id": "10_236_00_PM", 
+        "time": "6:00 PM"
       }
     ]
   }, 
@@ -170,8 +170,8 @@ schedule=[
           }
         ], 
         "slot_class": "morning1", 
-        "slot_id": "10_249_00_00_AM", 
-        "time": "9:00:00 AM"
+        "slot_id": "10_249_00_AM", 
+        "time": "9:00 AM"
       }, 
       {
         "sessions": [
@@ -180,8 +180,8 @@ schedule=[
           }
         ], 
         "slot_class": "morning2", 
-        "slot_id": "10_2410_30_00_AM", 
-        "time": "10:30:00 AM"
+        "slot_id": "10_2410_30_AM", 
+        "time": "10:30 AM"
       }, 
       {
         "sessions": [
@@ -193,8 +193,8 @@ schedule=[
           }
         ], 
         "slot_class": "morning2", 
-        "slot_id": "10_2411_00_00_AM", 
-        "time": "11:00:00 AM"
+        "slot_id": "10_2411_00_AM", 
+        "time": "11:00 AM"
       }, 
       {
         "sessions": [
@@ -203,8 +203,8 @@ schedule=[
           }
         ], 
         "slot_class": "afternoon1", 
-        "slot_id": "10_2412_10_00_PM", 
-        "time": "12:10:00 PM"
+        "slot_id": "10_2412_10_PM", 
+        "time": "12:10 PM"
       }, 
       {
         "sessions": [
@@ -213,24 +213,24 @@ schedule=[
           }, 
           {
             "session": "12"
-          }, 
-          {
-            "session": "18"
           }
         ], 
         "slot_class": "afternoon1", 
-        "slot_id": "10_242_00_00_PM", 
-        "time": "2:00:00 PM"
+        "slot_id": "10_242_00_PM", 
+        "time": "2:00 PM"
       }, 
       {
         "sessions": [
+          {
+            "session": "18"
+          }, 
           {
             "session": "np_break4"
           }
         ], 
         "slot_class": "afternoon2", 
-        "slot_id": "10_243_30_00_PM", 
-        "time": "3:30:00 PM"
+        "slot_id": "10_243_30_PM", 
+        "time": "3:30 PM"
       }, 
       {
         "sessions": [
@@ -239,8 +239,8 @@ schedule=[
           }
         ], 
         "slot_class": "afternoon2", 
-        "slot_id": "10_245_00_00_PM", 
-        "time": "5:00:00 PM"
+        "slot_id": "10_245_00_PM", 
+        "time": "5:00 PM"
       }, 
       {
         "sessions": [
@@ -249,8 +249,8 @@ schedule=[
           }
         ], 
         "slot_class": "evening", 
-        "slot_id": "10_246_00_00_PM", 
-        "time": "6:00:00 PM"
+        "slot_id": "10_246_00_PM", 
+        "time": "6:00 PM"
       }, 
       {
         "sessions": [
@@ -259,8 +259,8 @@ schedule=[
           }
         ], 
         "slot_class": "evening", 
-        "slot_id": "10_249_30_00_PM", 
-        "time": "9:30:00 PM"
+        "slot_id": "10_249_30_PM", 
+        "time": "9:30 PM"
       }
     ]
   }, 
@@ -275,8 +275,8 @@ schedule=[
           }
         ], 
         "slot_class": "morning1", 
-        "slot_id": "10_258_45_00_AM", 
-        "time": "8:45:00 AM"
+        "slot_id": "10_258_45_AM", 
+        "time": "8:45 AM"
       }, 
       {
         "sessions": [
@@ -288,8 +288,8 @@ schedule=[
           }
         ], 
         "slot_class": "morning1", 
-        "slot_id": "10_259_00_00_AM", 
-        "time": "9:00:00 AM"
+        "slot_id": "10_259_00_AM", 
+        "time": "9:00 AM"
       }, 
       {
         "sessions": [
@@ -298,8 +298,8 @@ schedule=[
           }
         ], 
         "slot_class": "morning2", 
-        "slot_id": "10_2510_00_00_AM", 
-        "time": "10:00:00 AM"
+        "slot_id": "10_2510_00_AM", 
+        "time": "10:00 AM"
       }, 
       {
         "sessions": [
@@ -311,8 +311,8 @@ schedule=[
           }
         ], 
         "slot_class": "morning2", 
-        "slot_id": "10_2510_40_00_AM", 
-        "time": "10:40:00 AM"
+        "slot_id": "10_2510_40_AM", 
+        "time": "10:40 AM"
       }, 
       {
         "sessions": [
@@ -324,8 +324,8 @@ schedule=[
           }
         ], 
         "slot_class": "afternoon1", 
-        "slot_id": "10_251_30_00_PM", 
-        "time": "1:30:00 PM"
+        "slot_id": "10_251_30_PM", 
+        "time": "1:30 PM"
       }, 
       {
         "sessions": [
@@ -334,8 +334,8 @@ schedule=[
           }
         ], 
         "slot_class": "afternoon2", 
-        "slot_id": "10_253_00_00_PM", 
-        "time": "3:00:00 PM"
+        "slot_id": "10_253_00_PM", 
+        "time": "3:00 PM"
       }, 
       {
         "sessions": [
@@ -344,8 +344,8 @@ schedule=[
           }
         ], 
         "slot_class": "afternoon2", 
-        "slot_id": "10_253_40_00_PM", 
-        "time": "3:40:00 PM"
+        "slot_id": "10_253_40_PM", 
+        "time": "3:40 PM"
       }, 
       {
         "sessions": [
@@ -354,8 +354,8 @@ schedule=[
           }
         ], 
         "slot_class": "afternoon2", 
-        "slot_id": "10_254_50_00_PM", 
-        "time": "4:50:00 PM"
+        "slot_id": "10_254_50_PM", 
+        "time": "4:50 PM"
       }
     ]
   }
