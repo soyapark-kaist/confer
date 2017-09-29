@@ -410,6 +410,20 @@
 	      "end_date": "2017-10-25",
 	      "admins": "[\"anantb@csail.mit.edu\", \"axz@mit.edu\"]"
 	  	}
+	},
+	{"model": "server.Conference",
+	    "pk": 30,
+	    "fields": {
+	      "unique_name": "iss2017",
+	      "confer_name": "iss2017",
+	      "title": "ISS 2017 - ACM International Conference on Interactive Surfaces and Spaces",
+	      "subtitle": "",
+	      "blurb": "We welcome you to the 2017 ACM International Conference on Interactive Surfaces and Spaces, taking place from October 17 to 20 in Brighton, UK. As the 12th event in an annual series starting in 2006, ACM ISS (formerly known as ACM ITS) is the premier venue for research addressing the design, development and use of new and emerging tabletop, digital surface, interactive spaces and multi-surface technologies.",
+	      "location": "Brighton, UK",
+	      "start_date": "2017-10-17",
+	      "end_date": "2017-10-20",
+	      "admins": "[\"anantb@csail.mit.edu\", \"axz@mit.edu\"]"
+	  	}
 	}
 ]
   

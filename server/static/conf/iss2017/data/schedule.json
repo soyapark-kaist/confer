@@ -1,0 +1,343 @@
+schedule=[
+  {
+    "date": "10/17/2017", 
+    "day": "Tuesday", 
+    "slots": [
+      {
+        "sessions": [
+          {
+            "room": "TBC", 
+            "session": "Tutorial: Analyzing Qualitative Data"
+          },
+		  {
+            "room": "TBC", 
+            "session": "Tutorial: Printed Electronics"
+          }
+        ], 
+        "slot_class": "Morning", 
+        "slot_id": "Tuesday09_00_12_30", 
+        "time": "09:00 - 12:30"
+      },
+	  {
+        "sessions": [
+          {
+            "room": "Lounge", 
+            "session": "Tuesday_Lunch"
+          }
+		 
+        ], 
+        "slot_class": "Morning2", 
+        "slot_id": "Tuesday12_30_14_00", 
+        "time": "12:30 - 14:00"
+      },
+      {
+        "sessions": [
+          {
+            "room": "TBC", 
+            "session": "Tutorial: Multisensory Experiences"
+          },
+		  {
+            "room": "TBC", 
+            "session": "Workshop : The Disappearing Tabletop: Social and Technical Challenges for Cross-Surface Collaboration"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "Tuesday14_00_17_30", 
+        "time": "14:00 - 17:30"
+      },
+	   {
+        "sessions": [
+          {
+            "room": "Lounge", 
+            "session": "Welcome_Reception"
+          }
+        ], 
+        "slot_class": "afternoon2", 
+        "slot_id": "Tuesday18_00_22_00", 
+        "time": "18:00 - 22:00"
+      }
+    ]
+  }, 
+  {
+    "date": "10/18/2017", 
+    "day": "Wednesday", 
+    "slots": [
+      {
+        "sessions": [
+          {
+            "room": "Renaissance", 
+            "session": "Opening Keynote : Karon MacLean: Taking Haptic Design from Research to Practice"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "Wednesday9_15_10_15", 
+        "time": "9:15 - 10:15"
+      },
+	  {
+        "sessions": [
+          {
+            "room": "Lounge", 
+            "session": "Wednesday_Morning_Coffee_Break"
+          }
+        ], 
+        "slot_class": "morning2", 
+        "slot_id": "Wednesday10_15_10_35", 
+        "time": "10:15 - 10:35"
+      },
+	  {
+        "sessions": [
+          {
+            "room": "Renaissance", 
+            "session": "Session :Highlights of SUI"
+          }
+        ], 
+        "slot_class": "morning3", 
+        "slot_id": "Wednesday10_35_12_15", 
+        "time": "10:35 - 12:15"
+      },
+	  {
+        "sessions": [
+          {
+            "room": "Lounge", 
+            "session": "Wednesday_Lunch"
+          }
+        ], 
+        "slot_class": "morning4", 
+        "slot_id": "Wednesday12_15_13_30", 
+        "time": "12:15 - 13:30"
+      },
+	  {
+        "sessions": [
+          {
+            "room": "Renaissance", 
+            "session": "Panel_Funding Research Projects in Human-Computer Interaction"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "Wednesday13_30_14_45", 
+        "time": "13:30 - 14:45"
+      },
+	  {
+        "sessions": [
+          {
+            "room": "Lounge", 
+            "session": "Wednesday_Afternoon_Coffee_Break"
+          }
+        ], 
+        "slot_class": "afternoon2", 
+        "slot_id": "Wednesday14_45_15_05", 
+        "time": "14:45 - 15:05"
+      },
+	  {
+        "sessions": [
+          {
+            "room": "Renaissance", 
+            "session": "Session 2: Touch Interaction and Beyond"
+          }
+        ], 
+        "slot_class": "afternoon3", 
+        "slot_id": "Wednesday15_05_16_45", 
+        "time": "15:05 - 16:45"
+      },
+      {
+        "sessions": [
+		  {
+            "room": "Renaissance", 
+            "session": "Posters and Demo Madness"
+          }
+        ], 
+        "slot_class": "afternoon4", 
+        "slot_id": "Wednesday16_45_17_45", 
+        "time": "16:45 - 17:45"
+      }
+    ]
+  }, 
+  {
+    "date": "10/19/2017", 
+    "day": "Thursday", 
+    "slots": [
+      {
+        "sessions": [
+          {
+            "room": "Renaissance", 
+            "session": "Session 3: Exploring Spaces : 3D Interaction"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "Thursday9_00_10_45", 
+        "time": "9:00 - 10:45"
+      },
+	  {
+        "sessions": [
+          {
+            "room": "Lounge", 
+            "session": "Thursday_Morning_Coffee_Break"
+          }
+        ], 
+        "slot_class": "morning2", 
+        "slot_id": "Thursday10_45_11_00", 
+        "time": "10:45 - 11:00"
+      },
+	  {
+        "sessions": [
+          {
+            "room": "Renaissance", 
+            "session": "Panel_Future Directions for Interactive Spaces and Surfaces"
+          }
+        ], 
+        "slot_class": "morning3", 
+        "slot_id": "Thursday11_00_12_15", 
+        "time": "11:00 - 12:15"
+      },
+	  {
+        "sessions": [
+          {
+            "room": "Renaissance", 
+            "session": "Award Ceremony and 10 Year Impact Award Presentation"
+          }
+        ], 
+        "slot_class": "morning4", 
+        "slot_id": "Thursday12_15_12_45", 
+        "time": "12:15 - 12:45"
+      },	
+	  {
+        "sessions": [
+          {
+            "room": "Lounge", 
+            "session": "Thursday_Lunch"
+          }
+        ], 
+        "slot_class": "morning5", 
+        "slot_id": "Thursday14_00_15_40", 
+        "time": "12:45 - 14:00"
+      },	  
+      {
+        "sessions": [
+          {
+            "room": "Renaissance", 
+            "session": "Session 4: From Wall Displays to Liquid Matter"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "Thursday14_00_15_40", 
+        "time": "14:00 - 15:40"
+      },
+	  {
+        "sessions": [
+          {
+            "room": "Lounge", 
+            "session": "Thursday_Afternoon_Coffee_Break"
+          }
+        ], 
+        "slot_class": "afternoon2", 
+        "slot_id": "Thursday15_40_16_00", 
+        "time": "15:40 - 16:00"
+      },
+	  {
+        "sessions": [
+          {
+            "room": "Renaissance", 
+            "session": "Session 5: Feel, Taste, Smell, Splash"
+          }
+        ], 
+        "slot_class": "afternoon3", 
+        "slot_id": "Thursday16_00_17_40", 
+        "time": "16:00 - 17:40"
+      },
+	  {
+        "sessions": [
+          {
+            "room": "Palm Court Restaurant/Brighton Palace Pier", 
+            "session": "Conference Dinner"
+          }
+        ], 
+        "slot_class": "afternoon4", 
+        "slot_id": "Thursday19_00_22_00", 
+        "time": "19:00 - 22:00"
+      }
+    ]
+  }, 
+  {
+    "date": "10/20/2017", 
+    "day": "Friday", 
+    "slots": [
+      {
+        "sessions": [
+          {
+            "room": "Renaissance", 
+            "session": "Session 6: Mobile Interaction: Type, Touch and Bend"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "Friday9_15_10_55", 
+        "time": "9:15 - 10:55"
+      },
+	  {
+        "sessions": [
+          {
+            "room": "Lounge", 
+            "session": "Friday_Morning_Coffee_Break"
+          }
+        ], 
+        "slot_class": "morning2", 
+        "slot_id": "Friday10_55_11_15", 
+        "time": "10:55 - 11:15" 
+      },
+	  {
+        "sessions": [
+          {
+            "room": "Library Terrace/Lounge/Noblesse", 
+            "session": "Poster and Demos"
+          }
+        ], 
+        "slot_class": "morning3", 
+        "slot_id": "Friday11_15_12_30", 
+        "time": "11:15 - 12:30" 
+      },
+      {
+        "sessions": [
+          {
+            "room": "Lounge,Renaissance", 
+            "session": "Friday_Lunch_and_Townhall_Meeting"
+          }
+        ], 
+        "slot_class": "morning4", 
+        "slot_id": "Friday12_30_13_45", 
+        "time": "12:30 - 13:45"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Renaissance", 
+            "session": "Session 7: In the Wild : Education, Sports and Beyond"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "Friday13_45_15_25", 
+        "time": "13:45 - 15:25"
+      },     
+      {
+        "sessions": [
+          {
+            "room": "Lounge", 
+            "session": "Friday_Afternoon_Coffee_Break"
+          }
+        ], 
+        "slot_class": "afternoon2", 
+        "slot_id": "Wednesday4_00_4_30", 
+        "time": "15:25 - 15:45 "
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Renaissance", 
+            "session": "Closing Keynote : Geraldine Fitzpatrick: Understanding interactive surfaces and spaces in everyday life"
+          }
+        ], 
+        "slot_class": "afternoon3", 
+        "slot_id": "Friday15_45_17_00", 
+        "time": "15:45 - 17:00"
+      }
+    ]
+  }
+]

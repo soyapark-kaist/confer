@@ -1,0 +1,174 @@
+sessions={
+ "Tutorial: Analyzing Qualitative Data":{
+  "date": "Oct 17, 2017",
+  "room": "TBC",
+  "s_title": "Tutorial: Analyzing Qualitative Data",
+  "submissions": [
+  ],
+  "time": "09:00 - 12:30"
+},
+ "Tutorial: Printed Electronics":{
+  "date": "Oct 17, 2017",
+  "room": "TBC",
+  "s_title": "Tutorial: Printed Electronics",
+  "submissions": [
+  ],
+  "time": "09:00 - 12:30"
+},
+ "Tutorial: Multisensory Experiences":{
+  "date": "Oct 17, 2017",
+  "room": "TBC",
+  "s_title": "Tutorial: Multisensory Experiences",
+  "submissions": [
+  ],
+  "time": "14:00 - 17:30"
+},
+ "Workshop : The Disappearing Tabletop: Social and Technical Challenges for Cross-Surface Collaboration":{
+  "date": "Oct 17, 2017",
+  "room": "TBC",
+  "s_title": "Workshop : The Disappearing Tabletop: Social and Technical Challenges for Cross-Surface Collaboration",
+  "submissions": [
+  ],
+  "time": "14:00 - 17:30"
+},
+ "Session :Highlights of SUI":{
+  "date": "Oct 18, 2017",
+  "room": "Renaissance",
+  "s_title": "Session :Highlights of SUI",
+  "submissions": [
+    "sui01",
+    "sui02",
+    "sui03"
+  ],
+  "time": "10:35 - 12:15"
+},
+ "Session 2: Touch Interaction and Beyond":{
+  "date": "Oct 18, 2017",
+  "room": "Renaissance",
+  "s_title": "Session 2: Touch Interaction and Beyond",
+  "submissions": [
+    "p1007",
+    "p1010",
+    "p1018",
+    "p1023",
+    "p1027"
+  ],
+  "time": "15:05 - 16:45"
+},
+ "Session 3: Exploring Spaces : 3D Interaction":{
+  "date": "Oct 19, 2017",
+  "room": "Renaissance",
+  "s_title": "Session 3: Exploring Spaces : 3D Interaction",
+  "submissions": [
+    "p1033",
+    "p1044",
+    "p1052",
+    "p1054",
+    "p1059",
+    "p1065"
+  ],
+  "time": "09:00 - 10:45"
+},
+ "Session 4: From Wall Displays to Liquid Matter":{
+  "date": "Oct 19, 2017",
+  "room": "Renaissance",
+  "s_title": "Session 4: From Wall Displays to Liquid Matter",
+  "submissions": [
+    "p1071",
+    "p1073",
+    "p1081",
+    "p1083",
+    "p1087"
+  ],
+  "time": "14:00 - 15:40"
+},
+ "Session 5: Feel, Taste, Smell, Splash":{
+  "date": "Oct 19, 2017",
+  "room": "Renaissance",
+  "s_title": "Session 5: Feel, Taste, Smell, Splash",
+  "submissions": [
+    "p1094",
+    "p1097",
+    "p1098",
+    "p1099",
+    "p1110"
+  ],
+  "time": "16:00 - 17:40"
+},
+ "Session 6: Mobile Interaction: Type, Touch and Bend":{
+  "date": "Oct 20, 2017",
+  "room": "Renaissance",
+  "s_title": "Session 6: Mobile Interaction: Type, Touch and Bend",
+  "submissions": [
+    "p1121",
+    "p1123",
+    "p1124",
+    "p1137",
+    "p1140",
+    "p1141"
+  ],
+  "time": "09:15 - 10:55"
+},
+ "Poster and Demos":{
+  "date": "Oct 20, 2017",
+  "room": "Library Terrace/Lounge/Noblesse",
+  "s_title": "Poster and Demos",
+  "submissions": [
+    "po1001",
+    "po1019",
+    "po1029",
+    "po1031",
+    "po1034",
+	"po1038",
+    "po1040",
+    "po1041",
+    "po1044",
+    "po1005",
+	"po1006",
+    "po1007",
+    "po1008",
+	"po1012",
+    "po1014",
+    "po1017",
+	"po1018",
+    "po1020",
+    "d1006",
+	"d1007",
+	"d1014",
+    "d1015",
+    "d1022",
+    "d1023",
+    "d1024",
+	"d1025",
+    "d1026",
+    "d1027",
+	"d1028",
+    "d1029",
+    "d1030",
+	"d1031",
+    "d1033",
+    "d1035",
+	"d1036",
+    "d1002",
+	"d1003",
+    "pd1006",
+	"pd1007",
+    "d1008",
+    "d1010"
+  ],
+  "time": "11:15 - 12:30"
+},
+ "Session 7: In the Wild : Education, Sports and Beyond":{
+  "date": "Oct 20, 2017",
+  "room": "Renaissance",
+  "s_title": "Session 7: In the Wild : Education, Sports and Beyond",
+  "submissions": [
+    "p1147",
+    "p1148",
+    "p1156",
+    "p1160",
+    "p1165"
+  ],
+  "time": "13:45 - 15:25"
+}
+}
