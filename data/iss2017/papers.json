@@ -1,4 +1,168 @@
 { 
+ "t1":{
+  "abstract": "(Website: http://innovis.cpsc.ucalgary.ca/qualitativeanalysis-iss-tutorial/) Do you want to learn more about analyzing qualitative data? This half-day tutorial is designed for beginning to intermediate audiences. We will focus on the basic methods for analyzing qualitative data using a mixture of talks and hands-on activities. In particular we will consider closed and open coding as well as clustering and categorizing coded data. After completing this tutorial, you will gain a richer understanding of the benefits and challenges of qualitative empirical research and, more specifically, how to analyze qualitative data.",
+  "authors": [
+   {
+    "name": "Sheelagh Carpendale"
+   },
+   {
+    "name": "Søren Knudsen"
+   },
+   {
+    "name": "Alice Thudt"
+   },
+   {
+    "name": "Uta Hinrichs"
+   }
+  ],
+  "award": false,
+  "hm": false,
+  "subtype": "Tutorial",
+  "title": "Analyzing Qualitative Data",
+  "type": "Tutorial"
+},
+ "t2":{
+  "abstract": "Recent advances in printed electronics have enabled the creation and fabrication of thin,flexible and customizable interactive surfaces. These interfaces create opportunities for a variety of novel interactions leveraging on the unique form factor, flexibility and customization. Previous research has demonstrated the possibility of customizable multi-touch sensors, conformal on-skin interfaces and printable shape changing displays. The aim of this tutorial is to acquire basic conceptual and practical skills in developing interactive surfaces with printed electronics. Topics and learning outcomes of the tutorial include: personalized digital design and fast prototyping of printed electronics, basics of different sensors and actuators and developing sample application scenarios with printed interfaces.",
+  "authors": [
+   {
+    "name": "Anusha Withana"
+   },
+   {
+    "name": "Jürgen Steimle"
+   }
+  ],
+  "award": false,
+  "hm": false,
+  "subtype": "Tutorial",
+  "title": "Personalized Interactive Surfaces with Printed Electronics",
+  "type": "Tutorial"
+},
+ "t3":{
+  "abstract": "Designing multisensory experiences is fascinating academics and practitioners alike. Recent advances in interactive systems and sensory devices also increasingly captures the attention of artists, museum curators, and creative industries, who aim to explore the opportunities of new and emerging technologies to create novel and unexpected experiences. The main objective of this tutorial is to increase the ISS communities’ awareness of design spaces beyond audio-visual and tactile interactions. In particular, we will provide an overview on olfactory design spaces and opportunities building on our expertise and experience working on multisensory design projects including the Tate Sensorium, Famous Deaths, Multisensory VR experiences.",
+  "authors": [
+   {
+    "name": "Marianna Obrist"
+   },
+   {
+    "name": "Grace Boyle"
+   },
+   {
+    "name": "Marcel van Brakel"
+   },
+   {
+    "name": "Frederik Duerinck"
+   }
+  ],
+  "award": false,
+  "hm": false,
+  "subtype": "Tutorial",
+  "title": "Multisensory Experiences and Spaces",
+  "type": "Tutorial"
+},
+ "w1":{
+  "abstract": "(Website: https://thedisappearingworkshop.wordpress.com) After 20 years of research, it is unclear what role the tabletop should play in the home or workplace. Progress has been made towards hardware and software interfaces, connectivity with nearby devices, and understanding human behaviour on and around the table — yet, in practice tabletops see limited use. This workshop seeks to explore the development and use of tabletops from historical, technical, and social perspectives. Workshop goals include synthesizing opinion and experience from new and established researchers on directions for tabletop research, and an open discussion of questions such as to what applications are tabletops best suited? and how can tabletops be better integrated into larger workflows and digital ecosystems?",
+  "authors": [
+   {
+    "name": "James R. Wallace"
+   },
+   {
+    "name": "Steven Houben"
+   },
+   {
+    "name": "Craig Anslow"
+   },
+   {
+    "name": "Andrés Lucero"
+   },
+   {
+    "name": "Yvonne Rogers"
+   },
+   {
+    "name": "Stacey D. Scott"
+   }
+  ],
+  "award": false,
+  "hm": false,
+  "subtype": "Workshop",
+  "title": "The Disappearing Tabletop: Social and Technical Challenges for Cross-Surface Collaboration",
+  "type": "Workshop"
+},
+ "k1": {
+    "title": "Opening Keynote(Karon MacLean): Taking Haptic Design from Research to Practice",
+    "abstract": "Today’s advances in tactile sensing, wearable, situated and context-aware computing and robotics are spurring new ideas about how to configure touch-centered interactions in terms of roles and utility, which in turn expose new technical and social design questions. But while haptic actuation and sensing technology is improving, incorporating them into a real-world design process still brings many challenges. In this talk I’ll focus on how my group has approached research both into viable roles and design languages for physical communication, and of what is needed to support their design.I’ll explore this in the context of several examples, such as translating users’ cognitive frameworks for processing tactile signals into guidelines and tools to create learnable message vocabularies; exploiting low-cost, stretchy touch sensors and machine learning touch recognition to raise the ‘emotional intelligence’ of social human-robot interaction through bidirectional communication; and how such sensing and simple outputs can transform other interactions that are situated in the physical world rather than on a traditional computing device.",
+    "subtype": "Keynote",
+    "authors": [
+      {
+        "name": "Karon MacLean",
+        "affiliation": "University of British Columbia"
+      }
+    ],
+    "type": "Keynote"
+},
+ "k2": {
+    "title": "Closing Keynote(Geraldine Fitzpatrick): Understanding interactive surfaces and spaces in everyday life",
+    "abstract": "Interactive Surfaces and Spaces increasingly pervade our everyday life, appearing in various sizes, shapes, and application contexts, offering a rich variety of ways to interact”. Actually getting technologies used in everyday life though requires sensitivities to a range of other factors beyond the technology itself. Drawing on years of research in CSCW and related areas, this talk will explore how playing at the intersection of social and computing sciences can inform how we conceptualise, design and deploy new ISS technologies in everyday life. The discussions will touch on the importance of social practices through which technologies come to be incorporated into everyday life, the need to be critically reflective about the values entailed in our technology designs, and the potential of ‘good’ technologies to contribute to health, well being and human flourishing.",
+	"subtype": "Keynote",
+    "authors": [
+      {
+        "name": "Geraldine Fitzpatrick",
+        "affiliation": "TU Wien"
+      }
+    ],
+    "type": "Keynote"
+},
+ "pa1": {
+    "title": "Panel 1 : Funding Research Projects in Human-Computer Interaction",
+    "abstract": "You have a great research idea, but how to get funding for it? Project grants are pivotal for concentrated efforts on high-risk endeavours. They accelerate research careers and push HCI forward as a field. However, the international funding landscape is increasingly competitive and turbulent. HCI research that is often pragmatic, collaborative, and cross-disciplinary is easily overshadowed by Big Science. Our panelists are recipients of some of the most competed-for project grants and members of evaluation committees. Join us to learn from their experiences and discuss how we can shape the landscape of research funding.",
+	"subtype": "Panel",
+    "authors": [
+      {
+        "name": "Susanne Boedker",
+        "affiliation": "Aarhus University, Denmark "
+      },
+	  {
+        "name": "Marianna Obrist",
+        "affiliation": "University of Sussex, UK"
+      },
+	  {
+        "name": "Albrecht Schmidt",
+        "affiliation": "LMU Munich, Germany"
+      },
+	  {
+        "name": "Giulio Jacucci",
+        "affiliation": "University of Helsink, Finland"
+      },
+	  {
+        "name": "Orit Shaer",
+        "affiliation": "Wellesley College, USA"
+      }
+    ],
+    "type": "Panel"
+},
+ "pa2": {
+    "title": "Panel 2: Future Directions for Interactive Spaces and Surfaces",
+    "abstract": "The research topics presented at ISS are rapidly changing. While we still see research on interactive tabletops, large displays, mobile and small devices, frontier research is looking at novel technologies for 3D spaces, on-body sensors, and interactive architectures. The goal of this panel is to discuss future agendas, \"weak signals\", and megatrends for research at and on ISS. Our panelists are expert researchers and visionaries who have shaped the transition and identity of this area. Join us for an exciting discussion on where ISS is heading in the next 3 to 15+ years.",
+	"subtype": "Panel",
+    "authors": [
+      {
+        "name": "Yvonne Rogers",
+        "affiliation": "UCL, UK "
+      },
+	  {
+        "name": "Sriram Subramanian",
+        "affiliation": "University of Sussex, UK"
+      },
+	  {
+        "name": "Jürgen Steimle",
+        "affiliation": "Saarland University, Germany"
+      },
+	  {
+        "name": "Stacey Scott",
+        "affiliation": "University of Guelph, Canada"
+      }
+    ],
+    "type": "Panel"
+},
  "sui01":{
   "abstract": "We implemented the input interface named ‘Novest’ which can estimate the finger position and classify the finger state (out-of-range/hovering/touching) on the back of a hand with a small ranging sensor array attached on the side of a smartwatch, each of the small ranging sensors gets distance data and strength of signal data. With a prototype of Novest, we conducted the first evaluation to assess the basic performance. In this paper, we conducted the formal user study with two different conditions: the sitting/standing conditions to evaluate the practical perfor-mance of Novest as an input interface. The results show that the finger position estimation accuracies in the sitting and standing conditions are 4.2 mm and 5.0 mm, respectively. Additionally, the finger state classification accuracies with parameters adjust-ed by grid search in the sitting and standing conditions are 97.2% and 97.9%, respectively.",
   "authors": [
@@ -1131,7 +1295,7 @@
   "type": "Demo"
 },
  "d1007":{
-  "abstract": "",
+  "abstract": "As you are being shoved into one of the four mortuary freezers that make up the Famous Deaths installation you enter a reconstruction of the final moments of famous celebrities by means of sound and scent. You smell Princes Diana’s fatal destiny, John F. Kennedy’s tragedy, Kaddafi’s desperate flight into a sewer and Whitney Houston fatal sob. We all know the images of that open car that slowly drives through the streets of Dallas, the President happily waving to the crowd. And then, those few fatal shots. What must it have been like to be near that car? Famous Deaths is an innovative way of documentary storytelling where you experience these intimate moments as smell tableau in first person perspective. You smell an autumn wind, the grass, the leather car seats, Jacky Kennedy's perfume, exhaust fumes mingled with the somewhat musty scent of that limousine, and then suddenly the penetrating scent of blood, brains and gunpowder drilling its way into your nostrils.",
   "authors": [
    {
     "name": "Marcel van Brakel"
@@ -1468,7 +1632,7 @@
   "type": "Demo"
 },
  "d1002":{
-  "abstract": "",
+  "abstract": "We present two realizations of TastyFloats, a novel system that uses acoustic levitation to deliver food morsels to the users’ tongue. To explore TastyFloats’ associated design framework, we first address the technical challenges to successfully levitate and deliver different types of foods on the tongue. We then conduct a user study, assessing the effect of acoustic levitation on users’ taste perception, comparing three basic taste stimuli (i.e., sweet, bitter and umami) and three volume sizes of droplets (5µL, 10µL and 20µL). Our results show that users perceive sweet and umami easily, even in minimal quantities, whereas bitter is the least detectable taste, despite its typical association with an unpleasant taste experience. Our results are a first step towards the creation of new culinary experiences and innovative gustatory interfaces.",
   "authors": [
    {
     "name": "Chi Thanh Vi"
@@ -1499,7 +1663,7 @@
   "type": "Demo"
 },
  "d1003":{
-  "abstract": "",
+  "abstract": "CircGR is a multi-touch non-symbolic gesture recognition algorithm, which utilizes circular statistic measures to implement linearithmic (O(n lg n)) template-based matching. CircGR provides a solution to gesture designers, which allows for building complex multi-touch gestures with high-confidence accuracy. We demonstrated the algorithm and described a user study with 60 subjects and over 12,000 gestures collected for an original gesture set of 36. The accuracy is over 99% with the Matthews correlation coefficient of 0.95. In addition, early gesture detection was successful in CircGR as well.",
   "authors": [
    {
     "name": "Ruben Balcazar"
@@ -1527,7 +1691,7 @@
   "type": "Demo"
 },
  "pd1006":{
-  "abstract": "",
+  "abstract": "While smart glasses make information more accessible in mobile scenarios, entering text on these devices is still difficult. In this paper, we suggest using a smartwatch as an indirect input device (not requiring visual attention) for smart glasses text entry. With the watch-glasses combination, users do not need to lift the arm to touch the glasses nor need to carry a special external input device. To prove the feasibility of the suggested combination, we implemented two text entry methods: a modified version of SwipeBoard, which we adapted for the suggested combination, and HoldBoard, which we newly designed and implemented specifically for the suggested combination. We evaluated the performances of the two text entry methods through two user studies, and could show that they are faster than prior art for smart glasses text entry in a seated condition. A further study showed that they are competitive with the prior art also in a walking condition.",
   "authors": [
    {
     "name": "Sunggeun Ahn"
@@ -1546,7 +1710,7 @@
   "type": "Demo"
 },
  "pd1007":{
-  "abstract": "",
+  "abstract": "The main objective of this research work is to create a desktop VR environment which enables users to interact naturally with virtual objects positioned both in front and behind the screen. We propose a mirror metaphor that simulates a physical stereoscopic screen with the properties of a mirror. In addition to allowing users to interact with virtual objects positioned in front of the stereoscopic screen using their virtual hands, the virtual hands can be transferred inside the virtual mirror to interact with objects behind the screen. When the virtual hands are operating inside the virtual mirror, they are transformed like the reflection in a real mirror. This effectively doubles the interactable space and creates an interactive space that could facilitate collaborative tasks. Our user study shows that users could interact through the mirror approach as effectively as similar interaction techniques, hence demonstrating that the mirror technique is a viable interface in certain VR setups.",
   "authors": [
    {
     "name": "Santawat Thanyadit"

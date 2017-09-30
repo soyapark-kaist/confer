@@ -3,18 +3,30 @@ schedule=[
     "date": "10/17/2017", 
     "day": "Tuesday", 
     "slots": [
+	  {
+        "sessions": [
+          {
+            "room": "In front of Renaissance", 
+            "session": "Registration1"
+          }
+		 
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "Tuesday08_00_09_00", 
+        "time": "08:00 - 09:00"
+      },
       {
         "sessions": [
           {
             "room": "TBC", 
-            "session": "Tutorial: Analyzing Qualitative Data"
+            "session": "Tutorial_Analyzing_Qualitative_Data"
           },
 		  {
             "room": "TBC", 
-            "session": "Tutorial: Printed Electronics"
+            "session": "Tutorial_Personalized_Interactive_Surfaces_with_Printed_Electronics"
           }
         ], 
-        "slot_class": "Morning", 
+        "slot_class": "morning2", 
         "slot_id": "Tuesday09_00_12_30", 
         "time": "09:00 - 12:30"
       },
@@ -26,7 +38,7 @@ schedule=[
           }
 		 
         ], 
-        "slot_class": "Morning2", 
+        "slot_class": "morning3", 
         "slot_id": "Tuesday12_30_14_00", 
         "time": "12:30 - 14:00"
       },
@@ -34,25 +46,37 @@ schedule=[
         "sessions": [
           {
             "room": "TBC", 
-            "session": "Tutorial: Multisensory Experiences"
+            "session": "Tutorial_Multisensory_Experiences"
           },
 		  {
             "room": "TBC", 
-            "session": "Workshop : The Disappearing Tabletop: Social and Technical Challenges for Cross-Surface Collaboration"
+            "session": "Workshop_The_Disappearing_Tabletop_Social_and_Technical_Challenges_for_Cross-Surface_Collaboration"
           }
         ], 
         "slot_class": "afternoon1", 
         "slot_id": "Tuesday14_00_17_30", 
         "time": "14:00 - 17:30"
       },
-	   {
+	  {
+        "sessions": [
+          {
+            "room": "In front of Renaissance", 
+            "session": "Registration2"
+          }
+		 
+        ], 
+        "slot_class": "afternoon2", 
+        "slot_id": "Tuesday17_30_19_30", 
+        "time": "17:30 - 19:30"
+      },
+	  {
         "sessions": [
           {
             "room": "Lounge", 
             "session": "Welcome_Reception"
           }
         ], 
-        "slot_class": "afternoon2", 
+        "slot_class": "afternoon3", 
         "slot_id": "Tuesday18_00_22_00", 
         "time": "18:00 - 22:00"
       }
@@ -62,25 +86,49 @@ schedule=[
     "date": "10/18/2017", 
     "day": "Wednesday", 
     "slots": [
+	  {
+        "sessions": [
+          {
+            "room": "In front of Renaissance", 
+            "session": "Registration3"
+          }
+		 
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "Wednesday08_00_09_00", 
+        "time": "08:00 - 09:00"
+      },
+	  {
+        "sessions": [
+          {
+            "room": "Renaissance", 
+            "session": "Greetings_Chairs"
+          }
+		 
+        ], 
+        "slot_class": "morning2", 
+        "slot_id": "Wednesday09_00_09_15", 
+        "time": "09:00 - 09:15"
+      },
       {
         "sessions": [
           {
             "room": "Renaissance", 
-            "session": "Opening Keynote : Karon MacLean: Taking Haptic Design from Research to Practice"
+            "session": "Opening_Keynote"
           }
         ], 
-        "slot_class": "morning1", 
+        "slot_class": "morning3", 
         "slot_id": "Wednesday9_15_10_15", 
         "time": "9:15 - 10:15"
       },
 	  {
         "sessions": [
           {
-            "room": "Lounge", 
+            "room": "Atrium", 
             "session": "Wednesday_Morning_Coffee_Break"
           }
         ], 
-        "slot_class": "morning2", 
+        "slot_class": "morning4", 
         "slot_id": "Wednesday10_15_10_35", 
         "time": "10:15 - 10:35"
       },
@@ -88,10 +136,10 @@ schedule=[
         "sessions": [
           {
             "room": "Renaissance", 
-            "session": "Session :Highlights of SUI"
+            "session": "Session1_Highlights_of_SUI"
           }
         ], 
-        "slot_class": "morning3", 
+        "slot_class": "morning5", 
         "slot_id": "Wednesday10_35_12_15", 
         "time": "10:35 - 12:15"
       },
@@ -102,7 +150,7 @@ schedule=[
             "session": "Wednesday_Lunch"
           }
         ], 
-        "slot_class": "morning4", 
+        "slot_class": "morning6", 
         "slot_id": "Wednesday12_15_13_30", 
         "time": "12:15 - 13:30"
       },
@@ -110,7 +158,7 @@ schedule=[
         "sessions": [
           {
             "room": "Renaissance", 
-            "session": "Panel_Funding Research Projects in Human-Computer Interaction"
+            "session": "Panel_Funding_Research_Projects_in_Human-Computer_Interaction"
           }
         ], 
         "slot_class": "afternoon1", 
@@ -120,7 +168,7 @@ schedule=[
 	  {
         "sessions": [
           {
-            "room": "Lounge", 
+            "room": "Atrium", 
             "session": "Wednesday_Afternoon_Coffee_Break"
           }
         ], 
@@ -132,7 +180,7 @@ schedule=[
         "sessions": [
           {
             "room": "Renaissance", 
-            "session": "Session 2: Touch Interaction and Beyond"
+            "session": "Session2_Touch_Interaction_and_Beyond"
           }
         ], 
         "slot_class": "afternoon3", 
@@ -143,7 +191,7 @@ schedule=[
         "sessions": [
 		  {
             "room": "Renaissance", 
-            "session": "Posters and Demo Madness"
+            "session": "Posters_and_Demo_Madness"
           }
         ], 
         "slot_class": "afternoon4", 
@@ -156,25 +204,37 @@ schedule=[
     "date": "10/19/2017", 
     "day": "Thursday", 
     "slots": [
+	  {
+        "sessions": [
+          {
+            "room": "In front of Renaissance", 
+            "session": "Registration4"
+          }
+		 
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "Tuesday08_00_09_00", 
+        "time": "08:00 - 09:00"
+      },
       {
         "sessions": [
           {
             "room": "Renaissance", 
-            "session": "Session 3: Exploring Spaces : 3D Interaction"
+            "session": "Session3_Exploring_Spaces_3D_Interaction"
           }
         ], 
-        "slot_class": "morning1", 
+        "slot_class": "morning2", 
         "slot_id": "Thursday9_00_10_45", 
         "time": "9:00 - 10:45"
       },
 	  {
         "sessions": [
           {
-            "room": "Lounge", 
+            "room": "Atrium", 
             "session": "Thursday_Morning_Coffee_Break"
           }
         ], 
-        "slot_class": "morning2", 
+        "slot_class": "morning3", 
         "slot_id": "Thursday10_45_11_00", 
         "time": "10:45 - 11:00"
       },
@@ -182,10 +242,10 @@ schedule=[
         "sessions": [
           {
             "room": "Renaissance", 
-            "session": "Panel_Future Directions for Interactive Spaces and Surfaces"
+            "session": "Panel_Future_Directions_for_Interactive_Spaces_and_Surfaces"
           }
         ], 
-        "slot_class": "morning3", 
+        "slot_class": "morning4", 
         "slot_id": "Thursday11_00_12_15", 
         "time": "11:00 - 12:15"
       },
@@ -193,10 +253,10 @@ schedule=[
         "sessions": [
           {
             "room": "Renaissance", 
-            "session": "Award Ceremony and 10 Year Impact Award Presentation"
+            "session": "Award_Ceremony_and_10_Year_Impact_Award_Presentation"
           }
         ], 
-        "slot_class": "morning4", 
+        "slot_class": "morning5", 
         "slot_id": "Thursday12_15_12_45", 
         "time": "12:15 - 12:45"
       },	
@@ -207,29 +267,29 @@ schedule=[
             "session": "Thursday_Lunch"
           }
         ], 
-        "slot_class": "morning5", 
-        "slot_id": "Thursday14_00_15_40", 
+        "slot_class": "afternoon1", 
+        "slot_id": "Thursday12_45_14_00", 
         "time": "12:45 - 14:00"
       },	  
       {
         "sessions": [
           {
             "room": "Renaissance", 
-            "session": "Session 4: From Wall Displays to Liquid Matter"
+            "session": "Session4_From_Wall_Displays_to_Liquid Matter"
           }
         ], 
-        "slot_class": "afternoon1", 
+        "slot_class": "afternoon2", 
         "slot_id": "Thursday14_00_15_40", 
         "time": "14:00 - 15:40"
       },
 	  {
         "sessions": [
           {
-            "room": "Lounge", 
+            "room": "Atrium", 
             "session": "Thursday_Afternoon_Coffee_Break"
           }
         ], 
-        "slot_class": "afternoon2", 
+        "slot_class": "afternoon3", 
         "slot_id": "Thursday15_40_16_00", 
         "time": "15:40 - 16:00"
       },
@@ -237,10 +297,10 @@ schedule=[
         "sessions": [
           {
             "room": "Renaissance", 
-            "session": "Session 5: Feel, Taste, Smell, Splash"
+            "session": "Session5_Feel_Taste_Smell_Splash"
           }
         ], 
-        "slot_class": "afternoon3", 
+        "slot_class": "afternoon4", 
         "slot_id": "Thursday16_00_17_40", 
         "time": "16:00 - 17:40"
       },
@@ -248,10 +308,10 @@ schedule=[
         "sessions": [
           {
             "room": "Palm Court Restaurant/Brighton Palace Pier", 
-            "session": "Conference Dinner"
+            "session": "Conference_Dinner"
           }
         ], 
-        "slot_class": "afternoon4", 
+        "slot_class": "afternoon5", 
         "slot_id": "Thursday19_00_22_00", 
         "time": "19:00 - 22:00"
       }
@@ -265,7 +325,7 @@ schedule=[
         "sessions": [
           {
             "room": "Renaissance", 
-            "session": "Session 6: Mobile Interaction: Type, Touch and Bend"
+            "session": "Session6_Mobile_Interaction_Type_Touch_and_Bend"
           }
         ], 
         "slot_class": "morning1", 
@@ -275,7 +335,7 @@ schedule=[
 	  {
         "sessions": [
           {
-            "room": "Lounge", 
+            "room": "Atrium", 
             "session": "Friday_Morning_Coffee_Break"
           }
         ], 
@@ -287,7 +347,7 @@ schedule=[
         "sessions": [
           {
             "room": "Library Terrace/Lounge/Noblesse", 
-            "session": "Poster and Demos"
+            "session": "Poster_and_Demos"
           }
         ], 
         "slot_class": "morning3", 
@@ -297,7 +357,7 @@ schedule=[
       {
         "sessions": [
           {
-            "room": "Lounge,Renaissance", 
+            "room": "Lounge/Renaissance", 
             "session": "Friday_Lunch_and_Townhall_Meeting"
           }
         ], 
@@ -309,7 +369,7 @@ schedule=[
         "sessions": [
           {
             "room": "Renaissance", 
-            "session": "Session 7: In the Wild : Education, Sports and Beyond"
+            "session": "Session7_In_the_Wild_Education_Sports_and_Beyond"
           }
         ], 
         "slot_class": "afternoon1", 
@@ -319,19 +379,19 @@ schedule=[
       {
         "sessions": [
           {
-            "room": "Lounge", 
+            "room": "Atrium", 
             "session": "Friday_Afternoon_Coffee_Break"
           }
         ], 
         "slot_class": "afternoon2", 
-        "slot_id": "Wednesday4_00_4_30", 
+        "slot_id": "Friday15_25_15_45", 
         "time": "15:25 - 15:45 "
       }, 
       {
         "sessions": [
           {
             "room": "Renaissance", 
-            "session": "Closing Keynote : Geraldine Fitzpatrick: Understanding interactive surfaces and spaces in everyday life"
+            "session": "Closing_Keynote"
           }
         ], 
         "slot_class": "afternoon3", 

@@ -1,40 +1,95 @@
 sessions={
- "Tutorial: Analyzing Qualitative Data":{
+ "Registration1":{
+  "date": "Oct 17, 2017",
+  "room": "In front of Renaissance",
+  "s_title": "Registration",
+   "time": "08:00 - 09:00"
+},
+ "Tutorial_Analyzing_Qualitative_Data":{
   "date": "Oct 17, 2017",
   "room": "TBC",
   "s_title": "Tutorial: Analyzing Qualitative Data",
   "submissions": [
+    "t1"
   ],
   "time": "09:00 - 12:30"
 },
- "Tutorial: Printed Electronics":{
+ "Tutorial_Personalized_Interactive_Surfaces_with_Printed_Electronics":{
   "date": "Oct 17, 2017",
   "room": "TBC",
-  "s_title": "Tutorial: Printed Electronics",
+  "s_title": "Tutorial: Personalized Interactive Surfaces with Printed Electronics",
   "submissions": [
+    "t2"
   ],
   "time": "09:00 - 12:30"
 },
- "Tutorial: Multisensory Experiences":{
+ "Tuesday_Lunch": {
+    "date": "Oct 17, 2017", 
+    "room": "Lounge", 
+    "s_title": "Lunch Break", 
+    "time": "12:30 - 14:00"
+}, 
+ "Tutorial_Multisensory_Experiences":{
   "date": "Oct 17, 2017",
   "room": "TBC",
   "s_title": "Tutorial: Multisensory Experiences",
   "submissions": [
+    "t3"
   ],
   "time": "14:00 - 17:30"
 },
- "Workshop : The Disappearing Tabletop: Social and Technical Challenges for Cross-Surface Collaboration":{
+ "Workshop_The_Disappearing_Tabletop_Social_and_Technical_Challenges_for_Cross-Surface_Collaboration":{
   "date": "Oct 17, 2017",
   "room": "TBC",
   "s_title": "Workshop : The Disappearing Tabletop: Social and Technical Challenges for Cross-Surface Collaboration",
   "submissions": [
+    "w1"
   ],
   "time": "14:00 - 17:30"
 },
- "Session :Highlights of SUI":{
+ "Registration2":{
+  "date": "Oct 17, 2017",
+  "room": "In front of Renaissance",
+  "s_title": "Registration",
+  "time": "17:30 - 19:30"
+},
+ "Welcome_Reception":{
+  "date": "Oct 17, 2017",
+  "room": "Lounge",
+  "s_title": "Welcome and Joint Demo and Poster Reception (ISS and SUI)",
+  "time": "18:00 - 22:00"
+},
+ "Registration3":{
+  "date": "Oct 18, 2017",
+  "room": "In front of Renaissance",
+  "s_title": "Registration and Coffee",
+  "time": "08:00 - 09:00"
+},
+ "Greetings_Chairs":{
   "date": "Oct 18, 2017",
   "room": "Renaissance",
-  "s_title": "Session :Highlights of SUI",
+  "s_title": "Greetings from the Chairs",
+  "time": "09:00 - 09:15"
+},
+ "Opening_Keynote":{
+  "date": "Oct 18, 2017",
+  "room": "Renaissance",
+  "s_title": "Opening Keynote(Karon MacLean): Taking Haptic Design from Research to Practice",
+  "submissions": [
+    "k1"
+  ],
+  "time": "9:15 - 10:15"
+},
+ "Wednesday_Morning_Coffee_Break": {
+    "date": "Oct 18, 2017", 
+    "room": "Atrium", 
+    "s_title": "Coffee Break", 
+    "time": "10:15 - 10:35"
+}, 
+ "Session1_Highlights_of_SUI":{
+  "date": "Oct 18, 2017",
+  "room": "Renaissance",
+  "s_title": "Session 1: Highlights of SUI",
   "submissions": [
     "sui01",
     "sui02",
@@ -42,74 +97,152 @@ sessions={
   ],
   "time": "10:35 - 12:15"
 },
- "Session 2: Touch Interaction and Beyond":{
+ "Wednesday_Lunch": {
+    "date": "Oct 18, 2017", 
+    "room": "Lounge", 
+    "s_title": "Lunch Break (Buffet Lunch is provided)", 
+    "time": "12:15 - 13:30"
+}, 
+ "Panel_Funding_Research_Projects_in_Human-Computer_Interaction":{
+  "date": "Oct 18, 2017",
+  "room": "Renaissance",
+  "s_title": "Panel 1 : Funding Research Projects in Human-Computer Interaction",
+  "submissions": [
+    "pa1"
+  ],
+  "time": "13:30 - 14:45"
+},
+ "Wednesday_Afternoon_Coffee_Break": {
+    "date": "Oct 18, 2017", 
+    "room": "Atrium", 
+    "s_title": "Coffee Break", 
+    "time": "14:45 - 15:05"
+}, 
+ "Session2_Touch_Interaction_and_Beyond":{
   "date": "Oct 18, 2017",
   "room": "Renaissance",
   "s_title": "Session 2: Touch Interaction and Beyond",
   "submissions": [
-    "p1007",
-    "p1010",
-    "p1018",
-    "p1023",
-    "p1027"
+    "p1081",
+    "p1141",
+    "p1094",
+    "p1033",
+    "p1010"
   ],
   "time": "15:05 - 16:45"
 },
- "Session 3: Exploring Spaces : 3D Interaction":{
+ "Posters_and_Demo_Madness": {
+    "date": "Oct 18, 2017", 
+    "room": "Renaissance", 
+    "s_title": "Posters and Demo Madness", 
+    "time": "16:45 - 17:45"
+}, 
+ "Registration4":{
+  "date": "Oct 19, 2017",
+  "room": "In front of Renaissance",
+  "s_title": "Registration and Coffee",
+  "time": "08:00 - 09:00"
+},
+ "Session3_Exploring_Spaces_3D_Interaction":{
   "date": "Oct 19, 2017",
   "room": "Renaissance",
   "s_title": "Session 3: Exploring Spaces : 3D Interaction",
   "submissions": [
-    "p1033",
-    "p1044",
     "p1052",
-    "p1054",
-    "p1059",
-    "p1065"
+    "p1073",
+    "p1071",
+    "p1160",
+    "p1098",
+    "p1165"
   ],
   "time": "09:00 - 10:45"
 },
- "Session 4: From Wall Displays to Liquid Matter":{
+ "Thursday_Morning_Coffee_Break": {
+    "date": "Oct 19, 2017", 
+    "room": "Atrium", 
+    "s_title": "Coffee Break", 
+    "time": "10:45 - 11:00"
+}, 
+ "Panel_Future_Directions_for_Interactive_Spaces_and_Surfaces":{
+  "date": "Oct 18, 2017",
+  "room": "Renaissance",
+  "s_title": "Panel 2: Future Directions for Interactive Spaces and Surfaces",
+  "submissions": [
+    "pa2"
+  ],
+  "time": "11:00 - 12:15"
+},
+ "Award_Ceremony_and_10_Year_Impact_Award_Presentation": {
+    "date": "Oct 19, 2017", 
+    "room": "Renaissance", 
+    "s_title": "Award Ceremony and 10 Year Impact Award Presentation", 
+    "time": "12:15 - 12:45"
+}, 
+ "Thursday_Lunch": {
+    "date": "Oct 19, 2017", 
+    "room": "Lounge", 
+    "s_title": "Lunch Break (Buffet Lunch is provided)", 
+    "time": "12:45 - 14:00"
+}, 
+ "Session4_From_Wall_Displays_to_Liquid Matter":{
   "date": "Oct 19, 2017",
   "room": "Renaissance",
   "s_title": "Session 4: From Wall Displays to Liquid Matter",
   "submissions": [
-    "p1071",
-    "p1073",
-    "p1081",
-    "p1083",
-    "p1087"
+    "p1027",
+    "p1123",
+    "p1137",
+    "p1110",
+    "p1099"
   ],
   "time": "14:00 - 15:40"
 },
- "Session 5: Feel, Taste, Smell, Splash":{
+ "Thursday_Afternoon_Coffee_Break": {
+    "date": "Oct 19, 2017", 
+    "room": "Atrium", 
+    "s_title": "Coffee Break", 
+    "time": "15:40 - 16:00"
+}, 
+ "Session5_Feel_Taste_Smell_Splash":{
   "date": "Oct 19, 2017",
   "room": "Renaissance",
   "s_title": "Session 5: Feel, Taste, Smell, Splash",
   "submissions": [
-    "p1094",
-    "p1097",
-    "p1098",
-    "p1099",
-    "p1110"
+    "p1087",
+    "p1065",
+    "p1054",
+    "p1148",
+    "p1007"
   ],
   "time": "16:00 - 17:40"
 },
- "Session 6: Mobile Interaction: Type, Touch and Bend":{
+ "Conference_Dinner": {
+    "date": "Oct 19, 2017", 
+    "room": "TBC", 
+    "s_title": "Conference Dinner", 
+    "time": "19:00 - 22:00"
+}, 
+ "Session6_Mobile_Interaction_Type_Touch_and_Bend":{
   "date": "Oct 20, 2017",
   "room": "Renaissance",
   "s_title": "Session 6: Mobile Interaction: Type, Touch and Bend",
   "submissions": [
-    "p1121",
-    "p1123",
     "p1124",
-    "p1137",
+    "p1121",
+    "p1097",
     "p1140",
-    "p1141"
+    "p1156",
+    "p1023"
   ],
   "time": "09:15 - 10:55"
 },
- "Poster and Demos":{
+ "Friday_Morning_Coffee_Break": {
+    "date": "Oct 20, 2017", 
+    "room": "Atrium", 
+    "s_title": "Coffee Break", 
+    "time": "10:55 - 11:15"
+}, 
+ "Poster_and_Demos":{
   "date": "Oct 20, 2017",
   "room": "Library Terrace/Lounge/Noblesse",
   "s_title": "Poster and Demos",
@@ -158,17 +291,38 @@ sessions={
   ],
   "time": "11:15 - 12:30"
 },
+ "Friday_Lunch_and_Townhall_Meeting": {
+    "date": "Oct 20, 2017", 
+    "room": "Lounge/Renaissance", 
+    "s_title": "Lunch and Townhall Meeting", 
+    "time": "12:30 - 13:45"
+}, 
  "Session 7: In the Wild : Education, Sports and Beyond":{
   "date": "Oct 20, 2017",
   "room": "Renaissance",
   "s_title": "Session 7: In the Wild : Education, Sports and Beyond",
   "submissions": [
+    "p1018",
+    "p1059",
+    "p1044",
     "p1147",
-    "p1148",
-    "p1156",
-    "p1160",
-    "p1165"
+    "p1083"
   ],
   "time": "13:45 - 15:25"
+},
+ "Friday_Afternoon_Coffee_Break": {
+    "date": "Oct 20, 2017", 
+    "room": "Atrium", 
+    "s_title": "Coffee Break", 
+    "time": "15:25 - 15:45"
+},
+ "Closing_Keynote":{
+  "date": "Oct 20, 2017",
+  "room": "Renaissance",
+  "s_title": "Closing Keynote(Geraldine Fitzpatrick): Understanding interactive surfaces and spaces in everyday life",
+  "submissions": [
+    "k2"
+  ],
+  "time": "15:45 - 17:00"
 }
 }
