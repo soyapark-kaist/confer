@@ -1,6 +1,7 @@
 sessions={
   "1": {
     "date": "10/23", 
+    "room": "Palais", 
     "s_title": "Touch", 
     "submissions": [
       "uistf2935", 
@@ -9,10 +10,11 @@ sessions={
       "uistf2440", 
       "uistf2786"
     ], 
-    "time": "11:40:00 AM"
+    "time": "11:40 AM"
   }, 
   "10": {
     "date": "10/24", 
+    "room": "Palais", 
     "s_title": "Fabrication", 
     "submissions": [
       "uistf4937", 
@@ -20,10 +22,11 @@ sessions={
       "uistf2860", 
       "uistf3775"
     ], 
-    "time": "11:00:00 AM"
+    "time": "11:00 AM"
   }, 
   "11": {
     "date": "10/24", 
+    "room": "Kent", 
     "s_title": "Alt.Modalities", 
     "submissions": [
       "uistf4607", 
@@ -32,10 +35,11 @@ sessions={
       "uistf4499", 
       "uistf4623"
     ], 
-    "time": "2:00:00 PM"
+    "time": "2:00 PM"
   }, 
   "12": {
     "date": "10/24", 
+    "room": "Palais", 
     "s_title": "Phones & Watches", 
     "submissions": [
       "uistf1910", 
@@ -44,10 +48,11 @@ sessions={
       "uistf2014", 
       "uistf1660"
     ], 
-    "time": "2:00:00 PM"
+    "time": "2:00 PM"
   }, 
   "13": {
     "date": "10/25", 
+    "room": "Kent", 
     "s_title": "Displays", 
     "submissions": [
       "uistf1723", 
@@ -55,10 +60,11 @@ sessions={
       "uistf1491", 
       "uistf3335"
     ], 
-    "time": "10:40:00 AM"
+    "time": "10:40 AM"
   }, 
   "14": {
     "date": "10/25", 
+    "room": "Palais", 
     "s_title": "Flexible Sensing", 
     "submissions": [
       "uistf2895", 
@@ -66,10 +72,11 @@ sessions={
       "uistf4355", 
       "uistf4170"
     ], 
-    "time": "10:40:00 AM"
+    "time": "10:40 AM"
   }, 
   "15": {
     "date": "10/25", 
+    "room": "Kent", 
     "s_title": "Code/education", 
     "submissions": [
       "uistf4658", 
@@ -78,10 +85,11 @@ sessions={
       "uistf3971", 
       "uistf3396"
     ], 
-    "time": "1:30:00 PM"
+    "time": "1:30 PM"
   }, 
   "16": {
     "date": "10/25", 
+    "room": "Palais", 
     "s_title": "VR/AR", 
     "submissions": [
       "uistf3858", 
@@ -90,10 +98,11 @@ sessions={
       "uistf3584", 
       "uistf4994"
     ], 
-    "time": "1:30:00 PM"
+    "time": "1:30 PM"
   }, 
   "17": {
     "date": "10/25", 
+    "room": "Palais+Kent", 
     "s_title": "Crowd", 
     "submissions": [
       "uistf1526", 
@@ -101,10 +110,11 @@ sessions={
       "uistf4070", 
       "uistf4234"
     ], 
-    "time": "3:40:00 PM"
+    "time": "3:40 PM"
   }, 
   "18": {
     "date": "10/24", 
+    "room": "Ballroom Foyer", 
     "s_title": "Posters", 
     "submissions": [
       "uistpp111", 
@@ -133,10 +143,11 @@ sessions={
       "uistpp181", 
       "uistpp183"
     ], 
-    "time": "3:30:00 PM"
+    "time": "3:30 PM"
   }, 
   "19": {
     "date": "10/23", 
+    "room": "Villeray/DeTourny+St.Louis+Ballroom Foyer", 
     "s_title": "Demos", 
     "submissions": [
       "uistde102", 
@@ -167,10 +178,11 @@ sessions={
       "uistde153", 
       "uistde155"
     ], 
-    "time": "6:00:00 PM"
+    "time": "6:00 PM"
   }, 
   "2": {
     "date": "10/23", 
+    "room": "Kent", 
     "s_title": "Creativity Support Tools", 
     "submissions": [
       "uistf4298", 
@@ -178,10 +190,11 @@ sessions={
       "uistf1143", 
       "uistf3763"
     ], 
-    "time": "11:40:00 AM"
+    "time": "11:40 AM"
   }, 
   "3": {
     "date": "10/23", 
+    "room": "Palais", 
     "s_title": "Haptics", 
     "submissions": [
       "uistf1201", 
@@ -189,10 +202,11 @@ sessions={
       "uistf2681", 
       "uistf1814"
     ], 
-    "time": "2:30:00 PM"
+    "time": "2:30 PM"
   }, 
   "4": {
     "date": "10/23", 
+    "room": "Kent", 
     "s_title": "Eyes and Hands", 
     "submissions": [
       "uistf3285", 
@@ -200,10 +214,11 @@ sessions={
       "uistf2925", 
       "uistf2052"
     ], 
-    "time": "2:30:00 PM"
+    "time": "2:30 PM"
   }, 
   "5": {
     "date": "10/23", 
+    "room": "Palais", 
     "s_title": "Physical Interfaces", 
     "submissions": [
       "uistf3412", 
@@ -211,10 +226,11 @@ sessions={
       "uistf4432", 
       "uistf1353"
     ], 
-    "time": "4:20:00 PM"
+    "time": "4:20 PM"
   }, 
   "6": {
     "date": "10/23", 
+    "room": "Kent", 
     "s_title": "360 Video", 
     "submissions": [
       "uistf4474", 
@@ -222,10 +238,11 @@ sessions={
       "uistf2291", 
       "uistf3506"
     ], 
-    "time": "4:20:00 PM"
+    "time": "4:20 PM"
   }, 
   "7": {
     "date": "10/24", 
+    "room": "Palais", 
     "s_title": "Circuits", 
     "submissions": [
       "uistf4553", 
@@ -234,10 +251,11 @@ sessions={
       "uistf3567", 
       "uistf3948"
     ], 
-    "time": "9:00:00 AM"
+    "time": "9:00 AM"
   }, 
   "8": {
     "date": "10/24", 
+    "room": "Kent", 
     "s_title": "Pointing, Pens & Text", 
     "submissions": [
       "uistf4922", 
@@ -245,10 +263,11 @@ sessions={
       "uistf1172", 
       "TOCHI 0014.R2"
     ], 
-    "time": "9:00:00 AM"
+    "time": "9:00 AM"
   }, 
   "9": {
     "date": "10/24", 
+    "room": "Kent", 
     "s_title": "3D Sketching", 
     "submissions": [
       "uistf1973", 
@@ -256,144 +275,174 @@ sessions={
       "uistf3196", 
       "uistf1384"
     ], 
-    "time": "11:00:00 AM"
+    "time": "11:00 AM"
   }, 
   "np_awards": {
     "date": "10/23", 
+    "room": "Palais+Kent", 
     "s_title": "Best Paper and Lasting Impact Awards", 
     "submissions": [], 
-    "time": "10:30:00 AM"
+    "time": "10:30 AM"
   }, 
   "np_banquet": {
     "date": "10/24", 
+    "room": "Museum of Fine Arts", 
     "s_title": "Banquet", 
     "submissions": [], 
-    "time": "6:00:00 PM"
+    "time": "6:00 PM"
   }, 
   "np_break1": {
     "date": "10/23", 
+    "room": "Ballroom Foyer", 
     "s_title": "Break", 
     "submissions": [], 
-    "time": "11:00:00 AM"
+    "time": "11:00 AM"
   }, 
   "np_break2": {
     "date": "10/23", 
+    "room": "Ballroom Foyer", 
     "s_title": "Break", 
     "submissions": [], 
-    "time": "3:50:00 PM"
+    "time": "3:50 PM"
   }, 
   "np_break3": {
     "date": "10/24", 
+    "room": "Ballroom Foyer", 
     "s_title": "Break", 
     "submissions": [], 
-    "time": "10:30:00 AM"
+    "time": "10:30 AM"
   }, 
   "np_break4": {
     "date": "10/24", 
+    "room": "Ballroom Foyer", 
     "s_title": "Poster session & Coffee Break", 
     "submissions": [], 
-    "time": "3:30:00 PM"
+    "time": "3:30 PM"
   }, 
   "np_break5": {
     "date": "10/25", 
+    "room": "Ballroom Foyer", 
     "s_title": "Break", 
     "submissions": [], 
-    "time": "10:00:00 AM"
+    "time": "10:00 AM"
   }, 
   "np_break6": {
     "date": "10/25", 
+    "room": "Ballroom Foyer", 
     "s_title": "Break", 
     "submissions": [], 
-    "time": "3:00:00 PM"
+    "time": "3:00 PM"
   }, 
   "np_closing": {
     "date": "10/25", 
+    "room": "Palais+Kent", 
     "s_title": "UIST Closing", 
     "submissions": [], 
-    "time": "4:50:00 PM"
+    "time": "4:50 PM"
   }, 
   "np_demorec": {
     "date": "10/23", 
+    "room": "Villeray/DeTourny+St.Louis+Ballroom Foyer", 
     "s_title": "Demo Reception", 
     "submissions": [], 
-    "time": "6:00:00 PM"
+    "time": "6:00 PM"
   }, 
   "np_hcompwelcome": {
     "date": "10/25", 
+    "room": "Palais+Kent+St.Louis", 
     "s_title": "Joint HCOMP/UIST Welcome", 
     "submissions": [], 
-    "time": "8:45:00 AM"
+    "time": "8:45 AM"
   }, 
   "np_keynote1": {
     "date": "10/23", 
+    "room": "Palais+Kent", 
     "s_title": "Opening Keynote: Prof. Gabriella Coleman", 
     "submissions": [], 
-    "time": "9:30:00 AM"
+    "time": "9:30 AM"
   }, 
   "np_keynote2": {
     "date": "10/25", 
+    "room": "Palais+Kent+St.Louis", 
     "s_title": "Keynote: Prof. Niki Kittur", 
     "submissions": [], 
-    "time": "9:00:00 AM"
+    "time": "9:00 AM"
   }, 
   "np_lunch1": {
     "date": "10/23", 
+    "room": "On your own", 
     "s_title": "Lunch", 
     "submissions": [], 
-    "time": "1:00:00 PM"
+    "time": "1:00 PM"
   }, 
   "np_lunch2": {
     "date": "10/24", 
+    "room": "On your own", 
     "s_title": "Lunch", 
     "submissions": [], 
-    "time": "12:10:00 PM"
+    "time": "12:10 PM"
+  }, 
+  "np_lunch3": {
+    "date": "10/25", 
+    "room": "On your own", 
+    "s_title": "Lunch", 
+    "submissions": [], 
+    "time": "12:00 PM"
   }, 
   "np_opening": {
     "date": "10/23", 
+    "room": "Palais+Kent", 
     "s_title": "Opening Remarks", 
     "submissions": [], 
-    "time": "9:00:00 AM"
+    "time": "9:00 AM"
   }, 
   "np_reg0": {
     "date": "10/22", 
+    "room": "Ballroom Foyer", 
     "s_title": "Registration", 
     "submissions": [], 
-    "time": "5:00:00 PM"
+    "time": "5:00 PM"
   }, 
   "np_reg1": {
     "date": "10/23", 
+    "room": "Ballroom Foyer", 
     "s_title": "Registration", 
     "submissions": [], 
-    "time": "8:00:00 AM"
+    "time": "8:00 AM"
   }, 
   "np_reg2": {
     "date": "10/24", 
+    "room": "Ballroom Foyer", 
     "s_title": "Registration", 
     "submissions": [], 
-    "time": "9:00:00 AM"
+    "time": "9:00 AM"
   }, 
   "np_reg3": {
     "date": "10/25", 
+    "room": "Ballroom Foyer", 
     "s_title": "Registration", 
     "submissions": [], 
-    "time": "9:00:00 AM"
+    "time": "9:00 AM"
   }, 
   "np_scommittee": {
     "date": "10/24", 
+    "room": "Plaines", 
     "s_title": "Steering Committee Meeting", 
     "submissions": [], 
-    "time": "9:30:00 PM"
+    "time": "9:30 PM"
   }, 
   "np_townhall": {
     "date": "10/24", 
+    "room": "Palais", 
     "s_title": "Town Hall", 
     "submissions": [], 
-    "time": "5:00:00 PM"
+    "time": "5:00 PM"
   }, 
   "np_welcome": {
     "date": "10/22", 
+    "room": "Villeray/DeTourny", 
     "s_title": "Welcome Reception", 
     "submissions": [], 
-    "time": "6:00:00 PM"
+    "time": "6:00 PM"
   }
 }
