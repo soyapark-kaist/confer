@@ -10,6 +10,9 @@ def construct_id(s):
   return re.sub(r'\W+', '_', s)
 
 def get_start_time(s_time):
+  if 'AM AM' in s_time or 'PM PM' in s_time:
+    s_time = s_time[:-2].strip()
+    
   date = time.strptime(s_time, '%I:%M %p')
   s = time.strftime("%H", date)
   t = time.strftime("%M", date)
@@ -156,6 +159,8 @@ def prepare_data(data_file1):
         award = True 
  
     paper_title = row[18]
+    
+    room = row[17]
 
     if paper_title:
         # prepare papers data
@@ -178,14 +183,14 @@ def prepare_data(data_file1):
         #s_id = construct_id(session)
         if(s_id not in sessions):
           sessions[s_id] = {
-              'submissions': [], 's_title': session, 'time': s_time, 'date': s_date}
+              'submissions': [], 's_title': session, 'room': room, 'time': s_time, 'date': s_date}
         
     else:
         if(s_id in sessions):
           sessions[s_id]['submissions'].append(paper_id)
         else:
           sessions[s_id] = {
-              'submissions': [paper_id], 's_title': session, 'time': s_time, 'date': s_date}
+              'submissions': [paper_id], 's_title': session, 'room': room, 'time': s_time, 'date': s_date}
 
     p_id += 1
 
@@ -197,8 +202,10 @@ def prepare_data(data_file1):
     
     t = s_time.split(':')
     e = t[-1].split(' ')
-    s_time = t[0] + ':' + t[1] + ' ' + e[1]
-    s_data = {'session': session}
+    
+    s_time = t[0] + ':' + t[1]
+    
+    s_data = {'session': session, 'room': s_info['room']}
     if s_date in t_schedule:
       if s_time in t_schedule[s_date]:
         t_schedule[s_date][s_time]['sessions'].append(s_data)

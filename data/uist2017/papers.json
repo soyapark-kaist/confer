@@ -1397,7 +1397,7 @@
     "abstract": "Eye contact is an important non-verbal cue in social signal processing and promising as a measure of overt attention in human-object interactions and attentive user interfaces. However, robust detection of eye contact across different users, gaze targets, camera positions, and illumination conditions is notoriously challenging. We present a novel method for eye contact detection that combines a state-of-the-art appearance-based gaze estimator with a novel approach for unsupervised gaze target discovery, i.e. without the need for tedious and time-consuming manual data annotation. We evaluate our method in two real-world scenarios: detecting eye contact at the workplace, including on the main work display, from cameras mounted to target objects, as well as during everyday social interactions with the wearer of a head-mounted egocentric camera. We empirically evaluate the performance of our method in both scenarios and demonstrate its effectiveness for detecting eye contact independent of target object type and size, camera position, and user and recording environment.", 
     "authors": [
       {
-        "name": "Xucong  Zhang, Saarland Informatics Campus"
+        "name": "Xucong  Zhang, Max Planck Institute for Informatics"
       }, 
       {
         "name": "Yusuke  Sugano, Osaka University"
@@ -1861,7 +1861,7 @@
         "name": "Florian  Alt, LMU Munich"
       }, 
       {
-        "name": "Andreas  Bulling, Saarland Informatics Campus"
+        "name": "Andreas  Bulling, Max Planck Institute for Informatics"
       }
     ], 
     "award": false, 
@@ -3385,7 +3385,7 @@
     "abstract": "Global Positioning System (GPS) technology is widely used for outdoor navigation, but it is still challenging to apply this technology to a mid-scale or indoor environment. Using GPS in this way raises issues, such as reliability, deployment cost, and maintenance. Recently, companies like Google have begun to provide accurate indoor mapping. However, current implementations rely on both Wi-Fi and cellular technologies which have a hard time identifying the user's exact location in an indoor environment. There are two research questions in this paper: (1) How do we design a flexible and cost efficient indoor navigation system for organizations? (2) How to find an optimized path in a mid-scale/local environment. Here we propose Jaguar, which is a novel navigation system that utilizes a customized KML map with NFC technologies to address above questions. Our system includes an Android mobile application, a web-based map authoring tool and an implementation of a Cartesian plane based path finding algorithm. The initial testing of the system shows successful adaptation for a school campus environment.", 
     "authors": [
       {
-        "name": "Brandon  Dalton, Wentworth Institute of Technology"
+        "name": "Brandon  Dalton, University of Southern California"
       }, 
       {
         "name": "Chen-Hsiang  Yu, Wentworth Institute of Technology"

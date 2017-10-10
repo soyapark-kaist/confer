@@ -6,6 +6,7 @@ schedule=[
       {
         "sessions": [
           {
+            "room": "Ballroom Foyer", 
             "session": "np_reg0"
           }
         ], 
@@ -16,6 +17,7 @@ schedule=[
       {
         "sessions": [
           {
+            "room": "Villeray/DeTourny", 
             "session": "np_welcome"
           }
         ], 
@@ -32,6 +34,7 @@ schedule=[
       {
         "sessions": [
           {
+            "room": "Ballroom Foyer", 
             "session": "np_reg1"
           }
         ], 
@@ -42,6 +45,7 @@ schedule=[
       {
         "sessions": [
           {
+            "room": "Palais+Kent", 
             "session": "np_opening"
           }
         ], 
@@ -52,6 +56,7 @@ schedule=[
       {
         "sessions": [
           {
+            "room": "Palais+Kent", 
             "session": "np_keynote1"
           }
         ], 
@@ -62,6 +67,7 @@ schedule=[
       {
         "sessions": [
           {
+            "room": "Palais+Kent", 
             "session": "np_awards"
           }
         ], 
@@ -72,6 +78,7 @@ schedule=[
       {
         "sessions": [
           {
+            "room": "Ballroom Foyer", 
             "session": "np_break1"
           }
         ], 
@@ -82,9 +89,11 @@ schedule=[
       {
         "sessions": [
           {
+            "room": "Palais", 
             "session": "1"
           }, 
           {
+            "room": "Kent", 
             "session": "2"
           }
         ], 
@@ -95,6 +104,7 @@ schedule=[
       {
         "sessions": [
           {
+            "room": "On your own", 
             "session": "np_lunch1"
           }
         ], 
@@ -105,9 +115,11 @@ schedule=[
       {
         "sessions": [
           {
+            "room": "Palais", 
             "session": "3"
           }, 
           {
+            "room": "Kent", 
             "session": "4"
           }
         ], 
@@ -118,6 +130,7 @@ schedule=[
       {
         "sessions": [
           {
+            "room": "Ballroom Foyer", 
             "session": "np_break2"
           }
         ], 
@@ -128,9 +141,11 @@ schedule=[
       {
         "sessions": [
           {
+            "room": "Palais", 
             "session": "5"
           }, 
           {
+            "room": "Kent", 
             "session": "6"
           }
         ], 
@@ -141,9 +156,11 @@ schedule=[
       {
         "sessions": [
           {
+            "room": "Villeray/DeTourny+St.Louis+Ballroom Foyer", 
             "session": "np_demorec"
           }, 
           {
+            "room": "Villeray/DeTourny+St.Louis+Ballroom Foyer", 
             "session": "19"
           }
         ], 
@@ -160,12 +177,15 @@ schedule=[
       {
         "sessions": [
           {
+            "room": "Ballroom Foyer", 
             "session": "np_reg2"
           }, 
           {
+            "room": "Palais", 
             "session": "7"
           }, 
           {
+            "room": "Kent", 
             "session": "8"
           }
         ], 
@@ -176,6 +196,7 @@ schedule=[
       {
         "sessions": [
           {
+            "room": "Ballroom Foyer", 
             "session": "np_break3"
           }
         ], 
@@ -186,9 +207,11 @@ schedule=[
       {
         "sessions": [
           {
+            "room": "Kent", 
             "session": "9"
           }, 
           {
+            "room": "Palais", 
             "session": "10"
           }
         ], 
@@ -199,6 +222,7 @@ schedule=[
       {
         "sessions": [
           {
+            "room": "On your own", 
             "session": "np_lunch2"
           }
         ], 
@@ -209,9 +233,11 @@ schedule=[
       {
         "sessions": [
           {
+            "room": "Kent", 
             "session": "11"
           }, 
           {
+            "room": "Palais", 
             "session": "12"
           }
         ], 
@@ -222,9 +248,11 @@ schedule=[
       {
         "sessions": [
           {
+            "room": "Ballroom Foyer", 
             "session": "18"
           }, 
           {
+            "room": "Ballroom Foyer", 
             "session": "np_break4"
           }
         ], 
@@ -235,6 +263,7 @@ schedule=[
       {
         "sessions": [
           {
+            "room": "Palais", 
             "session": "np_townhall"
           }
         ], 
@@ -245,6 +274,7 @@ schedule=[
       {
         "sessions": [
           {
+            "room": "Museum of Fine Arts", 
             "session": "np_banquet"
           }
         ], 
@@ -255,6 +285,7 @@ schedule=[
       {
         "sessions": [
           {
+            "room": "Plaines", 
             "session": "np_scommittee"
           }
         ], 
@@ -271,6 +302,7 @@ schedule=[
       {
         "sessions": [
           {
+            "room": "Palais+Kent+St.Louis", 
             "session": "np_hcompwelcome"
           }
         ], 
@@ -281,9 +313,11 @@ schedule=[
       {
         "sessions": [
           {
+            "room": "Palais+Kent+St.Louis", 
             "session": "np_keynote2"
           }, 
           {
+            "room": "Ballroom Foyer", 
             "session": "np_reg3"
           }
         ], 
@@ -294,6 +328,7 @@ schedule=[
       {
         "sessions": [
           {
+            "room": "Ballroom Foyer", 
             "session": "np_break5"
           }
         ], 
@@ -304,9 +339,11 @@ schedule=[
       {
         "sessions": [
           {
+            "room": "Kent", 
             "session": "13"
           }, 
           {
+            "room": "Palais", 
             "session": "14"
           }
         ], 
@@ -317,9 +354,22 @@ schedule=[
       {
         "sessions": [
           {
+            "room": "On your own", 
+            "session": "np_lunch3"
+          }
+        ], 
+        "slot_class": "afternoon1", 
+        "slot_id": "10_2512_00_PM", 
+        "time": "12:00 PM"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Kent", 
             "session": "15"
           }, 
           {
+            "room": "Palais", 
             "session": "16"
           }
         ], 
@@ -330,6 +380,7 @@ schedule=[
       {
         "sessions": [
           {
+            "room": "Ballroom Foyer", 
             "session": "np_break6"
           }
         ], 
@@ -340,6 +391,7 @@ schedule=[
       {
         "sessions": [
           {
+            "room": "Palais+Kent", 
             "session": "17"
           }
         ], 
@@ -350,6 +402,7 @@ schedule=[
       {
         "sessions": [
           {
+            "room": "Palais+Kent", 
             "session": "np_closing"
           }
         ], 
