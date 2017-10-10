@@ -1,18 +1,35 @@
 entities={ 
+ "aw1":{
+  "abstract": "Bauhaus-Universität Weimar, Germany",
+  "authors": [
+   {
+    "name": "Eva Hornecker"
+   }
+  ],
+  "award": false,
+  "hm": false,
+  "subtype": "Award",
+  "title": "\"I don't understand it either, but it is cool\" - Visitor Interactions with a Multi-Touch Table in a Museum",
+  "type": "Award"
+},
  "t1":{
   "abstract": "(Website: http://innovis.cpsc.ucalgary.ca/qualitativeanalysis-iss-tutorial/) Do you want to learn more about analyzing qualitative data? This half-day tutorial is designed for beginning to intermediate audiences. We will focus on the basic methods for analyzing qualitative data using a mixture of talks and hands-on activities. In particular we will consider closed and open coding as well as clustering and categorizing coded data. After completing this tutorial, you will gain a richer understanding of the benefits and challenges of qualitative empirical research and, more specifically, how to analyze qualitative data.",
   "authors": [
    {
-    "name": "Sheelagh Carpendale"
+    "name": "Sheelagh Carpendale",
+	"affiliation": "University of Calgary"
    },
    {
-    "name": "Søren Knudsen"
+    "name": "Søren Knudsen",
+	"affiliation": "University of Calgary"
    },
    {
-    "name": "Alice Thudt"
+    "name": "Alice Thudt",
+	"affiliation": "University of Calgary"
    },
    {
-    "name": "Uta Hinrichs"
+    "name": "Uta Hinrichs",
+	"affiliation": "University of St Andrews"
    }
   ],
   "award": false,
@@ -25,10 +42,12 @@ entities={
   "abstract": "Recent advances in printed electronics have enabled the creation and fabrication of thin,flexible and customizable interactive surfaces. These interfaces create opportunities for a variety of novel interactions leveraging on the unique form factor, flexibility and customization. Previous research has demonstrated the possibility of customizable multi-touch sensors, conformal on-skin interfaces and printable shape changing displays. The aim of this tutorial is to acquire basic conceptual and practical skills in developing interactive surfaces with printed electronics. Topics and learning outcomes of the tutorial include: personalized digital design and fast prototyping of printed electronics, basics of different sensors and actuators and developing sample application scenarios with printed interfaces.",
   "authors": [
    {
-    "name": "Anusha Withana"
+    "name": "Anusha Withana",
+	"affiliation": "Saarland University"
    },
    {
-    "name": "Jürgen Steimle"
+    "name": "Jürgen Steimle",
+	"affiliation": "Saarland University"
    }
   ],
   "award": false,
@@ -41,16 +60,20 @@ entities={
   "abstract": "Designing multisensory experiences is fascinating academics and practitioners alike. Recent advances in interactive systems and sensory devices also increasingly captures the attention of artists, museum curators, and creative industries, who aim to explore the opportunities of new and emerging technologies to create novel and unexpected experiences. The main objective of this tutorial is to increase the ISS communities’ awareness of design spaces beyond audio-visual and tactile interactions. In particular, we will provide an overview on olfactory design spaces and opportunities building on our expertise and experience working on multisensory design projects including the Tate Sensorium, Famous Deaths, Multisensory VR experiences.",
   "authors": [
    {
-    "name": "Marianna Obrist"
+    "name": "Marianna Obrist",
+	"affiliation": "University of Sussex"
    },
    {
-    "name": "Grace Boyle"
+    "name": "Grace Boyle",
+	"affiliation": "The Feelies"
    },
    {
-    "name": "Marcel van Brakel"
+    "name": "Marcel van Brakel",
+	"affiliation": "Polymorf"
    },
    {
-    "name": "Frederik Duerinck"
+    "name": "Frederik Duerinck",
+	"affiliation": "Polymorf"
    }
   ],
   "award": false,
@@ -63,22 +86,28 @@ entities={
   "abstract": "(Website: https://thedisappearingworkshop.wordpress.com) After 20 years of research, it is unclear what role the tabletop should play in the home or workplace. Progress has been made towards hardware and software interfaces, connectivity with nearby devices, and understanding human behaviour on and around the table — yet, in practice tabletops see limited use. This workshop seeks to explore the development and use of tabletops from historical, technical, and social perspectives. Workshop goals include synthesizing opinion and experience from new and established researchers on directions for tabletop research, and an open discussion of questions such as to what applications are tabletops best suited? and how can tabletops be better integrated into larger workflows and digital ecosystems?",
   "authors": [
    {
-    "name": "James R. Wallace"
+    "name": "James R. Wallace",
+	"affiliation": "University of Waterloo"
    },
    {
-    "name": "Steven Houben"
+    "name": "Steven Houben",
+	"affiliation": "Lancaster University"
    },
    {
-    "name": "Craig Anslow"
+    "name": "Craig Anslow",
+	"affiliation": "Victoria University of Wellington"
    },
    {
-    "name": "Andrés Lucero"
+    "name": "Andrés Lucero",
+	"affiliation": "Aalto University"
    },
    {
-    "name": "Yvonne Rogers"
+    "name": "Yvonne Rogers",
+	"affiliation": "UCL"
    },
    {
-    "name": "Stacey D. Scott"
+    "name": "Stacey D. Scott",
+	"affiliation": "University of Guelph"
    }
   ],
   "award": false,
@@ -88,7 +117,7 @@ entities={
   "type": "Workshop"
 },
  "k1": {
-    "title": "Opening Keynote(Karon MacLean): Taking Haptic Design from Research to Practice",
+    "title": "Taking Haptic Design from Research to Practice",
     "abstract": "Today’s advances in tactile sensing, wearable, situated and context-aware computing and robotics are spurring new ideas about how to configure touch-centered interactions in terms of roles and utility, which in turn expose new technical and social design questions. But while haptic actuation and sensing technology is improving, incorporating them into a real-world design process still brings many challenges. In this talk I’ll focus on how my group has approached research both into viable roles and design languages for physical communication, and of what is needed to support their design.I’ll explore this in the context of several examples, such as translating users’ cognitive frameworks for processing tactile signals into guidelines and tools to create learnable message vocabularies; exploiting low-cost, stretchy touch sensors and machine learning touch recognition to raise the ‘emotional intelligence’ of social human-robot interaction through bidirectional communication; and how such sensing and simple outputs can transform other interactions that are situated in the physical world rather than on a traditional computing device.",
     "subtype": "Keynote",
     "authors": [
@@ -100,7 +129,7 @@ entities={
     "type": "Keynote"
 },
  "k2": {
-    "title": "Closing Keynote(Geraldine Fitzpatrick): Understanding interactive surfaces and spaces in everyday life",
+    "title": "Understanding interactive surfaces and spaces in everyday life",
     "abstract": "Interactive Surfaces and Spaces increasingly pervade our everyday life, appearing in various sizes, shapes, and application contexts, offering a rich variety of ways to interact”. Actually getting technologies used in everyday life though requires sensitivities to a range of other factors beyond the technology itself. Drawing on years of research in CSCW and related areas, this talk will explore how playing at the intersection of social and computing sciences can inform how we conceptualise, design and deploy new ISS technologies in everyday life. The discussions will touch on the importance of social practices through which technologies come to be incorporated into everyday life, the need to be critically reflective about the values entailed in our technology designs, and the potential of ‘good’ technologies to contribute to health, well being and human flourishing.",
 	"subtype": "Keynote",
     "authors": [
@@ -112,13 +141,13 @@ entities={
     "type": "Keynote"
 },
  "pa1": {
-    "title": "Panel 1 : Funding Research Projects in Human-Computer Interaction",
+    "title": "Panel 1 : Funding Research Projects in Human-Computer Interaction - Chair: Albrecht Schmidt (LMU Munich, Germany)",
     "abstract": "You have a great research idea, but how to get funding for it? Project grants are pivotal for concentrated efforts on high-risk endeavours. They accelerate research careers and push HCI forward as a field. However, the international funding landscape is increasingly competitive and turbulent. HCI research that is often pragmatic, collaborative, and cross-disciplinary is easily overshadowed by Big Science. Our panelists are recipients of some of the most competed-for project grants and members of evaluation committees. Join us to learn from their experiences and discuss how we can shape the landscape of research funding.",
 	"subtype": "Panel",
     "authors": [
       {
         "name": "Susanne Boedker",
-        "affiliation": "Aarhus University, Denmark "
+        "affiliation": "Aarhus University, Denmark"
       },
 	  {
         "name": "Marianna Obrist",
@@ -140,7 +169,7 @@ entities={
     "type": "Panel"
 },
  "pa2": {
-    "title": "Panel 2: Future Directions for Interactive Spaces and Surfaces",
+    "title": "Panel 2: Future Directions for Interactive Spaces and Surfaces - Chair: Orit Shaer (Wellesley College, USA)",
     "abstract": "The research topics presented at ISS are rapidly changing. While we still see research on interactive tabletops, large displays, mobile and small devices, frontier research is looking at novel technologies for 3D spaces, on-body sensors, and interactive architectures. The goal of this panel is to discuss future agendas, \"weak signals\", and megatrends for research at and on ISS. Our panelists are expert researchers and visionaries who have shaped the transition and identity of this area. Join us for an exciting discussion on where ISS is heading in the next 3 to 15+ years.",
 	"subtype": "Panel",
     "authors": [
@@ -159,6 +188,10 @@ entities={
 	  {
         "name": "Stacey Scott",
         "affiliation": "University of Guelph, Canada"
+      },
+	  {
+        "name": "Andy Wilson",
+        "affiliation": "Microsoft Research, USA"
       }
     ],
     "type": "Panel"
@@ -167,13 +200,16 @@ entities={
   "abstract": "We implemented the input interface named ‘Novest’ which can estimate the finger position and classify the finger state (out-of-range/hovering/touching) on the back of a hand with a small ranging sensor array attached on the side of a smartwatch, each of the small ranging sensors gets distance data and strength of signal data. With a prototype of Novest, we conducted the first evaluation to assess the basic performance. In this paper, we conducted the formal user study with two different conditions: the sitting/standing conditions to evaluate the practical perfor-mance of Novest as an input interface. The results show that the finger position estimation accuracies in the sitting and standing conditions are 4.2 mm and 5.0 mm, respectively. Additionally, the finger state classification accuracies with parameters adjust-ed by grid search in the sitting and standing conditions are 97.2% and 97.9%, respectively.",
   "authors": [
    {
-    "name": "Yu Ishikawa"
+    "name": "Yu Ishikawa",
+	"affiliation": "University of Tsukuba"
    },
    {
-    "name": "Buntarou Shizuki"
+    "name": "Buntarou Shizuki",
+	"affiliation": "University of Tsukuba"
    },
    {
-    "name": "Junichi Hoshino"
+    "name": "Junichi Hoshino",
+	"affiliation": "University of Tsukuba"
    }
   ],
   "award": false,
@@ -186,10 +222,12 @@ entities={
   "abstract": "We present a study comparing selection performance between three eye/head interaction techniques using the recently released FOVE head-mounted display (HMD). The FOVE offers an integrated eye tracker, which we use as an alternative to potentially fatiguing and uncomfortable head-based selection used with other commercial devices. Our experiment was modelled after the ISO 9241-9 reciprocal selection task, with targets presented at varying depths in a custom virtual environment. We compared eye-based selection, and head-based selection (i.e., gaze direction) in isolation, and a third condition which used both eye-tracking and head-tracking at once. Results indicate that eye-only selection offered the worst performance in terms of error rate, selection times, and throughput. Head-only selection offered significantly better performance.",
   "authors": [
    {
-    "name": "YuanYuan Qian"
+    "name": "YuanYuan Qian",
+	"affiliation": "Carleton University"
    },
    {
-    "name": "Robert J. Teather"
+    "name": "Robert J. Teather",
+	"affiliation": "Carleton University"
    }
   ],
   "award": false,
@@ -202,25 +240,32 @@ entities={
   "abstract": "Stylo-Handifact is a novel spatial user interface consisting of a haptic device (i.e., Stylo) attached to the forearm and a visualization of a virtual hand (i.e., Handifact), which in combination provide visuo-haptic feedback for posture training applications. In this paper we evaluate the mutual effects of Handifact and Stylo on visuo-haptic sensations in a psychophysical experiment. The results show that a visual stimulus can modulate the perceived strength of a haptic stimulus by more than 5%. A wrist docking task indicates that Stylo-Handifact results in improved task completion time as compared to a state-of-the-art technique.",
   "authors": [
    {
-    "name": "Nicholas Katzakis"
+    "name": "Nicholas Katzakis",
+	"affiliation": "Universität Hamburg"
    },
    {
-    "name": "Jonathan Tong"
+    "name": "Jonathan Tong",
+	"affiliation": "Universität Hamburg"
    },
    {
-    "name": "Oscar Javier Ariza Nunez"
+    "name": "Oscar Javier Ariza Nunez",
+	"affiliation": "Universität Hamburg"
    },
    {
-    "name": "Lihan Chen"
+    "name": "Lihan Chen",
+	"affiliation": "Peking University"
    },
    {
-    "name": "Gudrun Klinker"
+    "name": "Gudrun Klinker",
+	"affiliation": "Technical University of Munich"
    },
    {
-    "name": "Brigitte Roeder"
+    "name": "Brigitte Roeder",
+	"affiliation": "Universität Hamburg"
    },
    {
-    "name": "Frank Steinicke"
+    "name": "Frank Steinicke",
+	"affiliation": "Universität Hamburg"
    }
   ],
   "award": false,
@@ -233,28 +278,36 @@ entities={
   "abstract": "Context-aware pervasive applications can improve user experiences by tracking people in their surroundings.\nSuch systems use multiple sensors to gather information regarding people and devices.\nHowever, when developing novel user experiences, researchers are left to building foundation code to support multiple network-connected sensors, a major hurdle to rapidly developing and testing new ideas.\n\nWe introduce Creepy Tracker, an open-source toolkit to ease prototyping with multiple commodity depth cameras.\nIt automatically selects the best sensor to follow each person, handling occlusions and maximizing interaction space, while providing full-body tracking in scalable and extensible manners. \nIt also keeps position and orientation of stationary interactive surfaces while offering continuously updated point-cloud user representations combining both depth and color data.\n\nOur performance evaluation shows that, although slightly less precise than marker-based optical systems, Creepy Tracker provides reliable multi-joint tracking without any wearable markers or special devices.\nFurthermore, implemented representative scenarios show that Creepy Tracker is well suited for deploying spatial and context-aware interactive experiences.",
   "authors": [
    {
-    "name": "Maurício Sousa"
+    "name": "Maurício Sousa",
+	"affiliation": "INESC-ID Lisboa/Universidade de Lisboa"
    },
    {
-    "name": "Daniel Mendes"
+    "name": "Daniel Mendes",
+	"affiliation": "INESC-ID Lisboa/Universidade de Lisboa"
    },
    {
-    "name": "Rafael Kuffner dos Anjos"
+    "name": "Rafael Kuffner dos Anjos",
+	"affiliation": "INESC-ID Lisboa/Universidade de Lisboa"
    },
    {
-    "name": "Daniel Medeiros"
+    "name": "Daniel Medeiros",
+	"affiliation": "INESC-ID Lisboa/Universidade de Lisboa"
    },
    {
-    "name": "Alfredo Ferreira"
+    "name": "Alfredo Ferreira",
+	"affiliation": "INESC-ID Lisboa/Universidade de Lisboa"
    },
    {
-    "name": "Alberto Raposo"
+    "name": "Alberto Raposo",
+	"affiliation": "PUC-Rio"
    },
    {
-    "name": "João Madeiras Pereira"
+    "name": "João Madeiras Pereira",
+	"affiliation": "INESC-ID Lisboa/Universidade de Lisboa"
    },
    {
-    "name": "Joaquim Jorge"
+    "name": "Joaquim Jorge",
+	"affiliation": "INESC-ID Lisboa/Universidade de Lisboa"
    }
   ],
   "award": false,
@@ -267,13 +320,16 @@ entities={
   "abstract": "New interaction techniques, like multi-touch, tangible inter-action, and mid-air gestures often promise to be more intuitive and natural; however, there is little work on how to measure these constructs. One way is to leverage the phenomenon of tool embodiment—when a tool becomes an extension of one’s body, attention shifts to the task at hand, rather than the tool itself. In this work, we construct-ed a framework to measure tool embodiment by incorporating philosophical and psychological concepts. We applied this framework to design and conduct a study that uses attention to measure readiness-to-hand with both a physical tool and a virtual tool. We introduce a novel task where participants use a tool to rotate an object, while simultaneously responding to visual stimuli both near their hand and near the task. Our results showed that participants paid more attention to the task than to both kinds of tool. We also discuss how this evaluation framework can be used to investigate whether novel interaction techniques allow for this kind of tool embodiment.",
   "authors": [
    {
-    "name": "Ayman Alzayat"
+    "name": "Ayman Alzayat",
+	"affiliation": "University of Waterloo"
    },
    {
-    "name": "Mark Hancock"
+    "name": "Mark Hancock",
+	"affiliation": "University of Waterloo"
    },
    {
-    "name": "Miguel Nacenta"
+    "name": "Miguel Nacenta",
+	"affiliation": "University of St Andrews"
    }
   ],
   "award": false,
@@ -286,13 +342,16 @@ entities={
   "abstract": "This paper describes the design and implementation of BatSim, a tangible user interface for playful discovery of different methods of creating batteries. BatSim combines tangible interactions with augmented reality in an interactive workbench to support museum visitors in physically performing the different steps of the procedures and viewing the consequences on embedded screens. In this paper we describe the rationale of our design solution as well as how it could be realized in three iterations, progressively focusing on 1) the spatial setting, 2) the model and interactions and 3) the form and feedback. Based on our gained insights, we discuss the importance of combining multiple prototyping methods to take into account the different facets of tangible interaction design.",
   "authors": [
    {
-    "name": "Valerie Maquil"
+    "name": "Valerie Maquil",
+	"affiliation": "LIST"
    },
    {
-    "name": "Christian Moll"
+    "name": "Christian Moll",
+	"affiliation": "LIST"
    },
    {
-    "name": "João Martins"
+    "name": "João Martins",
+	"affiliation": "Tudor Museum"
    }
   ],
   "award": false,
@@ -305,13 +364,16 @@ entities={
   "abstract": "Modern smartphones, like iPhone 7, feature touchscreens with co-located force sensing. This makes touch input more expressive, e.g., by enabling single-finger continuous zooming when coupling zoom levels to force intensity. Often, however, the user wants to select and confirm a particular force value, say, to lock a certain zoom level. The most common confirmation techniques are Dwell Time (DT) and Quick Release (QR). While DT has shown to be reliable, it slows the interaction, as the user must typically wait for 1 s before her selection is confirmed. Conversely, QR is fast but reported to be less reliable, although no reference reports how to actually detect and implement it. In this paper, we set out to challenge the low reliability of QR: We collected user data to (1) report how it can be implemented and (2) show that it is as reliable as DT (97.6% vs. 97.2% success). Since QR was also the faster technique and more preferred by users, we recommend it over DT for force confirmation on modern smartphones.",
   "authors": [
    {
-    "name": "Christian Corsten"
+    "name": "Christian Corsten",
+	"affiliation": "RWTH Aachen University"
    },
    {
-    "name": "Simon Voelker"
+    "name": "Simon Voelker",
+	"affiliation": "RWTH Aachen University"
    },
    {
-    "name": "Jan Borchers"
+    "name": "Jan Borchers",
+	"affiliation": "RWTH Aachen University"
    }
   ],
   "award": false,
@@ -324,13 +386,16 @@ entities={
   "abstract": "MeetAlive combines multiple depth cameras and projectors to create a room-scale omni-directional display surface designed to support collaborative face-to-face group meetings. With MeetAlive, all participants may simultaneously display and share content from their personal laptop wirelessly anywhere in the room. MeetAlive gives each participant complete control over displayed content in the room. This is achieved by a perspective corrected mouse cursor that transcends the boundary of the laptop screen to position, resize, and edit their own and others’ shared content. MeetAlive includes features to replicate content views to ensure that all participants may see the actions of other participants even as they are seated around a conference table. We report on observing six groups of three participants who worked on a collaborative task with minimal assistance. Participants’ feedback highlighted the value of MeetAlive features for multi-user engagement in meetings involving brainstorming and content creation.",
   "authors": [
    {
-    "name": "Andreas Rene Fender"
+    "name": "Andreas Rene Fender",
+	"affiliation": "Aarhus University"
    },
    {
-    "name": "Hrvoje Benko"
+    "name": "Hrvoje Benko",
+	"affiliation": "Microsoft Research"
    },
    {
-    "name": "Andy Wilson"
+    "name": "Andy Wilson",
+	"affiliation": "Microsoft Research"
    }
   ],
   "award": false,
@@ -343,10 +408,12 @@ entities={
   "abstract": "Public interactive displays with gesture-recognizing cameras enable new forms of interactions. However, often such systems do not yet allow passers-by a choice to engage voluntarily or disengage from an interaction. To address this issue, this paper explores how people could use different kinds of gestures or voice commands to explicitly opt-in or opt-out of interactions with public installations. We report the results of a gesture elicitation study with 16 participants, generating gestures within five gesture-types for both a commercial and entertainment scenario. We present a categorization and themes of the 430 proposed gestures, and agreement scores showing higher consensus for torso gestures and for opting-out with face/head. Furthermore, patterns indicate that participants often chose non-verbal representations of opposing pairs such as ‘close and open’ when proposing gestures. Quantitative results showed overall preference for hand and arm gestures, and generally a higher acceptance for gestural interaction in the entertainment setting.\n",
   "authors": [
    {
-    "name": "Isabel Benavente"
+    "name": "Isabel Benavente",
+	"affiliation": "University College London"
    },
    {
-    "name": "Nicolai Marquardt"
+    "name": "Nicolai Marquardt",
+	"affiliation": "University College London"
    }
   ],
   "award": false,
@@ -359,16 +426,20 @@ entities={
   "abstract": "Rock climbing involves complex movements and therefore requires guidance when acquiring a new technique. \nThe classic approach is mimicking the movements of a more experienced climber.\nHowever, the trainee has to remember every nuance of the climb, since the sequence of movements cannot be performed in parallel to the experienced climber. \nAs a solution to this problem, we present a video recording and replay system for climbing. \nThe replay component allows for different in-situ video feedback methods.\nWe investigated the video feedback component of the system by studying two example visualization techniques, i.e. a life-sized in-place projection and a real-time third-person view of the climber,  augmented by a video showing a successful ascent. \nThe latter is presented to the user on both Google Glass and a projected display. \nThe results indicate that a life-sized projection was perceived as easiest to follow, while most of the climbers had problems with the context switches between the augmented video and the climbing wall. \nThese findings can aid in the design of assistance systems that teach complex movements.\n",
   "authors": [
    {
-    "name": "Felix Kosmalla"
+    "name": "Felix Kosmalla",
+	"affiliation": "German Research Center for Artificial Intelligence"
    },
    {
-    "name": "Florian Daiber"
+    "name": "Florian Daiber",
+	"affiliation": "DFKI, Saarland Informatics Campus"
    },
    {
-    "name": "Frederik Wiehr"
+    "name": "Frederik Wiehr",
+	"affiliation": "German Research Center for Artificial Intelligence"
    },
    {
-    "name": "Antonio Krüger"
+    "name": "Antonio Krüger",
+	"affiliation": "German Research Center for Artificial Intelligence"
    }
   ],
   "award": false,
@@ -381,19 +452,24 @@ entities={
   "abstract": "Current freehand interactions with large displays rely on point \u0026 select as the dominant paradigm. However, constant hand movement in air for pointer navigation leads to hand fatigue quickly. We introduce summon \u0026 select, a new model for freehand interaction where, instead of navigating to the control, the user summons it into focus and then manipulates it. Summon \u0026 select solves the problems of constant pointer navigation, need for precise selection, and out-of-bounds gestures that plague point \u0026 select. We describe the design and conduct two studies to evaluate the design and compare it against point \u0026 select in a multi-button selection study. The results show that summon \u0026 select is significantly faster and has less physical and mental demand than point \u0026 select.",
   "authors": [
    {
-    "name": "Aakar Gupta"
+    "name": "Aakar Gupta",
+	"affiliation": "University of Toronto"
    },
    {
-    "name": "Thomas Pietrzak"
+    "name": "Thomas Pietrzak",
+	"affiliation": "University of Lille 1"
    },
    {
-    "name": "Cleon Yau"
+    "name": "Cleon Yau",
+	"affiliation": "Inria"
    },
    {
-    "name": "Nicolas Roussel"
+    "name": "Nicolas Roussel",
+	"affiliation": "Inria"
    },
    {
-    "name": "Ravin Balakrishnan"
+    "name": "Ravin Balakrishnan",
+	"affiliation": "University of Toronto"
    }
   ],
   "award": false,
@@ -406,13 +482,16 @@ entities={
   "abstract": "When designing olfactory interfaces, HCI researchers and practitioners have to carefully consider a number of issues related to the scent delivery, detection, and lingering. These are just a few of the problems to deal with. We present OSpace - an approach for designing, building, and exploring an olfactory interaction space. Our paper is the first to explore in detail not only the scent-delivery parameters but also the air extraction issues. We conducted a user study to demonstrate how the scent detection/lingering times can be acquired under different air extraction conditions, and how the impact of scent type, dilution, and intensity can be investigated. Results show that with our setup, the scents can be perceived by the user within ten seconds and it takes less than nine seconds for the scents to disappear, both when the extraction is on and off. We discuss the practical application of these results for HCI.",
   "authors": [
    {
-    "name": "Dmitrijs Dmitrenko"
+    "name": "Dmitrijs Dmitrenko",
+	"affiliation": "University of Sussex"
    },
    {
-    "name": "Emanuela Maggioni"
+    "name": "Emanuela Maggioni",
+	"affiliation": "University of Sussex"
    },
    {
-    "name": "Marianna Obrist"
+    "name": "Marianna Obrist",
+	"affiliation": "University of Sussex"
    }
   ],
   "award": false,
@@ -425,13 +504,16 @@ entities={
   "abstract": "Continuous developments in the field of Human Computer Interaction (HCI) are resulting in an omnipresence of digital technologies in our everyday lives, which is also visible in the presence of supportive technologies in education. These technologies, e.g. tablets and computers, usually require focused attention to be operated, which hinders teachers from appropriating them while teaching. Peripheral interactive systems, which do not require focused attention, could play a role in relieving teachers’ cognitive load, such that mental resources are freed to focus on other teaching tasks. This paper presents an exploratory study on enabling such cognitive offloading through peripheral interaction in the classroom. We present the design and a seven-week field deployment of FireFlies2 interactive tangible pixels which are distributed over the classroom. Our findings show that FireFlies2 supported cognitive processes of teachers and pupils in a number of scenarios.",
   "authors": [
    {
-    "name": "David Verweij"
+    "name": "David Verweij",
+	"affiliation": "Eindhoven University of Technology"
    },
    {
-    "name": "Saskia Bakker"
+    "name": "Saskia Bakker",
+	"affiliation": "Eindhoven University of Technology"
    },
    {
-    "name": "Berry Eggen"
+    "name": "Berry Eggen",
+	"affiliation": "Eindhoven University of Technology"
    }
   ],
   "award": false,
@@ -444,25 +526,32 @@ entities={
   "abstract": "We present two realizations of TastyFloats, a novel system that uses acoustic levitation to deliver food morsels to the users’ tongue. To explore TastyFloats’ associated design framework, we first address the technical challenges to successfully levitate and deliver different types of foods on the tongue. We then conduct a user study, assessing the effect of acoustic levitation on users’ taste perception, comparing three basic taste stimuli (i.e., sweet, bitter and umami) and three volume sizes of droplets (5µL, 10µL and 20µL). Our results show that users perceive sweet and umami easily, even in minimal quantities, whereas bitter is the least detectable taste, despite its typical association with an unpleasant taste experience. Our results are a first step towards the creation of new culinary experiences and innovative gustatory interfaces.",
   "authors": [
    {
-    "name": "Chi Thanh Vi"
+    "name": "Chi Thanh Vi",
+	"affiliation": "University of Sussex"
    },
    {
-    "name": "Asier Marzo"
+    "name": "Asier Marzo",
+	"affiliation": "University of Bristol"
    },
    {
-    "name": "Damien Ablart"
+    "name": "Damien Ablart",
+	"affiliation": "University of Sussex"
    },
    {
-    "name": "Gianluca Memoli"
+    "name": "Gianluca Memoli",
+	"affiliation": "University of Sussex"
    },
    {
-    "name": "Sriram Subramanian"
+    "name": "Sriram Subramanian",
+	"affiliation": "University of Sussex"
    },
    {
-    "name": "Bruce Drinkwater"
+    "name": "Bruce Drinkwater",
+	"affiliation": "University of Bristol"
    },
    {
-    "name": "Marianna Obrist"
+    "name": "Marianna Obrist",
+	"affiliation": "University of Sussex"
    }
   ],
   "award": false,
@@ -475,10 +564,12 @@ entities={
   "abstract": "Six degrees of freedom docking is one of the most fundamental tasks when interacting with 3D virtual worlds. We investigated docking performances with isomorphic interactions that directly relate the 6-dof pose of the input device to that of the object controlled. In particular, we studied a Handheld Perspective-Coupled Display (HPCD); which is a novel form of interactive system where the display itself is handheld and used as the input device. It was compared to an opaque HMD and to a standard indirect flat display used with either a sphere or an articulated arm as the input device. A novel computation of an Index of Difficulty was introduced to measure the efficiency of each interaction. We observed superior performances with the HPCD compared with the other interactions by a large margin (17% better than the closest interaction).",
   "authors": [
    {
-    "name": "Thibault Louis"
+    "name": "Thibault Louis",
+	"affiliation": "Univ. Grenoble Alpes, CNRS, Grenoble INP, LIG"
    },
    {
-    "name": "François Bérard"
+    "name": "François Bérard",
+	"affiliation": "University of Grenoble Alpes"
    }
   ],
   "award": false,
@@ -491,16 +582,20 @@ entities={
   "abstract": "Three-dimensional visualizations employing traditional input and output technologies have well-known limitations.\nImmersive technologies, natural interaction techniques, and recent developments in data physicalization may help to overcome these issues.\nIn this context, we are specifically interested in the usage of spatial interaction with mobile devices for improved 3D visualizations.\nTo contribute to a better understanding of this interaction style, we implemented example visualizations on a spatially-tracked tablet and investigated their usage and potential.\nIn this paper, we report on a qualitative study comparing spatial interaction with in-place 3D visualizations to classic touch interaction regarding typical visualization tasks: navigation of unknown datasets, comparison of individual data objects, and the understanding and memorization of structures in the data.\nWe identify several distinct usage patterns and derive recommendations for using spatial interaction in 3D data visualization.",
   "authors": [
    {
-    "name": "Wolfgang Büschel"
+    "name": "Wolfgang Büschel",
+	"affiliation": "TU Dresden"
    },
    {
-    "name": "Patrick Reipschläger"
+    "name": "Patrick Reipschläger",
+	"affiliation": "TU Dresden"
    },
    {
-    "name": "Ricardo Langner"
+    "name": "Ricardo Langner",
+	"affiliation": "TU Dresden"
    },
    {
-    "name": "Raimund Dachselt"
+    "name": "Raimund Dachselt",
+	"affiliation": "TU Dresden"
    }
   ],
   "award": false,
@@ -513,13 +608,16 @@ entities={
   "abstract": "Tabletop interaction can be enriched by considering whole hands as input instead of only fingertips. We describe a generalised, reproducible computer vision algorithm to recognise hand contact shapes, with support for arm rejection, as well as dynamic properties like finger movement and hover. A controlled experiment shows the algorithm can detect seven different contact shapes with roughly 91% average accuracy. The effect of long sleeves and non-user specific templates is also explored. The algorithm is used to trigger, parameterise, and dynamically control menu and tool widgets, and the usability of a subset of these are qualitatively evaluated in a realistic application. Based on our findings, we formulate a number of design recommendations for hand shape-based interaction.",
   "authors": [
    {
-    "name": "Fabrice Matulic"
+    "name": "Fabrice Matulic",
+	"affiliation": "University of Waterloo/TU Dresden"
    },
    {
-    "name": "Daniel Vogel"
+    "name": "Daniel Vogel",
+	"affiliation": "University of Waterloo"
    },
    {
-    "name": "Raimund Dachselt"
+    "name": "Raimund Dachselt",
+	"affiliation": "TU Dresden"
    }
   ],
   "award": false,
@@ -532,10 +630,12 @@ entities={
   "abstract": "Around-device interaction techniques aim at extending the input space using various sensing modalities on mobile and wearable devices. In this paper, we present our work towards extending the input area of mobile devices using front-facing device-centered cameras that capture reflections in the human eye. As current generation mobile devices lack high resolution front-facing cameras we study the feasibility of around-device interaction using corneal reflective imaging based on a high resolution camera. We present a workflow, a technical prototype and an evaluation, including a migration path from high resolution to low resolution imagers. Our study indicates, that under optimal conditions a spatial sensing resolution of 5 cm in the vicinity of a mobile phone is possible.",
   "authors": [
    {
-    "name": "Daniel Schneider"
+    "name": "Daniel Schneider",
+	"affiliation": "Coburg University"
    },
    {
-    "name": "Jens Grubert"
+    "name": "Jens Grubert",
+	"affiliation": "Coburg University"
    }
   ],
   "award": false,
@@ -548,19 +648,24 @@ entities={
   "abstract": "Ubiquitous computing strives to reach the calm computing state where sensors and actuators disappear from the foreground of our surroundings into the fabric of everyday objects.\n\nDespite the great progress in embedded technology, artificial interfaces, such as remote controls and touch screens, remain the dominant media for interacting with smart everyday objects. Motivated by recent advancements in smart textile technologies, we investigate the usability and acceptance of fabric-based controllers in the smart home environment.\n\nIn this article we describe the development and evaluation of three textile interfaces for controlling a motorized recliner armchair in a living room setting.\nThe core of this contribution is the empirical study with twenty participants that contrasted the user experience of three textile-based interaction techniques to a standard remote control.\n\nDespite the slightly lower reliability of the textile interfaces, their overall acceptance was higher.\n\nThe study shows that the hedonic quality and attractiveness of textile interfaces have higher impact on user acceptance compared to pragmatic qualities, such as efficiency, fluidity of interaction, and reliability.\nAttractiveness profits from the direct and nearly invisible integration of the interaction device into textile objects such as furniture.\n",
   "authors": [
    {
-	"name": "Philipp Brauner"
+	"name": "Philipp Brauner",
+	"affiliation": "RWTH Aachen University"
    },
    {
-    "name": "Julia van Heek"
+    "name": "Julia van Heek",
+	"affiliation": "RWTH Aachen University"
    },
    {
-    "name": "Nur Al-huda Hamdan"
+    "name": "Nur Al-huda Hamdan",
+	"affiliation": "RWTH Aachen University"
    },
    {
-    "name": "Jan Borchers"
+    "name": "Jan Borchers",
+	"affiliation": "RWTH Aachen University"
    },
    {
-    "name": "Martina Ziefle"
+    "name": "Martina Ziefle",
+	"affiliation": "RWTH Aachen University"
    }
   ],
   "award": false,
@@ -573,13 +678,16 @@ entities={
   "abstract": "In this paper, we investigate how effectively users\u0027 representations convey interactivity and foster interaction on large information touch displays. This research is motivated by the fact that user representations have been shown to be very efficient in playful applications that support mid-air interaction. At the same time, little is known about the effects of applying this approach to settings with a different primary mode of interaction, e.g. touch. It is also unclear how the playfulness of user representations influences the interest of users in the displayed information. To close this gap, we combine a touch display with screens showing life-sized video representations of passers-by. In a deployment, we compare different spatial arrangements to understand how passers-by are emph{attracted} and emph{enticed} to interact, how they emph{explore} the application, and how they emph{socially behave}. Findings reveal that (a) opposing displays foster interaction, but (b) may also reduce interaction at the main display; (c) a large intersection between focus and nimbus helps to notice interactivity; (d) using playful elements at information displays is not counterproductive; (e) mixed interaction modalities are hard to understand.",
   "authors": [
    {
-    "name": "Eva Lösch"
+    "name": "Eva Lösch",
+	"affiliation": "UniBw München"
    },
    {
-    "name": "Florian Alt"
+    "name": "Florian Alt",
+	"affiliation": "LMU Munich"
    },
    {
-    "name": "Michael Koch"
+    "name": "Michael Koch",
+	"affiliation": "UniBw München"
    }
   ],
   "award": false,
@@ -592,13 +700,16 @@ entities={
   "abstract": "In the last years, touchscreens became the most common input device for a wide range of computers. While touchscreens are truly pervasive, commercial devices reduce the richness of touch input to two-dimensional positions on the screen. Recent work proposed interaction techniques to extend the richness of the input vocabulary using the finger orientation. Approaches for determining a finger\u0027s orientation using off-the-shelf capacitive touchscreens proposed in previous work already enable compelling use cases. However, the low estimation accuracy limits the usability and restricts the usage of finger orientation to non-precise input. With this paper, we provide a ground truth data set for capacitive touch screens recorded with a high-precision motion capture system. Using this data set, we show that a convolutional neural network can outperform approaches proposed in previous work. Instead of relying on hand-crafted features, we trained the model based on the raw capacitive images. Thereby we reduce the pitch error by 9.8% and the yaw error by 45.7%. ",
   "authors": [
    {
-    "name": "Sven Mayer"
+    "name": "Sven Mayer",
+	"affiliation": "University of Stuttgart"
    },
    {
-    "name": "Huy Viet Le"
+    "name": "Huy Viet Le",
+	"affiliation": "University of Stuttgart"
    },
    {
-    "name": "Niels Henze"
+    "name": "Niels Henze",
+	"affiliation": "University of Stuttgart"
    }
   ],
   "award": false,
@@ -611,10 +722,12 @@ entities={
   "abstract": "The main objective of this research work is to create a desktop VR environment which enables users to interact naturally with virtual objects positioned both in front and behind the screen. We propose a mirror metaphor that simulates a physical stereoscopic screen with the properties of a mirror. In addition to allowing users to interact with virtual objects positioned in front of the stereoscopic screen using their virtual hands, the virtual hands can be transferred inside the virtual mirror to interact with objects behind the screen. When the virtual hands are operating inside the virtual mirror, they are transformed like the reflection in a real mirror.  This effectively doubles the interactable space and creates an interactive space that could facilitate collaborative tasks.  Our user study shows that users could interact through the mirror approach as effectively as similar interaction techniques, hence demonstrating that the mirror technique is a viable interface in certain VR setups.",
   "authors": [
    {
-    "name": "Santawat Thanyadit"
+    "name": "Santawat Thanyadit",
+	"affiliation": "Hong Kong University of Science and Technology"
    },
    {
-    "name": "Ting-Chuen Pong"
+    "name": "Ting-Chuen Pong",
+	"affiliation": "Hong Kong University of Science and Technology"
    }
   ],
   "award": false,
@@ -627,31 +740,40 @@ entities={
   "abstract": "In this paper, we present a method which allows for the dynamic 2D transformation of liquid matter and present unique organic animations based on spatio-temporally controlled electric fields.  We deploy an EGaIn (Gallium indium eutectic alloy) liquid metal which features electric conductivity and high dynamic range of surface tension when supplied with varying voltage. Controlling multiple arrays of electrodes dynamically, we found it is possible to manipulate a liquid metal into a fine-grained desired shape. To demonstrate our proof-of-concept, we present a 7x7 electrode array prototype system with an integrated liquid metal tracking system and a simple GUI.Taking advantage of the high conductivity of liquid metal, we introduce shape changing, reconfigurable smart circuit as an example of unique applications. We discuss the systems constraints and the overarching challenges of controlling liquid metal, such as splitting, self-electrode interference and finger instability problems. Finally, we reflect on the broader vision of this project and discuss our work in the context of the wider scope of programmable materials.",
   "authors": [
    {
-    "name": "Yutaka Tokuda"
+    "name": "Yutaka Tokuda",
+	"affiliation": "University of Sussex"
    },
    {
-    "name": "Jose Luis Berna Moya"
+    "name": "Jose Luis Berna Moya",
+	"affiliation": "University of Sussex"
    },
    {
-    "name": " Gianluca Memoli"
+    "name": " Gianluca Memoli",
+	"affiliation": "University of Sussex"
    },
    {
-    "name": "Timothy Neate"
+    "name": "Timothy Neate",
+	"affiliation": "Swansea University"
    },
    {
-    "name": "Deepak Ranjan Sahoo"
+    "name": "Deepak Ranjan Sahoo",
+	"affiliation": "Swansea University"
    },
    {
-    "name": "Simon Robinson"
+    "name": "Simon Robinson",
+	"affiliation": "Swansea University"
    },
    {
-    "name": "Jennifer Pearson"
+    "name": "Jennifer Pearson",
+	"affiliation": "Swansea University"
    },
    {
-    "name": "Matt Jones"
+    "name": "Matt Jones",
+	"affiliation": "Swansea University"
    },
    {
-    "name": "Sriram Subramanian"
+    "name": "Sriram Subramanian",
+	"affiliation": "University of Sussex"
    }
   ],
   "award": false,
@@ -664,10 +786,12 @@ entities={
   "abstract": "ThermoTouch is a new type of thermo-haptic display device. It provides a visual display with a grid of thermal pixels that can provide hot or cold haptic feedback. Unlike previous devices, our proposed design uses liquid cooling and resistive heating to output thermal feedback. We describe the hardware and software design of ThermoTouch. Technical measurements on our prototype indicate that ThermoTouch has thermal output properties comparable to Peltier elements, which have been used extensively as thermal transducers in previous works. Our measurements of ThermoTouch\u0027s per-area power consumption and its low hardware cost per thermal pixel indicate that our technology improves scalability to large-scale thermal displays over technologies used in previous systems. As an example application of ThermoTouch, we describe an editing, automatic keyframe generation and playback system for video with an additional thermo-haptic feedback channel. Lastly, we describe technical design considerations for creating large-scale thermal displays using ThermoTouch technology.",
   "authors": [
    {
-    "name": "Sven Kratz"
+    "name": "Sven Kratz",
+	"affiliation": "Harman International"
    },
    {
-    "name": "Tony Dunnigan"
+    "name": "Tony Dunnigan",
+	"affiliation": "FX Palo Alto Laboratory"
    }
   ],
   "award": false,
@@ -680,16 +804,20 @@ entities={
   "abstract": "Small touchscreen interfaces such as a smartwatch have usability problems due to the small screen. One solution to these problems is to utilize the space around the smartwatch as continuous input space for the touchscreen interface. We defined four steps for a gesture that starts on the touchscreen and continues in the air. The goal of this definition was to bring the experience of large touchscreen devices into a smartwatch usage. We compared design options for the four steps and made decisions for the options based on the results of four user experiments. We expect that gestures designed based on these decisions will be both easy to learn and robust.",
   "authors": [
    {
-    "name": "Jaehyun Han"
+    "name": "Jaehyun Han",
+	"affiliation": "KAIST"
    },
    {
-    "name": "Sunggeun Ahn"
+    "name": "Sunggeun Ahn",
+	"affiliation": "KAIST"
    },
    {
-    "name": "Keunwoo Park"
+    "name": "Keunwoo Park",
+	"affiliation": "KAIST"
    },
    {
-    "name": "Geehyuk Lee"
+    "name": "Geehyuk Lee",
+	"affiliation": "KAIST"
    }
   ],
   "award": false,
@@ -702,19 +830,24 @@ entities={
   "abstract": "Despite the proliferation of screens in everyday environments, providing values to remote displays for exploring complex data sets is still challenging. Enhanced input for remote screens can increase their utility and enable the construction of rich datadriven environments. Here, we investigate the opportunities provided by a variable movement resistance slider (VMRS), based on a motorized slide potentiometer. These devices are\noften used in professional soundboards as an effective way to provide discrete input. We designed, built and evaluated a remote input device using a VMRS that facilitates choosing a number on a discrete scale. By comparing our prototype to a traditional slide potentiometer and a software slider, we determined that for conditions where users are not looking at the slider, VMRS can offer significantly better performance and accuracy. Our findings contribute to the understanding of discrete input and enable building new interaction scenarios for large display environments.",
   "authors": [
    {
-    "name": "Lars Lischke"
+    "name": "Lars Lischke",
+	"affiliation": "University of Stuttgart"
    },
    {
-    "name": "Paweł W. Woźniak"
+    "name": "Paweł W. Woźniak",
+	"affiliation": "University of Stuttgart"
    },
    {
-    "name": "Sven Mayer"
+    "name": "Sven Mayer",
+	"affiliation": "University of Stuttgart"
    },
    {
-    "name": "Andreas Preikschat"
+    "name": "Andreas Preikschat",
+	"affiliation": "University of Stuttgart"
    },
    {
-    "name": "Morten Fjeld"
+    "name": "Morten Fjeld",
+	"affiliation": "Chalmers University of Technology"
    }
   ],
   "award": false,
@@ -727,13 +860,16 @@ entities={
   "abstract": "While smart glasses make information more accessible in mobile scenarios, entering text on these devices is still difficult. In this paper, we suggest using a smartwatch as an indirect input device (not requiring visual attention) for smart glasses text entry. With the watch-glasses combination, users do not need to lift the arm to touch the glasses nor need to carry a special external input device. To prove the feasibility of the suggested combination, we implemented two text entry methods: a modified version of SwipeBoard, which we adapted for the suggested combination, and HoldBoard, which we newly designed and implemented specifically for the suggested combination. We evaluated the performances of the two text entry methods through two user studies, and could show that they are faster than prior art for smart glasses text entry in a seated condition. A further study showed that they are competitive with the prior art also in a walking condition.",
   "authors": [
    {
-    "name": "Sunggeun Ahn"
+    "name": "Sunggeun Ahn",
+	"affiliation": "KAIST"
    },
    {
-    "name": "Seongkook Heo"
+    "name": "Seongkook Heo",
+	"affiliation": "KAIST"
    },
    {
-    "name": "Geehyuk Lee"
+    "name": "Geehyuk Lee",
+	"affiliation": "KAIST"
    }
   ],
   "award": false,
@@ -746,7 +882,8 @@ entities={
   "abstract": "We propose a mid-air imaging technique that is visible under sunlight and that passively reacts to light conditions in a bright space. Optical imaging is used to form a mid-air image through the reflection and refraction of a light source. It seamlessly connects a virtual world and the real world by superimposing visual images onto the real world. Previous research introduced light emitting displays as a light source. However, attenuation of the brightness under a strong light environment presents a problem. We designed a mid-air imaging optical system that captures ambient light using a transparent LCD (liquid crystal display) and a diffuser. We built a prototype to confirm our design principles in sunlight and evaluated several diffusers. \nOur contribution is three-fold. First, we confirmed the principle of the mid-air imaging optical system in sunlight. Second, we chose an appropriate diffuser in an evaluation. Third, we proposed a practical design which can remove disturbance light for outdoor use.",
   "authors": [
    {
-    "name": "Naoya KOIZUMI"
+    "name": "Naoya KOIZUMI",
+	"affiliation": "The University of Electro-Communications/JST"
    }
   ],
   "award": false,
@@ -759,16 +896,20 @@ entities={
   "abstract": "Touchscreens are the dominant input mechanism for a variety of devices. One of the main limitations of touchscreens is the latency to receive input, refresh, and respond. This latency is easily perceivable and reduces users\u0027 performance. Previous work proposed to reduce latency by extrapolating finger movements to identify future movements - albeit with limited success. In this paper, we propose PredicTouch, a system that improves this extrapolation using inertial measurement units (IMUs). We combine IMU data with users\u0027 touch trajectories to train a multi-layer feedforward neural network that predicts future trajectories. We found that this hybrid approach (software: prediction, and hardware: IMU) can significantly reduce the prediction error, reducing latency effects. We show that using a wrist-worn IMU increases the throughput by 15% for finger input and 17% for a stylus.",
   "authors": [
    {
-    "name": "Huy Viet Le"
+    "name": "Huy Viet Le",
+	"affiliation": "University of Stuttgart"
    },
    {
-    "name": "Valentin Schwind"
+    "name": "Valentin Schwind",
+	"affiliation": "University of Stuttgart"
    },
    {
-    "name": "Philipp Göttlich"
+    "name": "Philipp Göttlich",
+	"affiliation": "University of Stuttgart"
    },
    {
-    "name": "Niels Henze"
+    "name": "Niels Henze",
+	"affiliation": "University of Stuttgart"
    }
   ],
   "award": false,
@@ -781,22 +922,28 @@ entities={
   "abstract": "CircGR is a multi-touch non-symbolic gesture recognition algorithm, which utilizes circular statistic measures to implement linearithmic (O(n lg n)) template-based matching. CircGR provides a solution to gesture designers, which allows for building complex multi-touch gestures with high-confidence accuracy. We demonstrated the algorithm and described a user study with 60 subjects and over 12,000 gestures collected for an original gesture set of 36. The accuracy is over 99% with the Matthews correlation coefficient of 0.95. In addition, early gesture detection was successful in CircGR as well. ",
   "authors": [
    {
-    "name": "Ruben Balcazar"
+    "name": "Ruben Balcazar",
+	"affiliation": "Florida International University"
    },
    {
-    "name": "Francisco Ortega"
+    "name": "Francisco Ortega",
+	"affiliation": "Florida International University"
    },
    {
-    "name": "Katherine Tarre"
+    "name": "Katherine Tarre",
+	"affiliation": "Florida International University"
    },
    {
-    "name": "Armando Barreto"
+    "name": "Armando Barreto",
+	"affiliation": "Florida International University"
    },
    {
-    "name": "Mark Weiss"
+    "name": "Mark Weiss",
+	"affiliation": "Florida International University"
    },
    {
-    "name": "Naphtali D. Rishe"
+    "name": "Naphtali D. Rishe",
+	"affiliation": "Florida International University"
    }
   ],
   "award": false,
@@ -809,16 +956,20 @@ entities={
   "abstract": "Devices like smartphones, smartwatches, and fitness trackers enable runners to control music, query fitness parameters such as heart rate and speed, or be guided by coaching apps. But while these devices are portable, interacting with them during running is difficult: they usually have small buttons or touchscreens which force the user to slow down to interact with them properly. On-body tapping is an interaction technique that allows users to trigger actions by tapping at different body locations eyes-free. This paper investigates on- body tapping as a potential input technique for runners. We conducted a user study to evaluate where and how accurately runners can tap on their body. We motion-captured participants while tapping locations on their body and running on a treadmill at different speeds. Results show that a uniform layout of five targets per arm and two targets on the abdomen achieved 96% accuracy rate. We present a set of design implications to inform the design of on-body interfaces for runners.",
   "authors": [
    {
-    "name": "Nur Al-huda Hamdan"
+    "name": "Nur Al-huda Hamdan",
+	"affiliation": "RWTH Aachen University"
    },
    {
-    "name": "Ravi Kanth Kosuru"
+    "name": "Ravi Kanth Kosuru",
+	"affiliation": "RWTH Aachen University"
    },
    {
-    "name": "Christian Corsten"
+    "name": "Christian Corsten",
+	"affiliation": "RWTH Aachen University"
    },
    {
-    "name": "Jan Borchers"
+    "name": "Jan Borchers",
+	"affiliation": "RWTH Aachen University"
    }
   ],
   "award": false,
@@ -831,16 +982,20 @@ entities={
   "abstract": "We present RapTapBath: a human-computer interface system that converts an existing bathtub into a controller that recognizes hand-tapped tones and patterns on a bathtub\u0027s edge. This system utilizes embedded piezoelectric sensors in the bathtub\u0027s edge to analyze acoustic signals of tapped sounds, and projects a menu on the tub\u0027s edge using a projector installed above the tub. Tap locations are detected by measuring differences of signal propagation times using the piezoelectric sensors. Tap tones are identified by spectrum patterns using non-negative matrix factorization. Tap patterns are detected via tapping rates, whose probability calculations are measured over a fixed duration. This paper describes the tapping user interface\u0027s (UI) events and their specific detection methods and signal processing techniques. We also present an experimental performance evaluation. We also propose effective applications for spending bath time using this system. Finally, we describe the limitations of current tap UI events and the implications of interaction designs of RapTapBath.",
   "authors": [
    {
-    "name": "Tomoyuki Sumida"
+    "name": "Tomoyuki Sumida",
+	"affiliation": "Kyoto Sangyo University"
    },
    {
-    "name": "Shigeyuki Hirai"
+    "name": "Shigeyuki Hirai",
+	"affiliation": "Kyoto Sangyo University"
    },
    {
-    "name": "Daiki Ito"
+    "name": "Daiki Ito",
+	"affiliation": "Kyoto Sangyo University"
    },
    {
-    "name": "Ryosuke Kawakatsu"
+    "name": "Ryosuke Kawakatsu",
+	"affiliation": "Kyoto Sangyo University"
    }
   ],
   "award": false,
@@ -853,13 +1008,16 @@ entities={
   "abstract": "Bend gestures can be used as a form of Around Device Interaction to address usability issues in touchscreen mobile devices. Yet, it is unclear whether bend gestures can be easily learned and memorized as control schema for games. To answer this, we built a novel deformable smartphone case that detects bend gestures at its corners and sides, and created PaperNinja, a mobile game that uses bends as input. We conducted a study comparing the effect of three pre-game training levels on learnability and memorability: no training, training of the bend gestures only, and training of both the bend gestures and their in-game action mapping. We found that including gesture-mapping positively impacted the initial learning (faster completion time and fewer gestures performed), but had a similar outcome as no training on memorability, while the gestures-without-mapping led to a negative outcome. Our findings suggest that players can learn bend gestures by discovery and training is not essential.",
   "authors": [
    {
-    "name": "Elias Fares"
+    "name": "Elias Fares",
+	"affiliation": "Carleton University"
    },
    {
-    "name": "Victor Cheung"
+    "name": "Victor Cheung",
+	"affiliation": "Carleton University"
    },
    {
-    "name": "Audrey Girouard"
+    "name": "Audrey Girouard",
+	"affiliation": "Carleton University"
    }
   ],
   "award": false,
@@ -872,19 +1030,24 @@ entities={
   "abstract": "Passive haptic proxy objects allow for rich tangible interaction, and this is especially true in VR applications. However, this requires users to have many physical objects at hand. Our paper proposes robotic assembly at run time of low-resolution haptic proxies for tangible interaction and virtual reality. These assembled physical proxy objects are composed of magnetically attached blocks which are assembled by a small multi robot system, specifically Zooids. We explore the design of the basic building blocks and illustrate two approaches to assembling physical proxies: using multi-robot systems to (1) self-assemble into structures and (2) assemble 2.5D structure with passive blocks of various heights. The success rate and completion time are evaluated for both approaches. Finally, we demonstrate the potential of assembled proxy objects for tangible interaction and virtual reality through a set of demonstrations.",
   "authors": [
    {
-    "name": "Yiwei Zhao"
+    "name": "Yiwei Zhao",
+	"affiliation": "Stanford University"
    },
    {
-    "name": "Lawrence H Kim"
+    "name": "Lawrence H Kim",
+	"affiliation": "Stanford University"
    },
    {
-    "name": "Ye Wang"
+    "name": "Ye Wang",
+	"affiliation": "Stanford University"
    },
    {
-    "name": "Mathieu Le Goc"
+    "name": "Mathieu Le Goc",
+	"affiliation": "Stanford University"
    },
    {
-    "name": "Sean Follmer"
+    "name": "Sean Follmer",
+	"affiliation": "Stanford University"
    }
   ],
   "award": false,
@@ -894,10 +1057,11 @@ entities={
   "type": "Paper"
 },
  "p1165":{
-  "abstract": "A lossless image compression technique for 16-bit single channel images typical of depth cameras such as Microsoft Kinect is presented. The proposed “RVL�? algorithm achieves similar or better compression rates as existing lossless techniques, yet is much faster. Furthermore, the algorithm’s implementation can be very simple; a prototype implementation of less than one hundred lines of C is provided. The algorithm’s balance of speed and compression make it especially useful in interactive applications of multiple depth cameras on local area networks. RVL is compared to a variety of existing lossless techniques, and demonstrated in a network of eight Kinect v2 cameras.",
+  "abstract": "A lossless image compression technique for 16-bit single channel images typical of depth cameras such as Microsoft Kinect is presented. The proposed \“RVL\" algorithm achieves similar or better compression rates as existing lossless techniques, yet is much faster. Furthermore, the algorithm’s implementation can be very simple; a prototype implementation of less than one hundred lines of C is provided. The algorithm’s balance of speed and compression make it especially useful in interactive applications of multiple depth cameras on local area networks. RVL is compared to a variety of existing lossless techniques, and demonstrated in a network of eight Kinect v2 cameras.",
   "authors": [
    {
-    "name": "Andy Wilson"
+    "name": "Andy Wilson",
+	"affiliation": "Microsoft Research"
    }
   ],
   "award": false,
@@ -910,16 +1074,20 @@ entities={
   "abstract": "Exhibiting and presenting real facilities, machines or related software products to visitors at trade fairs can be very challenging due to space constraints, installation costs or explaining complex data processing. Addressing these challenges, we introduce HoloFacility, Augmented Reality (AR) applications for Microsoft HoloLens. They offer an immersive and interactive experience by using in-air gestures. Visitors become able to explore hidden information and functionality, which otherwise would remain invisible. Thus, HoloFacility supports understanding underlying software systems. \nIt also allows visitors to control certain features of real and virtual facilities. We implemented three use cases with different levels of augmentation and connected them to manufacturing execution and facility management systems: HoloCoffee, HoloMachines and HoloRobot. With demonstrations at trade fairs, we received positive feedback on UX aspects of HoloFacility and first impressions on using HoloLens as explanation support.\n",
   "authors": [
    {
-    "name": "Mandy Korzetz"
+    "name": "Mandy Korzetz",
+	"affiliation": "Software Technology Group"
    },
    {
-    "name": "Romina Kühn"
+    "name": "Romina Kühn",
+	"affiliation": "Software Technology Group"
    },
    {
-    "name": "Maria Gohlke"
+    "name": "Maria Gohlke",
+	"affiliation": "Software Technology Group"
    },
    {
-    "name": "Uwe Aßmann"
+    "name": "Uwe Aßmann",
+	"affiliation": "Software Technology Group"
    }
   ],
   "award": false,
@@ -932,19 +1100,24 @@ entities={
   "abstract": "This work is observing the impacts/influence of different mapping functions between the user\u0027s flick gesture and the animation of the flicked object. The flick gesture, in which the user quickly swipes a finger across the screen and lifts the finger without slowing down, is a popular interaction technique on multitouch displays, e.g. for navigating on digital maps. While flick operations are well established on small mobile touch screens, the exact implementation of this technique on large multitouch tabletops needs to be adjusted to several parameters, especially flick velocity and inertia duration.\n\nWe performed a preliminary experiment to explore the users\u0027 flick behavior on large multitouch tabletops with focus on the time until the motion of a flicked object stops.\nThe results indicate that participants interact very diverse when using flick gestures on large multitouch screens.",
   "authors": [
    {
-    "name": "Manuela Uhr"
+    "name": "Manuela Uhr",
+	"affiliation": "Universität Hamburg"
    },
    {
-    "name": "Joachim Nitschke"
+    "name": "Joachim Nitschke",
+	"affiliation": "Universität Hamburg"
    },
    {
-    "name": "Jingxin Zhang"
+    "name": "Jingxin Zhang",
+	"affiliation": "Universität Hamburg"
    },
    {
-    "name": "Paul Lubos"
+    "name": "Paul Lubos",
+	"affiliation": "Universität Hamburg"
    },
    {
-    "name": "Frank Steinicke"
+    "name": "Frank Steinicke",
+	"affiliation": "Universität Hamburg"
    }
   ],
   "award": false,
@@ -957,10 +1130,12 @@ entities={
   "abstract": "In this work, we have explored an approach based on the hybridisation of physical and digital content for mind-mapping activities at schools. \nBased on the literature in the fields of cognitive science and HCI, we have designed a mixed-reality (MR) interface called Reality-Map. \nWe conducted a pilot study with 11 participants suggesting that learning and manipulating information about the brain and their cognitive functions could be improved by the use of such a MR interface compared to a traditional WIMP interface.",
   "authors": [
    {
-    "name": "Philippe Giraudeau"
+    "name": "Philippe Giraudeau",
+	"affiliation": "UNIVERSITÉ DE BORDEAUX"
    },
    {
-    "name": "Martin HACHET"
+    "name": "Martin HACHET",
+	"affiliation": "Inria"
    }
   ],
   "award": false,
@@ -973,13 +1148,16 @@ entities={
   "abstract": "We present a user study of the mock-up for a learning environment on electro-mobility, based on tracking of physical interactions and projected augmentation. We discuss observations and interviews with participants that were led through a task scenario. Our insights highlight user needs in an educational context. There is generally high acceptance for augmented reality in experimentation environments. On the other hand, there are some essential points regarding user guidance and system concept critical for practical experimental education in schools and universities. We describe the most important areas of decisions for further development. Frequently, these concern questions about degrees of freedom - on the part of users as well as system.",
   "authors": [
    {
-    "name": "Susanne Karsten"
+    "name": "Susanne Karsten",
+	"affiliation": "Bauhaus-Universität Weimar"
    },
    {
-    "name": "Daniel Jörg"
+    "name": "Daniel Jörg",
+	"affiliation": "Bauhaus-Universität Weimar"
    },
    {
-    "name": "Eva Hornecker"
+    "name": "Eva Hornecker",
+	"affiliation": "Bauhaus-Universität Weimar"
    }
   ],
   "award": false,
@@ -992,16 +1170,20 @@ entities={
   "abstract": "Despite the increasing popularity of Virtual Reality (VR) technology, the designers of these type of environments stick lack the necessary support for designing effective and usable interfaces for their creations. This works aim to provide support to VR designers by comparing the efficiency (task completion time and error rate) and usability of four types of menu configurations with different geometry (radial and linear) and position in the world (non-diegetic positions and spatial positions). We present the results of two experiments that suggest that in both non-diegetic and spatial menus the task completion time is smaller on radial menus than linear menus. In the case of error rate and usability, no statistic significant differences between radial and linear menus were found regardless their position in the VR environment.\n",
   "authors": [
    {
-    "name": "Andrés J. Santos"
+    "name": "Andrés J. Santos",
+	"affiliation": "University Carlos III of Madrid"
    },
    {
-    "name": "Telmo Zarraonandia"
+    "name": "Telmo Zarraonandia",
+	"affiliation": "University Carlos III of Madrid"
    },
    {
-    "name": "Paloma Diaz"
+    "name": "Paloma Diaz",
+	"affiliation": "University Carlos III of Madrid"
    },
    {
-    "name": "Ignacio Aedo"
+    "name": "Ignacio Aedo",
+	"affiliation": "University Carlos III of Madrid"
    }
   ],
   "award": false,
@@ -1014,13 +1196,16 @@ entities={
   "abstract": "The Microsoft HoloLens keeps track of its location and rotation relative to the environment but lacks the ability to capture eye gaze data. We assess a novel method to extend the HoloLens with a head mounted eye-tracker. Using a combination of eye gaze data and head rotation we compared gaze behavior between real and virtual objects. Results indicate that eye-tracking plays an important role in accurately determining a user’s gaze for real objects in contrast to virtual objects.",
   "authors": [
    {
-    "name": "Hidde van der Meulen"
+    "name": "Hidde van der Meulen",
+	"affiliation": "University College Dublin"
    },
    {
-    "name": "Andrew Kun"
+    "name": "Andrew Kun",
+	"affiliation": "University of New Hampshire"
    },
    {
-    "name": "Orit Shaer"
+    "name": "Orit Shaer",
+	"affiliation": "Wellesley College"
    }
   ],
   "award": false,
@@ -1033,22 +1218,28 @@ entities={
   "abstract": "Almost every visitor brings their own mobile device (e.g., smartphone or tablet) to the museum. Although, many museums include interactive exhibits (e.g., multi-touch tables), the visitors\u0027 own devices are rarely used as part of a device ecology. Currently, there is no suitable infrastructure to seamlessly link different devices in museums. Our approach is to integrate the visitor\u0027s own device in a multi-device ecology (MDE) in the museum to enhance the visitor\u0027s exhibition experience. Thus, we present a technical concept to set up such MDEs integrating the well-established TUIO framework for multi-touch interaction on and between devices.",
   "authors": [
    {
-    "name": "Kerstin Blumenstein"
+    "name": "Kerstin Blumenstein",
+	"affiliation": "St. Pölten University of Applied Sciences"
    },
    {
-    "name": "Martin Kaltenbrunner"
+    "name": "Martin Kaltenbrunner",
+	"affiliation": "University of Art and Design"
    },
    {
-    "name": "Markus Seidl"
+    "name": "Markus Seidl",
+	"affiliation": "St. Pölten University of Applied Sciences"
    },
    {
-    "name": "Laura Breban"
+    "name": "Laura Breban",
+	"affiliation": "St. Pölten University of Applied Sciences"
    },
    {
-    "name": "Niklas Thür BSc"
+    "name": "Niklas Thür BSc",
+	"affiliation": "St. Pölten University of Applied Sciences"
    },
    {
-    "name": "Wolfgang Aigner"
+    "name": "Wolfgang Aigner",
+	"affiliation": "St. Pölten University of Applied Sciences"
    }
   ],
   "award": false,
@@ -1061,13 +1252,16 @@ entities={
   "abstract": "This work in progress details the conception of a new inter-disciplinary design intended to benefit the physical activity of running, by combining the sonification of real time personal health statistics with information regarding the surrounding environment. By applying datasets sourced from wearable technologies, a model was designed that generated new original musical materials from detailed figures pertaining to exertion. The resulting music presents an opportunity to iterate new knowledge gained from insights with participants, in order to create a real time mobile application - Pulse - that sonifies both a user’s movements through place and the spaces within.",
   "authors": [
    {
-    "name": "Oliver James Halstead"
+    "name": "Oliver James Halstead",
+	"affiliation": "University of Central Lancashire"
    },
    {
-    "name": "Mark Lochrie"
+    "name": "Mark Lochrie",
+	"affiliation": "University of Central Lancashire"
    },
    {
-    "name": "Jack Davenport"
+    "name": "Jack Davenport",
+	"affiliation": "University of Central Lancashire"
    }
   ],
   "award": false,
@@ -1077,19 +1271,23 @@ entities={
   "type": "Poster"
 },
  "po1044":{
-  "abstract": "This work investigates how two different cross-surface interaction techniques support communication “grounding�? during a collaborative sensemaking task. Grounding is the process of establishing mutual knowledge, beliefs, or assumptions during conversation to effectively communicate, and is essential for collaborative analysis. Our study found several specific design features of the studied cross-surface interfaces that either supported or hindered the grounding process. For instance, one technique provided “flexible ownership�? of widgets on a shared tabletop that controlled the data connection between the tabletop and users’ personal tablets. This feature enabled cooperative interaction strategies known to facilitate the grounding process. We discuss these results, and other cross-surface design features that impact grounding.\n",
+  "abstract": "This work investigates how two different cross-surface interaction techniques support communication 'grounding' during a collaborative sensemaking task. Grounding is the process of establishing mutual knowledge, beliefs, or assumptions during conversation to effectively communicate, and is essential for collaborative analysis. Our study found several specific design features of the studied cross-surface interfaces that either supported or hindered the grounding process. For instance, one technique provided \"flexible ownership\" of widgets on a shared tabletop that controlled the data connection between the tabletop and users’ personal tablets. This feature enabled cooperative interaction strategies known to facilitate the grounding process. We discuss these results, and other cross-surface design features that impact grounding.",
   "authors": [
    {
-    "name": "Leila Homaeian"
+    "name": "Leila Homaeian",
+	"affiliation": "University of Waterloo"
    },
    {
-    "name": "Nippun Goyal"
+    "name": "Nippun Goyal",
+	"affiliation": "University of Waterloo"
    },
    {
-    "name": "James R Wallace"
+    "name": "James R Wallace",
+	"affiliation": "University of Waterloo"
    },
    {
-    "name": "Stacey D. Scott"
+    "name": "Stacey D. Scott",
+	"affiliation": "University of Guelph/University of Waterloo"
    }
   ],
   "award": false,
@@ -1102,16 +1300,20 @@ entities={
   "abstract": "The association of tabletop interaction with gesture typing presents interaction potential for situationally or physically impaired users. In this work, we use depth cameras to create touch surfaces on regular tabletops. We describe our prototype system and report on a supervised learning approach to fingertips touch classification. We follow with a gesture typing study that compares our system with a control tablet scenario and explore the influence of input size and aspect ratio of the virtual surface on the text input performance. We show that novice users perform with the same error rate at half the input rate with our system as compared to the control condition, that an input size between A5 and A4 present the best tradeoff between performance and user preference and that users\u0027 indirect tracking ability seems to be the overall performance limiting factor.",
   "authors": [
    {
-    "name": "Antoine Loriette"
+    "name": "Antoine Loriette",
+	"affiliation": "University of Glasgow"
    },
    {
-    "name": "Sebastian Stein"
+    "name": "Sebastian Stein",
+	"affiliation": "University of Glasgow"
    },
    {
-    "name": "Roderick Murray-Smith"
+    "name": "Roderick Murray-Smith",
+	"affiliation": "University of Glasgow"
    },
    {
-    "name": "John H Williamson"
+    "name": "John H Williamson",
+	"affiliation": "University of Glasgow"
    }
   ],
   "award": false,
@@ -1124,16 +1326,20 @@ entities={
   "abstract": "A fundamental step in medical diagnosis for patient follow-up relies on the ability of radiologists performing reliable diagnosis from acquired images. Basically, the diagnosis strongly depends on the visual inspection over the shape of the lesions, and somehow register its evolution through time. As datasets increase in size, such visual evaluation becomes harder. For this reason, it is crucial to introduce easy-to-use interfaces that help the radiologists not only to perform a reliable visual inspection but more importantly, allow the efficient delineation of the lesions. In this paper, we will present a study on integrating the above interfaces in a real-world scenario. More specifically, we will explore the radiologist\u0027s receptivity to the current touch environment solution. The advantages of touch are threefold: (i) the time performance is superior regarding the traditional use, (ii) it has more intuitive control and, (iii) for less time, the user interface delivers more information per action, concerning annotations. We concluded, from our studies that the path towards touch-based on medical image diagnosis annotation includes overcoming the current refusal to use these systems by radiologists, which resist change. Also, a solution to the finger occlusion must be devised.",
   "authors": [
    {
-    "name": "Francisco Maria Galamba Ferrari Calisto"
+    "name": "Francisco Maria Galamba Ferrari Calisto",
+	"affiliation": "Instituto Superior Técnico"
    },
    {
-    "name": "Jacinto Nascimento"
+    "name": "Jacinto Nascimento",
+	"affiliation": "Instituto Superior Técnico"
    },
    {
-    "name": "Alfredo Ferreira"
+    "name": "Alfredo Ferreira",
+	"affiliation": "Instituto Superior Técnico"
    },
    {
-    "name": "Daniel Gonçalves"
+    "name": "Daniel Gonçalves",
+	"affiliation": "Instituto Superior Técnico"
    }
   ],
   "award": false,
@@ -1146,10 +1352,12 @@ entities={
   "abstract": "Wearable devices for activity tracking and gesture recognition have expanded rapidly in recent years. One technique that has shown great potential for this is ultrasonic imaging. This technique has been shown to have advantages over other techniques in accuracy, surface area, placement and importantly, continuous finger angle estimations. However, ultrasonic imaging suffers from a couple of issues: First and foremost, the propagation of ultrasound into flesh suffers greatly without a suitable coupling medium; Secondly, the complexity of the driving circuitry for medical grade imaging currently renders a wearable version of this infeasible. This paper aims to address these two problems by finding a rigid coupling medium that lasts for significantly longer periods of time; and devising a new sensor configuration to reduce the device complexity, while still retaining the benefits of the technique. Furthermore, a comparison between high and low frequency systems reveal that different devices can be created with this technique for better resolution or convenience respectively.",
   "authors": [
    {
-    "name": "Jess McIntosh"
+    "name": "Jess McIntosh",
+	"affiliation": "University of Bristol"
    },
    {
-    "name": "Mike Fraser"
+    "name": "Mike Fraser",
+	"affiliation": "University of Bristol"
    }
   ],
   "award": false,
@@ -1162,13 +1370,16 @@ entities={
   "abstract": "With exponential growth of using mobile devices, new authentication methods are required for better protection of personal information. The frequent use of these devices in our daily lives has resulted in a compromise by the users between higher level of security and more comfort access. The traditional Password/PIN-based methods are subject to a number of limitations and in particular to shoulder-surfing attacks. This problem becomes more pronounced when users tend toward simpler (i.e., shorter) PINs because of willingness for more comfort access.\nThis paper presents tilting of the device as a new authentication method. We compared this new approach with the traditional approach of entering PIN in two user studies. Our results show that this new method is intuitive, enjoyable, easy-to-use and a more secure authentication method than the traditional PIN-based method.",
   "authors": [
    {
-    "name": "Amir Esmaeil Sarabadani Tafreshi"
+    "name": "Amir Esmaeil Sarabadani Tafreshi",
+	"affiliation": "ETH Zurich"
    },
    {
-    "name": "Sara Claudia Sarabadani Tafreshi"
+    "name": "Sara Claudia Sarabadani Tafreshi",
+	"affiliation": "ETH Zurich"
    },
    {
-    "name": "Amirehsan Sarabadani Tafreshi"
+    "name": "Amirehsan Sarabadani Tafreshi",
+	"affiliation": "ETH Zurich"
    }
   ],
   "award": false,
@@ -1178,16 +1389,19 @@ entities={
   "type": "Poster"
 },
  "po1012":{
-  "abstract": "In this paper, we propose a machine learning-based system named “Computational Foresight�? that can forecast human body motion 0.5 seconds before the actual motion in real-time. This forecasting system can be used to estimate human gestures in advance to the actual action for reducing delays in interactive system. In addition, the system can be applied to instruct sports actions properly, and prevent elderly from falling to the ground, and so on. Proposed system detects 25 human body joints to use those data for input dataset of machine learning. We created 5-layered neural network to estimate human body motion in real-time. In our experiment, we measured jump motions of subjects for learning. In our evaluation, the prototype system scored that the center of gravity of whole body can be forecasted 0.5 sec before with its accuracy of 7.9 cm.\n",
+  "abstract": "In this paper, we propose a machine learning-based system named \"Computational Foresight\" that can forecast human body motion 0.5 seconds before the actual motion in real-time. This forecasting system can be used to estimate human gestures in advance to the actual action for reducing delays in interactive system. In addition, the system can be applied to instruct sports actions properly, and prevent elderly from falling to the ground, and so on. Proposed system detects 25 human body joints to use those data for input dataset of machine learning. We created 5-layered neural network to estimate human body motion in real-time. In our experiment, we measured jump motions of subjects for learning. In our evaluation, the prototype system scored that the center of gravity of whole body can be forecasted 0.5 sec before with its accuracy of 7.9 cm.\n",
   "authors": [
    {
-    "name": "Yuuki Horiuchi"
+    "name": "Yuuki Horiuchi",
+	"affiliation": "University of Tokyo"
    },
    {
-    "name": "Yasutoshi Makino"
+    "name": "Yasutoshi Makino",
+	"affiliation": "University of Tokyo"
    },
    {
-    "name": "Hiroyuki Shinoda"
+    "name": "Hiroyuki Shinoda",
+	"affiliation": "University of Tokyo"
    }
   ],
   "award": false,
@@ -1200,13 +1414,16 @@ entities={
   "abstract": "In this paper StarLoop, a Tangible Programing Language designed to support the learning of computer programing concepts for middle school children, is presented. StarLoop has been designed as a game to be played in an Interactive Space by up to four middle-school children. The StarLoop game uses the four tabletop devices as well as image projection on the Interactive Space walls. A first test with children has been carried out; it has been quite successful and no big usability problems encountered.",
   "authors": [
    {
-    "name": "Javier Marco Rubio"
+    "name": "Javier Marco Rubio",
+	"affiliation": "University of Zaragoza"
    },
    {
-    "name": "Clara Bonillo Fernandez"
+    "name": "Clara Bonillo Fernandez",
+	"affiliation": "University of Zaragoza"
    },
    {
-    "name": "Eva Cerezo"
+    "name": "Eva Cerezo",
+	"affiliation": "University of Zaragoza"
    }
   ],
   "award": false,
@@ -1219,13 +1436,16 @@ entities={
   "abstract": "We describe ProDesk, an ubiquitous, projection-based touch surface system that extends the screen space of today\u0027s desktop computer workplaces to the whole surface of an ordinary office desk, along with highly accurate multi-touch interaction. The objective of this system is to offer users more flexibility on tasks in which lots of complex information have to be handled. We propose a novel user interface concept that extends normal WIMP functionality and a software architecture that implements this UI concept. We present evaluation results of the system in technical benchmarks and a user study.",
   "authors": [
    {
-    "name": "Benjamin Wingert"
+    "name": "Benjamin Wingert",
+	"affiliation": "University of Stuttgart"
    },
    {
-    "name": "Isabel Schöllhorn"
+    "name": "Isabel Schöllhorn",
+	"affiliation": "Fraunhofer Institut IAO"
    },
    {
-    "name": "Matthias Bues"
+    "name": "Matthias Bues",
+	"affiliation": "Fraunhofer Institut IAO"
    }
   ],
   "award": false,
@@ -1238,16 +1458,20 @@ entities={
   "abstract": "We explore the presentation technique of visual abstraction as a form of mediation to manage content generated by the public in order to maintain a respectful discourse. We identify technological and social mediation as two dimensions within the space of content mediation, and discuss different solutions based on related work in public interactive displays and art installations. We further discuss a novel approach to technological mediation by describing our interactive artwork Objective Meaning – an installation that invites the audience to express themselves through anonymous text messages. The design of this system mediates discourse by visually abstracting the presentation of messages on a display by breaking messages apart into decontextualized words. We briefly discuss the public response during a one-month deployment of the installation in a library setting.",
   "authors": [
    {
-    "name": "Sarah Storteboom"
+    "name": "Sarah Storteboom",
+	"affiliation": "University of Calgary"
    },
    {
-    "name": "Alice Thudt"
+    "name": "Alice Thudt",
+	"affiliation": "University of Calgary"
    },
    {
-    "name": "Søren Knudsen"
+    "name": "Søren Knudsen",
+	"affiliation": "University of Calgary"
    },
    {
-    "name": "Sheelagh Carpendale"
+    "name": "Sheelagh Carpendale",
+	"affiliation": "University of Calgary"
    }
   ],
   "award": false,
@@ -1260,10 +1484,12 @@ entities={
   "abstract": "Large display and touch screens are becoming ubiquitous\nwithin the work place including multiple display screens.\nThere is limited evidence on what con\fgurations and\narrangements of the display screens are most e\u000bective for\ndata analysis. We conducted two user studies to\nunderstand the e\u000bectiveness of the display angle, physical\nsize, resolution, and touch precision for data analysis\nactivities. Our results indicated that touch interaction for\ndata analysis sitting at a workstation was most e\u000bective\nwith medium sized screens at 27″, high precision touch\naccuracy (not 4K resolution), and display angle titled at\n300. The results from our studies can guide other\nresearchers and developers who want to integrate large\ntouch display screens into their work place environments.",
   "authors": [
    {
-    "name": "Craig Anslow"
+    "name": "Craig Anslow",
+	"affiliation": "Victoria University of Wellington"
    },
    {
-    "name": "William Wong"
+    "name": "William Wong",
+	"affiliation": "Middlesex University"
    }
   ],
   "award": false,
@@ -1276,16 +1502,20 @@ entities={
   "abstract": "This paper presents a prototype of a smart home control system operated through motion matching input. In motion matching, targets move continuously in a singular and pre-defined path; users interact with these targets by tracking their movement for a short period of time. Our prototype captures user input through the motion sensors embedded in off-the-shelf smartwatches while users track the moving targets with their arms and hands. The wearable nature of the tracking system makes our prototype ideal for interaction with numerous devices in a smart home.",
   "authors": [
    {
-    "name": "David Verweij"
+    "name": "David Verweij",
+	"affiliation": "Eindhoven University of Technology"
    },
    {
-    "name": "Augusto Esteves"
+    "name": "Augusto Esteves",
+	"affiliation": "Edinburgh Napier University"
    },
    {
-    "name": "Saskia Bakker"
+    "name": "Saskia Bakker",
+	"affiliation": "Eindhoven University of Technology"
    },
    {
-    "name": "Vassilis-Javed Khan"
+    "name": "Vassilis-Javed Khan",
+	"affiliation": "Eindhoven University of Technology"
    }
   ],
   "award": false,
@@ -1298,7 +1528,8 @@ entities={
   "abstract": "As you are being shoved into one of the four mortuary freezers that make up the Famous Deaths installation you enter a reconstruction of the final moments of famous celebrities by means of sound and scent. You smell Princes Diana’s fatal destiny, John F. Kennedy’s tragedy, Kaddafi’s desperate flight into a sewer and Whitney Houston fatal sob. We all know the images of that open car that slowly drives through the streets of Dallas, the President happily waving to the crowd. And then, those few fatal shots. What must it have been like to be near that car? Famous Deaths is an innovative way of documentary storytelling where you experience these intimate moments as smell tableau in first person perspective. You smell an autumn wind, the grass, the leather car seats, Jacky Kennedy's perfume, exhaust fumes mingled with the somewhat musty scent of that limousine, and then suddenly the penetrating scent of blood, brains and gunpowder drilling its way into your nostrils.",
   "authors": [
    {
-    "name": "Marcel van Brakel"
+    "name": "Marcel van Brakel",
+	"affiliation": "Polymorf/University of applied science Avans"
    }
   ],
   "award": false,
@@ -1311,22 +1542,28 @@ entities={
   "abstract": "The ability to control acoustic fields offers many possible applications in loudspeaker design, ultrasound imaging, medical therapy, and acoustic levitation. Sound waves are currently shaped using phased array systems, even though the complex electronics required are expensive and hinder widespread use. Here we show how to control, direct, and manipulate sound using 2-dimensional, planar, acoustic metasurfaces that require only one driving signal. This offers the advantages of ease of use and versatility over currently available phased arrays. We demonstrate the creation of a haptic sensation and steering of a beam produced by a parametric speaker. This simple, yet highly effective, method of creating single-beam manipulators could be introduced in medical or manufacturing applications.",
   "authors": [
    {
-    "name": "Louis Jackowski - Ashley"
+    "name": "Louis Jackowski - Ashley",
+	"affiliation": "University of Sussex"
    },
    {
-    "name": "Gianluca Memoli"
+    "name": "Gianluca Memoli",
+	"affiliation": "University of Sussex"
    },
    {
-    "name": "Mihai Caleap"
+    "name": "Mihai Caleap",
+	"affiliation": "University of Bristol"
    },
    {
-    "name": "Nicolas Slack"
+    "name": "Nicolas Slack",
+	"affiliation": "University of Sussex"
    },
    {
-    "name": "Bruce Drinkwater"
+    "name": "Bruce Drinkwater",
+	"affiliation": "University of Bristol"
    },
    {
-    "name": "Sriram Subramanian"
+    "name": "Sriram Subramanian",
+	"affiliation": "University of Sussex"
    }
   ],
   "award": false,
@@ -1339,7 +1576,8 @@ entities={
   "abstract": "Printerface proposes a visual design technique to create customized and interactive icons that may be applied to paper or textile substrates. The icons are screen printed electroluminescent (EL) and conductive inks. Research in the field of printed electronics traditionally uses either dot-matrix or multiple capacitive buttons for interaction. Current low-resolution interfaces limit customizability and user interaction. The Printerface demo suggest a new method which allows a designer visual freedom over low-resolution displays.\nThe graphical nature of the screen print process allows a series of communicative icons to follow a defined visual language. Special steps were taken during the design process to create icons that illuminate from a single layout of segments. A microcontroller illuminates specified segments of EL to display each icon of a music playback interface: play, pause, back, and skip (figure 1a). Each electrode of the display additionally acts as a capacitive sensor to interpret user interaction. The capabilities of this technology allow new notification and interactive possibilities for low-resolution, flexible interfaces.\n",
   "authors": [
    {
-    "name": "Charles Tyson Van de Zande"
+    "name": "Charles Tyson Van de Zande",
+	"affiliation": "Carnegie Mellon University"
    }
   ],
   "award": false,
@@ -1352,13 +1590,16 @@ entities={
   "abstract": "In this paper, we demonstrate IllumiPaper: a system that provides new forms of paper-integrated visual feedback and enables multiple input channels to enhance digital paper applications. We aim to take advantage of traditional form sheets, including their haptic qualities, simplicity, and archivability, and simultaneously integrate rich digital functionalities such as dynamic status queries, real-time notifications, and visual feedback for widget controls. Our approach builds on emerging, novel paper-based technologies. We describe a fabrication process that allow us to directly integrate segment-based displays, touch and flex sensors, as well as digital pen input on the paper itself. With our fully functional research platform we demonstrate an interactive prototype for an industrial form-filling maintenance application to service computer networks that covers a wide range of typical paper-related tasks.",
   "authors": [
    {
-    "name": "Konstantin Klamka"
+    "name": "Konstantin Klamka",
+	"affiliation": "TU Dresden"
    },
    {
-    "name": "Wolfgang Büschel"
+    "name": "Wolfgang Büschel",
+	"affiliation": "TU Dresden"
    },
    {
-    "name": "Raimund Dachselt"
+    "name": "Raimund Dachselt",
+	"affiliation": "TU Dresden"
    }
   ],
   "award": false,
@@ -1371,16 +1612,20 @@ entities={
   "abstract": "Today, ambitious amateur athletes often do not have access to professional coaching but still invest great effort in becoming faster runners. Apart from a pure increase in the quantitative training load, a change of the running technique, e.g. transitioning from heel striking to mid-/forefoot running, can be highly effective and usually prevents knee-related injuries. \n\nIn this demo, we present a self-contained wearable that detects heel striking while running with a pressure-sensitive insole. Heel striking is corrected in real-time to mid-/forefoot running by applying electrical muscle stimulation (EMS) on the calf muscle. We further discuss potential scenarios for EMS-based training in interactive spaces. The device will be worn and demonstrated by the presenter but if possible, the device can also be tested directly by the conference attendees. ",
   "authors": [
    {
-    "name": "Florian Daiber"
+    "name": "Florian Daiber",
+	"affiliation": "DFKI, Saarland Informatics Campus"
    },
    {
-    "name": "Frederik Wiehr"
+    "name": "Frederik Wiehr",
+	"affiliation": "DFKI, Saarland Informatics Campus"
    },
    {
-    "name": "Felix Kosmalla"
+    "name": "Felix Kosmalla",
+	"affiliation": "DFKI, Saarland Informatics Campus"
    },
    {
-    "name": "Antonio Krüger"
+    "name": "Antonio Krüger",
+	"affiliation": "DFKI, Saarland Informatics Campus"
    }
   ],
   "award": false,
@@ -1393,31 +1638,40 @@ entities={
   "abstract": "We present a programmable liquid matter which can dynamically transform its 2D shape into a variety of forms and present unique organic animations based on spatio-temporally controlled electric fields. We deployed a EGaIn (Gallium indium eutectic alloy) liquid metal as our smart liquid material since it features a superior electric conductivity in spite of a liquid state and presents a high dynamic range of surface tension and 2D area controlled by applied voltage strength and polarity. Our proposed liquid metal shape and motion control algorithms with dynamically patterned electric fields realize path tracing organic animation. We demonstrate an interactive 7x7 electrode array control system with a computer vision based GUI system to enable novice users to physically draw alphabet letters and 2D shapes by unique animatronics of liquid metals.",
   "authors": [
    {
-    "name": "Yutaka Tokuda"
+    "name": "Yutaka Tokuda",
+	"affiliation": "University of Sussex"
    },
    {
-    "name": "Jose Luis Berna Moya"
+    "name": "Jose Luis Berna Moya",
+	"affiliation": "University of Sussex"
    },
    {
-    "name": "Gianluca Memoli"
+    "name": "Gianluca Memoli",
+	"affiliation": "University of Sussex"
    },
    {
-    "name": "Timothy Neate"
+    "name": "Timothy Neate",
+	"affiliation": "Swansea University"
    },
    {
-    "name": "Deepak Ranjan Sahoo"
+    "name": "Deepak Ranjan Sahoo",
+	"affiliation": "Swansea University"
    },
    {
-    "name": "Simon Robinson"
+    "name": "Simon Robinson",
+	"affiliation": "Swansea University"
    },
    {
-    "name": "Jennifer Pearson"
+    "name": "Jennifer Pearson",
+	"affiliation": "Swansea University"
    },
    {
-    "name": "Matt Jones"
+    "name": "Matt Jones",
+	"affiliation": "Swansea University"
    },
    {
-    "name": "Sriram Subramanian"
+    "name": "Sriram Subramanian",
+	"affiliation": "University of Sussex"
    }
   ],
   "award": false,
@@ -1430,19 +1684,24 @@ entities={
   "abstract": "Typically, visits to modern art galleries or museums are characterized as visual experiences supported by text-based information describing the works of art. Our goal was to investigate the potential of providing a fuller and richer experience while viewing visual art by appealing to the senses beyond sight. We designed SensArt, a multisensory experience whereby someone viewing a painting received a translation of the art through a headset with music and a belt programmed with vibration patterns and changes in temperature.",
   "authors": [
    {
-    "name": "Daniella Briotto Faustino"
+    "name": "Daniella Briotto Faustino",
+	"affiliation": "Carleton University"
    },
    {
-    "name": "Sandra Gabriele"
+    "name": "Sandra Gabriele",
+	"affiliation": "Carleton University/York University"
    },
    {
-    "name": "Rami Ibrahim"
+    "name": "Rami Ibrahim",
+	"affiliation": "Carleton University"
    },
    {
-    "name": "Anna-Lena Theus"
+    "name": "Anna-Lena Theus",
+	"affiliation": "Carleton University"
    },
    {
-    "name": "Audrey Girouard"
+    "name": "Audrey Girouard",
+	"affiliation": "Carleton University"
    }
   ],
   "award": false,
@@ -1455,16 +1714,20 @@ entities={
   "abstract": "Calm technologies help us avoid distraction by embedding notifications in our surroundings with peripheral updates. However, users also lose out on the passive awareness that comes from more overt notifications. In our paper, we present an initial study setup on shape changing circuits as notifications. We compare near and far peripheral locations to determine the optimal location for these notifications by assigning a primary task of arithmetic questions, and a secondary task of responding to bend notifications. Our demonstration will show the set-up of our study to encourage discussion on possible applications of shape changing notifications in peripheral locations. \n",
   "authors": [
    {
-    "name": "Lee Jones"
+    "name": "Lee Jones",
+	"affiliation": "Carleton University"
    },
    {
-    "name": "John C McClelland"
+    "name": "John C McClelland",
+	"affiliation": "Carleton University"
    },
    {
-    "name": "Phonesavahnt Thongsouksanoumane"
+    "name": "Phonesavahnt Thongsouksanoumane",
+	"affiliation": "Carleton University"
    },
    {
-    "name": "Audrey Girouard"
+    "name": "Audrey Girouard",
+	"affiliation": "Carleton University"
    }
   ],
   "award": false,
@@ -1477,13 +1740,16 @@ entities={
   "abstract": "In this paper, we propose a system that realizes remote control of a computer with small hand gestures. Distant pointing is realized using a 3D hand pointing recognition algorithm that obtains position and direction of the pointing hand. We show the effectiveness of the system by constructing three types of user interfaces considering the accuracy of distant pointing in the current system. We created a tile layout interface for rough selection operation, a pie menu interface for detailed operation, and a viewer interface for document browsing.",
   "authors": [
    {
-    "name": "Yutaka Endo"
+    "name": "Yutaka Endo",
+	"affiliation": "Saitama University"
    },
    {
-    "name": "Dai Fujita"
+    "name": "Dai Fujita",
+	"affiliation": "Saitama University"
    },
    {
-    "name": "Takashi Komuro"
+    "name": "Takashi Komuro",
+	"affiliation": "Saitama University"
    }
   ],
   "award": false,
@@ -1496,16 +1762,20 @@ entities={
   "abstract": "GooseBumps is a wearable device that enables users to get spatial information using haptic feedback through servo motors. By rotating the motors, spatial information on a single axis can be encoded and processed by the users in real time. In this demonstration, the participants will be trained to use the system to use a simple driving game similar to Out Run [2] while being blindfolded. Our system thus provides sensory substitution, where visual information (such as car position and road orientation) will be encoded with haptic information. GooseBumps has multiple applications, from Virtual Reality to Visually Impaired people.  This demo, in a reduced form, has been presented previously at the 2016 HacknRoll competition, where it was presented with the first prize.",
   "authors": [
    {
-    "name": "Hrishi Olickel"
+    "name": "Hrishi Olickel",
+	"affiliation": "Yale-NUS College"
    },
    {
-    "name": "Parag Bhatnagar"
+    "name": "Parag Bhatnagar",
+	"affiliation": "Yale-NUS College"
    },
    {
-    "name": "Aaron Ong"
+    "name": "Aaron Ong",
+	"affiliation": "Yale-NUS College"
    },
    {
-    "name": "Simon Tangi Perrault"
+    "name": "Simon Tangi Perrault",
+	"affiliation": "Yale-NUS College"
    }
   ],
   "award": false,
@@ -1518,19 +1788,24 @@ entities={
   "abstract": "Acoustic levitation enables new types of human-computer interface, where the content that users interact with is made up from small objects held in mid-air. We show that acoustically-levitated objects can form mid-air widgets that respond to interaction. Users can interact with them using in-air hand gestures. Sound and widget movement are used as feedback about the interaction.",
   "authors": [
    {
-    "name": "Euan Freeman"
+    "name": "Euan Freeman",
+	"affiliation": "University of Glasgow"
    },
    {
-    "name": "Ross Anderson"
+    "name": "Ross Anderson",
+	"affiliation": "University of Glasgow"
    },
    {
-    "name": "Carl Andersson"
+    "name": "Carl Andersson",
+	"affiliation": "Applied Acoustics"
    },
    {
-    "name": "Julie Williamson"
+    "name": "Julie Williamson",
+	"affiliation": "University of Glasgow"
    },
    {
-    "name": "Stephen Brewster"
+    "name": "Stephen Brewster",
+	"affiliation": "University of Glasgow"
    }
   ],
   "award": false,
@@ -1543,13 +1818,16 @@ entities={
   "abstract": "The screen in our laptops or the white surface of a projector screen are common examples of displays that we use in our daily life to visualize information. Here, we propose to use levitated particles above these displays to enrich the presented information. By means of acoustic or magnetic levitation we show that it is possible to move a particle in mid-air in the space above these displays. We present different configurations that are feasible with current technology, as well as use cases. In this demo, the visitors will be able to explore and interact with various levitators integrated with traditional displays.",
   "authors": [
    {
-    "name": "Asier Marzo"
+    "name": "Asier Marzo",
+	"affiliation": "University of Bristol"
    },
    {
-    "name": "Sriram Subramanian"
+    "name": "Sriram Subramanian",
+	"affiliation": "University of Sussex"
    },
    {
-    "name": "Bruce Drinkwater"
+    "name": "Bruce Drinkwater",
+	"affiliation": "University of Bristol"
    }
   ],
   "award": false,
@@ -1562,13 +1840,16 @@ entities={
   "abstract": "Tangible systems and examples of use have been explored for two decades, nevertheless there are only a few manufacturers. Most systems are camera-based, expensive and in many cases not supported anymore. This prevents researchers as well as practitioners from further implementing/supporting scenarios that are promising for tangible interactions (like sales settings, museums or educational environments). The goal of our work is to provide an instruction for makers to build a programmable tangible for the usage on capacitive displays. This allows everyone to turn arbitrary multi-touch displays in a tangible user interface. Our solution simulates touch points and is controlled and powered by a microcontroller. It is controlled through a wireless interface which allows dynamically changing the ID of the tangible during use.",
   "authors": [
    {
-    "name": "Valentina Burjan"
+    "name": "Valentina Burjan",
+	"affiliation": "Hochschule Mannheim"
    },
    {
-    "name": "Kirstin Kohler"
+    "name": "Kirstin Kohler",
+	"affiliation": "Hochschule Mannheim"
    },
    {
-    "name": "Cristin Volz"
+    "name": "Cristin Volz",
+	"affiliation": "Hochschule Mannheim"
    }
   ],
   "award": false,
@@ -1581,13 +1862,16 @@ entities={
   "abstract": "We present a concept of dynamically adaptive workspace using MovemenTable, autonomously moving interactive digital table. In this demo, we introduce two interaction scenarios, arranging workspace anywhere and floating interactive surface on large floor screen. In the first scenario, the interactive digital table is automatically arranged anywhere in a room to keep user’s workspace efficient and optimal by self-actuated movement of MovemenTable. The second scenario is more advanced one with collaborative use of large floor screen system where the MovemenTable works as a floating interactive surface that allows local data exploration of the global information on the floor screen. ",
   "authors": [
    {
-    "name": "Yoshiki Kudo"
+    "name": "Yoshiki Kudo",
+	"affiliation": "Tohoku University"
    },
    {
-    "name": "Kazuki Takashima"
+    "name": "Kazuki Takashima",
+	"affiliation": "Tohoku University"
    },
    {
-    "name": "Yoshifumi Kitamura"
+    "name": "Yoshifumi Kitamura",
+	"affiliation": "Tohoku University"
    }
   ],
   "award": false,
@@ -1600,13 +1884,16 @@ entities={
   "abstract": "Our work presents a method to use paper as an input de- vice while reading on a mobile device, where the user turns a physical page in the real world in order to turn a page\nin the digital world. Our goal in this work is to replicate\nthe feedback and affordances one would receive from a printed book on a mobile device, where to fully replicate the reading experience the user would need to turn pages as they would naturally with a printed book. Through a small study we discovered a number of ways that pages are often turned and these techniques became vital to the project. We describe a prototype device which uses paper as an in- put device with transparent electrodes and bend sensors embedded to pages, so that the turning and bending of pages can be digitally detected and addressed. The pro- totype is able to detect the page turns and bends made by the user and the state of each page. We go on to discuss how this device could be used as a general input device, using the web as an example.",
   "authors": [
    {
-    "name": "Gavin Bailey"
+    "name": "Gavin Bailey",
+	"affiliation": "Swansea University"
    },
    {
-    "name": "Deepak Ranjan Sahoo"
+    "name": "Deepak Ranjan Sahoo",
+	"affiliation": "Swansea University"
    },
    {
-    "name": "Matt Jones"
+    "name": "Matt Jones",
+	"affiliation": "Swansea University"
    }
   ],
   "award": false,
@@ -1619,10 +1906,12 @@ entities={
   "abstract": "iVoLVER, the Interactive Visual Language for Visualization Extraction and Reconstruction, is a web-based pen-and-touch interface that graphically supports the construction of interactive visualizations. iVoLVER is designed to enable extraction of data from different types of artifacts (e.g., pictures of the real world) and to use that data to generate new original representations of that data. People can create visualizations from data that is not structured in traditional formats without the need of textual programming or sitting at their desk. This demonstration shows how iVoLVER visualizations are constructed and also demonstrates the possible uses of iVoLVER in several contexts.",
   "authors": [
    {
-    "name": "Miguel Nacenta"
+    "name": "Miguel Nacenta",
+	"affiliation": "University of St Andrews"
    },
    {
-    "name": "Gonzalo Mendez"
+    "name": "Gonzalo Mendez",
+	"affiliation": "University of St Andrews"
    }
   ],
   "award": false,
@@ -1635,25 +1924,32 @@ entities={
   "abstract": "We present two realizations of TastyFloats, a novel system that uses acoustic levitation to deliver food morsels to the users’ tongue. To explore TastyFloats’ associated design framework, we first address the technical challenges to successfully levitate and deliver different types of foods on the tongue. We then conduct a user study, assessing the effect of acoustic levitation on users’ taste perception, comparing three basic taste stimuli (i.e., sweet, bitter and umami) and three volume sizes of droplets (5µL, 10µL and 20µL). Our results show that users perceive sweet and umami easily, even in minimal quantities, whereas bitter is the least detectable taste, despite its typical association with an unpleasant taste experience. Our results are a first step towards the creation of new culinary experiences and innovative gustatory interfaces.",
   "authors": [
    {
-    "name": "Chi Thanh Vi"
+    "name": "Chi Thanh Vi",
+	"affiliation": "University of Sussex"
    },
    {
-    "name": "Asier Marzo"
+    "name": "Asier Marzo",
+	"affiliation": "University of Bristol"
    },
    {
-    "name": "Damien Ablart"
+    "name": "Damien Ablart",
+	"affiliation": "University of Sussex"
    },
    {
-    "name": "Gianluca Memoli"
+    "name": "Gianluca Memoli",
+	"affiliation": "University of Sussex"
    },
    {
-    "name": "Sriram Subramanian"
+    "name": "Sriram Subramanian",
+	"affiliation": "University of Sussex"
    },
    {
-    "name": "Bruce Drinkwater"
+    "name": "Bruce Drinkwater",
+	"affiliation": "University of Bristol"
    },
    {
-    "name": "Marianna Obrist"
+    "name": "Marianna Obrist",
+	"affiliation": "University of Sussex"
    }
   ],
   "award": false,
@@ -1666,41 +1962,50 @@ entities={
   "abstract": "CircGR is a multi-touch non-symbolic gesture recognition algorithm, which utilizes circular statistic measures to implement linearithmic (O(n lg n)) template-based matching. CircGR provides a solution to gesture designers, which allows for building complex multi-touch gestures with high-confidence accuracy. We demonstrated the algorithm and described a user study with 60 subjects and over 12,000 gestures collected for an original gesture set of 36. The accuracy is over 99% with the Matthews correlation coefficient of 0.95. In addition, early gesture detection was successful in CircGR as well.",
   "authors": [
    {
-    "name": "Ruben Balcazar"
+    "name": "Ruben Balcazar",
+	"affiliation": "Florida International University"
    },
    {
-    "name": "Francisco Ortega"
+    "name": "Francisco Ortega",
+	"affiliation": "Florida International University"
    },
    {
-    "name": "Katherine Tarre"
+    "name": "Katherine Tarre",
+	"affiliation": "Florida International University"
    },
    {
-    "name": "Armando Barreto"
+    "name": "Armando Barreto",
+	"affiliation": "Florida International University"
    },
    {
-    "name": "Mark Weiss"
+    "name": "Mark Weiss",
+	"affiliation": "Florida International University"
    },
    {
-    "name": "Naphtali D. Rishe"
+    "name": "Naphtali D. Rishe",
+	"affiliation": "Florida International University"
    }
   ],
   "award": false,
   "hm": false,
   "subtype": "Demo",
-  "title": "[Demo] CircGR: Interactive Multi-Touch Gesture Recognition using Circular Measurements",
+  "title": "CircGR: Interactive Multi-Touch Gesture Recognition using Circular Measurements",
   "type": "Demo"
 },
  "pd1006":{
   "abstract": "While smart glasses make information more accessible in mobile scenarios, entering text on these devices is still difficult. In this paper, we suggest using a smartwatch as an indirect input device (not requiring visual attention) for smart glasses text entry. With the watch-glasses combination, users do not need to lift the arm to touch the glasses nor need to carry a special external input device. To prove the feasibility of the suggested combination, we implemented two text entry methods: a modified version of SwipeBoard, which we adapted for the suggested combination, and HoldBoard, which we newly designed and implemented specifically for the suggested combination. We evaluated the performances of the two text entry methods through two user studies, and could show that they are faster than prior art for smart glasses text entry in a seated condition. A further study showed that they are competitive with the prior art also in a walking condition.",
   "authors": [
    {
-    "name": "Sunggeun Ahn"
+    "name": "Sunggeun Ahn",
+	"affiliation": "KAIST"
    },
    {
-    "name": "Seongkook Heo"
+    "name": "Seongkook Heo",
+	"affiliation": "KAIST"
    },
    {
-    "name": "Geehyuk Lee"
+    "name": "Geehyuk Lee",
+	"affiliation": "KAIST"
    }
   ],
   "award": false,
@@ -1713,10 +2018,12 @@ entities={
   "abstract": "The main objective of this research work is to create a desktop VR environment which enables users to interact naturally with virtual objects positioned both in front and behind the screen. We propose a mirror metaphor that simulates a physical stereoscopic screen with the properties of a mirror. In addition to allowing users to interact with virtual objects positioned in front of the stereoscopic screen using their virtual hands, the virtual hands can be transferred inside the virtual mirror to interact with objects behind the screen. When the virtual hands are operating inside the virtual mirror, they are transformed like the reflection in a real mirror. This effectively doubles the interactable space and creates an interactive space that could facilitate collaborative tasks. Our user study shows that users could interact through the mirror approach as effectively as similar interaction techniques, hence demonstrating that the mirror technique is a viable interface in certain VR setups.",
   "authors": [
    {
-    "name": "Santawat Thanyadit"
+    "name": "Santawat Thanyadit",
+	"affiliation": "Hong Kong University of Science and Technology"
    },
    {
-    "name": "Ting-Chuen Pong"
+    "name": "Ting-Chuen Pong",
+	"affiliation": "Hong Kong University of Science and Technology"
    }
   ],
   "award": false,
@@ -1729,13 +2036,16 @@ entities={
   "abstract": "Bend gestures can be used as a form of Around Device Interaction to address usability issues in touchscreen mobile devices. Yet, it is unclear whether bend gestures can be easily learned and memorized as control schema for games. To answer this, we built a novel deformable smartphone case that detects bend gestures at its corners and sides, and created PaperNinja, a mobile game that uses bends as input. We conducted a study comparing the effect of three pre-game training levels on learnability and memorability: no training, training of the bend gestures only, and training of both the bend gestures and their in-game action mapping. We found that including gesture-mapping positively impacted the initial learning (faster completion time and fewer gestures performed), but had a similar outcome as no training on memorability, while the gestures-without-mapping led to a negative outcome. Our findings suggest that players can learn bend gestures by discovery and training is not essential.",
   "authors": [
    {
-    "name": "Elias Fares"
+    "name": "Elias Fares",
+	"affiliation": "Carleton University"
    },
    {
-    "name": "Victor Cheung"
+    "name": "Victor Cheung",
+	"affiliation": "Carleton University"
    },
    {
-    "name": "Audrey Girouard"
+    "name": "Audrey Girouard",
+	"affiliation": "Carleton University"
    }
   ],
   "award": false,
@@ -1748,13 +2058,140 @@ entities={
   "abstract": "We proposes a spatial augmented reality system ″Touch de YEBISU Navi″ that stimulate customers’ purchasing willingness. This system uses the knowledge that the purchase rate will rise when a customer pick up a product, and conducts guidance so that contents about the relevant information of a product will not advance unless a customer pick up a product. Furthermore, in order to lengthen the time a customer has in hand, this system can change contents according to the position of a product in hand. To evaluate the effectiveness of this system, a demonstration experiment was conducted at YEBISU Memorial Museum Shop on 25th and 26th February 2017.As a result, we report that the degree of interest in a product has improved and the effect of stimulating purchasing willingness had been shown.",
   "authors": [
    {
-    "name": "Kazuki Osamura"
+    "name": "Kazuki Osamura",
+	"affiliation": "Musashi Nakahara"
    }
   ],
   "award": false,
   "hm": false,
   "subtype": "Demo",
   "title": "Proposal of Product Navigation Interface and Evaluation of Purchasing Motivation",
+  "type": "Demo"
+},
+ "suid1":{
+  "authors": [
+   {
+    "name": "Ms Bhuvaneswari Sarupuri"
+   },
+   {
+    "name": "Simon Hoermann"
+   },
+   {
+    "name": "Robert Lindeman"
+   },
+   {
+    "name": "Frank Steinicke"
+   }
+  ],
+  "award": false,
+  "hm": false,
+  "subtype": "Demo",
+  "title": "(SUI) TriggerWalking: A Biomechanically-Inspired Locomotion User Interface for Efficient Realistic Virtual Walking",
+  "type": "Demo"
+},
+ "suid2":{
+  "authors": [
+   {
+    "name": "Uwe Gruenefeld"
+   },
+   {
+    "name": "Dana Hsiao"
+   },
+   {
+    "name": "Wilko Heuten"
+   },
+   {
+    "name": "Susanne Boll"
+   }
+  ],
+  "award": false,
+  "hm": false,
+  "subtype": "Demo",
+  "title": "(SUI) EyeSee: Beyond Reality with Microsoft HoloLens",
+  "type": "Demo"
+},
+ "suid3":{
+  "authors": [
+   {
+    "name": "John C. McClelland"
+   },
+   {
+    "name": "Robert J. Teather"
+   },
+   {
+    "name": "Audrey Girouard"
+   }
+  ],
+  "award": false,
+  "hm": false,
+  "subtype": "Demo",
+  "title": "(SUI) Haptic Feedback with HaptoBend: Utilizing Shape-Change to Enhance Virtual Reality",
+  "type": "Demo"
+},
+ "suid4":{
+  "authors": [
+   {
+    "name": "Md. Sami Uddin"
+   },
+   {
+    "name": "Carl Gutwin"
+   },
+   {
+    "name": "Alix Goguey"
+   }
+  ],
+  "award": false,
+  "hm": false,
+  "subtype": "Demo",
+  "title": "(SUI) Artificial Landmarks Augmented Linear Control Widgets to Improve Spatial Learning and Revisitation Performance",
+  "type": "Demo"
+},
+ "suid5":{
+  "authors": [
+   {
+    "name": "YuanYuan Qian"
+   },
+   {
+    "name": "Robert J. Teather"
+   }
+  ],
+  "award": false,
+  "hm": false,
+  "subtype": "Demo",
+  "title": "(SUI) Head vs. Eye-Based Selection in Virtual Reality",
+  "type": "Demo"
+},
+ "suid6":{
+  "authors": [
+   {
+    "name": "Ifigeneia I. Mavridou"
+   },
+   {
+    "name": "Mahyar Hamedi"
+   },
+   {
+    "name": "Mohsen Fatoorechi"
+   },
+   {
+    "name": "James Archer"
+   },
+   {
+    "name": "Andrew Cleal"
+   },
+   {
+    "name": "Emili Balaguer-Ballester"
+   },
+   {
+    "name": "Ellen Seiss"
+   },
+   {
+    "name": "Charles Nduka"
+   }
+  ],
+  "award": false,
+  "hm": false,
+  "subtype": "Demo",
+  "title": "(SUI) Using Facial Gestures to Drive Narrative in VR",
   "type": "Demo"
 }
 }

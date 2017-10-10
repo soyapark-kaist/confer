@@ -7,7 +7,7 @@ sessions={
 },
  "Tutorial_Analyzing_Qualitative_Data":{
   "date": "Oct 17, 2017",
-  "room": "TBC",
+  "room": "Shelly",
   "s_title": "Tutorial: Analyzing Qualitative Data",
   "submissions": [
     "t1"
@@ -16,7 +16,7 @@ sessions={
 },
  "Tutorial_Personalized_Interactive_Surfaces_with_Printed_Electronics":{
   "date": "Oct 17, 2017",
-  "room": "TBC",
+  "room": "Wordsworth",
   "s_title": "Tutorial: Personalized Interactive Surfaces with Printed Electronics",
   "submissions": [
     "t2"
@@ -25,13 +25,13 @@ sessions={
 },
  "Tuesday_Lunch": {
     "date": "Oct 17, 2017", 
-    "room": "Lounge", 
+    "room": "Atrium", 
     "s_title": "Lunch Break", 
     "time": "12:30 - 14:00"
 }, 
  "Tutorial_Multisensory_Experiences":{
   "date": "Oct 17, 2017",
-  "room": "TBC",
+  "room": "Shelly",
   "s_title": "Tutorial: Multisensory Experiences",
   "submissions": [
     "t3"
@@ -40,7 +40,7 @@ sessions={
 },
  "Workshop_The_Disappearing_Tabletop_Social_and_Technical_Challenges_for_Cross-Surface_Collaboration":{
   "date": "Oct 17, 2017",
-  "room": "TBC",
+  "room": "Wordsworth",
   "s_title": "Workshop : The Disappearing Tabletop: Social and Technical Challenges for Cross-Surface Collaboration",
   "submissions": [
     "w1"
@@ -55,8 +55,57 @@ sessions={
 },
  "Welcome_Reception":{
   "date": "Oct 17, 2017",
-  "room": "Lounge",
+  "room": "Atrium/Library Terrace/Noblesse",
   "s_title": "Welcome and Joint Demo and Poster Reception (ISS and SUI)",
+   "submissions": [
+    "po1001",
+    "po1019",
+    "po1029",
+    "po1031",
+    "po1034",
+	"po1038",
+    "po1040",
+    "po1041",
+    "po1044",
+    "po1005",
+	"po1006",
+    "po1007",
+    "po1008",
+	"po1012",
+    "po1014",
+    "po1017",
+	"po1018",
+    "po1020",
+    "d1006",
+	"d1007",
+	"d1014",
+    "d1015",
+    "d1022",
+    "d1023",
+    "d1024",
+	"d1025",
+    "d1026",
+    "d1027",
+	"d1028",
+    "d1029",
+    "d1030",
+	"d1031",
+    "d1033",
+    "d1035",
+	"d1036",
+    "d1002",
+	"d1003",
+    "pd1006",
+	"pd1007",
+    "d1008",
+    "d1010",
+	"suid1",
+	"suid2",
+	"suid3",
+	"suid4",
+	"suid5",
+	"suid6"
+  ],
   "time": "18:00 - 22:00"
 },
  "Registration3":{
@@ -89,7 +138,7 @@ sessions={
  "Session1_Highlights_of_SUI":{
   "date": "Oct 18, 2017",
   "room": "Renaissance",
-  "s_title": "Session 1: Highlights of SUI",
+  "s_title": "Session 1: Highlights of SUI - Chair: Raimund Dachselt (TU Dresden, Germany)",
   "submissions": [
     "sui01",
     "sui02",
@@ -99,14 +148,14 @@ sessions={
 },
  "Wednesday_Lunch": {
     "date": "Oct 18, 2017", 
-    "room": "Lounge", 
+    "room": "Atrium", 
     "s_title": "Lunch Break (Buffet Lunch is provided)", 
     "time": "12:15 - 13:30"
 }, 
  "Panel_Funding_Research_Projects_in_Human-Computer_Interaction":{
   "date": "Oct 18, 2017",
   "room": "Renaissance",
-  "s_title": "Panel 1 : Funding Research Projects in Human-Computer Interaction",
+  "s_title": "Panel 1 : Funding Research Projects in Human-Computer Interaction - Chair: Albrecht Schmidt (LMU Munich, Germany)",
   "submissions": [
     "pa1"
   ],
@@ -121,7 +170,7 @@ sessions={
  "Session2_Touch_Interaction_and_Beyond":{
   "date": "Oct 18, 2017",
   "room": "Renaissance",
-  "s_title": "Session 2: Touch Interaction and Beyond",
+  "s_title": "Session 2: Touch Interaction and Beyond - Chair: Jens Grubert (Coburg University, Germany)",
   "submissions": [
     "p1081",
     "p1141",
@@ -146,7 +195,7 @@ sessions={
  "Session3_Exploring_Spaces_3D_Interaction":{
   "date": "Oct 19, 2017",
   "room": "Renaissance",
-  "s_title": "Session 3: Exploring Spaces : 3D Interaction",
+  "s_title": "Session 3: Exploring Spaces : 3D Interaction - Chair: Dimitar Valkov (University of Münster, Germany) ",
   "submissions": [
     "p1052",
     "p1073",
@@ -166,7 +215,7 @@ sessions={
  "Panel_Future_Directions_for_Interactive_Spaces_and_Surfaces":{
   "date": "Oct 18, 2017",
   "room": "Renaissance",
-  "s_title": "Panel 2: Future Directions for Interactive Spaces and Surfaces",
+  "s_title": "Panel 2: Future Directions for Interactive Spaces and Surfaces - Chair: Orit Shaer (Wellesley College, USA)",
   "submissions": [
     "pa2"
   ],
@@ -175,19 +224,22 @@ sessions={
  "Award_Ceremony_and_10_Year_Impact_Award_Presentation": {
     "date": "Oct 19, 2017", 
     "room": "Renaissance", 
-    "s_title": "Award Ceremony and 10 Year Impact Award Presentation", 
+    "s_title": "Award Ceremony and 10 Year Impact Award Presentation - Chair: Raimund Dachselt (TU Dresden, Germany)", 
+	"submissions": [
+    "aw1"
+  ],
     "time": "12:15 - 12:45"
 }, 
  "Thursday_Lunch": {
     "date": "Oct 19, 2017", 
-    "room": "Lounge", 
+    "room": "Atrium", 
     "s_title": "Lunch Break (Buffet Lunch is provided)", 
     "time": "12:45 - 14:00"
 }, 
  "Session4_From_Wall_Displays_to_Liquid Matter":{
   "date": "Oct 19, 2017",
   "room": "Renaissance",
-  "s_title": "Session 4: From Wall Displays to Liquid Matter",
+  "s_title": "Session 4: From Wall Displays to Liquid Matter - Chair: Stacey Scott (University of Guelph, Canada)",
   "submissions": [
     "p1027",
     "p1123",
@@ -206,7 +258,7 @@ sessions={
  "Session5_Feel_Taste_Smell_Splash":{
   "date": "Oct 19, 2017",
   "room": "Renaissance",
-  "s_title": "Session 5: Feel, Taste, Smell, Splash",
+  "s_title": "Session 5: Feel, Taste, Smell, Splash - Chair: Paloma Diaz (University of Madrid, Spain)",
   "submissions": [
     "p1087",
     "p1065",
@@ -218,14 +270,14 @@ sessions={
 },
  "Conference_Dinner": {
     "date": "Oct 19, 2017", 
-    "room": "TBC", 
-    "s_title": "Conference Dinner", 
+    "room": "Palm Court Restaurant/Brighton Palace Pier", 
+    "s_title": "Conference Dinner - Palm Court Restaurant in Brighton Palace Pier (Map: https://goo.gl/Nh79w8 )", 
     "time": "19:00 - 22:00"
 }, 
  "Session6_Mobile_Interaction_Type_Touch_and_Bend":{
   "date": "Oct 20, 2017",
   "room": "Renaissance",
-  "s_title": "Session 6: Mobile Interaction: Type, Touch and Bend",
+  "s_title": "Session 6: Mobile Interaction: Type, Touch and Bend - Chair: Fabrice Matulic (Preferred Networks, Japan)",
   "submissions": [
     "p1124",
     "p1121",
@@ -244,7 +296,7 @@ sessions={
 }, 
  "Poster_and_Demos":{
   "date": "Oct 20, 2017",
-  "room": "Library Terrace/Lounge/Noblesse",
+  "room": "Library Terrace/Atrium/Noblesse",
   "s_title": "Poster and Demos",
   "submissions": [
     "po1001",
@@ -293,14 +345,14 @@ sessions={
 },
  "Friday_Lunch_and_Townhall_Meeting": {
     "date": "Oct 20, 2017", 
-    "room": "Lounge/Renaissance", 
+    "room": "Atrium/Renaissance", 
     "s_title": "Lunch and Townhall Meeting", 
     "time": "12:30 - 13:45"
 }, 
- "Session 7: In the Wild : Education, Sports and Beyond":{
+ "Session7_In_the_Wild_Education_Sports_and_Beyond":{
   "date": "Oct 20, 2017",
   "room": "Renaissance",
-  "s_title": "Session 7: In the Wild : Education, Sports and Beyond",
+  "s_title": "Session 7: In the Wild : Education, Sports and Beyond - Chair: Craig Anslow (Victoria University of Wellington, New Zealand)",
   "submissions": [
     "p1018",
     "p1059",
