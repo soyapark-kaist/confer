@@ -156,11 +156,7 @@ schedule=[
       {
         "sessions": [
           {
-            "room": "Villeray/DeTourny+St.Louis+Ballroom Foyer", 
-            "session": "np_demorec"
-          }, 
-          {
-            "room": "Villeray/DeTourny+St.Louis+Ballroom Foyer", 
+            "room": "Villeray/DeTourny+St.Louis+Ballroom Foyer - see <a href=\"https://uist.acm.org/uist2017/demos.pdf\">map</a>", 
             "session": "19"
           }
         ], 
@@ -250,10 +246,6 @@ schedule=[
           {
             "room": "Ballroom Foyer", 
             "session": "18"
-          }, 
-          {
-            "room": "Ballroom Foyer", 
-            "session": "np_break4"
           }
         ], 
         "slot_class": "afternoon2", 
@@ -302,7 +294,7 @@ schedule=[
       {
         "sessions": [
           {
-            "room": "Palais+Kent+St.Louis", 
+            "room": "Palais+Kent", 
             "session": "np_hcompwelcome"
           }
         ], 
@@ -313,7 +305,7 @@ schedule=[
       {
         "sessions": [
           {
-            "room": "Palais+Kent+St.Louis", 
+            "room": "Palais+Kent", 
             "session": "np_keynote2"
           }, 
           {

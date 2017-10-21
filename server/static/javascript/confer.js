@@ -838,7 +838,7 @@ function get_session_html(id, day, time, slot_class, room){
   }
 
   var raw_html = '<div class="session ' + award +  ' ' + venues +  ' ' + id  + ' ' + day + ' ' + slot_class + ' '
-        + ' ' + room + '" data="' + id + '">'
+        + '" data="' + id + '">'
   raw_html += '<table class="session-container session-collapsible" data="' + id + '"><tr class="clickable">'
 
   raw_html += '<td class="metadata">'

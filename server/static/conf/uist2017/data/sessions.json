@@ -115,7 +115,7 @@ sessions={
   "18": {
     "date": "10/24", 
     "room": "Ballroom Foyer", 
-    "s_title": "Posters", 
+    "s_title": "Poster Session & Coffee Break sponsored by Snap Research", 
     "submissions": [
       "uistpp111", 
       "uistpp117", 
@@ -147,8 +147,8 @@ sessions={
   }, 
   "19": {
     "date": "10/23", 
-    "room": "Villeray/DeTourny+St.Louis+Ballroom Foyer", 
-    "s_title": "Demos", 
+    "room": "Villeray/DeTourny+St.Louis+Ballroom Foyer - see <a href=\"https://uist.acm.org/uist2017/demos.pdf\">map</a>", 
+    "s_title": "Demo Reception sponsored by Adobe Research", 
     "submissions": [
       "uistde102", 
       "uistde106", 
@@ -287,49 +287,42 @@ sessions={
   "np_banquet": {
     "date": "10/24", 
     "room": "Museum of Fine Arts", 
-    "s_title": "Banquet", 
+    "s_title": "Banquet sponsored by Autodesk Research", 
     "submissions": [], 
     "time": "6:00 PM"
   }, 
   "np_break1": {
     "date": "10/23", 
     "room": "Ballroom Foyer", 
-    "s_title": "Break", 
+    "s_title": "Coffee Break sponsored by Nureva Inc", 
     "submissions": [], 
     "time": "11:00 AM"
   }, 
   "np_break2": {
     "date": "10/23", 
     "room": "Ballroom Foyer", 
-    "s_title": "Break", 
+    "s_title": "Coffee Break sponsored by Nureva Inc", 
     "submissions": [], 
     "time": "3:50 PM"
   }, 
   "np_break3": {
     "date": "10/24", 
     "room": "Ballroom Foyer", 
-    "s_title": "Break", 
+    "s_title": "Coffee Break sponsored by Autodesk Research", 
     "submissions": [], 
     "time": "10:30 AM"
-  }, 
-  "np_break4": {
-    "date": "10/24", 
-    "room": "Ballroom Foyer", 
-    "s_title": "Poster session & Coffee Break", 
-    "submissions": [], 
-    "time": "3:30 PM"
   }, 
   "np_break5": {
     "date": "10/25", 
     "room": "Ballroom Foyer", 
-    "s_title": "Break", 
+    "s_title": "Coffee Break sponsored by Snap Research", 
     "submissions": [], 
     "time": "10:00 AM"
   }, 
   "np_break6": {
     "date": "10/25", 
     "room": "Ballroom Foyer", 
-    "s_title": "Break", 
+    "s_title": "Coffee Break sponsored by Disney Research", 
     "submissions": [], 
     "time": "3:00 PM"
   }, 
@@ -340,16 +333,9 @@ sessions={
     "submissions": [], 
     "time": "4:50 PM"
   }, 
-  "np_demorec": {
-    "date": "10/23", 
-    "room": "Villeray/DeTourny+St.Louis+Ballroom Foyer", 
-    "s_title": "Demo Reception", 
-    "submissions": [], 
-    "time": "6:00 PM"
-  }, 
   "np_hcompwelcome": {
     "date": "10/25", 
-    "room": "Palais+Kent+St.Louis", 
+    "room": "Palais+Kent", 
     "s_title": "Joint HCOMP/UIST Welcome", 
     "submissions": [], 
     "time": "8:45 AM"
@@ -363,7 +349,7 @@ sessions={
   }, 
   "np_keynote2": {
     "date": "10/25", 
-    "room": "Palais+Kent+St.Louis", 
+    "room": "Palais+Kent", 
     "s_title": "Keynote: Prof. Niki Kittur", 
     "submissions": [], 
     "time": "9:00 AM"
@@ -441,7 +427,7 @@ sessions={
   "np_welcome": {
     "date": "10/22", 
     "room": "Villeray/DeTourny", 
-    "s_title": "Welcome Reception", 
+    "s_title": "Welcome Reception sponsored by Disney Research", 
     "submissions": [], 
     "time": "6:00 PM"
   }
