@@ -36,6 +36,10 @@ schedule=[
           {
             "room": "Ballroom Foyer", 
             "session": "np_reg1"
+          }, 
+          {
+            "room": "Ballroom Foyer", 
+            "session": "np_breakfast1"
           }
         ], 
         "slot_class": "morning1", 
@@ -174,6 +178,17 @@ schedule=[
         "sessions": [
           {
             "room": "Ballroom Foyer", 
+            "session": "np_breakfast2"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "10_248_00_AM", 
+        "time": "8:00 AM"
+      }, 
+      {
+        "sessions": [
+          {
+            "room": "Ballroom Foyer", 
             "session": "np_reg2"
           }, 
           {
@@ -291,6 +306,17 @@ schedule=[
     "date": "10/25", 
     "day": "Wednesday", 
     "slots": [
+      {
+        "sessions": [
+          {
+            "room": "Ballroom Foyer", 
+            "session": "np_breakfast3"
+          }
+        ], 
+        "slot_class": "morning1", 
+        "slot_id": "10_258_00_AM", 
+        "time": "8:00 AM"
+      }, 
       {
         "sessions": [
           {

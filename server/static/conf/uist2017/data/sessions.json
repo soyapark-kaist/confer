@@ -287,7 +287,7 @@ sessions={
   "np_banquet": {
     "date": "10/24", 
     "room": "Museum of Fine Arts", 
-    "s_title": "Banquet sponsored by Autodesk Research", 
+    "s_title": "Banquet and Student Innovation Contest sponsored by Autodesk Research", 
     "submissions": [], 
     "time": "6:00 PM"
   }, 
@@ -325,6 +325,27 @@ sessions={
     "s_title": "Coffee Break sponsored by Disney Research", 
     "submissions": [], 
     "time": "3:00 PM"
+  }, 
+  "np_breakfast1": {
+    "date": "10/23", 
+    "room": "Ballroom Foyer", 
+    "s_title": "Breakfast", 
+    "submissions": [], 
+    "time": "8:00 AM"
+  }, 
+  "np_breakfast2": {
+    "date": "10/24", 
+    "room": "Ballroom Foyer", 
+    "s_title": "Breakfast", 
+    "submissions": [], 
+    "time": "8:00 AM"
+  }, 
+  "np_breakfast3": {
+    "date": "10/25", 
+    "room": "Ballroom Foyer", 
+    "s_title": "Breakfast", 
+    "submissions": [], 
+    "time": "8:00 AM"
   }, 
   "np_closing": {
     "date": "10/25", 
