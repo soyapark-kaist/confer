@@ -210,7 +210,6 @@ sessions={
     "s_title": "Eyes and Hands", 
     "submissions": [
       "uistf3285", 
-      "uistf2241", 
       "uistf2925", 
       "uistf2052"
     ], 
@@ -261,7 +260,8 @@ sessions={
       "uistf4922", 
       "uistf4706", 
       "uistf1172", 
-      "TOCHI 0014.R2"
+      "TOCHI 0014.R2", 
+      "uistf2241"
     ], 
     "time": "9:00 AM"
   }, 
