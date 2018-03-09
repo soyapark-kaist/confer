@@ -1,0 +1,7903 @@
+sessions={
+    "Workshop": {
+        "s_title": "W04 \u201cGrand Visions\u201d for Post-Capitalist Human-Computer Interaction",
+        "room": "513A",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+            "wks147"
+        ],
+        "personas": "",
+        "venue": "workshop",
+        "day": "4/21/18",
+        "s_tags": [
+
+        ],
+        "type": "workshop",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "workshop",
+        "chairId": "",
+        "chair": ""
+    },
+    "Workshop_2": {
+        "s_title": "W02 The Body as Starting Point: Exploring Inside and Around Body Boundaries for Body-Centric Computing Design",
+        "room": "513B",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+            "wks223"
+        ],
+        "personas": "",
+        "venue": "workshop",
+        "day": "4/21/18",
+        "s_tags": [
+
+        ],
+        "type": "workshop",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "workshop",
+        "chairId": "",
+        "chair": ""
+    },
+    "Workshop_3": {
+        "s_title": "W03 (Un)Acceptable!?! -- Re-thinking the Social Acceptability of Emerging Technologies",
+        "room": "513D",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+            "wks185"
+        ],
+        "personas": "",
+        "venue": "workshop",
+        "day": "4/21/18",
+        "s_tags": [
+
+        ],
+        "type": "workshop",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "workshop",
+        "chairId": "",
+        "chair": ""
+    },
+    "Workshop_7": {
+        "s_title": "W06 Chinese CHI 2018 Workshop",
+        "room": "514C",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+            "wks154"
+        ],
+        "personas": "",
+        "venue": "workshop",
+        "day": "4/21/18",
+        "s_tags": [
+
+        ],
+        "type": "workshop",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "workshop",
+        "chairId": "",
+        "chair": ""
+    },
+    "Workshop_8": {
+        "s_title": "W07 Data visualization on Mobile Devices",
+        "room": "515A",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+            "wks208"
+        ],
+        "personas": "",
+        "venue": "workshop",
+        "day": "4/21/18",
+        "s_tags": [
+
+        ],
+        "type": "workshop",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "workshop",
+        "chairId": "",
+        "chair": ""
+    },
+    "Workshop_9": {
+        "s_title": "W08 Data-Driven Educational Game Design",
+        "room": "515B",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+            "wks219"
+        ],
+        "personas": "",
+        "venue": "workshop",
+        "day": "4/21/18",
+        "s_tags": [
+
+        ],
+        "type": "workshop",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "workshop",
+        "chairId": "",
+        "chair": ""
+    },
+    "Workshop_10": {
+        "s_title": "W09 Design for Sexual Wellbeing in HCI",
+        "room": "515C",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+            "wks228"
+        ],
+        "personas": "",
+        "venue": "workshop",
+        "day": "4/21/18",
+        "s_tags": [
+
+        ],
+        "type": "workshop",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "workshop",
+        "chairId": "",
+        "chair": ""
+    },
+    "Workshop_11": {
+        "s_title": "W10 Designing Recipes for Digital Food Futures",
+        "room": "518A",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+            "wks188"
+        ],
+        "personas": "",
+        "venue": "workshop",
+        "day": "4/21/18",
+        "s_tags": [
+
+        ],
+        "type": "workshop",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "workshop",
+        "chairId": "",
+        "chair": ""
+    },
+    "Workshop_12": {
+        "s_title": "W11 Disruptive Improvisations: Making Use of Non-Deterministic Art Practices in HCI",
+        "room": "518B",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+            "wks207"
+        ],
+        "personas": "",
+        "venue": "workshop",
+        "day": "4/21/18",
+        "s_tags": [
+
+        ],
+        "type": "workshop",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "workshop",
+        "chairId": "",
+        "chair": ""
+    },
+    "Workshop_13": {
+        "s_title": "W19 Sensemaking in a Senseless World: 2018 Workshop Abstract",
+        "room": "518C",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+            "wks216"
+        ],
+        "personas": "",
+        "venue": "workshop",
+        "day": "4/21/18",
+        "s_tags": [
+
+        ],
+        "type": "workshop",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "workshop",
+        "chairId": "",
+        "chair": ""
+    },
+    "Workshop_14": {
+        "s_title": "W13 Inclusive Education Technologies: Emerging Opportunities for People with Visual Impairments",
+        "room": "519A",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+            "wks210"
+        ],
+        "personas": "",
+        "venue": "workshop",
+        "day": "4/21/18",
+        "s_tags": [
+
+        ],
+        "type": "workshop",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "workshop",
+        "chairId": "",
+        "chair": ""
+    },
+    "Workshop_15": {
+        "s_title": "W14 Internet of Tangible Things: Workshop on Tangible Interaction with the Internet of Things",
+        "room": "519B",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+            "wks213"
+        ],
+        "personas": "",
+        "venue": "workshop",
+        "day": "4/21/18",
+        "s_tags": [
+
+        ],
+        "type": "workshop",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "workshop",
+        "chairId": "",
+        "chair": ""
+    },
+    "Workshop_16": {
+        "s_title": "W15 Mid-Air Haptics for Control Interfaces",
+        "room": "520C",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+            "wks195"
+        ],
+        "personas": "",
+        "venue": "workshop",
+        "day": "4/21/18",
+        "s_tags": [
+
+        ],
+        "type": "workshop",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "workshop",
+        "chairId": "",
+        "chair": ""
+    },
+    "Workshop_17": {
+        "s_title": "W16 Moving beyond a \"one-size fits all\" approach: Exploring Individual Differences in Privacy",
+        "room": "521A",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+            "wks167"
+        ],
+        "personas": "",
+        "venue": "workshop",
+        "day": "4/21/18",
+        "s_tags": [
+
+        ],
+        "type": "workshop",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "workshop",
+        "chairId": "",
+        "chair": ""
+    },
+    "Workshop_18": {
+        "s_title": "W17 Reshaping Touch Communication: An Interdisciplinary Research Agenda",
+        "room": "521B",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+            "wks120"
+        ],
+        "personas": "",
+        "venue": "workshop",
+        "day": "4/21/18",
+        "s_tags": [
+
+        ],
+        "type": "workshop",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "workshop",
+        "chairId": "",
+        "chair": ""
+    },
+    "Workshop_19": {
+        "s_title": "W18 Secret Lives of Data Publics: Mixed Reality Smart City Interfaces",
+        "room": "521C",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+            "wks206"
+        ],
+        "personas": "",
+        "venue": "workshop",
+        "day": "4/21/18",
+        "s_tags": [
+
+        ],
+        "type": "workshop",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "workshop",
+        "chairId": "",
+        "chair": ""
+    },
+    "Workshop_20": {
+        "s_title": "W01 HCIxDementia Workshop: Engaging People Living with Dementia",
+        "room": "522A",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+            "wks160"
+        ],
+        "personas": "",
+        "venue": "workshop",
+        "day": "4/21/18",
+        "s_tags": [
+
+        ],
+        "type": "workshop",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "workshop",
+        "chairId": "",
+        "chair": ""
+    },
+    "Workshop_21": {
+        "s_title": "W20 SmartObjects: Sixth Workshop on Interacting with Smart Objects",
+        "room": "522B",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+            "wks134"
+        ],
+        "personas": "",
+        "venue": "workshop",
+        "day": "4/21/18",
+        "s_tags": [
+
+        ],
+        "type": "workshop",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "workshop",
+        "chairId": "",
+        "chair": ""
+    },
+    "Workshop_22": {
+        "s_title": "W21 Understanding \"Bad Actors\" Online",
+        "room": "522C",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+            "wks148"
+        ],
+        "personas": "",
+        "venue": "workshop",
+        "day": "4/21/18",
+        "s_tags": [
+
+        ],
+        "type": "workshop",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "workshop",
+        "chairId": "",
+        "chair": ""
+    },
+    "Workshop_23": {
+        "s_title": "W05 A Short Workshop on Next Steps Towards Long Term Self Tracking",
+        "room": "514B",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+            "wks129"
+        ],
+        "personas": "",
+        "venue": "workshop",
+        "day": "4/21/18",
+        "s_tags": [
+
+        ],
+        "type": "workshop",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "workshop",
+        "chairId": "",
+        "chair": ""
+    },
+    "Workshop_40": {
+        "s_title": "W12 HCI Outdoors: Understanding Human-Computer Interaction in Outdoor Recreation",
+        "room": "514A",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+            "wks192"
+        ],
+        "personas": "",
+        "venue": "workshop",
+        "day": "4/21/18",
+        "s_tags": [
+
+        ],
+        "type": "workshop",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "workshop",
+        "chairId": "",
+        "chair": ""
+    },
+    "Workshop_41": {
+        "s_title": "DOCTORAL CONSORTIUM",
+        "room": "520F",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+
+        ],
+        "personas": "",
+        "venue": "DocConsortium",
+        "day": "4/21/18",
+        "s_tags": [
+
+        ],
+        "type": "DocConsortium",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "DocConsortium",
+        "chairId": "",
+        "chair": ""
+    },
+    "Workshop_43": {
+        "s_title": "SCIENCE JAM",
+        "room": "520E",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+
+        ],
+        "personas": "",
+        "venue": "Science Jam",
+        "day": "4/21/18",
+        "s_tags": [
+
+        ],
+        "type": "Science Jam",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "Science Jam",
+        "chairId": "",
+        "chair": ""
+    },
+    "Workshop_45": {
+        "s_title": "SCIENCE JAM",
+        "room": "520B",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+
+        ],
+        "personas": "",
+        "venue": "Science Jam",
+        "day": "4/21/18",
+        "s_tags": [
+
+        ],
+        "type": "Science Jam",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "Science Jam",
+        "chairId": "",
+        "chair": ""
+    },
+    "Symposium": {
+        "s_title": "SYM01 Computer-Human Interaction Mentoring (CHIMe)",
+        "room": "513C",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+            "wks235"
+        ],
+        "personas": "",
+        "venue": "Symposia",
+        "day": "4/21/18",
+        "s_tags": [
+
+        ],
+        "type": "Symposia",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "Symposia",
+        "chairId": "",
+        "chair": ""
+    },
+    "Symposium_3": {
+        "s_title": "SYM03 HCI Across Boarders: Paving New Pathways",
+        "room": "524A",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+            "wks226"
+        ],
+        "personas": "",
+        "venue": "Symposia",
+        "day": "4/21/18",
+        "s_tags": [
+
+        ],
+        "type": "Symposia",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "Symposia",
+        "chairId": "",
+        "chair": ""
+    },
+    "Symposium_6": {
+        "s_title": "SYM02: Early Career Development",
+        "room": "524B",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+            "wks237"
+        ],
+        "personas": "",
+        "venue": "Symposia",
+        "day": "4/21/18",
+        "s_tags": [
+
+        ],
+        "type": "Symposia",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "Symposia",
+        "chairId": "",
+        "chair": ""
+    },
+    "JAMS_2": {
+        "s_title": "GAME JAM",
+        "room": "520AD",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+
+        ],
+        "personas": "",
+        "venue": "Game Jam",
+        "day": "4/21/18",
+        "s_tags": [
+
+        ],
+        "type": "Game Jam",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "Game Jam",
+        "chairId": "",
+        "chair": ""
+    },
+    "Workshop_4": {
+        "s_title": "W02&nbsp;The Body as Starting Point: Exploring Inside and Around Body Boundaries for Body-Centric Computing Design",
+        "room": "513B",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+            "wks223-2"
+        ],
+        "personas": "",
+        "venue": "workshop",
+        "day": "4/22/18",
+        "s_tags": [
+
+        ],
+        "type": "workshop",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "workshop",
+        "chairId": "",
+        "chair": ""
+    },
+    "Workshop_5": {
+        "s_title": "W36 General Data Protection Regulation: An opportunity for HCI community?",
+        "room": "524C",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+            "wks209"
+        ],
+        "personas": "",
+        "venue": "workshop",
+        "day": "4/22/18",
+        "s_tags": [
+
+        ],
+        "type": "workshop",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "workshop",
+        "chairId": "",
+        "chair": ""
+    },
+    "Workshop_6": {
+        "s_title": "W26 Experience Design meets Service Design - Method Clash or Marriage?",
+        "room": "514A",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+            "wks197"
+        ],
+        "personas": "",
+        "venue": "workshop",
+        "day": "4/22/18",
+        "s_tags": [
+
+        ],
+        "type": "workshop",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "workshop",
+        "chairId": "",
+        "chair": ""
+    },
+    "Workshop_24": {
+        "s_title": "W34 Rethinking Interaction: From Instrumental Interaction to Human-Computer Partnerships",
+        "room": "514B",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+            "wks214"
+        ],
+        "personas": "",
+        "venue": "workshop",
+        "day": "4/22/18",
+        "s_tags": [
+
+        ],
+        "type": "workshop",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "workshop",
+        "chairId": "",
+        "chair": ""
+    },
+    "Workshop_25": {
+        "s_title": "W28 HCI for Blockchain: Studying, Designing, Critiquing and Envisioning Distributed Ledger Technologies",
+        "room": "514C",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+            "wks117"
+        ],
+        "personas": "",
+        "venue": "workshop",
+        "day": "4/22/18",
+        "s_tags": [
+
+        ],
+        "type": "workshop",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "workshop",
+        "chairId": "",
+        "chair": ""
+    },
+    "Workshop_26": {
+        "s_title": "W32 Maker Movements, Do-It-Yourself Cultures and Participatory Design: Implications for HCI Research",
+        "room": "515A",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+            "wks127"
+        ],
+        "personas": "",
+        "venue": "workshop",
+        "day": "4/22/18",
+        "s_tags": [
+
+        ],
+        "type": "workshop",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "workshop",
+        "chairId": "",
+        "chair": ""
+    },
+    "Workshop_27": {
+        "s_title": "W24 Designing Interactions for the Ageing Populations",
+        "room": "515B",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+            "wks140"
+        ],
+        "personas": "",
+        "venue": "workshop",
+        "day": "4/22/18",
+        "s_tags": [
+
+        ],
+        "type": "workshop",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "workshop",
+        "chairId": "",
+        "chair": ""
+    },
+    "Workshop_28": {
+        "s_title": "W37 Untold Stories: Working with Third Sector Organisations",
+        "room": "515C",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+            "wks144"
+        ],
+        "personas": "",
+        "venue": "workshop",
+        "day": "4/22/18",
+        "s_tags": [
+
+        ],
+        "type": "workshop",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "workshop",
+        "chairId": "",
+        "chair": ""
+    },
+    "Workshop_29": {
+        "s_title": "W23 Bridging a Bridge: Bringing Two HCI Communities Together",
+        "room": "518A",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+            "wks159"
+        ],
+        "personas": "",
+        "venue": "workshop",
+        "day": "4/22/18",
+        "s_tags": [
+
+        ],
+        "type": "workshop",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "workshop",
+        "chairId": "",
+        "chair": ""
+    },
+    "Workshop_30": {
+        "s_title": "W30 Interacting with Autonomous Vehicles: Learning from other Domains",
+        "room": "518B",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+            "wks162"
+        ],
+        "personas": "",
+        "venue": "workshop",
+        "day": "4/22/18",
+        "s_tags": [
+
+        ],
+        "type": "workshop",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "workshop",
+        "chairId": "",
+        "chair": ""
+    },
+    "Workshop_31": {
+        "s_title": "W35 The 2nd Workshop on Hacking and Making at Time-Bounded Events: Current Trends and Next Steps in Research and Event Design",
+        "room": "518C",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+            "wks164"
+        ],
+        "personas": "",
+        "venue": "workshop",
+        "day": "4/22/18",
+        "s_tags": [
+
+        ],
+        "type": "workshop",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "workshop",
+        "chairId": "",
+        "chair": ""
+    },
+    "Workshop_32": {
+        "s_title": "W25 Developing a Community of Practice to Support Global HCI Education",
+        "room": "519A",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+            "wks165"
+        ],
+        "personas": "",
+        "venue": "workshop",
+        "day": "4/22/18",
+        "s_tags": [
+
+        ],
+        "type": "workshop",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "workshop",
+        "chairId": "",
+        "chair": ""
+    },
+    "Workshop_33": {
+        "s_title": "W22 Brain-Computer Interfaces for Artistic Expression",
+        "room": "519B",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+            "wks172"
+        ],
+        "personas": "",
+        "venue": "workshop",
+        "day": "4/22/18",
+        "s_tags": [
+
+        ],
+        "type": "workshop",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "workshop",
+        "chairId": "",
+        "chair": ""
+    },
+    "Workshop_34": {
+        "s_title": "W38 Voice-Based Conversational UX Studies and Design",
+        "room": "521A",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+            "wks183"
+        ],
+        "personas": "",
+        "venue": "workshop",
+        "day": "4/22/18",
+        "s_tags": [
+
+        ],
+        "type": "workshop",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "workshop",
+        "chairId": "",
+        "chair": ""
+    },
+    "Workshop_35": {
+        "s_title": "W29 I Know That I Could Use Some Data...But Should I? Ethical Issues in the Use of Research Data",
+        "room": "521B",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+            "wks187"
+        ],
+        "personas": "",
+        "venue": "workshop",
+        "day": "4/22/18",
+        "s_tags": [
+
+        ],
+        "type": "workshop",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "workshop",
+        "chairId": "",
+        "chair": ""
+    },
+    "Workshop_36": {
+        "s_title": "W27 Exploring Participatory Design Methods to Engage with Arab Communities",
+        "room": "521C",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+            "wks191"
+        ],
+        "personas": "",
+        "venue": "workshop",
+        "day": "4/22/18",
+        "s_tags": [
+
+        ],
+        "type": "workshop",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "workshop",
+        "chairId": "",
+        "chair": ""
+    },
+    "Workshop_37": {
+        "s_title": "W01 HCIxDementia Workshop: Engaging People Living with Dementia",
+        "room": "522A",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+            "wks160-2"
+        ],
+        "personas": "",
+        "venue": "workshop",
+        "day": "4/22/18",
+        "s_tags": [
+
+        ],
+        "type": "workshop",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "workshop",
+        "chairId": "",
+        "chair": ""
+    },
+    "Workshop_38": {
+        "s_title": "W31 Living Labs: Measuring Human Experience in the Built Environment&nbsp;",
+        "room": "522B",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+            "wks200"
+        ],
+        "personas": "",
+        "venue": "workshop",
+        "day": "4/22/18",
+        "s_tags": [
+
+        ],
+        "type": "workshop",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "workshop",
+        "chairId": "",
+        "chair": ""
+    },
+    "Workshop_39": {
+        "s_title": "W33 Novel Interaction Techniques for Collaboration in VR",
+        "room": "522C",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+            "wks205"
+        ],
+        "personas": "",
+        "venue": "workshop",
+        "day": "4/22/18",
+        "s_tags": [
+
+        ],
+        "type": "workshop",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "workshop",
+        "chairId": "",
+        "chair": ""
+    },
+    "Workshop_42": {
+        "s_title": "DOCTORAL CONSORTIUM",
+        "room": "520F",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+
+        ],
+        "personas": "",
+        "venue": "DocConsortium",
+        "day": "4/22/18",
+        "s_tags": [
+
+        ],
+        "type": "DocConsortium",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "DocConsortium",
+        "chairId": "",
+        "chair": ""
+    },
+    "Workshop_44": {
+        "s_title": "SCIENCE JAME",
+        "room": "520E",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+
+        ],
+        "personas": "",
+        "venue": "Science Jam",
+        "day": "4/22/18",
+        "s_tags": [
+
+        ],
+        "type": "Science Jam",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "Science Jam",
+        "chairId": "",
+        "chair": ""
+    },
+    "Symposium_2": {
+        "s_title": "SYM01 Computer-Human Interaction Mentoring (CHIMe)",
+        "room": "513C",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+            "wks235-2"
+        ],
+        "personas": "",
+        "venue": "Symposia",
+        "day": "4/22/18",
+        "s_tags": [
+
+        ],
+        "type": "Symposia",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "Symposia",
+        "chairId": "",
+        "chair": ""
+    },
+    "Symposium_4": {
+        "s_title": "SYM05 Asian CHI Symposium: Emerging HCI Research Collection",
+        "room": "524A",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+            "wks234"
+        ],
+        "personas": "",
+        "venue": "Symposia",
+        "day": "4/22/18",
+        "s_tags": [
+
+        ],
+        "type": "Symposia",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "Symposia",
+        "chairId": "",
+        "chair": ""
+    },
+    "Symposium_5": {
+        "s_title": "SYM04 3rd Symposium on Computing and Mental Health: Understanding, Engaging, and Delighting Users",
+        "room": "520C",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+            "wks176"
+        ],
+        "personas": "",
+        "venue": "Symposia",
+        "day": "4/22/18",
+        "s_tags": [
+
+        ],
+        "type": "Symposia",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "Symposia",
+        "chairId": "",
+        "chair": ""
+    },
+    "JAMS": {
+        "s_title": "SCIENCE JAM",
+        "room": "520B",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+
+        ],
+        "personas": "",
+        "venue": "Science Jam",
+        "day": "4/22/18",
+        "s_tags": [
+
+        ],
+        "type": "Science Jam",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "Science Jam",
+        "chairId": "",
+        "chair": ""
+    },
+    "JAMS_3": {
+        "s_title": "GAME JAME",
+        "room": "520AD",
+        "time": "9:00",
+        "endTime": "5:00",
+        "submissions": [
+
+        ],
+        "personas": "",
+        "venue": "workshop",
+        "day": "4/22/18",
+        "s_tags": [
+
+        ],
+        "type": "workshop",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "workshop",
+        "chairId": "",
+        "chair": ""
+    },
+    "keynotes": {
+        "s_title": "Opening Keynote: Christian Rudder",
+        "room": "517A",
+        "time": "9:00",
+        "endTime": "10:30",
+        "submissions": [
+            "mhaley1000"
+        ],
+        "personas": "",
+        "venue": "keynote",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "keynote",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "keynote",
+        "chairId": "",
+        "chair": ""
+    },
+    "Annas_paper_session_2": {
+        "s_title": "Design for Emotion and Anticipation",
+        "room": "515ABC",
+        "time": "11:30",
+        "endTime": "12:50",
+        "submissions": [
+            "pn1238",
+            "pn1024",
+            "pn3092",
+            "pn4745"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth8362",
+        "chair": "Wai-Tat Fu"
+    },
+    "Case_studies": {
+        "s_title": "Bringing Data to Life",
+        "room": "514C",
+        "time": "11:30",
+        "endTime": "12:50",
+        "submissions": [
+            "cs1512",
+            "cs2916",
+            "cs1658",
+            "cs1859"
+        ],
+        "personas": "",
+        "venue": "casestudy",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "casestudy",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "casestudy",
+        "chairId": "authauth9794",
+        "chair": "Maria Wolters"
+    },
+    "Papers_12": {
+        "s_title": "Devices and Interactions for Care",
+        "room": "513AB",
+        "time": "11:30",
+        "endTime": "12:50",
+        "submissions": [
+            "pn4132",
+            "pn4988",
+            "pn2126",
+            "pn3572"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth37678",
+        "chair": "Elizabeth L Murnane"
+    },
+    "Papers_19": {
+        "s_title": "Future currencies and banking",
+        "room": "516E",
+        "time": "11:30",
+        "endTime": "12:50",
+        "submissions": [
+            "pn4679",
+            "jrnl1009",
+            "pn3772",
+            "pn2398"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth7362",
+        "chair": "Mike Hazas"
+    },
+    "Papers_40": {
+        "s_title": "Craft, Fabrication, Making",
+        "room": "516C",
+        "time": "11:30",
+        "endTime": "12:50",
+        "submissions": [
+            "pn2113",
+            "pn3456",
+            "pn2558",
+            "pn3673"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth23099",
+        "chair": "Alexandra Ion"
+    },
+    "Papers_59": {
+        "s_title": "Learning to Program",
+        "room": "518C",
+        "time": "11:30",
+        "endTime": "12:50",
+        "submissions": [
+            "pn4122",
+            "pn3386",
+            "pn4755",
+            "pn3212"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth25439",
+        "chair": "Pei-Yu Chi"
+    },
+    "Papers_72": {
+        "s_title": "Interactivity in Autonomous Vehicles",
+        "room": "519AB",
+        "time": "11:30",
+        "endTime": "12:50",
+        "submissions": [
+            "pn2518",
+            "pn2124",
+            "pn3590",
+            "jrnl1034"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "authauth53624",
+        "chair": "Xiaojuan Ma"
+    },
+    "Papers_125": {
+        "s_title": "Illusions in VR",
+        "room": "516AB",
+        "time": "11:30",
+        "endTime": "12:50",
+        "submissions": [
+            "pn1860",
+            "pn3777",
+            "pn1671",
+            "pn3940"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth23098",
+        "chair": "David Lindlbauer"
+    },
+    "Papers_130": {
+        "s_title": "Cross device interaction",
+        "room": "518AB",
+        "time": "11:30",
+        "endTime": "12:50",
+        "submissions": [
+            "pn1904",
+            "pn3499",
+            "pn3180",
+            "pn2177"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "authauth22850",
+        "chair": "Nitesh Goyal"
+    },
+    "Papers_133": {
+        "s_title": "Augmenting Augmented Reality",
+        "room": "516D",
+        "time": "11:30",
+        "endTime": "12:50",
+        "submissions": [
+            "pn3215",
+            "pn4651",
+            "pn1582",
+            "pn4921"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "authauth11952",
+        "chair": "Lars Erik Holmquist"
+    },
+    "Papers_157": {
+        "s_title": "Stay safe out there!",
+        "room": "514B",
+        "time": "11:30",
+        "endTime": "12:50",
+        "submissions": [
+            "pn4995",
+            "pn1749",
+            "pn2440",
+            "pn4034"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": true,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth10765",
+        "chair": "Stacy Branham"
+    },
+    "SIGS_8": {
+        "s_title": "Potentials Of HCI For Prisons And Incarcerated Individuals",
+        "room": "514A",
+        "time": "11:30",
+        "endTime": "12:50",
+        "submissions": [
+            "sigs1016"
+        ],
+        "personas": "",
+        "venue": "SIG",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "SIG",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "SIG",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course": {
+        "s_title": "mobile UX course",
+        "room": "521ABC",
+        "time": "11:30",
+        "endTime": "12:50",
+        "submissions": [
+            "crs124"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_9": {
+        "s_title": "Balanced Interaction Design",
+        "room": "522AB",
+        "time": "11:30",
+        "endTime": "12:50",
+        "submissions": [
+            "crs131-2"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_28": {
+        "s_title": "Introduction to Human-Computer Interaction",
+        "room": "524A",
+        "time": "11:30",
+        "endTime": "12:50",
+        "submissions": [
+            "crs118-2"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_34": {
+        "s_title": "How to write CHI papers - Second Edition",
+        "room": "524C",
+        "time": "11:30",
+        "endTime": "12:50",
+        "submissions": [
+            "crs122-3"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "formark_2": {
+        "s_title": "SIGCHI Volunteer",
+        "room": "524B",
+        "time": "11:30",
+        "endTime": "12:50",
+        "submissions": [
+
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "_2": {
+        "s_title": "Student Research Competition Poster Session",
+        "room": "520F",
+        "time": "11:30",
+        "endTime": "12:50",
+        "submissions": [
+
+        ],
+        "personas": "",
+        "venue": "Competition",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "Competition",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "Competition",
+        "chairId": "",
+        "chair": ""
+    },
+    "Altchi_4": {
+        "s_title": "alt.chi: Stop",
+        "room": "516AB",
+        "time": "14:30",
+        "endTime": "15:50",
+        "submissions": [
+            "alt1070",
+            "alt1013",
+            "alt1072",
+            "alt1002"
+        ],
+        "personas": "",
+        "venue": "altchi",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "altchi",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "altchi",
+        "chairId": "auth38002",
+        "chair": "Dharma Dailey"
+    },
+    "Papers_3": {
+        "s_title": "Different Realities: Space and Experience",
+        "room": "515ABC",
+        "time": "14:30",
+        "endTime": "15:50",
+        "submissions": [
+            "pn2500",
+            "pn3418",
+            "pn3445",
+            "pn3311"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth37508",
+        "chair": "Jan Gugenheimer"
+    },
+    "Papers_31": {
+        "s_title": "Quantifying and predicting performance",
+        "room": "516D",
+        "time": "14:30",
+        "endTime": "15:50",
+        "submissions": [
+            "pn4273",
+            "pn1183",
+            "pn4898",
+            "pn4385"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "authauth28660",
+        "chair": "Quentin Roy"
+    },
+    "Papers_47": {
+        "s_title": "Tools for Designing",
+        "room": "514C",
+        "time": "14:30",
+        "endTime": "15:50",
+        "submissions": [
+            "pn2929",
+            "pn1924",
+            "pn4663",
+            "pn4084"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "authauth45429",
+        "chair": "Paul Parsons"
+    },
+    "Papers_60": {
+        "s_title": "Children's Technology Use and Safety",
+        "room": "518AB",
+        "time": "14:30",
+        "endTime": "15:50",
+        "submissions": [
+            "pn2577",
+            "pn2212",
+            "pn1088",
+            "pn4175"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth16276",
+        "chair": "Anicia Peters"
+    },
+    "Papers_62": {
+        "s_title": "Civic Engagement",
+        "room": "518C",
+        "time": "14:30",
+        "endTime": "15:50",
+        "submissions": [
+            "pn3010",
+            "pn2175",
+            "pn3289",
+            "jrnl1017"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": true,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth9427",
+        "chair": "Christopher A Le Dantec"
+    },
+    "Papers_81": {
+        "s_title": "Fabrication&nbsp;",
+        "room": "513AB",
+        "time": "14:30",
+        "endTime": "15:50",
+        "submissions": [
+            "pn1990",
+            "pn2335",
+            "pn2855",
+            "pn2097"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth78148",
+        "chair": "Laura Devendorf"
+    },
+    "Papers_96": {
+        "s_title": "Presenting Health Information",
+        "room": "517C",
+        "time": "14:30",
+        "endTime": "15:50",
+        "submissions": [
+            "pn4305",
+            "pn4979",
+            "pn3550",
+            "pn1462"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth76468",
+        "chair": "Xi Niu"
+    },
+    "Papers_132": {
+        "s_title": "Modelling AR &amp; VR",
+        "room": "517A",
+        "time": "14:30",
+        "endTime": "15:50",
+        "submissions": [
+            "pn2178",
+            "pn1443",
+            "pn2345",
+            "pn4524"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth1217",
+        "chair": "Steven Feiner"
+    },
+    "Papers_147": {
+        "s_title": "Group collaboration",
+        "room": "517B",
+        "time": "14:30",
+        "endTime": "15:50",
+        "submissions": [
+            "pn2852",
+            "pn1490",
+            "jrnl1024",
+            "pn2215"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth62967",
+        "chair": "Himanshu Verma"
+    },
+    "Papers_171": {
+        "s_title": "Object/Functionality Selection",
+        "room": "517D",
+        "time": "14:30",
+        "endTime": "15:50",
+        "submissions": [
+            "pn4664",
+            "jrnl1001",
+            "jrnl1008",
+            "pn1096"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth25728",
+        "chair": "Sarah Wiseman"
+    },
+    "Papers_176": {
+        "s_title": "Privacy and public media",
+        "room": "516C",
+        "time": "14:30",
+        "endTime": "15:50",
+        "submissions": [
+            "pn1008",
+            "pn1345",
+            "jrnl1033",
+            "pn3326"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth63069",
+        "chair": "Elissa M Redmiles"
+    },
+    "Papers_178": {
+        "s_title": "Methods and research with diverse communities",
+        "room": "514B",
+        "time": "14:30",
+        "endTime": "15:50",
+        "submissions": [
+            "pn1060",
+            "pn4381",
+            "jrnl1022",
+            "pn2721"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth34155",
+        "chair": "Jasmine Jones"
+    },
+    "SIGS_7": {
+        "s_title": "Chatbots for Social Good",
+        "room": "514A",
+        "time": "14:30",
+        "endTime": "15:50",
+        "submissions": [
+            "sigs1026"
+        ],
+        "personas": "",
+        "venue": "SIG",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "SIG",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "SIG",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_2": {
+        "s_title": "mobile UX course",
+        "room": "521ABC",
+        "time": "14:30",
+        "endTime": "15:50",
+        "submissions": [
+            "crs124-2"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_10": {
+        "s_title": "Balanced Interaction Design",
+        "room": "522AB",
+        "time": "14:30",
+        "endTime": "15:50",
+        "submissions": [
+            "crs131"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_30": {
+        "s_title": "Introduction to Human-Computer Interaction",
+        "room": "524A",
+        "time": "14:30",
+        "endTime": "15:50",
+        "submissions": [
+            "crs118"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_31": {
+        "s_title": "How to write CHI papers - Second Edition",
+        "room": "524C",
+        "time": "14:30",
+        "endTime": "15:50",
+        "submissions": [
+            "crs122"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_48": {
+        "s_title": "Comms with public and press",
+        "room": "524B",
+        "time": "14:30",
+        "endTime": "15:50",
+        "submissions": [
+            "crsSC2-3"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "emp_2": {
+        "s_title": "Design &amp; Design Research 1",
+        "room": "519AB",
+        "time": "14:30",
+        "endTime": "15:50",
+        "submissions": [
+            "pn2164",
+            "pn3555",
+            "pn4358",
+            "pn3080"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth74076",
+        "chair": "Dan Lockton"
+    },
+    "Award": {
+        "s_title": "\n\nSIGCHI Awards 1: Lifetime Practice &amp; Social\nImpact\n\n",
+        "room": "516E",
+        "time": "14:30",
+        "endTime": "15:50",
+        "submissions": [
+            "awd1002",
+            "awd1001"
+        ],
+        "personas": "",
+        "venue": "Awards",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "Awards",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "Awards",
+        "chairId": "",
+        "chair": ""
+    },
+    "_3": {
+        "s_title": "Student Design Competition Poster Session",
+        "room": "520F",
+        "time": "14:30",
+        "endTime": "15:50",
+        "submissions": [
+
+        ],
+        "personas": "",
+        "venue": "Competition",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "Competition",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "Competition",
+        "chairId": "",
+        "chair": ""
+    },
+    "Panel": {
+        "s_title": "Daring to change: creating a slower more sustainable academic life",
+        "room": "520AD",
+        "time": "16:30",
+        "endTime": "17:50",
+        "submissions": [
+            "panel1007"
+        ],
+        "personas": "",
+        "venue": "panel",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "panel",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "panel",
+        "chairId": "",
+        "chair": ""
+    },
+    "Panel_7": {
+        "s_title": "Voice Assistants, UX Design and Research",
+        "room": "520B",
+        "time": "16:30",
+        "endTime": "17:50",
+        "submissions": [
+            "panel1012"
+        ],
+        "personas": "",
+        "venue": "panel",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "panel",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "panel",
+        "chairId": "",
+        "chair": ""
+    },
+    "Papers": {
+        "s_title": "Serious games",
+        "room": "515ABC",
+        "time": "16:30",
+        "endTime": "17:50",
+        "submissions": [
+            "jrnl1011",
+            "jrnl1043",
+            "pn2963",
+            "pn4654"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth60601",
+        "chair": "Sultan A Alharthi"
+    },
+    "Papers_10": {
+        "s_title": "Large Displays &amp; Interactive Floors",
+        "room": "514B",
+        "time": "16:30",
+        "endTime": "17:50",
+        "submissions": [
+            "pn4312",
+            "pn3980",
+            "jrnl1016",
+            "pn2637"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "authauth62513",
+        "chair": "Julie Williamson"
+    },
+    "Papers_45": {
+        "s_title": "Designing with meta-data",
+        "room": "513AB",
+        "time": "16:30",
+        "endTime": "17:50",
+        "submissions": [
+            "pn1085",
+            "pn1696",
+            "pn1767",
+            "pn2279"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth7658",
+        "chair": "Max L Wilson"
+    },
+    "Papers_61": {
+        "s_title": "Ubituitous Technology for Learning",
+        "room": "518C",
+        "time": "16:30",
+        "endTime": "17:50",
+        "submissions": [
+            "pn4758",
+            "pn2704",
+            "pn3738",
+            "pn2583"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth24483",
+        "chair": "Francesco Cafaro"
+    },
+    "Papers_95": {
+        "s_title": "Visualizations in Health",
+        "room": "517C",
+        "time": "16:30",
+        "endTime": "17:50",
+        "submissions": [
+            "pn3172",
+            "pn3896",
+            "pn3957",
+            "pn1491"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": true,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth24173",
+        "chair": "Pin Sym Foong"
+    },
+    "Papers_99": {
+        "s_title": "HCI for Emotional Support",
+        "room": "516C",
+        "time": "16:30",
+        "endTime": "17:50",
+        "submissions": [
+            "pn4790",
+            "pn4501",
+            "pn2975",
+            "pn4840"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth34837",
+        "chair": "Stephen Schueller"
+    },
+    "Papers_104": {
+        "s_title": "Mobility and orientation for visually impaired people",
+        "room": "517D",
+        "time": "16:30",
+        "endTime": "17:50",
+        "submissions": [
+            "pn4787",
+            "pn1104",
+            "pn1369",
+            "pn2230"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth19048",
+        "chair": "Oussama Metatla"
+    },
+    "Papers_111": {
+        "s_title": "Work, work, work",
+        "room": "516D",
+        "time": "16:30",
+        "endTime": "17:50",
+        "submissions": [
+            "pn3416",
+            "pn3045",
+            "pn1830",
+            "pn2129"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "authauth24744",
+        "chair": "Ge Gao"
+    },
+    "Papers_123": {
+        "s_title": "How to say i love you",
+        "room": "517B",
+        "time": "16:30",
+        "endTime": "17:50",
+        "submissions": [
+            "pn1676",
+            "pn2004",
+            "pn4656",
+            "pn1838"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "authauth36066",
+        "chair": "Nazanin Andalibi"
+    },
+    "Papers_128": {
+        "s_title": "Interaction Under Pressure",
+        "room": "516E",
+        "time": "16:30",
+        "endTime": "17:50",
+        "submissions": [
+            "pn4956",
+            "pn4499",
+            "pn4234",
+            "pn3901"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth17243",
+        "chair": "Aaron Quigley"
+    },
+    "Papers_146": {
+        "s_title": "Creativity / Sketching &amp; Animation",
+        "room": "518AB",
+        "time": "16:30",
+        "endTime": "17:50",
+        "submissions": [
+            "pn2469",
+            "pn2081",
+            "pn4973",
+            "pn3333"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": true,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "",
+        "chair": ""
+    },
+    "Papers_159": {
+        "s_title": "Privacy &amp; Trust in Context",
+        "room": "517A",
+        "time": "16:30",
+        "endTime": "17:50",
+        "submissions": [
+            "pn2628",
+            "pn1344",
+            "pn4300",
+            "pn3429"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth14264",
+        "chair": "Jason Wiese"
+    },
+    "Papers_175": {
+        "s_title": "(e)Reading and Study",
+        "room": "516AB",
+        "time": "16:30",
+        "endTime": "17:50",
+        "submissions": [
+            "jrnl1036",
+            "pn1929",
+            "pn3083",
+            "jrnl1037"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth15696",
+        "chair": "Tilman Dingler"
+    },
+    "SIGS_9": {
+        "s_title": "Feminist HCI: Taking Stock, Moving Forward, and Engaging Community",
+        "room": "514A",
+        "time": "16:30",
+        "endTime": "17:50",
+        "submissions": [
+            "sigs1024"
+        ],
+        "personas": "",
+        "venue": "SIG",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "SIG",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "SIG",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_3": {
+        "s_title": "From resiliance to brilliance course",
+        "room": "521ABC",
+        "time": "16:30",
+        "endTime": "17:50",
+        "submissions": [
+            "crs126"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_11": {
+        "s_title": "Balanced Interaction Design",
+        "room": "522AB",
+        "time": "16:30",
+        "endTime": "17:50",
+        "submissions": [
+            "crs131-3"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_29": {
+        "s_title": "How to write CHI papers - Second Edition",
+        "room": "524C",
+        "time": "16:30",
+        "endTime": "17:50",
+        "submissions": [
+            "crs122-2"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_32": {
+        "s_title": "Introduction to Human-Computer Interaction",
+        "room": "524A",
+        "time": "16:30",
+        "endTime": "17:50",
+        "submissions": [
+            "crs118-3"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_49": {
+        "s_title": "Comms with public and press",
+        "room": "524B",
+        "time": "16:30",
+        "endTime": "17:50",
+        "submissions": [
+            "crsSC2-2"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "empty": {
+        "s_title": "User experience and acceptance",
+        "room": "514C",
+        "time": "16:30",
+        "endTime": "17:50",
+        "submissions": [
+            "pn4694",
+            "jrnl1010",
+            "pn1025",
+            "pn4914"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth29870",
+        "chair": "Elisa D. Mekler"
+    },
+    "emp": {
+        "s_title": "Smart Homes &amp; Sustainable Places",
+        "room": "519AB",
+        "time": "16:30",
+        "endTime": "17:50",
+        "submissions": [
+            "jrnl1025",
+            "jrnl1006",
+            "pn4205",
+            "pn4420"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth22623",
+        "chair": "Adrian Clear"
+    },
+    "s": {
+        "s_title": "Student Design Competition Poster Session",
+        "room": "520F",
+        "time": "16:30",
+        "endTime": "17:50",
+        "submissions": [
+
+        ],
+        "personas": "",
+        "venue": "Competition",
+        "day": "4/23/18",
+        "s_tags": [
+
+        ],
+        "type": "Competition",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "Competition",
+        "chairId": "",
+        "chair": ""
+    },
+    "Case_studies_4": {
+        "s_title": "Meditation and Movement",
+        "room": "514C",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "cs1363",
+            "cs2169",
+            "cs1312",
+            "cs2996"
+        ],
+        "personas": "",
+        "venue": "casestudy",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "casestudy",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "casestudy",
+        "chairId": "auth7764",
+        "chair": "Nadir Weibel"
+    },
+    "Altchi_2": {
+        "s_title": "alt.chi: Spice Up Your Life",
+        "room": "516AB",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "alt1051",
+            "alt1031",
+            "alt1068",
+            "alt1014"
+        ],
+        "personas": "",
+        "venue": "altchi",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "altchi",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "altchi",
+        "chairId": "auth74665",
+        "chair": "Arthi Kanchana Manohar"
+    },
+    "Panel_2": {
+        "s_title": "Human-Robot Teaming",
+        "room": "520",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "panel1016"
+        ],
+        "personas": "",
+        "venue": "panel",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "panel",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "panel",
+        "chairId": "",
+        "chair": ""
+    },
+    "Papers_2": {
+        "s_title": "Play and Game Design",
+        "room": "515ABC",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "jrnl1014",
+            "jrnl1005",
+            "pn2319",
+            "pn4940"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": true,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth25499",
+        "chair": "Matthew Louis Mauriello"
+    },
+    "Papers_16": {
+        "s_title": "Methods &amp; Measurement",
+        "room": "518C",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "pn2021",
+            "pn2880",
+            "pn2748",
+            "pn1707"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "",
+        "chair": ""
+    },
+    "Papers_34": {
+        "s_title": "Sharing/new economy",
+        "room": "516C",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "pn1540",
+            "pn3535",
+            "pn3595",
+            "jrnl1000"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth2278",
+        "chair": "Si\u00e2n E Lindley"
+    },
+    "Papers_49": {
+        "s_title": "Tangible, Embodied, Wearable Interaction",
+        "room": "517A",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "pn3201",
+            "pn2348",
+            "pn2764",
+            "pn4608"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth35662",
+        "chair": "Cheng Zhang"
+    },
+    "Papers_70": {
+        "s_title": "Learning and training",
+        "room": "517D",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "pn2964",
+            "pn3385",
+            "pn4380",
+            "jrnl1020"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth67084",
+        "chair": "Olivier St-Cyr"
+    },
+    "Papers_73": {
+        "s_title": "In your face",
+        "room": "519AB",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "pn2318",
+            "pn1269",
+            "pn4876",
+            "pm9000"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth37524",
+        "chair": "Markus Funk"
+    },
+    "Papers_113": {
+        "s_title": "Task Communication",
+        "room": "516D",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "pn3353",
+            "pn4035",
+            "pn1396",
+            "jrnl1007"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth59504",
+        "chair": "Mohit Jain"
+    },
+    "Papers_142": {
+        "s_title": "Text Me",
+        "room": "517B",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "pn2161",
+            "pn2168",
+            "pn4236",
+            "pn4779"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth8697",
+        "chair": "Jason Alexander"
+    },
+    "Papers_149": {
+        "s_title": "Storytelling and Presentation with Visualization",
+        "room": "518AB",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "pn1214",
+            "pn3653",
+            "pn3914",
+            "pn2869"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth14727",
+        "chair": "Evan M Peck"
+    },
+    "Papers_165": {
+        "s_title": "Explaining and explainable systems",
+        "room": "513AB",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "pn4225",
+            "pn4885",
+            "pn4538",
+            "pn3021"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth74937",
+        "chair": "Michael Veale"
+    },
+    "Papers_169": {
+        "s_title": "Design and Design Research 2",
+        "room": "516E",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "pn1826",
+            "pn1869",
+            "jrnl1013",
+            "jrnl1004"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth26845",
+        "chair": "Jo Briggs"
+    },
+    "Papers_170": {
+        "s_title": "Gestures and Postures",
+        "room": "517C",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "pn4356",
+            "jrnl1029",
+            "pn1092",
+            "pn2249"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": true,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth1163",
+        "chair": "Jean Vanderdonckt"
+    },
+    "SIGS_10": {
+        "s_title": "Information Visualisation, Gamification and Immersive Technologies in Participatory Planning",
+        "room": "514A",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "sigs1010"
+        ],
+        "personas": "",
+        "venue": "SIG",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "SIG",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "SIG",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_4": {
+        "s_title": "Applied Sketching in HCI - course",
+        "room": "521ABC",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "crs117"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_12": {
+        "s_title": "Research Methods for Child Computer Interaction",
+        "room": "522AB",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "crs125-2"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_27": {
+        "s_title": "Navigation Interfaces for Virtual Reality and Gaming: Theory and Practice",
+        "room": "524C",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "crs107-2"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_33": {
+        "s_title": "Designing Technology for an Aging Population",
+        "room": "524A",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "crs102"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_50": {
+        "s_title": "Comms with public and press",
+        "room": "524B",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "crsSC2"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "SIG_3": {
+        "s_title": "Human Computer Interaction &amp; Health Activism",
+        "room": "514B",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "sigs1022"
+        ],
+        "personas": "",
+        "venue": "SIG",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "SIG",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "SIG",
+        "chairId": "",
+        "chair": ""
+    },
+    "thisisatest": {
+        "s_title": "Playing with others",
+        "room": "515ABC",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "pn4527",
+            "pn2932",
+            "pn3260",
+            "pn2180"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth21949",
+        "chair": "Guenter Wallner"
+    },
+    "Annas_paper_session": {
+        "s_title": "Surveys from Foundations and Trends in HCI",
+        "room": "516AB",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "jrnl1039",
+            "jrnl1031"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth4583",
+        "chair": "Youn-kyung Lim"
+    },
+    "Case_studies_5": {
+        "s_title": "Learning and Practice",
+        "room": "514C",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "cs1962",
+            "cs2536",
+            "cs1406",
+            "cs2045"
+        ],
+        "personas": "",
+        "venue": "casestudy",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "casestudy",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "casestudy",
+        "chairId": "auth15363",
+        "chair": "Neha Kumar"
+    },
+    "Papers_14": {
+        "s_title": "Buttons, Targets, Sliders",
+        "room": "518AB",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "pn2399",
+            "pn4099",
+            "pn2217",
+            "pn3085"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "authauth11867",
+        "chair": "Ahmed Sabbir Arif"
+    },
+    "Papers_35": {
+        "s_title": "Lean and resource-limited settings",
+        "room": "517D",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "pn3342",
+            "pn1230",
+            "pn2485"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "authauth59832",
+        "chair": "Ihudiya Finda Ogbonnaya-Ogburu"
+    },
+    "Papers_52": {
+        "s_title": "Agency and Things",
+        "room": "517A",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "pn2860",
+            "pn1844",
+            "pn1026",
+            "pn3706"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth78881",
+        "chair": "Ramachandra Kota"
+    },
+    "Papers_55": {
+        "s_title": "Mobile interactions and interactions with mobiles",
+        "room": "516C",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "pn4761",
+            "pn4410",
+            "pn2578",
+            "pn4801"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth10966",
+        "chair": "Xing-Dong Yang"
+    },
+    "Papers_64": {
+        "s_title": "Automated and Crowd Supports for Learning",
+        "room": "518C",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "pn2288",
+            "pn2815",
+            "pn1134",
+            "pn2622"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth44450",
+        "chair": "Ting-Hao Huang"
+    },
+    "Papers_75": {
+        "s_title": "Talking with machines",
+        "room": "519AB",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "pn3189",
+            "pn2820",
+            "pn2304",
+            "pn2202"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth13677",
+        "chair": "Q. Vera Liao"
+    },
+    "Papers_78": {
+        "s_title": "Human Senses",
+        "room": "513AB",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "pn1195",
+            "pn3346",
+            "pn3206",
+            "pn1721"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth51674",
+        "chair": "Yang Zhang"
+    },
+    "Papers_91": {
+        "s_title": "Family Care",
+        "room": "516E",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "pn3936",
+            "pn2910",
+            "pn4030",
+            "pn2364"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth39844",
+        "chair": "Katta Spiel"
+    },
+    "Papers_98": {
+        "s_title": "Health in the wild",
+        "room": "517C",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "pn4071",
+            "pn2690",
+            "pn1853",
+            "pn4442"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth37419",
+        "chair": "Daniel Epstein"
+    },
+    "Papers_172": {
+        "s_title": "Personalization / Customization",
+        "room": "516D",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "jrnl1019",
+            "jrnl1027",
+            "pn1187",
+            "pn4403"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth37196",
+        "chair": "Bettina Nissen"
+    },
+    "SIGS_4": {
+        "s_title": "Evaluating HCI Research beyond Usability",
+        "room": "514B",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "sigs1025"
+        ],
+        "personas": "",
+        "venue": "SIG",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "SIG",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "SIG",
+        "chairId": "",
+        "chair": ""
+    },
+    "SIGS_11": {
+        "s_title": "Special Interest Group on Transparent Statistics Guidelines",
+        "room": "514A",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "sigs1028"
+        ],
+        "personas": "",
+        "venue": "SIG",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "SIG",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "SIG",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_5": {
+        "s_title": "Applied Sketching in HCI",
+        "room": "521ABC",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "crs117-2"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_13": {
+        "s_title": "Research Methods for Child Computer Interaction",
+        "room": "522AB",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "crs125"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_24": {
+        "s_title": "Navigation Interfaces for Virtual Reality and Gaming: Theory and Practice",
+        "room": "524C",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "crs107"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_35": {
+        "s_title": "Deep Learning for Understanding the Human",
+        "room": "524A",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "crs134"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_51": {
+        "s_title": "Comms with public and press",
+        "room": "524B",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "empty_3": {
+        "s_title": "Real-World Settings",
+        "room": "517B",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "pn1745",
+            "pn1977",
+            "pn4404",
+            "jrnl1021"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth43406",
+        "chair": "Amy X. Zhang"
+    },
+    "Panel_8": {
+        "s_title": "Research Ethics for HCI: A Roundtable Discussion",
+        "room": "519AB",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "panel1006"
+        ],
+        "personas": "",
+        "venue": "panel",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "panel",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "panel",
+        "chairId": "",
+        "chair": ""
+    },
+    "Papers_4": {
+        "s_title": "Playing around the table",
+        "room": "515ABC",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "pn4128",
+            "pn2210",
+            "pn2224",
+            "pn2112"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth2725",
+        "chair": "Annika Waern"
+    },
+    "Papers_8": {
+        "s_title": "Learning 1",
+        "room": "518C",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "pn4600",
+            "pn4788",
+            "pn1694",
+            "pn4621"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "authauth63542",
+        "chair": "Carmen Hull"
+    },
+    "Papers_15": {
+        "s_title": "Streaming &amp; Sharing",
+        "room": "514B",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "pn3813",
+            "pn2165",
+            "pn3094",
+            "pn1040"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": true,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "",
+        "chair": ""
+    },
+    "Papers_25": {
+        "s_title": "Video",
+        "room": "516AB",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "pn4883",
+            "pn3886",
+            "pn4348",
+            "pn3767"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth6239",
+        "chair": "Frank R Bentley"
+    },
+    "Papers_36": {
+        "s_title": "Distributed Work",
+        "room": "516C",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "pn3246",
+            "pn1451",
+            "pn3256",
+            "jrnl1044"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth74802",
+        "chair": "Dominic DiFranzo"
+    },
+    "Papers_48": {
+        "s_title": "Communities,&nbsp;Publics, Digital Civics",
+        "room": "516D",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "pn4095",
+            "pn2927",
+            "pn3934",
+            "pn4509"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth24277",
+        "chair": "Emily Sun"
+    },
+    "Papers_51": {
+        "s_title": "Design Aesthetics",
+        "room": "517A",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "pn1507",
+            "pn4565",
+            "pn1317",
+            "pn2587"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth3887",
+        "chair": "Peter Gall Krogh"
+    },
+    "Papers_54": {
+        "s_title": "Bio Design and Existence",
+        "room": "517B",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "pn1235",
+            "pn3618",
+            "pn3785",
+            "pn2643"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": true,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "",
+        "chair": ""
+    },
+    "Papers_84": {
+        "s_title": "Tangibles",
+        "room": "513AB",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "pn4134",
+            "pn2194",
+            "pn1736",
+            "pn2160"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": true,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "authauth37002",
+        "chair": "Gierad Laput"
+    },
+    "Papers_87": {
+        "s_title": "Virtual Reality 3",
+        "room": "514C",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "pn1347",
+            "pn3110",
+            "pn2106",
+            "pn1242"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth45314",
+        "chair": "Florian M\u00fcller"
+    },
+    "Papers_100": {
+        "s_title": "Assistive Medicine",
+        "room": "517C",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "pn3812",
+            "pn2615",
+            "pn3315",
+            "pn1966"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "",
+        "chair": ""
+    },
+    "Papers_107": {
+        "s_title": "More challenging social and home life",
+        "room": "517D",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "pn1437",
+            "pn3774",
+            "pn2649",
+            "pn2262"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth17092",
+        "chair": "Roisin McNaney"
+    },
+    "Papers_145": {
+        "s_title": "Navigation and Trip Planning",
+        "room": "516E",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "pn2537",
+            "pn4814",
+            "pn1951",
+            "pn3925"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth1354",
+        "chair": "David K McGookin"
+    },
+    "Papers_154": {
+        "s_title": "Understanding through Visualization 2",
+        "room": "518AB",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "pn4357",
+            "pn1957",
+            "pn3250",
+            "pn1200"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "authauth8135",
+        "chair": "Yuan-Chi Tseng"
+    },
+    "SIGS_12": {
+        "s_title": "SIG on Telepresence Robots",
+        "room": "514A",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "sigs1032"
+        ],
+        "personas": "",
+        "venue": "SIG",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "SIG",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "SIG",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_6": {
+        "s_title": "Applied Sketching in HCI",
+        "room": "521ABC",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "crs117-3"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_14": {
+        "s_title": "Don't forget to be the way you are: how to create a meaningful and sustainable research identity",
+        "room": "522AB",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "crs141-2"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_23": {
+        "s_title": "Visual Design 4 Non-Designers: Learn Basics the Hands-on Way",
+        "room": "524C",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "crs114"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_37": {
+        "s_title": "Deep Learning for Understanding the Human",
+        "room": "524A",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "crs134-2"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_47": {
+        "s_title": "Comms with public and press",
+        "room": "524B",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "crsSC2-4"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "Panel_3": {
+        "s_title": "Managing Deviant Behavior in Online Communities III",
+        "room": "520",
+        "time": "16:00",
+        "endTime": "17:20",
+        "submissions": [
+            "panel1003"
+        ],
+        "personas": "",
+        "venue": "panel",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "panel",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "panel",
+        "chairId": "",
+        "chair": ""
+    },
+    "Papers_13": {
+        "s_title": "Digital Civics, Public Services",
+        "room": "514B",
+        "time": "16:00",
+        "endTime": "17:20",
+        "submissions": [
+            "pn3676",
+            "pn1911",
+            "pn1304",
+            "pn3788"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth12675",
+        "chair": "Lynn Dombrowski"
+    },
+    "Papers_21": {
+        "s_title": "Smartphone use",
+        "room": "515ABC",
+        "time": "16:00",
+        "endTime": "17:20",
+        "submissions": [
+            "pn3024",
+            "pn2724",
+            "pn3440",
+            "pn3443"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth25499",
+        "chair": "Matthew Louis Mauriello"
+    },
+    "Papers_26": {
+        "s_title": "Gender",
+        "room": "516AB",
+        "time": "16:00",
+        "endTime": "17:20",
+        "submissions": [
+            "pn4698",
+            "pn2890",
+            "pn2552",
+            "pn2501"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth1047",
+        "chair": "Michael Muller"
+    },
+    "Papers_33": {
+        "s_title": "Systems in ICT4D",
+        "room": "513AB",
+        "time": "16:00",
+        "endTime": "17:20",
+        "submissions": [
+            "pn4848",
+            "pn1898",
+            "pn2209",
+            "pn3174"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth28618",
+        "chair": "Susan Wyche"
+    },
+    "Papers_43": {
+        "s_title": "The Things of the Internet of Things",
+        "room": "518C",
+        "time": "16:00",
+        "endTime": "17:20",
+        "submissions": [
+            "pn3398",
+            "pn2104",
+            "pn2680",
+            "pn4670"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "authauth39836",
+        "chair": "Marta Cecchinato"
+    },
+    "Papers_53": {
+        "s_title": "Art and design",
+        "room": "516D",
+        "time": "16:00",
+        "endTime": "17:20",
+        "submissions": [
+            "pn4458",
+            "pn4164",
+            "pn1422",
+            "pn4595"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": true,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth59881",
+        "chair": "Harpreet Sareen"
+    },
+    "Papers_76": {
+        "s_title": "Chatbots",
+        "room": "519AB",
+        "time": "16:00",
+        "endTime": "17:20",
+        "submissions": [
+            "pn3826",
+            "pn2941",
+            "pn1578",
+            "cs2906"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": true,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth5691",
+        "chair": "Andr\u00e9s Lucero"
+    },
+    "Papers_103": {
+        "s_title": "Designing For Disability",
+        "room": "517D",
+        "time": "16:00",
+        "endTime": "17:20",
+        "submissions": [
+            "pn4726",
+            "pn1419",
+            "pn3153",
+            "jrnl1003"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth37947",
+        "chair": "Hernisa Kacorri"
+    },
+    "Papers_115": {
+        "s_title": "Crowd(sourcing)",
+        "room": "516C",
+        "time": "16:00",
+        "endTime": "17:20",
+        "submissions": [
+            "pn2420",
+            "pn1641",
+            "pn1744",
+            "pn2769"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth35236",
+        "chair": "Jacob Thebault-Spieker"
+    },
+    "Papers_126": {
+        "s_title": "Methods for exploration",
+        "room": "514C",
+        "time": "16:00",
+        "endTime": "17:20",
+        "submissions": [
+            "pn1268",
+            "pn3781",
+            "pn3121",
+            "pn2957"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": true,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "",
+        "chair": ""
+    },
+    "Papers_151": {
+        "s_title": "Exploration through modelling and visualisation",
+        "room": "517C",
+        "time": "16:00",
+        "endTime": "17:20",
+        "submissions": [
+            "pn4610",
+            "pn4803",
+            "jrnl1026",
+            "jrnl1028"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "",
+        "chair": ""
+    },
+    "Papers_155": {
+        "s_title": "Visualization Beyond the Desktop &amp; Visual Privacy",
+        "room": "518AB",
+        "time": "16:00",
+        "endTime": "17:20",
+        "submissions": [
+            "pn1124",
+            "pn1587",
+            "pn1288",
+            "pn3007"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth41057",
+        "chair": "Khairi Reda"
+    },
+    "Papers_163": {
+        "s_title": "Fabrication &amp; Embedding 1",
+        "room": "517B",
+        "time": "16:00",
+        "endTime": "17:20",
+        "submissions": [
+            "pn3417",
+            "pn2003",
+            "pn4781",
+            "pn3730"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth13400",
+        "chair": "Huaishu Peng"
+    },
+    "Papers_173": {
+        "s_title": "Touch and haptics",
+        "room": "517A",
+        "time": "16:00",
+        "endTime": "17:20",
+        "submissions": [
+            "pn3292",
+            "pn1747",
+            "pn1994",
+            "pn3906"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth22861",
+        "chair": "Teng Han"
+    },
+    "SIGS_13": {
+        "s_title": "Games and Play SIG: Engaging Small Developer Communities",
+        "room": "514A",
+        "time": "16:00",
+        "endTime": "17:20",
+        "submissions": [
+            "sigs1000"
+        ],
+        "personas": "",
+        "venue": "SIG",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "SIG",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "SIG",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_7": {
+        "s_title": "From resiliance to brilliance course",
+        "room": "521ABC",
+        "time": "16:00",
+        "endTime": "17:20",
+        "submissions": [
+            "crs126-2"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_16": {
+        "s_title": "Don't forget to be the way you are: how to create a meaningful and sustainable research identity",
+        "room": "522AB",
+        "time": "16:00",
+        "endTime": "17:20",
+        "submissions": [
+            "crs141"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_39": {
+        "s_title": "Deep Learning for Understanding the Human",
+        "room": "524A",
+        "time": "16:00",
+        "endTime": "17:20",
+        "submissions": [
+            "crs134-3"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_55": {
+        "s_title": "Comms with the public and press",
+        "room": "524B",
+        "time": "16:00",
+        "endTime": "17:20",
+        "submissions": [
+
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_59": {
+        "s_title": "Visual Design 4 Non-Designers: Learn Basics the Hands-on Way",
+        "room": "524C",
+        "time": "16:00",
+        "endTime": "17:20",
+        "submissions": [
+            "crs114-2"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "Award_2": {
+        "s_title": "SIGCHI Awards 2: Lifetime Research &amp; Outstanding Dissertations",
+        "room": "516E",
+        "time": "16:00",
+        "endTime": "17:20",
+        "submissions": [
+            "awd1004",
+            "awd1000",
+            "awd1003"
+        ],
+        "personas": "",
+        "venue": "Awards",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "Awards",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "Awards",
+        "chairId": "",
+        "chair": ""
+    },
+    "Altchi_3": {
+        "s_title": "alt.chi: Scary, Sporty, Ginger, and Posh",
+        "room": "517B",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "alt1056",
+            "alt1030",
+            "alt1010",
+            "alt1057"
+        ],
+        "personas": "",
+        "venue": "altchi",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "altchi",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "altchi",
+        "chairId": "auth57428",
+        "chair": "Vanessa Thomas"
+    },
+    "Panel_4": {
+        "s_title": "Intersectionality as a Lens to Promote Equity and Inclusivity within SIGCHI",
+        "room": "520",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "panel1013"
+        ],
+        "personas": "",
+        "venue": "panel",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "panel",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "panel",
+        "chairId": "",
+        "chair": ""
+    },
+    "Papers_11": {
+        "s_title": "Different Realities: Engaging the Senses",
+        "room": "515ABC",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "pn1930",
+            "pn3019",
+            "pn3115",
+            "pn4141"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth28546",
+        "chair": "Max Valentin Birk"
+    },
+    "Papers_17": {
+        "s_title": "Typing &amp; Touch 1",
+        "room": "516E",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "pn4874",
+            "pn3664",
+            "pn3691",
+            "pn1949"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth54244",
+        "chair": "Jingjie Zheng"
+    },
+    "Papers_27": {
+        "s_title": "Curation &amp; Collection",
+        "room": "516AB",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "pn3297",
+            "pn4626",
+            "pn3564",
+            "pn4571"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": true,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "authauth14854",
+        "chair": "Tejaswi Peesapati"
+    },
+    "Papers_39": {
+        "s_title": "Close studies of interaction",
+        "room": "519AB",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "jrnl1023",
+            "jrnl1045",
+            "pn2686",
+            "pn4837"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": true,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth4330",
+        "chair": "Jacki O'Neill"
+    },
+    "Papers_44": {
+        "s_title": "Inclusion and Influence",
+        "room": "516C",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "pn1733",
+            "pn2510",
+            "pn2441",
+            "pn4291"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth45460",
+        "chair": "Angelika Strohmayer"
+    },
+    "Papers_63": {
+        "s_title": "Children, Well-being, and Play",
+        "room": "518AB",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "pn4036",
+            "pn4313",
+            "pn4934",
+            "pn4374"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth36478",
+        "chair": "Tawfiq Ammari"
+    },
+    "Papers_77": {
+        "s_title": "Gender and economic diversity",
+        "room": "514B",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "pn4249",
+            "pn2382",
+            "pn4297",
+            "pn3681"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": true,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth8835",
+        "chair": "Sheena Erete"
+    },
+    "Papers_85": {
+        "s_title": "VR/AR/Telepresence 1",
+        "room": "513AB",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "pn4172",
+            "pn3450",
+            "pn3176",
+            "pn2347"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth8383",
+        "chair": "Niels Henze"
+    },
+    "Papers_108": {
+        "s_title": "Accessible interaction techniques",
+        "room": "517D",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "pn1074",
+            "pn1755",
+            "pn3983",
+            "pn1173"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "authauth38004",
+        "chair": "Anhong Guo"
+    },
+    "Papers_141": {
+        "s_title": "Tactile",
+        "room": "516D",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "pn1450",
+            "pn2968",
+            "pn3359",
+            "pn2586"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth21068",
+        "chair": "Oliver S. Schneider"
+    },
+    "Papers_162": {
+        "s_title": "Health &amp; stigma",
+        "room": "517A",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "pn4119",
+            "pn4397",
+            "pn1771",
+            "pn4891"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth3194",
+        "chair": "Lena Mamykina"
+    },
+    "Papers_168": {
+        "s_title": "Crowdsourcing and crowdwork",
+        "room": "518C",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "jrnl1046",
+            "jrnl1038",
+            "jrnl1002",
+            "pn1727"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth22362",
+        "chair": "Jorge Goncalves"
+    },
+    "Papers_177": {
+        "s_title": "User innovation in marginalized communities",
+        "room": "517C",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "pn2889",
+            "pn2800",
+            "pn3454",
+            "pn4055"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth54129",
+        "chair": "Reem Talhouk"
+    },
+    "SIGS_3": {
+        "s_title": "Making Maps Accessible and Putting Accessibility in Maps",
+        "room": "514A",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "sigs1027"
+        ],
+        "personas": "",
+        "venue": "SIG",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "SIG",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "SIG",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_8": {
+        "s_title": "From Tool to Partner: The Evolution of Human-Computer Interaction",
+        "room": "521ABC",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "crs139"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_15": {
+        "s_title": "Make This! Introduction to Electronics Prototyping Using Arduino",
+        "room": "522AB",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "crs108"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_19": {
+        "s_title": "A Critical Review of Online Social Data: Biases, Methodological Pitfalls, and Ethical Boundaries",
+        "room": "524C",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "crs127"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_40": {
+        "s_title": "Empirical Research Methods for Human-Computer Interaction",
+        "room": "524A",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "crs110"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_56": {
+        "s_title": "Comms with the public and press",
+        "room": "524B",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "SIG_2": {
+        "s_title": "SketCHI: Hands-On Special Interest Group on Sketching in HCI",
+        "room": "514C",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "sigs1015"
+        ],
+        "personas": "",
+        "venue": "SIG",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "SIG",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "SIG",
+        "chairId": "",
+        "chair": ""
+    },
+    "Test": {
+        "s_title": "Gamification, Personalization, Tracking",
+        "room": "515ABC",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "pn1523",
+            "pn2915",
+            "pn2416",
+            "pn3644"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth31311",
+        "chair": "Pawe\u0142 W Wo\u017aniak"
+    },
+    "Papers_5": {
+        "s_title": "Interpersonal Awareness in gameplay",
+        "room": "514C",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "pn2505",
+            "pn2601",
+            "pn1675",
+            "pn3257"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth54633",
+        "chair": "Melissa J Rogerson"
+    },
+    "Papers_28": {
+        "s_title": "Algorithms in (Social) Practice",
+        "room": "516AB",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "pn4915",
+            "pn3619",
+            "pn2772",
+            "pn3665"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth52087",
+        "chair": "Isaac Johnson"
+    },
+    "Papers_42": {
+        "s_title": "Roads and Crowds",
+        "room": "517C",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "pn4725",
+            "pn3293",
+            "pn4700"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "",
+        "chair": ""
+    },
+    "Papers_50": {
+        "s_title": "Doing Design Research",
+        "room": "517A",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "pn2898",
+            "pn1470",
+            "pn4740",
+            "pn2238"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth53271",
+        "chair": "Jayne Wallace"
+    },
+    "Papers_57": {
+        "s_title": "Accessible and Inclusive Education",
+        "room": "517B",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "pn4384",
+            "pn4144",
+            "pn3113",
+            "pn1467"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "",
+        "chair": ""
+    },
+    "Papers_58": {
+        "s_title": "Supporting Creativity",
+        "room": "516D",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "pn1362",
+            "pn1651",
+            "pn3718",
+            "pn2584"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth60328",
+        "chair": "Parinya Punpongsanon"
+    },
+    "Papers_86": {
+        "s_title": "VR/AR/Telepresence 2",
+        "room": "513AB",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "pn3627",
+            "pn4695",
+            "pn1866",
+            "pn2956"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth15291",
+        "chair": "Erik Andersen"
+    },
+    "Papers_92": {
+        "s_title": "Coping with Mental Health Challenges",
+        "room": "519AB",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "pn3490",
+            "pn3413",
+            "pn3460",
+            "jrnl1052"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth52151",
+        "chair": "Stevie Chancellor"
+    },
+    "Papers_109": {
+        "s_title": "Accessible Making and Finding",
+        "room": "517D",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "pn3863",
+            "pn3466",
+            "pn1132",
+            "pn1201"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "authauth1960",
+        "chair": "Helena Mentis"
+    },
+    "Papers_110": {
+        "s_title": "Social Issues",
+        "room": "518AB",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "pn4719",
+            "pn4569",
+            "pn4892",
+            "pn2327"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth17433",
+        "chair": "Munmun De Choudhury"
+    },
+    "Papers_112": {
+        "s_title": "Families, Relationships &amp; Emotions",
+        "room": "516E",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "pn2027",
+            "pn3514",
+            "pn3489",
+            "pn3218"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth64379",
+        "chair": "Erick Oduor"
+    },
+    "Papers_136": {
+        "s_title": "Crafting &amp; Fabrication",
+        "room": "516C",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "pn1538",
+            "pn1438",
+            "pn2599",
+            "pn3069"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth74634",
+        "chair": "Isabel P. S. Qamar"
+    },
+    "Papers_152": {
+        "s_title": "Understanding through Visualization 1",
+        "room": "518C",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "pn4063",
+            "pn4254",
+            "pn1921",
+            "pn4086"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth18112",
+        "chair": "Pejman Mirza-Babaei"
+    },
+    "SIGS_14": {
+        "s_title": "The future of HCI and Sustainability: Championing Environmental and Social Justice.",
+        "room": "514A",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "sigs1014"
+        ],
+        "personas": "",
+        "venue": "SIG",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "SIG",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "SIG",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_17": {
+        "s_title": "Make This! Introduction to Electronics Prototyping Using Arduino",
+        "room": "522AB",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "crs108-2"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_21": {
+        "s_title": "A Critical Review of Online Social Data: Biases, Methodological Pitfalls, and Ethical Boundaries",
+        "room": "524C",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "crs127-2"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_41": {
+        "s_title": "Empirical Research Methods for Human-Computer Interaction",
+        "room": "524A",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "crs110-2"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_54": {
+        "s_title": "Comms with the public and press",
+        "room": "524B",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "Case_studies_2": {
+        "s_title": "Awareness and Sensitivity",
+        "room": "516AB",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "cs2773",
+            "cs1063",
+            "cs2922",
+            "cs1175"
+        ],
+        "personas": "",
+        "venue": "casestudy",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "casestudy",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "casestudy",
+        "chairId": "auth12619",
+        "chair": "Shion Guha"
+    },
+    "Papers_7": {
+        "s_title": "Explaining Players",
+        "room": "515ABC",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "pn4411",
+            "pn2199",
+            "pn4408",
+            "pn1623"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth7076",
+        "chair": "Zachary Toups"
+    },
+    "Papers_30": {
+        "s_title": "Personal Health",
+        "room": "519AB",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "pn3420",
+            "pn4763",
+            "pn4986",
+            "pn2428"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth46521",
+        "chair": "Edward Jay Wang"
+    },
+    "Papers_88": {
+        "s_title": "Programming 1",
+        "room": "513AB",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "pn4536",
+            "pn3751",
+            "pn1561",
+            "pn2029"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth24374",
+        "chair": "Roman R\u00e4dle"
+    },
+    "Papers_101": {
+        "s_title": "Technology to Support Deaf and Hard of Hearing People",
+        "room": "517C",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "pn1591",
+            "pn2814",
+            "pn1143",
+            "pn3979"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth45884",
+        "chair": "Rushil Khurana"
+    },
+    "Papers_114": {
+        "s_title": "Learning 2",
+        "room": "516D",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "pn3331",
+            "pn4388",
+            "pn2810",
+            "pn3222"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth16351",
+        "chair": "Hamed S Alavi"
+    },
+    "Papers_119": {
+        "s_title": "Self Presentation &amp; Identity",
+        "room": "521ABC",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "pn1803",
+            "pn1900",
+            "pn4060",
+            "pn3968"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "authauth36066",
+        "chair": "Nazanin Andalibi"
+    },
+    "Papers_139": {
+        "s_title": "Haptic for VR",
+        "room": "517B",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "pn1758",
+            "pn1568",
+            "pn4905",
+            "pn4341"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth27018",
+        "chair": "Jin Ryong Kim"
+    },
+    "Papers_158": {
+        "s_title": "Privacy Behaviours",
+        "room": "518C",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "pn2331",
+            "pn2234",
+            "pn4033",
+            "pn3373"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth5937",
+        "chair": "Marshini Chetty"
+    },
+    "Papers_160": {
+        "s_title": "Talk to me; Text me",
+        "room": "518AB",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "pn3421",
+            "pn2274",
+            "pn1032",
+            "pn4449"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth22362",
+        "chair": "Jorge Goncalves"
+    },
+    "SIGS_2": {
+        "s_title": "Approaching Engagement towards Human-Engaged Computing",
+        "room": "514A",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "sigs1013"
+        ],
+        "personas": "",
+        "venue": "SIG",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "SIG",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "SIG",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_18": {
+        "s_title": "Automation: Danger or Opportunity? Designing and Assessing Automation for Interactive Systems",
+        "room": "522AB",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "crs120-2"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_42": {
+        "s_title": "Designing with the Mind in Mind: The Psychological Basis for UI Design Guidelines",
+        "room": "524A",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "crs101-2"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_53": {
+        "s_title": "Musical interfaces",
+        "room": "524B",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "crs119-2"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_60": {
+        "s_title": "Designing, Engineering, and Evaluating Gesture User Interfaces",
+        "room": "524C",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "crs116"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "empty_2": {
+        "s_title": "Mood and physical health",
+        "room": "517D",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "jrnl1051",
+            "jrnl1049",
+            "pn1141",
+            "jrnl1042"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth1005",
+        "chair": "Mary Czerwinski"
+    },
+    "competition": {
+        "s_title": "Student Design Competition",
+        "room": "516C",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "sdc1012",
+            "sdc1035",
+            "sdc1039",
+            "sdc1046",
+            "sdc1048",
+            "sdc1063",
+            "sdc1068",
+            "sdc1071",
+            "sdc1098",
+            "sdc1103",
+            "sdc1105",
+            "sdc1123"
+        ],
+        "personas": "",
+        "venue": "Competition",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "Competition",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "Competition",
+        "chairId": "",
+        "chair": ""
+    },
+    "competition_2": {
+        "s_title": "Student Research Competition #1",
+        "room": "514C",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "src1016",
+            "src1020",
+            "src1021",
+            "src1022",
+            "src1027",
+            "src1029",
+            "src1035",
+            "src1038",
+            "src1039",
+            "src1041",
+            "src1042",
+            "src1043",
+            "src1044",
+            "src1049",
+            "src1050",
+            "src1052",
+            "src1053",
+            "src1054",
+            "src1055",
+            "src1058",
+            "src1059",
+            "src1061",
+            "src1065",
+            "src1069"
+        ],
+        "personas": "",
+        "venue": "Competition",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "Competition",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "Competition",
+        "chairId": "",
+        "chair": ""
+    },
+    "Panel_5": {
+        "s_title": "Extending Conversations about Gender and HCI",
+        "room": "520",
+        "time": "16:00",
+        "endTime": "17:20",
+        "submissions": [
+            "panel1014"
+        ],
+        "personas": "",
+        "venue": "panel",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "panel",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "panel",
+        "chairId": "",
+        "chair": ""
+    },
+    "Papers_24": {
+        "s_title": "Designing to empower",
+        "room": "517A",
+        "time": "16:00",
+        "endTime": "17:20",
+        "submissions": [
+            "pn1692",
+            "pn2388",
+            "pn2626",
+            "pn2263"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth46307",
+        "chair": "Mirko Gelsomini"
+    },
+    "Papers_29": {
+        "s_title": "Dealing with emerging technologies",
+        "room": "517D",
+        "time": "16:00",
+        "endTime": "17:20",
+        "submissions": [
+            "pn1322",
+            "pn4115",
+            "pn3220",
+            "pn1469"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth14016",
+        "chair": "Jessica R Cauchard"
+    },
+    "Papers_46": {
+        "s_title": "Provoking Design",
+        "room": "516C",
+        "time": "16:00",
+        "endTime": "17:20",
+        "submissions": [
+            "pn2421",
+            "pn1633",
+            "pn2076",
+            "pn2992"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth8702",
+        "chair": "William Odom"
+    },
+    "Papers_83": {
+        "s_title": "Haptic Wearables",
+        "room": "516E",
+        "time": "16:00",
+        "endTime": "17:20",
+        "submissions": [
+            "pn4064",
+            "pn3573",
+            "pn4335",
+            "pn1891"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "authauth74080",
+        "chair": "Andrea Bianchi"
+    },
+    "Papers_90": {
+        "s_title": "Design Tools and Evaluation",
+        "room": "516AB",
+        "time": "16:00",
+        "endTime": "17:20",
+        "submissions": [
+            "pn2696",
+            "pn2369",
+            "pn4292",
+            "pn4038"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "",
+        "chair": ""
+    },
+    "Papers_93": {
+        "s_title": "Peers, Social Support, and Caregivers",
+        "room": "513AB",
+        "time": "16:00",
+        "endTime": "17:20",
+        "submissions": [
+            "pn4992",
+            "pn3028",
+            "pn2996",
+            "pn1516"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth49055",
+        "chair": "Kellie Morrissey"
+    },
+    "Papers_121": {
+        "s_title": "Grassroots Movements and Peer Production",
+        "room": "515ABC",
+        "time": "16:00",
+        "endTime": "17:20",
+        "submissions": [
+            "pn2136",
+            "pn3051",
+            "pn2393",
+            "pn1556"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth13683",
+        "chair": "Nadia Pantidi"
+    },
+    "Papers_131": {
+        "s_title": "Touch, Pen, and Mice",
+        "room": "519AB",
+        "time": "16:00",
+        "endTime": "17:20",
+        "submissions": [
+            "pn1870",
+            "pn1142",
+            "pn4684",
+            "pn1759"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth21843",
+        "chair": "Sayan Sarcar"
+    },
+    "Papers_138": {
+        "s_title": "Research methods",
+        "room": "518C",
+        "time": "16:00",
+        "endTime": "17:20",
+        "submissions": [
+            "pn4327",
+            "pn3645",
+            "pn1940",
+            "pn1203"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": true,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth2132",
+        "chair": "Andrew Duchowski"
+    },
+    "Papers_150": {
+        "s_title": "Perception in Visualization 1",
+        "room": "521ABC",
+        "time": "16:00",
+        "endTime": "17:20",
+        "submissions": [
+            "pn4640",
+            "pn2653",
+            "pn4847",
+            "pn2188"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth60328",
+        "chair": "Parinya Punpongsanon"
+    },
+    "Papers_156": {
+        "s_title": "Privacy, Passwords and Authentication",
+        "room": "518AB",
+        "time": "16:00",
+        "endTime": "17:20",
+        "submissions": [
+            "pn4480",
+            "pn1570",
+            "pn2105",
+            "pn3758"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth38635",
+        "chair": "Mohamed Khamis"
+    },
+    "Papers_174": {
+        "s_title": "Sound &amp; Music",
+        "room": "517B",
+        "time": "16:00",
+        "endTime": "17:20",
+        "submissions": [
+            "pn3747",
+            "pn4693",
+            "jrnl1040",
+            "pn4351"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "",
+        "chair": ""
+    },
+    "SIGS": {
+        "s_title": "Transparency and Openness Guidelines for HCI Research",
+        "room": "514A",
+        "time": "16:00",
+        "endTime": "17:20",
+        "submissions": [
+            "sigs1033"
+        ],
+        "personas": "",
+        "venue": "SIG",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "SIG",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "SIG",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_20": {
+        "s_title": "Automation: Danger or Opportunity? Designing and Assessing Automation for Interactive Systems",
+        "room": "522AB",
+        "time": "16:00",
+        "endTime": "17:20",
+        "submissions": [
+            "crs120"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_43": {
+        "s_title": "Designing with the Mind in Mind: The Psychological Basis for UI Design Guidelines",
+        "room": "524A",
+        "time": "16:00",
+        "endTime": "17:20",
+        "submissions": [
+            "crs101"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_52": {
+        "s_title": "Musical Interfaces",
+        "room": "524B",
+        "time": "16:00",
+        "endTime": "17:20",
+        "submissions": [
+            "crs119"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "COURSES": {
+        "s_title": "Designing, Engineering, and Evaluating Gesture User Interfaces",
+        "room": "524C",
+        "time": "16:00",
+        "endTime": "17:20",
+        "submissions": [
+            "crs116-2"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "emp_3": {
+        "s_title": "The Personal and the Self",
+        "room": "517C",
+        "time": "16:00",
+        "endTime": "17:20",
+        "submissions": [
+            "jrnl1050",
+            "jrnl1032",
+            "jrnl1047",
+            "jrnl1048"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth38343",
+        "chair": "Martin Porcheron"
+    },
+    "empt": {
+        "s_title": "Information search, managing overload",
+        "room": "516D",
+        "time": "16:00",
+        "endTime": "17:20",
+        "submissions": [
+            "pn3325",
+            "pn2556",
+            "jrnl1035",
+            "pn1251"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "",
+        "chair": ""
+    },
+    "competition_3": {
+        "s_title": "Student Research Competition #2",
+        "room": "514C",
+        "time": "16:00",
+        "endTime": "17:20",
+        "submissions": [
+
+        ],
+        "personas": "",
+        "venue": "Competition",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "Competition",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "Competition",
+        "chairId": "",
+        "chair": ""
+    },
+    "spare_SIG": {
+        "s_title": "Redefining Natural User Interface",
+        "room": "514B",
+        "time": "16:00",
+        "endTime": "17:20",
+        "submissions": [
+            "sigs1036"
+        ],
+        "personas": "",
+        "venue": "SIG",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "SIG",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "SIG",
+        "chairId": "",
+        "chair": ""
+    },
+    "Altchi": {
+        "s_title": "alt.chi: Who Do You Think You Are?",
+        "room": "516D",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "alt1079",
+            "alt1028",
+            "alt1009",
+            "alt1003"
+        ],
+        "personas": "",
+        "venue": "altchi",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "altchi",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "altchi",
+        "chairId": "auth11772",
+        "chair": "Joel Fischer"
+    },
+    "Panel_6": {
+        "s_title": "The Algorithm and the User: How Can HCI Use Lay Understandings of Algorithmic Systems?",
+        "room": "520",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "panel1004"
+        ],
+        "personas": "",
+        "venue": "panel",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "panel",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "panel",
+        "chairId": "",
+        "chair": ""
+    },
+    "Papers_9": {
+        "s_title": "Automotive User Interfaces",
+        "room": "516C",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "jrnl1041"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth1057",
+        "chair": "Andy Cockburn"
+    },
+    "Papers_71": {
+        "s_title": "News consumption, journalism and storytelling",
+        "room": "519AB",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "pn3895",
+            "pn4831",
+            "pn4512",
+            "pn3639"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth35907",
+        "chair": "Jeeeun Kim"
+    },
+    "Papers_74": {
+        "s_title": "Public, Large, and Shared Displays",
+        "room": "517B",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "pn2139",
+            "pn2779",
+            "pn2843",
+            "pn2516"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth33673",
+        "chair": "Rina R Wehbe"
+    },
+    "Papers_79": {
+        "s_title": "Crowdsourcing, data mining, dealing with information",
+        "room": "516E",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "pn3817",
+            "pn2817",
+            "pn1140",
+            "pn3732"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth9527",
+        "chair": "Kurt Luther"
+    },
+    "Papers_94": {
+        "s_title": "Personal Tracking",
+        "room": "517C",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "pn2131",
+            "pn1179",
+            "pn1033",
+            "pn3214"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth37028",
+        "chair": "Francisco Nunes"
+    },
+    "Papers_102": {
+        "s_title": "Accessible Images and Photos",
+        "room": "517D",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "pn4157",
+            "pn2339",
+            "pn1502",
+            "pn4169"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "",
+        "chair": ""
+    },
+    "Papers_118": {
+        "s_title": "Crowd &amp; Community",
+        "room": "517A",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "pn4090",
+            "pn4389",
+            "pn1852",
+            "pn2914"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth55622",
+        "chair": "Eiad Yafi"
+    },
+    "Papers_124": {
+        "s_title": "Online Communities",
+        "room": "518AB",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "pn4537",
+            "pn3993",
+            "pn3186",
+            "pn4444"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": true,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth37908",
+        "chair": "Bryan Dosono"
+    },
+    "Papers_135": {
+        "s_title": "Input: Targets and Selection",
+        "room": "515ABC",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "pn2450",
+            "pn1537",
+            "pn3245",
+            "pn1120"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": true,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "authauth22718",
+        "chair": "Aakar Gupta"
+    },
+    "Papers_140": {
+        "s_title": "Tangible",
+        "room": "516AB",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "pn3296",
+            "pn4068",
+            "pn2233",
+            "pn4170"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth16958",
+        "chair": "Rong-Hao Liang"
+    },
+    "Papers_144": {
+        "s_title": "Interaction in the large (environment)",
+        "room": "521ABC",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "pn2674",
+            "pn3578",
+            "pn1011",
+            "pn4051"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": true,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "",
+        "chair": ""
+    },
+    "Papers_148": {
+        "s_title": "Designing and Creating Visualizations",
+        "room": "518C",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "pn3066",
+            "pn2368",
+            "pn1836",
+            "pn4823"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": true,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth74094",
+        "chair": "Benjamin Bach"
+    },
+    "Course_22": {
+        "s_title": "How Do We Measure That?!&nbsp; Quick Scale Development",
+        "room": "522AB",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "crs105-2"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_44": {
+        "s_title": "Speech and Hands-free Interaction: Myths, Challenges, and Opportunities",
+        "room": "524A",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "crs132-2"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_57": {
+        "s_title": "Gamification: Tools and Techniques for Motivating Users",
+        "room": "524B",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "crs138-3"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "COURSES_2": {
+        "s_title": "Computational Interaction: Theory and Practice",
+        "room": "524C",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "crs123"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "SIG": {
+        "s_title": "Silent SIG: Reflection in action at CHI",
+        "room": "514B",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "sigs1009"
+        ],
+        "personas": "",
+        "venue": "SIG",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "SIG",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "SIG",
+        "chairId": "",
+        "chair": ""
+    },
+    "SIG_4": {
+        "s_title": "Enhancing SIGCHI Membership Benefits",
+        "room": "514A",
+        "time": "9:00",
+        "endTime": "10:20",
+        "submissions": [
+            "sigs1031"
+        ],
+        "personas": "",
+        "venue": "SIG",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "SIG",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "SIG",
+        "chairId": "",
+        "chair": ""
+    },
+    "Case_studies_3": {
+        "s_title": "Awareness at Work",
+        "room": "514C",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "cs2651",
+            "cs1031",
+            "cs1129",
+            "cs1507"
+        ],
+        "personas": "",
+        "venue": "casestudy",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "casestudy",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "casestudy",
+        "chairId": "",
+        "chair": ""
+    },
+    "Papers_6": {
+        "s_title": "Beyond the Screen",
+        "room": "516AB",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "pn2624",
+            "pn4239",
+            "pn2028",
+            "pn3089"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth53912",
+        "chair": "Scott Bateman"
+    },
+    "Papers_22": {
+        "s_title": "Interruptions",
+        "room": "518AB",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "pn4597",
+            "pn3872",
+            "pn1320",
+            "pn1612"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth1095",
+        "chair": "Roel Vertegaal"
+    },
+    "Papers_37": {
+        "s_title": "Virtual Reality",
+        "room": "513AB",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "pn1509",
+            "pn2794",
+            "pn4903",
+            "pn3104"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth12491",
+        "chair": "Kening Zhu"
+    },
+    "Papers_56": {
+        "s_title": "Designing Care",
+        "room": "518C",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "pn2832",
+            "pn3284",
+            "pn1095",
+            "pn1668"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth67483",
+        "chair": "Amanda Lazar"
+    },
+    "Papers_66": {
+        "s_title": "Crowdsourcing/crowdwork",
+        "room": "515ABC",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "pn3726",
+            "pn1370",
+            "pn1461",
+            "pn2360"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth16365",
+        "chair": "Benjamin V. Hanrahan"
+    },
+    "Papers_68": {
+        "s_title": "New Perspectives on Sustainability",
+        "room": "521ABC",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "pn3251",
+            "pn2342",
+            "pn3867",
+            "pn3307"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth61112",
+        "chair": "EunJeong Cheon"
+    },
+    "Papers_82": {
+        "s_title": "Body Gestures and Body Displays",
+        "room": "517A",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "pn3060",
+            "pn3380",
+            "pn4688",
+            "pn1635"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth9585",
+        "chair": "Luis A. Leiva"
+    },
+    "Papers_89": {
+        "s_title": "Programming 2",
+        "room": "517C",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "pn2142",
+            "pn3875",
+            "pn4575",
+            "pn1192"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth18377",
+        "chair": "Michael Nebeling"
+    },
+    "Papers_116": {
+        "s_title": "Geography and Location",
+        "room": "516D",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "pn3437",
+            "pn1986",
+            "pn2623",
+            "pn3003"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "",
+        "chair": ""
+    },
+    "Papers_127": {
+        "s_title": "Communication and Discourse",
+        "room": "516E",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "pn3848",
+            "pn2337",
+            "pn3736",
+            "pn2066"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth38179",
+        "chair": "Chris Elsden"
+    },
+    "Papers_129": {
+        "s_title": "Force Feedback in VR",
+        "room": "517D",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "pn4796",
+            "pn4202",
+            "pn4872",
+            "pn3585"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth21192",
+        "chair": "Pedro Lopes"
+    },
+    "Papers_137": {
+        "s_title": "Fabrication &amp; Embedding 2",
+        "room": "517B",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "pn4463",
+            "pn2170",
+            "pn2190",
+            "pn4529"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth42878",
+        "chair": "Thijs Jan Roumen"
+    },
+    "Papers_143": {
+        "s_title": "Shape Changing",
+        "room": "516C",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "pn4727",
+            "pn3282",
+            "pn2846",
+            "pn2806"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth47233",
+        "chair": "Miriam Sturdee"
+    },
+    "Papers_166": {
+        "s_title": "Perception in Visualization 2",
+        "room": "519AB",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "pn3494",
+            "pn4015",
+            "pn2572",
+            "pn3145"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "",
+        "chair": ""
+    },
+    "SIGS_5": {
+        "s_title": "Child-Computer Interaction SIG: Ubiquity and Big Data - A Changing Technology Landscape for Children",
+        "room": "514A",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "sigs1017"
+        ],
+        "personas": "",
+        "venue": "SIG",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "SIG",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "SIG",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_25": {
+        "s_title": "How Do We Measure That?!&nbsp; Quick Scale Development",
+        "room": "522AB",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "crs105-3"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_38": {
+        "s_title": "Gamification: Tools and Techniques for Motivating Users",
+        "room": "524B",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "crs138-2"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_45": {
+        "s_title": "Speech and Hands-free Interaction: Myths, Challenges, and Opportunities",
+        "room": "524A",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "crs132"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "COURSES_3": {
+        "s_title": "Computational Interaction: Theory and Practice",
+        "room": "524C",
+        "time": "11:00",
+        "endTime": "12:20",
+        "submissions": [
+            "crs123-3"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "Papers_18": {
+        "s_title": "Typing &amp; Touch 2",
+        "room": "516AB",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "pn4593",
+            "pn2482",
+            "pn1191",
+            "pn3702"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth25064",
+        "chair": "Euan Freeman"
+    },
+    "Papers_20": {
+        "s_title": "Mobile touchscreen interactions",
+        "room": "517A",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "pn3107",
+            "pn2538",
+            "pn2783",
+            "pn4556"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth5828",
+        "chair": "Emmanuel Pietriga"
+    },
+    "Papers_23": {
+        "s_title": "Social Media &amp; Information",
+        "room": "517C",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "pn3286",
+            "pn4681",
+            "pn2055",
+            "pn3497"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "authauth10834",
+        "chair": "David Geerts"
+    },
+    "Papers_80": {
+        "s_title": "Making Conversation",
+        "room": "519AB",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "pn4201",
+            "pn4503",
+            "pn3688",
+            "pn3458"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": true,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "",
+        "chair": ""
+    },
+    "Papers_105": {
+        "s_title": "Worn, spoken, lived in",
+        "room": "515ABC",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "pn2755",
+            "pn4873",
+            "pn4426",
+            "pn1497"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth12941",
+        "chair": "Christian Holz"
+    },
+    "Papers_117": {
+        "s_title": "Activism &amp; Politics",
+        "room": "516D",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "pn3193",
+            "pn2372",
+            "pn4797",
+            "pn1048"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": true,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth22195",
+        "chair": "Casey Fiesler"
+    },
+    "Papers_120": {
+        "s_title": "Video Communications",
+        "room": "513AB",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "pn3203",
+            "pn4918",
+            "pn2739",
+            "pn1287"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "authauth36936",
+        "chair": "Ignacio Avellino"
+    },
+    "Papers_122": {
+        "s_title": "Politics, news and foreign language media",
+        "room": "516E",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "pn4807",
+            "pn1420",
+            "pn1697",
+            "pn2344"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth21060",
+        "chair": "Abdallah El Ali"
+    },
+    "Papers_134": {
+        "s_title": "(On-body) Sensing",
+        "room": "516C",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "pn1133",
+            "pn3647",
+            "pn4625",
+            "pn1964"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "",
+        "chair": ""
+    },
+    "Papers_153": {
+        "s_title": "Visualization of Space and Shape",
+        "room": "518C",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "pn1209",
+            "pn4785",
+            "pn2527",
+            "pn4554"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "",
+        "chair": ""
+    },
+    "Papers_161": {
+        "s_title": "Trust and Security in Practice",
+        "room": "521ABC",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "pn2608",
+            "pn4337",
+            "pn2158",
+            "pn4127"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "authauth16502",
+        "chair": "Emanuel von Zezschwitz"
+    },
+    "Papers_164": {
+        "s_title": "Social Collaboration",
+        "room": "517D",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "pn4682",
+            "pn2015",
+            "pn2861",
+            "pn3784"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "paper",
+        "chairId": "auth7703",
+        "chair": "Joel Lanir"
+    },
+    "Papers_167": {
+        "s_title": "Design &amp; Design Research 3",
+        "room": "517B",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "pn1487",
+            "pn4680",
+            "pn2978",
+            "pn4511"
+        ],
+        "personas": "",
+        "venue": "paper",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "paper",
+        "hasAward": false,
+        "hasHonorableMention": true,
+        "subtype": "paper",
+        "chairId": "auth38179",
+        "chair": "Chris Elsden"
+    },
+    "SIGS_6": {
+        "s_title": "Designathon to Support Women in Tech",
+        "room": "514A",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "sigs1005"
+        ],
+        "personas": "",
+        "venue": "SIG",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "SIG",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "SIG",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_26": {
+        "s_title": "How Do We Measure That?!&nbsp; Quick Scale Development",
+        "room": "522AB",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "crs105"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_36": {
+        "s_title": "Gamification: Tools and Techniques for Motivating Users",
+        "room": "524B",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "crs138"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "Course_46": {
+        "s_title": "Reflexive Ethnographies in Human-Computer Interaction: Theory and Practice",
+        "room": "524A",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "crs112"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "COURSES_4": {
+        "s_title": "Computational Interaction: Theory and Practice",
+        "room": "524C",
+        "time": "14:00",
+        "endTime": "15:20",
+        "submissions": [
+            "crs123-2"
+        ],
+        "personas": "",
+        "venue": "course",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "course",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "course",
+        "chairId": "",
+        "chair": ""
+    },
+    "keynotes_3": {
+        "s_title": "Tuesday Plenary: Choir! Choir! Choir!",
+        "room": "517A",
+        "time": "17:30",
+        "endTime": "18:30",
+        "submissions": [
+            "mhaley1002"
+        ],
+        "personas": "",
+        "venue": "keynote",
+        "day": "4/24/18",
+        "s_tags": [
+
+        ],
+        "type": "keynote",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "keynote",
+        "chairId": "",
+        "chair": ""
+    },
+    "keynotes_2": {
+        "s_title": "Closing Keynote: Sue Gardner",
+        "room": "517A",
+        "time": "15:40",
+        "endTime": "17:10",
+        "submissions": [
+            "mhaley1001"
+        ],
+        "personas": "",
+        "venue": "keynote",
+        "day": "4/26/18",
+        "s_tags": [
+
+        ],
+        "type": "keynote",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "keynote",
+        "chairId": "",
+        "chair": ""
+    },
+    "videoshowcase": {
+        "s_title": "Videoshowcase",
+        "room": "517D",
+        "time": "17:30",
+        "endTime": "18:30",
+        "submissions": [
+            "vid1038",
+            "vid1001",
+            "vid1010",
+            "vid1011",
+            "vid1022",
+            "vid1081",
+            "vid1051",
+            "vid1036",
+            "vid1016",
+            "vid1069",
+            "vid1079",
+            "vid1042",
+            "vid1046",
+            "vid1027",
+            "vid1060"
+        ],
+        "personas": "",
+        "venue": "videoshowcase",
+        "day": "4/25/18",
+        "s_tags": [
+
+        ],
+        "type": "videoshowcase",
+        "hasAward": false,
+        "hasHonorableMention": false,
+        "subtype": "videoshowcase",
+        "chairId": "",
+        "chair": ""
+    }
+}

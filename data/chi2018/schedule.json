@@ -1,0 +1,1566 @@
+[
+    {
+        "date": "4/21/18",
+        "day": "Saturday",
+        "slots": [
+            {
+                "slot_id": "4_21_18_9_00_5_00",
+                "time": "9:00 - 5:00",
+                "slot_class": "Workshops",
+                "sessions": [
+                    {
+                        "session": "Workshop",
+                        "room": "513A"
+                    },
+                    {
+                        "session": "Workshop_2",
+                        "room": "513B"
+                    },
+                    {
+                        "session": "Workshop_3",
+                        "room": "513D"
+                    },
+                    {
+                        "session": "Workshop_7",
+                        "room": "514C"
+                    },
+                    {
+                        "session": "Workshop_8",
+                        "room": "515A"
+                    },
+                    {
+                        "session": "Workshop_9",
+                        "room": "515B"
+                    },
+                    {
+                        "session": "Workshop_10",
+                        "room": "515C"
+                    },
+                    {
+                        "session": "Workshop_11",
+                        "room": "518A"
+                    },
+                    {
+                        "session": "Workshop_12",
+                        "room": "518B"
+                    },
+                    {
+                        "session": "Workshop_13",
+                        "room": "518C"
+                    },
+                    {
+                        "session": "Workshop_14",
+                        "room": "519A"
+                    },
+                    {
+                        "session": "Workshop_15",
+                        "room": "519B"
+                    },
+                    {
+                        "session": "Workshop_16",
+                        "room": "520C"
+                    },
+                    {
+                        "session": "Workshop_17",
+                        "room": "521A"
+                    },
+                    {
+                        "session": "Workshop_18",
+                        "room": "521B"
+                    },
+                    {
+                        "session": "Workshop_19",
+                        "room": "521C"
+                    },
+                    {
+                        "session": "Workshop_20",
+                        "room": "522A"
+                    },
+                    {
+                        "session": "Workshop_21",
+                        "room": "522B"
+                    },
+                    {
+                        "session": "Workshop_22",
+                        "room": "522C"
+                    },
+                    {
+                        "session": "Workshop_23",
+                        "room": "514B"
+                    },
+                    {
+                        "session": "Workshop_40",
+                        "room": "514A"
+                    },
+                    {
+                        "session": "Workshop_41",
+                        "room": "520F"
+                    },
+                    {
+                        "session": "Workshop_43",
+                        "room": "520E"
+                    },
+                    {
+                        "session": "Workshop_45",
+                        "room": "520B"
+                    },
+                    {
+                        "session": "Symposium",
+                        "room": "513C"
+                    },
+                    {
+                        "session": "Symposium_3",
+                        "room": "524A"
+                    },
+                    {
+                        "session": "Symposium_6",
+                        "room": "524B"
+                    },
+                    {
+                        "session": "JAMS_2",
+                        "room": "520AD"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "4/22/18",
+        "day": "Sunday",
+        "slots": [
+            {
+                "slot_id": "4_22_18_9_00_5_00",
+                "time": "9:00 - 5:00",
+                "slot_class": "Workshops",
+                "sessions": [
+                    {
+                        "session": "Workshop_4",
+                        "room": "513B"
+                    },
+                    {
+                        "session": "Workshop_5",
+                        "room": "524C"
+                    },
+                    {
+                        "session": "Workshop_6",
+                        "room": "514A"
+                    },
+                    {
+                        "session": "Workshop_24",
+                        "room": "514B"
+                    },
+                    {
+                        "session": "Workshop_25",
+                        "room": "514C"
+                    },
+                    {
+                        "session": "Workshop_26",
+                        "room": "515A"
+                    },
+                    {
+                        "session": "Workshop_27",
+                        "room": "515B"
+                    },
+                    {
+                        "session": "Workshop_28",
+                        "room": "515C"
+                    },
+                    {
+                        "session": "Workshop_29",
+                        "room": "518A"
+                    },
+                    {
+                        "session": "Workshop_30",
+                        "room": "518B"
+                    },
+                    {
+                        "session": "Workshop_31",
+                        "room": "518C"
+                    },
+                    {
+                        "session": "Workshop_32",
+                        "room": "519A"
+                    },
+                    {
+                        "session": "Workshop_33",
+                        "room": "519B"
+                    },
+                    {
+                        "session": "Workshop_34",
+                        "room": "521A"
+                    },
+                    {
+                        "session": "Workshop_35",
+                        "room": "521B"
+                    },
+                    {
+                        "session": "Workshop_36",
+                        "room": "521C"
+                    },
+                    {
+                        "session": "Workshop_37",
+                        "room": "522A"
+                    },
+                    {
+                        "session": "Workshop_38",
+                        "room": "522B"
+                    },
+                    {
+                        "session": "Workshop_39",
+                        "room": "522C"
+                    },
+                    {
+                        "session": "Workshop_42",
+                        "room": "520F"
+                    },
+                    {
+                        "session": "Workshop_44",
+                        "room": "520E"
+                    },
+                    {
+                        "session": "Symposium_2",
+                        "room": "513C"
+                    },
+                    {
+                        "session": "Symposium_4",
+                        "room": "524A"
+                    },
+                    {
+                        "session": "Symposium_5",
+                        "room": "520C"
+                    },
+                    {
+                        "session": "JAMS",
+                        "room": "520B"
+                    },
+                    {
+                        "session": "JAMS_3",
+                        "room": "520AD"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "4/23/18",
+        "day": "Monday",
+        "slots": [
+            {
+                "slot_id": "4_23_18_9_00_10_30",
+                "time": "9:00 - 10:30",
+                "slot_class": "Opening Plenary",
+                "sessions": [
+                    {
+                        "session": "keynotes",
+                        "room": "517A"
+                    }
+                ]
+            },
+            {
+                "slot_id": "4_23_18_11_30_12_50",
+                "time": "11:30 - 12:50",
+                "slot_class": "Concurrent Sessions",
+                "sessions": [
+                    {
+                        "session": "Annas_paper_session_2",
+                        "room": "515ABC"
+                    },
+                    {
+                        "session": "Case_studies",
+                        "room": "514C"
+                    },
+                    {
+                        "session": "Papers_12",
+                        "room": "513AB"
+                    },
+                    {
+                        "session": "Papers_19",
+                        "room": "516E"
+                    },
+                    {
+                        "session": "Papers_40",
+                        "room": "516C"
+                    },
+                    {
+                        "session": "Papers_59",
+                        "room": "518C"
+                    },
+                    {
+                        "session": "Papers_72",
+                        "room": "519AB"
+                    },
+                    {
+                        "session": "Papers_125",
+                        "room": "516AB"
+                    },
+                    {
+                        "session": "Papers_130",
+                        "room": "518AB"
+                    },
+                    {
+                        "session": "Papers_133",
+                        "room": "516D"
+                    },
+                    {
+                        "session": "Papers_157",
+                        "room": "514B"
+                    },
+                    {
+                        "session": "SIGS_8",
+                        "room": "514A"
+                    },
+                    {
+                        "session": "Course",
+                        "room": "521ABC"
+                    },
+                    {
+                        "session": "Course_9",
+                        "room": "522AB"
+                    },
+                    {
+                        "session": "Course_28",
+                        "room": "524A"
+                    },
+                    {
+                        "session": "Course_34",
+                        "room": "524C"
+                    },
+                    {
+                        "session": "formark_2",
+                        "room": "524B"
+                    },
+                    {
+                        "session": "_2",
+                        "room": "520F"
+                    }
+                ]
+            },
+            {
+                "slot_id": "4_23_18_14_30_15_50",
+                "time": "14:30 - 15:50",
+                "slot_class": "Concurrent Sessions",
+                "sessions": [
+                    {
+                        "session": "Altchi_4",
+                        "room": "516AB"
+                    },
+                    {
+                        "session": "Papers_3",
+                        "room": "515ABC"
+                    },
+                    {
+                        "session": "Papers_31",
+                        "room": "516D"
+                    },
+                    {
+                        "session": "Papers_47",
+                        "room": "514C"
+                    },
+                    {
+                        "session": "Papers_60",
+                        "room": "518AB"
+                    },
+                    {
+                        "session": "Papers_62",
+                        "room": "518C"
+                    },
+                    {
+                        "session": "Papers_81",
+                        "room": "513AB"
+                    },
+                    {
+                        "session": "Papers_96",
+                        "room": "517C"
+                    },
+                    {
+                        "session": "Papers_132",
+                        "room": "517A"
+                    },
+                    {
+                        "session": "Papers_147",
+                        "room": "517B"
+                    },
+                    {
+                        "session": "Papers_171",
+                        "room": "517D"
+                    },
+                    {
+                        "session": "Papers_176",
+                        "room": "516C"
+                    },
+                    {
+                        "session": "Papers_178",
+                        "room": "514B"
+                    },
+                    {
+                        "session": "SIGS_7",
+                        "room": "514A"
+                    },
+                    {
+                        "session": "Course_2",
+                        "room": "521ABC"
+                    },
+                    {
+                        "session": "Course_10",
+                        "room": "522AB"
+                    },
+                    {
+                        "session": "Course_30",
+                        "room": "524A"
+                    },
+                    {
+                        "session": "Course_31",
+                        "room": "524C"
+                    },
+                    {
+                        "session": "Course_48",
+                        "room": "524B"
+                    },
+                    {
+                        "session": "emp_2",
+                        "room": "519AB"
+                    },
+                    {
+                        "session": "Award",
+                        "room": "516E"
+                    },
+                    {
+                        "session": "_3",
+                        "room": "520F"
+                    }
+                ]
+            },
+            {
+                "slot_id": "4_23_18_16_30_17_50",
+                "time": "16:30 - 17:50",
+                "slot_class": "Concurrent Sessions",
+                "sessions": [
+                    {
+                        "session": "Panel",
+                        "room": "520AD"
+                    },
+                    {
+                        "session": "Panel_7",
+                        "room": "520B"
+                    },
+                    {
+                        "session": "Papers",
+                        "room": "515ABC"
+                    },
+                    {
+                        "session": "Papers_10",
+                        "room": "514B"
+                    },
+                    {
+                        "session": "Papers_45",
+                        "room": "513AB"
+                    },
+                    {
+                        "session": "Papers_61",
+                        "room": "518C"
+                    },
+                    {
+                        "session": "Papers_95",
+                        "room": "517C"
+                    },
+                    {
+                        "session": "Papers_99",
+                        "room": "516C"
+                    },
+                    {
+                        "session": "Papers_104",
+                        "room": "517D"
+                    },
+                    {
+                        "session": "Papers_111",
+                        "room": "516D"
+                    },
+                    {
+                        "session": "Papers_123",
+                        "room": "517B"
+                    },
+                    {
+                        "session": "Papers_128",
+                        "room": "516E"
+                    },
+                    {
+                        "session": "Papers_146",
+                        "room": "518AB"
+                    },
+                    {
+                        "session": "Papers_159",
+                        "room": "517A"
+                    },
+                    {
+                        "session": "Papers_175",
+                        "room": "516AB"
+                    },
+                    {
+                        "session": "SIGS_9",
+                        "room": "514A"
+                    },
+                    {
+                        "session": "Course_3",
+                        "room": "521ABC"
+                    },
+                    {
+                        "session": "Course_11",
+                        "room": "522AB"
+                    },
+                    {
+                        "session": "Course_29",
+                        "room": "524C"
+                    },
+                    {
+                        "session": "Course_32",
+                        "room": "524A"
+                    },
+                    {
+                        "session": "Course_49",
+                        "room": "524B"
+                    },
+                    {
+                        "session": "empty",
+                        "room": "514C"
+                    },
+                    {
+                        "session": "emp",
+                        "room": "519AB"
+                    },
+                    {
+                        "session": "s",
+                        "room": "520F"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "4/24/18",
+        "day": "Tuesday",
+        "slots": [
+            {
+                "slot_id": "4_24_18_9_00_10_20",
+                "time": "9:00 - 10:20",
+                "slot_class": "Concurrent Sessions",
+                "sessions": [
+                    {
+                        "session": "Case_studies_4",
+                        "room": "514C"
+                    },
+                    {
+                        "session": "Altchi_2",
+                        "room": "516AB"
+                    },
+                    {
+                        "session": "Panel_2",
+                        "room": "520"
+                    },
+                    {
+                        "session": "Papers_2",
+                        "room": "515ABC"
+                    },
+                    {
+                        "session": "Papers_16",
+                        "room": "518C"
+                    },
+                    {
+                        "session": "Papers_34",
+                        "room": "516C"
+                    },
+                    {
+                        "session": "Papers_49",
+                        "room": "517A"
+                    },
+                    {
+                        "session": "Papers_70",
+                        "room": "517D"
+                    },
+                    {
+                        "session": "Papers_73",
+                        "room": "519AB"
+                    },
+                    {
+                        "session": "Papers_113",
+                        "room": "516D"
+                    },
+                    {
+                        "session": "Papers_142",
+                        "room": "517B"
+                    },
+                    {
+                        "session": "Papers_149",
+                        "room": "518AB"
+                    },
+                    {
+                        "session": "Papers_165",
+                        "room": "513AB"
+                    },
+                    {
+                        "session": "Papers_169",
+                        "room": "516E"
+                    },
+                    {
+                        "session": "Papers_170",
+                        "room": "517C"
+                    },
+                    {
+                        "session": "SIGS_10",
+                        "room": "514A"
+                    },
+                    {
+                        "session": "Course_4",
+                        "room": "521ABC"
+                    },
+                    {
+                        "session": "Course_12",
+                        "room": "522AB"
+                    },
+                    {
+                        "session": "Course_27",
+                        "room": "524C"
+                    },
+                    {
+                        "session": "Course_33",
+                        "room": "524A"
+                    },
+                    {
+                        "session": "Course_50",
+                        "room": "524B"
+                    },
+                    {
+                        "session": "SIG_3",
+                        "room": "514B"
+                    }
+                ]
+            },
+            {
+                "slot_id": "4_24_18_11_00_12_20",
+                "time": "11:00 - 12:20",
+                "slot_class": "Concurrent Sessions",
+                "sessions": [
+                    {
+                        "session": "thisisatest",
+                        "room": "515ABC"
+                    },
+                    {
+                        "session": "Annas_paper_session",
+                        "room": "516AB"
+                    },
+                    {
+                        "session": "Case_studies_5",
+                        "room": "514C"
+                    },
+                    {
+                        "session": "Papers_14",
+                        "room": "518AB"
+                    },
+                    {
+                        "session": "Papers_35",
+                        "room": "517D"
+                    },
+                    {
+                        "session": "Papers_52",
+                        "room": "517A"
+                    },
+                    {
+                        "session": "Papers_55",
+                        "room": "516C"
+                    },
+                    {
+                        "session": "Papers_64",
+                        "room": "518C"
+                    },
+                    {
+                        "session": "Papers_75",
+                        "room": "519AB"
+                    },
+                    {
+                        "session": "Papers_78",
+                        "room": "513AB"
+                    },
+                    {
+                        "session": "Papers_91",
+                        "room": "516E"
+                    },
+                    {
+                        "session": "Papers_98",
+                        "room": "517C"
+                    },
+                    {
+                        "session": "Papers_172",
+                        "room": "516D"
+                    },
+                    {
+                        "session": "SIGS_4",
+                        "room": "514B"
+                    },
+                    {
+                        "session": "SIGS_11",
+                        "room": "514A"
+                    },
+                    {
+                        "session": "Course_5",
+                        "room": "521ABC"
+                    },
+                    {
+                        "session": "Course_13",
+                        "room": "522AB"
+                    },
+                    {
+                        "session": "Course_24",
+                        "room": "524C"
+                    },
+                    {
+                        "session": "Course_35",
+                        "room": "524A"
+                    },
+                    {
+                        "session": "Course_51",
+                        "room": "524B"
+                    },
+                    {
+                        "session": "empty_3",
+                        "room": "517B"
+                    }
+                ]
+            },
+            {
+                "slot_id": "4_24_18_14_00_15_20",
+                "time": "14:00 - 15:20",
+                "slot_class": "Concurrent Sessions",
+                "sessions": [
+                    {
+                        "session": "Panel_8",
+                        "room": "519AB"
+                    },
+                    {
+                        "session": "Papers_4",
+                        "room": "515ABC"
+                    },
+                    {
+                        "session": "Papers_8",
+                        "room": "518C"
+                    },
+                    {
+                        "session": "Papers_15",
+                        "room": "514B"
+                    },
+                    {
+                        "session": "Papers_25",
+                        "room": "516AB"
+                    },
+                    {
+                        "session": "Papers_36",
+                        "room": "516C"
+                    },
+                    {
+                        "session": "Papers_48",
+                        "room": "516D"
+                    },
+                    {
+                        "session": "Papers_51",
+                        "room": "517A"
+                    },
+                    {
+                        "session": "Papers_54",
+                        "room": "517B"
+                    },
+                    {
+                        "session": "Papers_84",
+                        "room": "513AB"
+                    },
+                    {
+                        "session": "Papers_87",
+                        "room": "514C"
+                    },
+                    {
+                        "session": "Papers_100",
+                        "room": "517C"
+                    },
+                    {
+                        "session": "Papers_107",
+                        "room": "517D"
+                    },
+                    {
+                        "session": "Papers_145",
+                        "room": "516E"
+                    },
+                    {
+                        "session": "Papers_154",
+                        "room": "518AB"
+                    },
+                    {
+                        "session": "SIGS_12",
+                        "room": "514A"
+                    },
+                    {
+                        "session": "Course_6",
+                        "room": "521ABC"
+                    },
+                    {
+                        "session": "Course_14",
+                        "room": "522AB"
+                    },
+                    {
+                        "session": "Course_23",
+                        "room": "524C"
+                    },
+                    {
+                        "session": "Course_37",
+                        "room": "524A"
+                    },
+                    {
+                        "session": "Course_47",
+                        "room": "524B"
+                    }
+                ]
+            },
+            {
+                "slot_id": "4_24_18_16_00_17_20",
+                "time": "16:00 - 17:20",
+                "slot_class": "Concurrent Sessions",
+                "sessions": [
+                    {
+                        "session": "Panel_3",
+                        "room": "520"
+                    },
+                    {
+                        "session": "Papers_13",
+                        "room": "514B"
+                    },
+                    {
+                        "session": "Papers_21",
+                        "room": "515ABC"
+                    },
+                    {
+                        "session": "Papers_26",
+                        "room": "516AB"
+                    },
+                    {
+                        "session": "Papers_33",
+                        "room": "513AB"
+                    },
+                    {
+                        "session": "Papers_43",
+                        "room": "518C"
+                    },
+                    {
+                        "session": "Papers_53",
+                        "room": "516D"
+                    },
+                    {
+                        "session": "Papers_76",
+                        "room": "519AB"
+                    },
+                    {
+                        "session": "Papers_103",
+                        "room": "517D"
+                    },
+                    {
+                        "session": "Papers_115",
+                        "room": "516C"
+                    },
+                    {
+                        "session": "Papers_126",
+                        "room": "514C"
+                    },
+                    {
+                        "session": "Papers_151",
+                        "room": "517C"
+                    },
+                    {
+                        "session": "Papers_155",
+                        "room": "518AB"
+                    },
+                    {
+                        "session": "Papers_163",
+                        "room": "517B"
+                    },
+                    {
+                        "session": "Papers_173",
+                        "room": "517A"
+                    },
+                    {
+                        "session": "SIGS_13",
+                        "room": "514A"
+                    },
+                    {
+                        "session": "Course_7",
+                        "room": "521ABC"
+                    },
+                    {
+                        "session": "Course_16",
+                        "room": "522AB"
+                    },
+                    {
+                        "session": "Course_39",
+                        "room": "524A"
+                    },
+                    {
+                        "session": "Course_55",
+                        "room": "524B"
+                    },
+                    {
+                        "session": "Course_59",
+                        "room": "524C"
+                    },
+                    {
+                        "session": "Award_2",
+                        "room": "516E"
+                    }
+                ]
+            },
+            {
+                "slot_id": "4_24_18_17_30_18_30",
+                "time": "17:30 - 18:30",
+                "slot_class": "keynote",
+                "sessions": [
+                    {
+                        "session": "keynotes_3",
+                        "room": "517A"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "4/25/18",
+        "day": "Wednesday",
+        "slots": [
+            {
+                "slot_id": "4_25_18_9_00_10_20",
+                "time": "9:00 - 10:20",
+                "slot_class": "Concurrent Sessions",
+                "sessions": [
+                    {
+                        "session": "Altchi_3",
+                        "room": "517B"
+                    },
+                    {
+                        "session": "Panel_4",
+                        "room": "520"
+                    },
+                    {
+                        "session": "Papers_11",
+                        "room": "515ABC"
+                    },
+                    {
+                        "session": "Papers_17",
+                        "room": "516E"
+                    },
+                    {
+                        "session": "Papers_27",
+                        "room": "516AB"
+                    },
+                    {
+                        "session": "Papers_39",
+                        "room": "519AB"
+                    },
+                    {
+                        "session": "Papers_44",
+                        "room": "516C"
+                    },
+                    {
+                        "session": "Papers_63",
+                        "room": "518AB"
+                    },
+                    {
+                        "session": "Papers_77",
+                        "room": "514B"
+                    },
+                    {
+                        "session": "Papers_85",
+                        "room": "513AB"
+                    },
+                    {
+                        "session": "Papers_108",
+                        "room": "517D"
+                    },
+                    {
+                        "session": "Papers_141",
+                        "room": "516D"
+                    },
+                    {
+                        "session": "Papers_162",
+                        "room": "517A"
+                    },
+                    {
+                        "session": "Papers_168",
+                        "room": "518C"
+                    },
+                    {
+                        "session": "Papers_177",
+                        "room": "517C"
+                    },
+                    {
+                        "session": "SIGS_3",
+                        "room": "514A"
+                    },
+                    {
+                        "session": "Course_8",
+                        "room": "521ABC"
+                    },
+                    {
+                        "session": "Course_15",
+                        "room": "522AB"
+                    },
+                    {
+                        "session": "Course_19",
+                        "room": "524C"
+                    },
+                    {
+                        "session": "Course_40",
+                        "room": "524A"
+                    },
+                    {
+                        "session": "Course_56",
+                        "room": "524B"
+                    },
+                    {
+                        "session": "SIG_2",
+                        "room": "514C"
+                    }
+                ]
+            },
+            {
+                "slot_id": "4_25_18_11_00_12_20",
+                "time": "11:00 - 12:20",
+                "slot_class": "Concurrent Sessions",
+                "sessions": [
+                    {
+                        "session": "Test",
+                        "room": "515ABC"
+                    },
+                    {
+                        "session": "Papers_5",
+                        "room": "514C"
+                    },
+                    {
+                        "session": "Papers_28",
+                        "room": "516AB"
+                    },
+                    {
+                        "session": "Papers_42",
+                        "room": "517C"
+                    },
+                    {
+                        "session": "Papers_50",
+                        "room": "517A"
+                    },
+                    {
+                        "session": "Papers_57",
+                        "room": "517B"
+                    },
+                    {
+                        "session": "Papers_58",
+                        "room": "516D"
+                    },
+                    {
+                        "session": "Papers_86",
+                        "room": "513AB"
+                    },
+                    {
+                        "session": "Papers_92",
+                        "room": "519AB"
+                    },
+                    {
+                        "session": "Papers_109",
+                        "room": "517D"
+                    },
+                    {
+                        "session": "Papers_110",
+                        "room": "518AB"
+                    },
+                    {
+                        "session": "Papers_112",
+                        "room": "516E"
+                    },
+                    {
+                        "session": "Papers_136",
+                        "room": "516C"
+                    },
+                    {
+                        "session": "Papers_152",
+                        "room": "518C"
+                    },
+                    {
+                        "session": "SIGS_14",
+                        "room": "514A"
+                    },
+                    {
+                        "session": "Course_17",
+                        "room": "522AB"
+                    },
+                    {
+                        "session": "Course_21",
+                        "room": "524C"
+                    },
+                    {
+                        "session": "Course_41",
+                        "room": "524A"
+                    },
+                    {
+                        "session": "Course_54",
+                        "room": "524B"
+                    }
+                ]
+            },
+            {
+                "slot_id": "4_25_18_14_00_15_20",
+                "time": "14:00 - 15:20",
+                "slot_class": "Concurrent Sessions",
+                "sessions": [
+                    {
+                        "session": "Case_studies_2",
+                        "room": "516AB"
+                    },
+                    {
+                        "session": "Papers_7",
+                        "room": "515ABC"
+                    },
+                    {
+                        "session": "Papers_30",
+                        "room": "519AB"
+                    },
+                    {
+                        "session": "Papers_88",
+                        "room": "513AB"
+                    },
+                    {
+                        "session": "Papers_101",
+                        "room": "517C"
+                    },
+                    {
+                        "session": "Papers_114",
+                        "room": "516D"
+                    },
+                    {
+                        "session": "Papers_119",
+                        "room": "521ABC"
+                    },
+                    {
+                        "session": "Papers_139",
+                        "room": "517B"
+                    },
+                    {
+                        "session": "Papers_158",
+                        "room": "518C"
+                    },
+                    {
+                        "session": "Papers_160",
+                        "room": "518AB"
+                    },
+                    {
+                        "session": "SIGS_2",
+                        "room": "514A"
+                    },
+                    {
+                        "session": "Course_18",
+                        "room": "522AB"
+                    },
+                    {
+                        "session": "Course_42",
+                        "room": "524A"
+                    },
+                    {
+                        "session": "Course_53",
+                        "room": "524B"
+                    },
+                    {
+                        "session": "Course_60",
+                        "room": "524C"
+                    },
+                    {
+                        "session": "empty_2",
+                        "room": "517D"
+                    },
+                    {
+                        "session": "competition",
+                        "room": "516C"
+                    },
+                    {
+                        "session": "competition_2",
+                        "room": "514C"
+                    }
+                ]
+            },
+            {
+                "slot_id": "4_25_18_16_00_17_20",
+                "time": "16:00 - 17:20",
+                "slot_class": "Concurrent Sessions",
+                "sessions": [
+                    {
+                        "session": "Panel_5",
+                        "room": "520"
+                    },
+                    {
+                        "session": "Papers_24",
+                        "room": "517A"
+                    },
+                    {
+                        "session": "Papers_29",
+                        "room": "517D"
+                    },
+                    {
+                        "session": "Papers_46",
+                        "room": "516C"
+                    },
+                    {
+                        "session": "Papers_83",
+                        "room": "516E"
+                    },
+                    {
+                        "session": "Papers_90",
+                        "room": "516AB"
+                    },
+                    {
+                        "session": "Papers_93",
+                        "room": "513AB"
+                    },
+                    {
+                        "session": "Papers_121",
+                        "room": "515ABC"
+                    },
+                    {
+                        "session": "Papers_131",
+                        "room": "519AB"
+                    },
+                    {
+                        "session": "Papers_138",
+                        "room": "518C"
+                    },
+                    {
+                        "session": "Papers_150",
+                        "room": "521ABC"
+                    },
+                    {
+                        "session": "Papers_156",
+                        "room": "518AB"
+                    },
+                    {
+                        "session": "Papers_174",
+                        "room": "517B"
+                    },
+                    {
+                        "session": "SIGS",
+                        "room": "514A"
+                    },
+                    {
+                        "session": "Course_20",
+                        "room": "522AB"
+                    },
+                    {
+                        "session": "Course_43",
+                        "room": "524A"
+                    },
+                    {
+                        "session": "Course_52",
+                        "room": "524B"
+                    },
+                    {
+                        "session": "COURSES",
+                        "room": "524C"
+                    },
+                    {
+                        "session": "emp_3",
+                        "room": "517C"
+                    },
+                    {
+                        "session": "empt",
+                        "room": "516D"
+                    },
+                    {
+                        "session": "competition_3",
+                        "room": "514C"
+                    },
+                    {
+                        "session": "spare_SIG",
+                        "room": "514B"
+                    }
+                ]
+            },
+            {
+                "slot_id": "4_25_18_17_30_18_30",
+                "time": "17:30 - 18:30",
+                "slot_class": "videoshowcase",
+                "sessions": [
+                    {
+                        "session": "videoshowcase",
+                        "room": "517D"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "date": "4/26/18",
+        "day": "Thursday",
+        "slots": [
+            {
+                "slot_id": "4_26_18_9_00_10_20",
+                "time": "9:00 - 10:20",
+                "slot_class": "Concurrent Sessions",
+                "sessions": [
+                    {
+                        "session": "Altchi",
+                        "room": "516D"
+                    },
+                    {
+                        "session": "Panel_6",
+                        "room": "520"
+                    },
+                    {
+                        "session": "Papers_9",
+                        "room": "516C"
+                    },
+                    {
+                        "session": "Papers_71",
+                        "room": "519AB"
+                    },
+                    {
+                        "session": "Papers_74",
+                        "room": "517B"
+                    },
+                    {
+                        "session": "Papers_79",
+                        "room": "516E"
+                    },
+                    {
+                        "session": "Papers_94",
+                        "room": "517C"
+                    },
+                    {
+                        "session": "Papers_102",
+                        "room": "517D"
+                    },
+                    {
+                        "session": "Papers_118",
+                        "room": "517A"
+                    },
+                    {
+                        "session": "Papers_124",
+                        "room": "518AB"
+                    },
+                    {
+                        "session": "Papers_135",
+                        "room": "515ABC"
+                    },
+                    {
+                        "session": "Papers_140",
+                        "room": "516AB"
+                    },
+                    {
+                        "session": "Papers_144",
+                        "room": "521ABC"
+                    },
+                    {
+                        "session": "Papers_148",
+                        "room": "518C"
+                    },
+                    {
+                        "session": "Course_22",
+                        "room": "522AB"
+                    },
+                    {
+                        "session": "Course_44",
+                        "room": "524A"
+                    },
+                    {
+                        "session": "Course_57",
+                        "room": "524B"
+                    },
+                    {
+                        "session": "COURSES_2",
+                        "room": "524C"
+                    },
+                    {
+                        "session": "SIG",
+                        "room": "514B"
+                    },
+                    {
+                        "session": "SIG_4",
+                        "room": "514A"
+                    }
+                ]
+            },
+            {
+                "slot_id": "4_26_18_11_00_12_20",
+                "time": "11:00 - 12:20",
+                "slot_class": "Concurrent Sessions",
+                "sessions": [
+                    {
+                        "session": "Case_studies_3",
+                        "room": "514C"
+                    },
+                    {
+                        "session": "Papers_6",
+                        "room": "516AB"
+                    },
+                    {
+                        "session": "Papers_22",
+                        "room": "518AB"
+                    },
+                    {
+                        "session": "Papers_37",
+                        "room": "513AB"
+                    },
+                    {
+                        "session": "Papers_56",
+                        "room": "518C"
+                    },
+                    {
+                        "session": "Papers_66",
+                        "room": "515ABC"
+                    },
+                    {
+                        "session": "Papers_68",
+                        "room": "521ABC"
+                    },
+                    {
+                        "session": "Papers_82",
+                        "room": "517A"
+                    },
+                    {
+                        "session": "Papers_89",
+                        "room": "517C"
+                    },
+                    {
+                        "session": "Papers_116",
+                        "room": "516D"
+                    },
+                    {
+                        "session": "Papers_127",
+                        "room": "516E"
+                    },
+                    {
+                        "session": "Papers_129",
+                        "room": "517D"
+                    },
+                    {
+                        "session": "Papers_137",
+                        "room": "517B"
+                    },
+                    {
+                        "session": "Papers_143",
+                        "room": "516C"
+                    },
+                    {
+                        "session": "Papers_166",
+                        "room": "519AB"
+                    },
+                    {
+                        "session": "SIGS_5",
+                        "room": "514A"
+                    },
+                    {
+                        "session": "Course_25",
+                        "room": "522AB"
+                    },
+                    {
+                        "session": "Course_38",
+                        "room": "524B"
+                    },
+                    {
+                        "session": "Course_45",
+                        "room": "524A"
+                    },
+                    {
+                        "session": "COURSES_3",
+                        "room": "524C"
+                    }
+                ]
+            },
+            {
+                "slot_id": "4_26_18_14_00_15_20",
+                "time": "14:00 - 15:20",
+                "slot_class": "Concurrent Sessions",
+                "sessions": [
+                    {
+                        "session": "Papers_18",
+                        "room": "516AB"
+                    },
+                    {
+                        "session": "Papers_20",
+                        "room": "517A"
+                    },
+                    {
+                        "session": "Papers_23",
+                        "room": "517C"
+                    },
+                    {
+                        "session": "Papers_80",
+                        "room": "519AB"
+                    },
+                    {
+                        "session": "Papers_105",
+                        "room": "515ABC"
+                    },
+                    {
+                        "session": "Papers_117",
+                        "room": "516D"
+                    },
+                    {
+                        "session": "Papers_120",
+                        "room": "513AB"
+                    },
+                    {
+                        "session": "Papers_122",
+                        "room": "516E"
+                    },
+                    {
+                        "session": "Papers_134",
+                        "room": "516C"
+                    },
+                    {
+                        "session": "Papers_153",
+                        "room": "518C"
+                    },
+                    {
+                        "session": "Papers_161",
+                        "room": "521ABC"
+                    },
+                    {
+                        "session": "Papers_164",
+                        "room": "517D"
+                    },
+                    {
+                        "session": "Papers_167",
+                        "room": "517B"
+                    },
+                    {
+                        "session": "SIGS_6",
+                        "room": "514A"
+                    },
+                    {
+                        "session": "Course_26",
+                        "room": "522AB"
+                    },
+                    {
+                        "session": "Course_36",
+                        "room": "524B"
+                    },
+                    {
+                        "session": "Course_46",
+                        "room": "524A"
+                    },
+                    {
+                        "session": "COURSES_4",
+                        "room": "524C"
+                    }
+                ]
+            },
+            {
+                "slot_id": "4_26_18_15_40_17_10",
+                "time": "15:40 - 17:10",
+                "slot_class": "keynote",
+                "sessions": [
+                    {
+                        "session": "keynotes_2",
+                        "room": "517A"
+                    }
+                ]
+            }
+        ]
+    }
+]

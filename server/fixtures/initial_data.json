@@ -424,6 +424,20 @@
 	      "end_date": "2017-10-20",
 	      "admins": "[\"anantb@csail.mit.edu\", \"axz@mit.edu\", \"yutakamitsue@gmail.com\"]"
 	  	}
+	},
+	{"model": "server.Conference",
+	    "pk": 31,
+	    "fields": {
+	      "unique_name": "chi2018",
+	      "confer_name": "chi2018",
+	      "title": "CHI 2018 - ACM CHI Conference on Human Factors in Computing Systems",
+	      "subtitle": "",
+	      "blurb": "The ACM CHI Conference on Human Factors in Computing Systems is the premier international conference of Human-Computer Interaction. For first-time attendees, CHI is a place where researchers and practitioners gather from across the world to discuss the latest in interactive technology. We are a multicultural community from highly diverse backgrounds who together investigate new and creative ways for people to interact.",
+	      "location": "Montreal, Canada",
+	      "start_date": "2018-04-21",
+	      "end_date": "2018-04-26",
+	      "admins": "[\"anantb@csail.mit.edu\", \"axz@mit.edu\", \"confer.csail.mit.edu@thegreatmichael.com\"]"
+	  	}
 	}
 ]
   
