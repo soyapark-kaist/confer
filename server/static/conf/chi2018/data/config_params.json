@@ -1,2 +1,4 @@
 config_params = {
 }
+
+$('head').append('<link rel="stylesheet" type="text/css" href="http://confer.csail.mit.edu/static/conf/chi2018/confer.css">');
