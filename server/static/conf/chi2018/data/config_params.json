@@ -1,4 +1,5 @@
 config_params = {
 }
 
+$('head').append('<link href="https://fonts.googleapis.com/css?family=Roboto|Roboto+Condensed" rel="stylesheet">');
 $('head').append('<link rel="stylesheet" type="text/css" href="http://confer.csail.mit.edu/static/conf/chi2018/confer.css">');

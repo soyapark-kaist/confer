@@ -1315,3 +1315,8 @@ form .credit {
  .fb-comments, .fb-comments * {
     width:100% !important;
 }
+
+#headlink-left {
+	top: 1.5em !important;
+	background-size: auto 3.7em !important;
+}
