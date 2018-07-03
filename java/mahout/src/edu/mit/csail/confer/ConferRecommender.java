@@ -12,6 +12,7 @@ import org.apache.mahout.cf.taste.recommender.RecommendedItem;
 import org.apache.mahout.cf.taste.similarity.ItemSimilarity;
 
 import py4j.GatewayServer;
+// Discussion about social factors at recommending conferences
 // Discussion about algorithm for recommendation
 
 public class ConferRecommender {
